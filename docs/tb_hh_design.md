@@ -136,7 +136,7 @@ The package includes the following user groups:
 | `Ubzlyfqm1gO` | TB admin        |
 | `UKWx4jJcrKt` | TB data capture |
 
-MAccess rights for members within these user groups are described in the table below:
+Access rights for members within these user groups are described in the table below:
 
 |Object                               | User Group |||
 |-------------------------------------|----------------------------------------|-------------------------------------------------|--------------------------------------------------------|
@@ -148,7 +148,7 @@ MAccess rights for members within these user groups are described in the table b
 
 ## Analytics and Indicators
 
-The following indicators have been predefined for the monitoring of the activities. The indicators are organized in the **TB-HH Indicators group.**
+The following indicators have been predefined for the monitoring of the activities. The indicators are organized in the TB - HH Indicators group. The numerators and denominators are using the abbreviations commonly used in TB programs. Nonetheless, in [Annex 1](#tb-nomenclature-translation), there is a table with the “translation” of the nomenclature in order to avoid any confusion.
 
 | UID           | Name         | Description     | Numerator     | Denominator          |
 |---------------|---------|-----------|-------------|--------------|
@@ -178,7 +178,7 @@ The following indicators have been predefined for the monitoring of the activiti
 
 The TB HH module includes a predefined dashboard called **TB7. TB HH Contacts.**
 
-The dashboard is numbered as number 7 to fit in the bigger picture of the aggregate TB activities. Dashboards numbers 1 to 6 are linked to the datasets described in the [TB Aggregate System Design Document](https://docs.dhis2.org/en/topics/metadata/tuberculosis/tb-aggregate/design.html).
+The dashboard is numbered as number 7 to fit in the bigger picture of the aggregate TB activities. Dashboards numbers 1 to 6 are linked to the datasets described in the [TB Aggregate System Design Document](#tb-aggregate-design).
 
 ![TB HH dashboard](resources/images/tb_hh_005_en.png)
 
@@ -198,7 +198,7 @@ The predefined dashboard contains the following items:
 
 ## Data Triangulation
 
-In order to ensure consistency across programs and data, the TB-HH - TB index cases identified indicator can be checked against the TB - Notified TB cases (all cases, all forms) indicator belonging to the TB case notification dataset based on the [“Definitions and reporting framework for tuberculosis – 2013 revision”](http://apps.who.int/iris/bitstream/handle/10665/79199/9789241505345_eng.pdf;jsessionid=0911B3678B5EF8EBD24C834EA882F199?sequence=1) document. The dataset is part of the TB Aggregate System Design { #tb-aggregate-design }.
+In order to ensure consistency across programs and data, the TB-HH - TB index cases identified indicator can be checked against the TB - Notified TB cases (all cases, all forms) indicator belonging to the TB case notification dataset based on the [“Definitions and reporting framework for tuberculosis – 2013 revision”](http://apps.who.int/iris/bitstream/handle/10665/79199/9789241505345_eng.pdf;jsessionid=0911B3678B5EF8EBD24C834EA882F199?sequence=1) document. The dataset is part of the [TB Aggregate System Design](#tb-aggregate-design).
 
 This of course can only be done if other datasets belonging to the TB general package are downloaded and used in the same instance.
 
@@ -213,7 +213,7 @@ World Health Organization (20 March 2020). WHO consolidated guidelines on tuberc
 World Health Organization (January 2020). “Definitions and reporting framework for tuberculosis
 – 2013 revision (updated December 2014 and January 2020)”. URL: <http://apps.who.int/iris/bitstream/handle/10665/79199/9789241505345_eng.pdf;jsessionid=0911B3678B5EF8EBD24C834EA882F199?sequence=1>
 
-## Annex 1. TB Nomenclature { #tb-nomenclature-translation}
+## Annex 1. TB Nomenclature { #tb-nomenclature-translation }
 
 |                        | ICs        | Contacts Identified    | Contacts Screened       | Contacts Eligible     | Contacts Started        |
 |------------------------|------------|------------------------|-------------------------|-----------------------|-------------------------|
