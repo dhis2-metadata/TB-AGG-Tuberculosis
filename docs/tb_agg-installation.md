@@ -1,4 +1,4 @@
-# TB Aggregate Installation Guide { #tb-aggregate-installation }
+# TB Aggregate Installation Guide { #tb-agg-installation }
 
 This document includes an installation guide for the Tuberculosis aggregate packages.
 
