@@ -1,4 +1,4 @@
-# TB Household Contacts - System Design Document { #tb-hh-contacts }
+# TB Household Contacts - System Design Document { #tb-agg-hh-contacts }
 
 ## Background and Purpose
 
