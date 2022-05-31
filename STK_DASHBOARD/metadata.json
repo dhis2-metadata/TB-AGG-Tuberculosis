@@ -4789,25 +4789,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#EE391E",
-                    "endValue": 0.0001,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "fFBIEwglorN",
-                    "name": "Stock out",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#0BFF00",
                     "endValue": 3.0,
                     "externalAccess": false,
@@ -4821,6 +4802,25 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#EE391E",
+                    "endValue": 0.0001,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "fFBIEwglorN",
+                    "name": "Stock out",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
