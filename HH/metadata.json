@@ -531,94 +531,14 @@
                     "value": "Стандарт"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
                 },
                 {
                     "locale": "ru",
@@ -631,9 +551,29 @@
                     "value": "Padrao"
                 },
                 {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 },
                 {
                     "locale": "id",
@@ -646,24 +586,9 @@
                     "value": "default"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
                 },
                 {
                     "locale": "nb",
@@ -955,7 +880,175 @@
         }
     ],
     "categoryOptionGroupSets": [],
-    "categoryOptionGroups": [],
+    "categoryOptionGroups": [
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
+                }
+            ],
+            "code": "P0Y--P5Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "yuathFHLjNe",
+            "name": "0-4 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "0-4 y",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "0-4 ёш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "0-4 ёш"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-4 roky"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "0-4 лет"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "0-4 tahun"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-4 anos"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 a"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-4 anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 år"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 t"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-4 ans"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 a"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "0-4 años"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "0-4 år"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 ёш"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 r"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 سنوات"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "0-4 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "0-4"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "0-4 años"
+                }
+            ]
+        }
+    ],
     "categoryOptions": [
         {
             "attributeValues": [],
@@ -2631,14 +2724,6 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "fbAdmzvjLuY"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "i0A7NK3fzXI"
                     },
                     "dataSet": {
@@ -2647,7 +2732,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UIHbSe2XmPa"
+                        "id": "fbAdmzvjLuY"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nyzwxN9M9t7"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2671,7 +2764,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "nyzwxN9M9t7"
+                        "id": "RWNXWTrRGG9"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2679,7 +2772,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RWNXWTrRGG9"
+                        "id": "UIHbSe2XmPa"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2736,7 +2829,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 34
+            "version": 35
         }
     ],
     "documents": [],
@@ -4337,20 +4430,198 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (aggregate)",
-        "lastUpdated": "20220527T110003",
+        "lastUpdated": "20220610T095556",
         "locale": "en",
-        "name": "TB_AGG_HH_AGG_DHIS2.36.10-en",
+        "name": "TB_AGG_HH_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
         "version": ""
     },
     "predictorGroups": [],
     "predictors": [],
     "reports": [],
-    "sections": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "code": "TB_HH_CONTACTS_IC",
+            "dataElements": [
+                {
+                    "id": "UIHbSe2XmPa"
+                },
+                {
+                    "id": "CyOAgl64a0b"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "LH7LcksaS4J",
+            "indicators": [],
+            "name": "Household contacts of index TB cases",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kontakty v domácnosti indexových případů TBC"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Contactos domésticos de casos índice de TB"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Contactos domésticos de casos índice de TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Contacts domestiques des cas index de TB"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_IC",
+            "dataElements": [
+                {
+                    "id": "fbAdmzvjLuY"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "QCLMukuP5zE",
+            "indicators": [],
+            "name": "TB index cases",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Případy indexu TBC"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Casos índice de tuberculosis"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cas index TB"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Casos índice de tuberculosis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_TPT",
+            "dataElements": [
+                {
+                    "id": "nyzwxN9M9t7"
+                },
+                {
+                    "id": "vHJg9RWzMyo"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "ykKgWavIxWD",
+            "indicators": [],
+            "name": "TB preventive treatment",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TBC Preventivní léčba"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Traitement préventif de la TB"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Tratamiento preventivo de la tuberculosis"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Tratamiento preventivo de la tuberculosis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_TPT_OUTCOMES",
+            "dataElements": [
+                {
+                    "id": "i0A7NK3fzXI"
+                },
+                {
+                    "id": "RWNXWTrRGG9"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "qYy17tccb3R",
+            "indicators": [],
+            "name": "TB preventive treatment outcomes",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Resultados del tratamiento preventivo de la tuberculosis"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Issues du traitement préventif de la tuberculose"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TBC Výsledky preventivní léčby"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Resultados del tratamiento preventivo de la tuberculosis"
+                }
+            ]
+        }
+    ],
     "sqlViews": [],
     "userGroups": [
         {
@@ -4577,10 +4848,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -4594,7 +4865,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -4614,7 +4885,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
