@@ -370,7 +370,16 @@
                     "id": "nGCQAmBS1FS"
                 },
                 {
+                    "id": "zckiMYozzGG"
+                },
+                {
+                    "id": "DPgSFO4P0G1"
+                },
+                {
                     "id": "f8lltD3tQUu"
+                },
+                {
+                    "id": "cu3Jmt4ssWN"
                 },
                 {
                     "id": "hGuPYnbkgi5"
@@ -379,31 +388,16 @@
                     "id": "G8gM2ieiAUL"
                 },
                 {
-                    "id": "h8PkcXUYxJV"
-                },
-                {
-                    "id": "fuRVy1cawRG"
-                },
-                {
-                    "id": "VG2F54Lx35r"
-                },
-                {
-                    "id": "gFvh80a5vdF"
-                },
-                {
-                    "id": "zckiMYozzGG"
-                },
-                {
-                    "id": "DPgSFO4P0G1"
-                },
-                {
-                    "id": "cu3Jmt4ssWN"
-                },
-                {
                     "id": "bRhf49ZNckC"
                 },
                 {
+                    "id": "h8PkcXUYxJV"
+                },
+                {
                     "id": "ZckswElv9Yb"
+                },
+                {
+                    "id": "fuRVy1cawRG"
                 },
                 {
                     "id": "d4w3j5nmQbb"
@@ -412,7 +406,13 @@
                     "id": "ETPT25L7LLY"
                 },
                 {
+                    "id": "VG2F54Lx35r"
+                },
+                {
                     "id": "gVGb56B4e0o"
+                },
+                {
+                    "id": "gFvh80a5vdF"
                 },
                 {
                     "id": "oemqpmb3dsz"
@@ -1942,13 +1942,13 @@
     "legendSets": [],
     "maps": [],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (dashboard)",
-        "lastUpdated": "20220520T124830",
+        "lastUpdated": "20220608T154100",
         "locale": "en",
-        "name": "TB_AGG_HH_DSH_DHIS2.36.10-en",
+        "name": "TB_AGG_HH_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -2177,10 +2177,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -2194,7 +2194,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -2214,7 +2214,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
