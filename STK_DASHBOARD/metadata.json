@@ -4789,25 +4789,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#0BFF00",
-                    "endValue": 3.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "mmvDbIcm41d",
-                    "name": "Adequate stock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#EE391E",
                     "endValue": 0.0001,
                     "externalAccess": false,
@@ -4821,6 +4802,25 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#0BFF00",
+                    "endValue": 3.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "mmvDbIcm41d",
+                    "name": "Adequate stock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -6223,13 +6223,13 @@
         }
     ],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "TB_AGG_STK",
         "description": "TB Stock (dashboard)",
-        "lastUpdated": "20220520T124830",
+        "lastUpdated": "20220608T154100",
         "locale": "en",
-        "name": "TB_AGG_STK_DSH_DHIS2.36.10-en",
+        "name": "TB_AGG_STK_DSH_DHIS2.36.11.1-en",
         "type": "DSH",
         "version": ""
     },
@@ -6458,10 +6458,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -6475,7 +6475,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -6495,7 +6495,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
