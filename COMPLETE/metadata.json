@@ -4785,94 +4785,14 @@
                     "value": "Стандарт"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
                 },
                 {
                     "locale": "ru",
@@ -4885,9 +4805,29 @@
                     "value": "Padrao"
                 },
                 {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 },
                 {
                     "locale": "id",
@@ -4900,24 +4840,9 @@
                     "value": "default"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
                 },
                 {
                     "locale": "nb",
@@ -20886,19 +20811,19 @@
             "code": "TB_AGG",
             "dataElements": [
                 {
-                    "id": "mG3LJzaZxb8"
+                    "id": "URwo7ZKQilR"
                 },
                 {
-                    "id": "URwo7ZKQilR"
+                    "id": "mG3LJzaZxb8"
                 },
                 {
                     "id": "me7x7kaqWth"
                 },
                 {
-                    "id": "f8C78qtnw62"
+                    "id": "ayCq6H7Xx04"
                 },
                 {
-                    "id": "ayCq6H7Xx04"
+                    "id": "f8C78qtnw62"
                 },
                 {
                     "id": "Nv1RGi4eI7F"
@@ -20931,10 +20856,10 @@
                     "id": "XLV3S8QL8jV"
                 },
                 {
-                    "id": "EAFHfKsIwhz"
+                    "id": "zgrK8yB9Tsp"
                 },
                 {
-                    "id": "zgrK8yB9Tsp"
+                    "id": "EAFHfKsIwhz"
                 },
                 {
                     "id": "J3AIrRG01TD"
@@ -20994,10 +20919,10 @@
                     "id": "mMbufF9c251"
                 },
                 {
-                    "id": "lgKh8oeoKVj"
+                    "id": "jbYbSDxfhtT"
                 },
                 {
-                    "id": "jbYbSDxfhtT"
+                    "id": "lgKh8oeoKVj"
                 },
                 {
                     "id": "wMv5SrxZ7f6"
@@ -21015,25 +20940,25 @@
                     "id": "JAB0n4ktBqu"
                 },
                 {
-                    "id": "y2yiFi6D7yY"
-                },
-                {
                     "id": "LqSBB96bJv0"
                 },
                 {
-                    "id": "EGlb6CP7czB"
+                    "id": "y2yiFi6D7yY"
                 },
                 {
                     "id": "DcNF57mpVpN"
                 },
                 {
+                    "id": "EGlb6CP7czB"
+                },
+                {
                     "id": "qlkxnlC6dzU"
                 },
                 {
-                    "id": "Ns5mfRqKAe3"
+                    "id": "FH75MzJQA5u"
                 },
                 {
-                    "id": "FH75MzJQA5u"
+                    "id": "Ns5mfRqKAe3"
                 },
                 {
                     "id": "klUlIF1vgIg"
@@ -21042,19 +20967,19 @@
                     "id": "FMLmCNm7QTf"
                 },
                 {
+                    "id": "tl9LwbDa3ny"
+                },
+                {
                     "id": "PRB6dolaxC4"
                 },
                 {
-                    "id": "tl9LwbDa3ny"
+                    "id": "iJYk0mA3H4I"
                 },
                 {
                     "id": "NJaeD9Xia7x"
                 },
                 {
                     "id": "ShJ42zyXevh"
-                },
-                {
-                    "id": "iJYk0mA3H4I"
                 },
                 {
                     "id": "IyI7yOY6sXR"
@@ -21075,10 +21000,10 @@
                     "id": "dshydzA84xQ"
                 },
                 {
-                    "id": "s2OAugtcXPM"
+                    "id": "kfocuNP1nCG"
                 },
                 {
-                    "id": "kfocuNP1nCG"
+                    "id": "s2OAugtcXPM"
                 },
                 {
                     "id": "Z5hsBAh8pCC"
@@ -21153,22 +21078,22 @@
                     "id": "uXt7OH5811r"
                 },
                 {
-                    "id": "jP5Q6r8Wyrc"
-                },
-                {
                     "id": "oMvma7tGHrq"
                 },
                 {
-                    "id": "wadYJEcT9yh"
+                    "id": "jP5Q6r8Wyrc"
                 },
                 {
                     "id": "HMvIu0dUfhe"
                 },
                 {
+                    "id": "Wl9HUMqAXhQ"
+                },
+                {
                     "id": "QH1eMVEVhpn"
                 },
                 {
-                    "id": "Wl9HUMqAXhQ"
+                    "id": "wadYJEcT9yh"
                 }
             ],
             "id": "VGJHJGsfdRR",
@@ -31015,10 +30940,10 @@
             "dataSetElements": [
                 {
                     "categoryCombo": {
-                        "id": "Ow8ltIsRQKX"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "tr0lVojK425"
+                        "id": "l4TyT04yP8f"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31029,7 +30954,73 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "mG3LJzaZxb8"
+                        "id": "tl9LwbDa3ny"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "qlkxnlC6dzU"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "sJRCCgJJBHD"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "QStu7Ux1Loa"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "NJaeD9Xia7x"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "lgKh8oeoKVj"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "Ow8ltIsRQKX"
+                    },
+                    "dataElement": {
+                        "id": "tr0lVojK425"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31073,40 +31064,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "KhCB35MHs9A"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "NJaeD9Xia7x"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "sJRCCgJJBHD"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "NYxehRdsQx3"
+                        "id": "EGlb6CP7czB"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31128,7 +31086,18 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "QNFhsj0fOxK"
+                        "id": "KhCB35MHs9A"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "NYxehRdsQx3"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31150,29 +31119,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "l4TyT04yP8f"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "qlkxnlC6dzU"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "EGlb6CP7czB"
+                        "id": "mG3LJzaZxb8"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31194,29 +31141,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "tl9LwbDa3ny"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "QStu7Ux1Loa"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "lgKh8oeoKVj"
+                        "id": "QNFhsj0fOxK"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -31273,7 +31198,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 84
+            "version": 85
         },
         {
             "attributeValues": [],
@@ -31286,6 +31211,22 @@
             "dataElementDecoration": false,
             "dataInputPeriods": [],
             "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "UIHbSe2XmPa"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vHJg9RWzMyo"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
                 {
                     "dataElement": {
                         "id": "i0A7NK3fzXI"
@@ -31304,7 +31245,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UIHbSe2XmPa"
+                        "id": "RWNXWTrRGG9"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -31320,23 +31261,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RWNXWTrRGG9"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "nyzwxN9M9t7"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "vHJg9RWzMyo"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -31393,7 +31318,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 34
+            "version": 35
         },
         {
             "attributeValues": [],
@@ -31436,7 +31361,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "aj8BY9VM5Eo"
+                        "id": "QMGQTTJAiMu"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -31458,7 +31383,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "QMGQTTJAiMu"
+                        "id": "aj8BY9VM5Eo"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -31537,7 +31462,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 43
+            "version": 44
         },
         {
             "attributeValues": [],
@@ -31552,6 +31477,22 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "Z5hsBAh8pCC"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "J3AIrRG01TD"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "iJYk0mA3H4I"
                     },
                     "dataSet": {
@@ -31560,7 +31501,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "V7rRkP7jYzO"
+                        "id": "ShJ42zyXevh"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31569,30 +31510,6 @@
                 {
                     "dataElement": {
                         "id": "oMvma7tGHrq"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "y2yiFi6D7yY"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QH1eMVEVhpn"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31616,7 +31533,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wqihyXhQuK9"
+                        "id": "QH1eMVEVhpn"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31624,7 +31541,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z5hsBAh8pCC"
+                        "id": "y2yiFi6D7yY"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31632,7 +31549,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "cRNeiMflE2s"
+                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31640,7 +31557,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "tZuKlwig9lD"
+                        "id": "V7rRkP7jYzO"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31656,15 +31573,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "k2MTMQpheOh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uXt7OH5811r"
+                        "id": "wMv5SrxZ7f6"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31680,7 +31589,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ShJ42zyXevh"
+                        "id": "mMbufF9c251"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31688,7 +31597,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wMv5SrxZ7f6"
+                        "id": "k2MTMQpheOh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wqihyXhQuK9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uXt7OH5811r"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31704,7 +31629,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "mMbufF9c251"
+                        "id": "tZuKlwig9lD"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31712,7 +31637,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "J3AIrRG01TD"
+                        "id": "cRNeiMflE2s"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -31769,7 +31694,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 40
+            "version": 41
         },
         {
             "attributeValues": [],
@@ -31801,7 +31726,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "mruHvHAumOI"
+                        "id": "DcNF57mpVpN"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -31812,29 +31737,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "k6HZ0Z9zFer"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "s2OAugtcXPM"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "EIHWLztODGi"
+                        "id": "URwo7ZKQilR"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -31853,10 +31756,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "mYvRBhu9rSh"
                     },
                     "dataElement": {
-                        "id": "ZpJNlVE95GS"
+                        "id": "oJ4x8PXZvnh"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -31864,21 +31767,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "mYvRBhu9rSh"
                     },
                     "dataElement": {
-                        "id": "DcNF57mpVpN"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "URwo7ZKQilR"
+                        "id": "s2OAugtcXPM"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -31908,10 +31800,43 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
+                        "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "oJ4x8PXZvnh"
+                        "id": "mruHvHAumOI"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "ZpJNlVE95GS"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "k6HZ0Z9zFer"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "EIHWLztODGi"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -31998,7 +31923,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 77
+            "version": 78
         },
         {
             "attributeValues": [],
@@ -32014,28 +31939,6 @@
             },
             "dataInputPeriods": [],
             "dataSetElements": [
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "quUtGfLgolX"
-                    },
-                    "dataSet": {
-                        "id": "kiODgwGG9I2"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "BXN41jBKb9c"
-                    },
-                    "dataSet": {
-                        "id": "kiODgwGG9I2"
-                    }
-                },
                 {
                     "categoryCombo": {
                         "id": "mYvRBhu9rSh"
@@ -32060,10 +31963,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
+                        "id": "mYvRBhu9rSh"
                     },
                     "dataElement": {
-                        "id": "me7x7kaqWth"
+                        "id": "BXN41jBKb9c"
                     },
                     "dataSet": {
                         "id": "kiODgwGG9I2"
@@ -32075,6 +31978,28 @@
                     },
                     "dataElement": {
                         "id": "jL7xOEwVdDX"
+                    },
+                    "dataSet": {
+                        "id": "kiODgwGG9I2"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "me7x7kaqWth"
+                    },
+                    "dataSet": {
+                        "id": "kiODgwGG9I2"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "mYvRBhu9rSh"
+                    },
+                    "dataElement": {
+                        "id": "quUtGfLgolX"
                     },
                     "dataSet": {
                         "id": "kiODgwGG9I2"
@@ -32131,7 +32056,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 37
+            "version": 38
         }
     ],
     "documents": [],
@@ -32202,10 +32127,10 @@
                     "id": "L6TXyCTI2mW"
                 },
                 {
-                    "id": "Fyx8nuRcxja"
+                    "id": "hSpmpUl6eJk"
                 },
                 {
-                    "id": "hSpmpUl6eJk"
+                    "id": "Fyx8nuRcxja"
                 },
                 {
                     "id": "NQjV7Lw96D6"
@@ -32214,13 +32139,13 @@
                     "id": "nGCQAmBS1FS"
                 },
                 {
-                    "id": "WCE27g52nBt"
+                    "id": "WID08ddfy5T"
                 },
                 {
                     "id": "OuSWXCijKks"
                 },
                 {
-                    "id": "WID08ddfy5T"
+                    "id": "WCE27g52nBt"
                 },
                 {
                     "id": "AgJYWRktH9o"
@@ -32235,10 +32160,10 @@
                     "id": "ajJXlrOt4NU"
                 },
                 {
-                    "id": "m1qHAB0I74y"
+                    "id": "gcMtkbbotUv"
                 },
                 {
-                    "id": "gcMtkbbotUv"
+                    "id": "m1qHAB0I74y"
                 },
                 {
                     "id": "DKdvXuIfxwl"
@@ -32289,16 +32214,16 @@
                     "id": "mDpLYl0sbQd"
                 },
                 {
-                    "id": "hO7plbvXQPQ"
-                },
-                {
                     "id": "AwZgWwQaHvR"
                 },
                 {
-                    "id": "zckiMYozzGG"
+                    "id": "hO7plbvXQPQ"
                 },
                 {
                     "id": "DPgSFO4P0G1"
+                },
+                {
+                    "id": "zckiMYozzGG"
                 },
                 {
                     "id": "c5yG2hQbSWF"
@@ -32328,22 +32253,22 @@
                     "id": "d4w3j5nmQbb"
                 },
                 {
-                    "id": "aPT4OksC5z7"
-                },
-                {
                     "id": "v7cZx5SUBXP"
                 },
                 {
-                    "id": "jlzNtLhlpue"
+                    "id": "aPT4OksC5z7"
                 },
                 {
                     "id": "Zy3hE0pkLSi"
                 },
                 {
-                    "id": "DdIWhMWSI8i"
+                    "id": "jlzNtLhlpue"
                 },
                 {
                     "id": "BmxOvSZmatv"
+                },
+                {
+                    "id": "DdIWhMWSI8i"
                 },
                 {
                     "id": "Vb6NHYRWTyi"
@@ -32367,31 +32292,31 @@
                     "id": "skv1s6LGh0N"
                 },
                 {
-                    "id": "VcwgKNqXO9n"
+                    "id": "f8lltD3tQUu"
                 },
                 {
                     "id": "kWuyYvtjl6s"
                 },
                 {
-                    "id": "f8lltD3tQUu"
+                    "id": "VcwgKNqXO9n"
                 },
                 {
                     "id": "P6wlyWUyJHp"
                 },
                 {
-                    "id": "NlKiCH8eRVc"
-                },
-                {
                     "id": "zbgm5GueWu9"
                 },
                 {
-                    "id": "ePih3BMGzXU"
+                    "id": "NlKiCH8eRVc"
+                },
+                {
+                    "id": "h8PkcXUYxJV"
                 },
                 {
                     "id": "rv14EhkmZof"
                 },
                 {
-                    "id": "h8PkcXUYxJV"
+                    "id": "ePih3BMGzXU"
                 },
                 {
                     "id": "eSTkclrbTy5"
@@ -32415,13 +32340,13 @@
                     "id": "ZAkEhIOXlhS"
                 },
                 {
+                    "id": "c6ju86FLKzU"
+                },
+                {
                     "id": "ZEGEI9XgtZU"
                 },
                 {
                     "id": "SPJLukKxHaj"
-                },
-                {
-                    "id": "c6ju86FLKzU"
                 },
                 {
                     "id": "ZFd8LiJ1y3C"
@@ -32430,10 +32355,10 @@
                     "id": "bK3hiVktvHR"
                 },
                 {
-                    "id": "axHsIHLBpRm"
+                    "id": "K8jFJ0e67kU"
                 },
                 {
-                    "id": "K8jFJ0e67kU"
+                    "id": "axHsIHLBpRm"
                 },
                 {
                     "id": "jU1JpPt2T62"
@@ -32451,10 +32376,10 @@
                     "id": "ZckswElv9Yb"
                 },
                 {
-                    "id": "vwRyMhcuZDh"
+                    "id": "gVGb56B4e0o"
                 },
                 {
-                    "id": "gVGb56B4e0o"
+                    "id": "vwRyMhcuZDh"
                 },
                 {
                     "id": "pS9zsya8eUi"
@@ -32469,13 +32394,13 @@
                     "id": "PjSomS4AXiD"
                 },
                 {
+                    "id": "e92Z61nHBJY"
+                },
+                {
                     "id": "VLtzufVWnHc"
                 },
                 {
                     "id": "trwSfpxsWcb"
-                },
-                {
-                    "id": "e92Z61nHBJY"
                 },
                 {
                     "id": "gHZcDFFvq5x"
@@ -32499,10 +32424,10 @@
                     "id": "KlETO0IOKtI"
                 },
                 {
-                    "id": "mPz2CV8PamC"
+                    "id": "eIG3AwbOY4k"
                 },
                 {
-                    "id": "eIG3AwbOY4k"
+                    "id": "mPz2CV8PamC"
                 },
                 {
                     "id": "F9eE09Dtqft"
@@ -32520,10 +32445,10 @@
                     "id": "ExXsF5qlzdc"
                 },
                 {
-                    "id": "sqVJYe4DGLs"
+                    "id": "dlUf7CDF3l8"
                 },
                 {
-                    "id": "dlUf7CDF3l8"
+                    "id": "sqVJYe4DGLs"
                 },
                 {
                     "id": "J7ChdEuwMPW"
@@ -32538,22 +32463,22 @@
                     "id": "LmHsc7UGtQf"
                 },
                 {
-                    "id": "DV5YjkDeN36"
-                },
-                {
                     "id": "WBuAm3uZWWs"
                 },
                 {
-                    "id": "cu3Jmt4ssWN"
+                    "id": "DV5YjkDeN36"
                 },
                 {
-                    "id": "cT1tyz6k18X"
+                    "id": "cu3Jmt4ssWN"
                 },
                 {
                     "id": "VDfuDVALf0f"
                 },
                 {
                     "id": "bCrpRBKKPhA"
+                },
+                {
+                    "id": "cT1tyz6k18X"
                 },
                 {
                     "id": "ZZiJYBFEJ3v"
@@ -32565,22 +32490,22 @@
                     "id": "nhoEcbYl2hU"
                 },
                 {
-                    "id": "cbAQwCbhhoe"
-                },
-                {
                     "id": "bD1Z2FmbHKK"
                 },
                 {
-                    "id": "WgDUfvpjXFq"
+                    "id": "cbAQwCbhhoe"
                 },
                 {
-                    "id": "qzl44PwyQCY"
+                    "id": "ETPT25L7LLY"
                 },
                 {
                     "id": "j6wYomVhfNs"
                 },
                 {
-                    "id": "ETPT25L7LLY"
+                    "id": "qzl44PwyQCY"
+                },
+                {
+                    "id": "WgDUfvpjXFq"
                 },
                 {
                     "id": "xlmDFjsyuiS"
@@ -32601,19 +32526,19 @@
                     "id": "w7apwGjX5oC"
                 },
                 {
-                    "id": "B0Wm5ZKo9AY"
+                    "id": "OvZVFIRgrtG"
                 },
                 {
-                    "id": "OvZVFIRgrtG"
+                    "id": "B0Wm5ZKo9AY"
                 },
                 {
                     "id": "JfrM1j1pYhc"
                 },
                 {
-                    "id": "MlqHbdCyibN"
+                    "id": "vc2AIHZvwbQ"
                 },
                 {
-                    "id": "vc2AIHZvwbQ"
+                    "id": "MlqHbdCyibN"
                 },
                 {
                     "id": "whkj4kr4ghD"
@@ -32625,10 +32550,10 @@
                     "id": "RfRy5y9ANl2"
                 },
                 {
-                    "id": "AmkNXobiXxa"
+                    "id": "hGuPYnbkgi5"
                 },
                 {
-                    "id": "hGuPYnbkgi5"
+                    "id": "AmkNXobiXxa"
                 },
                 {
                     "id": "PJ5fX7RGHZt"
@@ -32655,16 +32580,16 @@
                     "id": "NqBeQEiXK14"
                 },
                 {
-                    "id": "onTdlaF4eFF"
-                },
-                {
-                    "id": "KQf9KBm7VW5"
+                    "id": "JaXPqKA823j"
                 },
                 {
                     "id": "EHDTSPxpLco"
                 },
                 {
-                    "id": "JaXPqKA823j"
+                    "id": "KQf9KBm7VW5"
+                },
+                {
+                    "id": "onTdlaF4eFF"
                 },
                 {
                     "id": "gFvh80a5vdF"
@@ -32794,16 +32719,7 @@
                     "id": "nGCQAmBS1FS"
                 },
                 {
-                    "id": "zckiMYozzGG"
-                },
-                {
-                    "id": "DPgSFO4P0G1"
-                },
-                {
                     "id": "f8lltD3tQUu"
-                },
-                {
-                    "id": "cu3Jmt4ssWN"
                 },
                 {
                     "id": "hGuPYnbkgi5"
@@ -32812,16 +32728,31 @@
                     "id": "G8gM2ieiAUL"
                 },
                 {
-                    "id": "bRhf49ZNckC"
-                },
-                {
                     "id": "h8PkcXUYxJV"
                 },
                 {
-                    "id": "ZckswElv9Yb"
+                    "id": "fuRVy1cawRG"
                 },
                 {
-                    "id": "fuRVy1cawRG"
+                    "id": "VG2F54Lx35r"
+                },
+                {
+                    "id": "gFvh80a5vdF"
+                },
+                {
+                    "id": "zckiMYozzGG"
+                },
+                {
+                    "id": "DPgSFO4P0G1"
+                },
+                {
+                    "id": "cu3Jmt4ssWN"
+                },
+                {
+                    "id": "bRhf49ZNckC"
+                },
+                {
+                    "id": "ZckswElv9Yb"
                 },
                 {
                     "id": "d4w3j5nmQbb"
@@ -32830,13 +32761,7 @@
                     "id": "ETPT25L7LLY"
                 },
                 {
-                    "id": "VG2F54Lx35r"
-                },
-                {
                     "id": "gVGb56B4e0o"
-                },
-                {
-                    "id": "gFvh80a5vdF"
                 },
                 {
                     "id": "oemqpmb3dsz"
@@ -32912,16 +32837,16 @@
                     "id": "gPJEsVY8R39"
                 },
                 {
-                    "id": "v9ygyBUS4Rh"
-                },
-                {
                     "id": "KlETO0IOKtI"
                 },
                 {
-                    "id": "mPz2CV8PamC"
+                    "id": "v9ygyBUS4Rh"
                 },
                 {
                     "id": "eIG3AwbOY4k"
+                },
+                {
+                    "id": "mPz2CV8PamC"
                 },
                 {
                     "id": "F9eE09Dtqft"
@@ -32933,10 +32858,10 @@
                     "id": "zyyolGvDOLQ"
                 },
                 {
-                    "id": "YWTs6xdTRFF"
+                    "id": "HBkfpoEMWna"
                 },
                 {
-                    "id": "HBkfpoEMWna"
+                    "id": "YWTs6xdTRFF"
                 },
                 {
                     "id": "gm3SU0QX9tO"
@@ -32981,16 +32906,16 @@
                     "id": "zw1DhQYN9mb"
                 },
                 {
-                    "id": "qzl44PwyQCY"
-                },
-                {
                     "id": "j6wYomVhfNs"
                 },
                 {
-                    "id": "aPT4OksC5z7"
+                    "id": "qzl44PwyQCY"
                 },
                 {
                     "id": "v7cZx5SUBXP"
+                },
+                {
+                    "id": "aPT4OksC5z7"
                 },
                 {
                     "id": "DdIWhMWSI8i"
@@ -33011,13 +32936,13 @@
                     "id": "JCs9GgdcC7d"
                 },
                 {
+                    "id": "kWuyYvtjl6s"
+                },
+                {
                     "id": "AmkNXobiXxa"
                 },
                 {
                     "id": "VcwgKNqXO9n"
-                },
-                {
-                    "id": "kWuyYvtjl6s"
                 },
                 {
                     "id": "PJ5fX7RGHZt"
@@ -33032,10 +32957,10 @@
                     "id": "WWephINt8ga"
                 },
                 {
-                    "id": "ePih3BMGzXU"
+                    "id": "rv14EhkmZof"
                 },
                 {
-                    "id": "rv14EhkmZof"
+                    "id": "ePih3BMGzXU"
                 },
                 {
                     "id": "NqBeQEiXK14"
@@ -33415,10 +33340,10 @@
                     "id": "L6TXyCTI2mW"
                 },
                 {
-                    "id": "WCE27g52nBt"
+                    "id": "OuSWXCijKks"
                 },
                 {
-                    "id": "OuSWXCijKks"
+                    "id": "WCE27g52nBt"
                 },
                 {
                     "id": "p18w24U0caC"
@@ -33466,10 +33391,10 @@
                     "id": "zw1DhQYN9mb"
                 },
                 {
-                    "id": "aPT4OksC5z7"
+                    "id": "v7cZx5SUBXP"
                 },
                 {
-                    "id": "v7cZx5SUBXP"
+                    "id": "aPT4OksC5z7"
                 },
                 {
                     "id": "jlzNtLhlpue"
@@ -33490,10 +33415,10 @@
                     "id": "RgcWLiawMTQ"
                 },
                 {
-                    "id": "VcwgKNqXO9n"
+                    "id": "kWuyYvtjl6s"
                 },
                 {
-                    "id": "kWuyYvtjl6s"
+                    "id": "VcwgKNqXO9n"
                 },
                 {
                     "id": "P6wlyWUyJHp"
@@ -33502,10 +33427,10 @@
                     "id": "NlKiCH8eRVc"
                 },
                 {
-                    "id": "ePih3BMGzXU"
+                    "id": "rv14EhkmZof"
                 },
                 {
-                    "id": "rv14EhkmZof"
+                    "id": "ePih3BMGzXU"
                 },
                 {
                     "id": "NbbSAGzGYrH"
@@ -33520,13 +33445,13 @@
                     "id": "ZAkEhIOXlhS"
                 },
                 {
+                    "id": "c6ju86FLKzU"
+                },
+                {
                     "id": "ZEGEI9XgtZU"
                 },
                 {
                     "id": "SPJLukKxHaj"
-                },
-                {
-                    "id": "c6ju86FLKzU"
                 },
                 {
                     "id": "axHsIHLBpRm"
@@ -33592,13 +33517,13 @@
                     "id": "nhoEcbYl2hU"
                 },
                 {
-                    "id": "WgDUfvpjXFq"
+                    "id": "j6wYomVhfNs"
                 },
                 {
                     "id": "qzl44PwyQCY"
                 },
                 {
-                    "id": "j6wYomVhfNs"
+                    "id": "WgDUfvpjXFq"
                 },
                 {
                     "id": "xlmDFjsyuiS"
@@ -33616,10 +33541,10 @@
                     "id": "JfrM1j1pYhc"
                 },
                 {
-                    "id": "MlqHbdCyibN"
+                    "id": "vc2AIHZvwbQ"
                 },
                 {
-                    "id": "vc2AIHZvwbQ"
+                    "id": "MlqHbdCyibN"
                 },
                 {
                     "id": "AmkNXobiXxa"
@@ -62409,13 +62334,13 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "TB_AGG",
         "description": "TB Aggregate (complete)",
-        "lastUpdated": "20220527T110003",
+        "lastUpdated": "20220610T095556",
         "locale": "en",
-        "name": "TB_AGG_AGG_DHIS2.36.10-en",
+        "name": "TB_AGG_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -62771,7 +62696,1328 @@
         }
     ],
     "reports": [],
-    "sections": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "QMGQTTJAiMu"
+                },
+                {
+                    "id": "b1bgx4QmS1I"
+                },
+                {
+                    "id": "aj8BY9VM5Eo"
+                },
+                {
+                    "id": "jbYbSDxfhtT"
+                },
+                {
+                    "id": "qwL7Tq9rROF"
+                }
+            ],
+            "dataSet": {
+                "id": "rSfhnkAdm5y"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "jv91EVFsUIB",
+            "indicators": [],
+            "name": "Case detection",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 0,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Detecção de caso"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Detecção de caso"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "كشف الحالة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Выявления случаев"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "كشف الحالة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "كشف الحالة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Détection des cas"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Ҳолатни аниқлаштириш"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Ҳолатни аниқлаштириш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "كشف الحالة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Detekce případu"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "Orjo9ewlU9Z"
+                },
+                {
+                    "id": "l4TyT04yP8f"
+                },
+                {
+                    "id": "Nv1RGi4eI7F"
+                },
+                {
+                    "id": "lgKh8oeoKVj"
+                },
+                {
+                    "id": "qlkxnlC6dzU"
+                },
+                {
+                    "id": "NYxehRdsQx3"
+                },
+                {
+                    "id": "NJaeD9Xia7x"
+                },
+                {
+                    "id": "EGlb6CP7czB"
+                },
+                {
+                    "id": "ZiF0ngznP1Z"
+                },
+                {
+                    "id": "QNFhsj0fOxK"
+                },
+                {
+                    "id": "KhCB35MHs9A"
+                },
+                {
+                    "id": "Q5KSbP9ZzHQ"
+                }
+            ],
+            "dataSet": {
+                "id": "OyutuMOPgkt"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "yqX51gJVt0Q",
+            "indicators": [],
+            "name": "Cases registered",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Casos registados"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الحالات المسجلة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Zaevidované případy"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cas enregistrés "
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الحالات المسجلة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الحالات المسجلة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Tilfeller registrert"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الحالات المسجلة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Casos registados"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Зарегистрированные случаи"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "mMbufF9c251"
+                },
+                {
+                    "id": "k2MTMQpheOh"
+                },
+                {
+                    "id": "y2yiFi6D7yY"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "gB7IdC2fI8N",
+            "indicators": [],
+            "name": "Discarded",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Ecarté(e)s"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Уничтожено"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Vyřazeno"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Descartado"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "DcNF57mpVpN"
+                },
+                {
+                    "id": "mruHvHAumOI"
+                },
+                {
+                    "id": "EIHWLztODGi"
+                },
+                {
+                    "id": "ZpJNlVE95GS"
+                }
+            ],
+            "dataSet": {
+                "id": "lYNYevNTO7B"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "cep1TdJsITG",
+            "indicators": [],
+            "name": "First-line treatment cohort",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Coorte de tratamento de primeira linha"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Когорта лечения по первой линии ПТП"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cohorte de traitement de première ligne"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kohorta léčby první linie"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Coorte de tratamento de primeira linha"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "Ns5mfRqKAe3"
+                },
+                {
+                    "id": "s2OAugtcXPM"
+                },
+                {
+                    "id": "HMvIu0dUfhe"
+                },
+                {
+                    "id": "oJ4x8PXZvnh"
+                }
+            ],
+            "dataSet": {
+                "id": "lYNYevNTO7B"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "jYWVH1TpZhO"
+                    },
+                    "dataElement": {
+                        "id": "s2OAugtcXPM"
+                    },
+                    "dimensionItem": "s2OAugtcXPM.jYWVH1TpZhO",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "s2OAugtcXPM.jYWVH1TpZhO",
+                    "legendSets": [],
+                    "name": "TB - Outcomes: clinically diagnosed new and relapse Cured",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "shortName": "Outcomes clindx new relapse Cured",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "id": "yjSqkH6WAzn",
+            "indicators": [],
+            "name": "First-line treatment outcomes",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Результаты лечения по первой линии ПТП"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Resultados do tratamento de primeira linha"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Résultats des traitements de première ligne"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Resultados do tratamento de primeira linha"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "URwo7ZKQilR"
+                },
+                {
+                    "id": "k6HZ0Z9zFer"
+                },
+                {
+                    "id": "ZoqWQikYpwx"
+                },
+                {
+                    "id": "naqurivGjIK"
+                }
+            ],
+            "dataSet": {
+                "id": "lYNYevNTO7B"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "H6Z5R5WUMVN",
+            "indicators": [],
+            "name": "HIV/TB activities",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "ВИЧ/ТБ мероприятия"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "HIV / TB actividades"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Activités VIH/TB"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "HIV/TB aktivity"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "HIV / TB actividades"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_CONTACTS_IC",
+            "dataElements": [
+                {
+                    "id": "UIHbSe2XmPa"
+                },
+                {
+                    "id": "CyOAgl64a0b"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "LH7LcksaS4J",
+            "indicators": [],
+            "name": "Household contacts of index TB cases",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kontakty v domácnosti indexových případů TBC"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Contactos domésticos de casos índice de TB"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Contactos domésticos de casos índice de TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Contacts domestiques des cas index de TB"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "Z5hsBAh8pCC"
+                },
+                {
+                    "id": "QH1eMVEVhpn"
+                },
+                {
+                    "id": "J3AIrRG01TD"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "iZO1V1SK3Xu",
+            "indicators": [],
+            "name": "Issued",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Vydáno"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Émis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "tl9LwbDa3ny"
+                },
+                {
+                    "id": "mG3LJzaZxb8"
+                }
+            ],
+            "dataSet": {
+                "id": "OyutuMOPgkt"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "cp9o2M4QlaW",
+            "indicators": [],
+            "name": "Laboratory diagnostic activity",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "نشاط التشخيص المختبري"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Laboratorní diagnostická činnost"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Actividade de diagnóstico do laboratório"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "نشاط التشخيص المختبري"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نشاط التشخيص المختبري"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "نشاط التشخيص المختبري"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Activité de diagnostic en laboratoire"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Лабораторно диагностические мероприятия"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Actividade de diagnóstico do laboratório"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "tr0lVojK425"
+                }
+            ],
+            "dataSet": {
+                "id": "OyutuMOPgkt"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "d7cqFMypmvm",
+            "indicators": [],
+            "name": "New and relapse cases by age and sex",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Nové a recidivující případy podle věku a pohlaví"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Новые и рецидивные случаи по возрасту и полу"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Casos novos e reincidentes por idade e sexo"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Casos novos e reincidentes por idade e sexo"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Nouveaux cas et rechutes par âge et sexe"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "V7rRkP7jYzO"
+                },
+                {
+                    "id": "PNhNeVxy9Bs"
+                },
+                {
+                    "id": "wqihyXhQuK9"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "C6xT0gWimdR",
+            "indicators": [],
+            "name": "Opening balance",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Bilan d'ouverture"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Počáteční zůstatek"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Начальный баланс"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "ShJ42zyXevh"
+                },
+                {
+                    "id": "oMvma7tGHrq"
+                },
+                {
+                    "id": "kfocuNP1nCG"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "VypF8MSdTWp",
+            "indicators": [],
+            "name": "Received",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Reçu"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Přijato"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Получено"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "المستلم"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "wMv5SrxZ7f6"
+                },
+                {
+                    "id": "Wl9HUMqAXhQ"
+                },
+                {
+                    "id": "cRNeiMflE2s"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "q7q449DL3bP",
+            "indicators": [],
+            "name": "Redistributed",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 4,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Přerozděleno"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Перераспределено"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "rqe6qIBHEJr"
+                },
+                {
+                    "id": "jL7xOEwVdDX"
+                },
+                {
+                    "id": "me7x7kaqWth"
+                }
+            ],
+            "dataSet": {
+                "id": "kiODgwGG9I2"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "IVifB7BrnKL",
+            "indicators": [],
+            "name": "Second-line line treatment cohort",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kohorta léčby druhé linie"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Когорта лечения по по второй линни ПТП"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Coorte de tratamento de segunda linha"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cohorte de traitement de deuxième ligne"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Coorte de tratamento de segunda linha"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "BXN41jBKb9c"
+                },
+                {
+                    "id": "quUtGfLgolX"
+                },
+                {
+                    "id": "zgrK8yB9Tsp"
+                }
+            ],
+            "dataSet": {
+                "id": "kiODgwGG9I2"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "H972POT5R4v",
+            "indicators": [],
+            "name": "Second-line treatment outcomes",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Výsledky léčby druhé linie"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Resultados do tratamento de segunda linha"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Результаты лечения по второй линни ПТП"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Résultat traitement de deuxième ligne"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Resultados do tratamento de segunda linha"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "WOStFrYxPd9"
+                },
+                {
+                    "id": "uXt7OH5811r"
+                },
+                {
+                    "id": "iJYk0mA3H4I"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "Jogyq4eamOC",
+            "indicators": [],
+            "name": "Stock on hand",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 6,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Наличие на складе"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Skladem"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "en stock"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "fTKSvybB6Zh"
+                },
+                {
+                    "id": "tZuKlwig9lD"
+                },
+                {
+                    "id": "CxMUeg8LYid"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "VImVGoso9eJ",
+            "indicators": [],
+            "name": "Stock out days",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 7,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Dnů bez zásob"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_IC",
+            "dataElements": [
+                {
+                    "id": "fbAdmzvjLuY"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "QCLMukuP5zE",
+            "indicators": [],
+            "name": "TB index cases",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Případy indexu TBC"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Casos índice de tuberculosis"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cas index TB"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Casos índice de tuberculosis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_TPT",
+            "dataElements": [
+                {
+                    "id": "nyzwxN9M9t7"
+                },
+                {
+                    "id": "vHJg9RWzMyo"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "ykKgWavIxWD",
+            "indicators": [],
+            "name": "TB preventive treatment",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TBC Preventivní léčba"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Traitement préventif de la TB"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Tratamiento preventivo de la tuberculosis"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Tratamiento preventivo de la tuberculosis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_HH_TPT_OUTCOMES",
+            "dataElements": [
+                {
+                    "id": "i0A7NK3fzXI"
+                },
+                {
+                    "id": "RWNXWTrRGG9"
+                }
+            ],
+            "dataSet": {
+                "id": "ybLvxFAQyCn"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "qYy17tccb3R",
+            "indicators": [],
+            "name": "TB preventive treatment outcomes",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Resultados del tratamiento preventivo de la tuberculosis"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Issues du traitement préventif de la tuberculose"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TBC Výsledky preventivní léčby"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Resultados del tratamiento preventivo de la tuberculosis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "FMLmCNm7QTf"
+                },
+                {
+                    "id": "eO8nthpRoT4"
+                },
+                {
+                    "id": "sJRCCgJJBHD"
+                },
+                {
+                    "id": "QStu7Ux1Loa"
+                }
+            ],
+            "dataSet": {
+                "id": "OyutuMOPgkt"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "QASku0YuSAb",
+            "indicators": [],
+            "name": "TB/HIV activities",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 7,
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "أنشطة السل/فيروس نقص المناعة البشرية"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Actividades de TB/HIV"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "أنشطة السل/فيروس نقص المناعة البشرية"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "أنشطة السل/فيروس نقص المناعة البشرية"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TBC / HIV Aktivity"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "ТБ/ВИЧ мероприятия"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Activités TB/VIH"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Actividades de TB/HIV"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "أنشطة السل/فيروس نقص المناعة البشرية"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "cvGGWoMIk9y"
+                },
+                {
+                    "id": "NmVXzjN0SPM"
+                }
+            ],
+            "dataSet": {
+                "id": "rSfhnkAdm5y"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "uY7DhCyqIAC",
+            "indicators": [],
+            "name": "Treatment",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "معالجة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Léčba"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "معالجة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "معالجة"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Tratamiento"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Traitement"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Tratamento"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "معالجة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Даволаш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "лечение"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Tratamiento"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Behandling"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Tratamento"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Davolash rejimi yoki Davosi"
+                }
+            ]
+        }
+    ],
     "sqlViews": [],
     "userGroups": [
         {
@@ -62998,10 +64244,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -63015,7 +64261,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -63035,7 +64281,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
