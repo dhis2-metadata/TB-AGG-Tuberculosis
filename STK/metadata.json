@@ -295,94 +295,14 @@
                     "value": "Стандарт"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
                 },
                 {
                     "locale": "ru",
@@ -395,9 +315,29 @@
                     "value": "Padrao"
                 },
                 {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 },
                 {
                     "locale": "id",
@@ -410,24 +350,9 @@
                     "value": "default"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
                 },
                 {
                     "locale": "nb",
@@ -2762,23 +2687,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oMvma7tGHrq"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WOStFrYxPd9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wMv5SrxZ7f6"
+                        "id": "Z5hsBAh8pCC"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2794,7 +2703,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z5hsBAh8pCC"
+                        "id": "k2MTMQpheOh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WOStFrYxPd9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wqihyXhQuK9"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2810,55 +2735,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iJYk0mA3H4I"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QH1eMVEVhpn"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ShJ42zyXevh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mMbufF9c251"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "tZuKlwig9lD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CxMUeg8LYid"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2874,7 +2751,71 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wqihyXhQuK9"
+                        "id": "ShJ42zyXevh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CxMUeg8LYid"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fTKSvybB6Zh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QH1eMVEVhpn"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wMv5SrxZ7f6"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfocuNP1nCG"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMvma7tGHrq"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2898,23 +2839,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "fTKSvybB6Zh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k2MTMQpheOh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kfocuNP1nCG"
+                        "id": "mMbufF9c251"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2971,7 +2896,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 40
+            "version": 41
         }
     ],
     "documents": [],
@@ -7176,25 +7101,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#EE391E",
-                    "endValue": 0.0001,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "fFBIEwglorN",
-                    "name": "Stock out",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#0BFF00",
                     "endValue": 3.0,
                     "externalAccess": false,
@@ -7208,6 +7114,25 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#EE391E",
+                    "endValue": 0.0001,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "fFBIEwglorN",
+                    "name": "Stock out",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -8615,13 +8540,13 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "TB_AGG_STK",
         "description": "TB Stock (aggregate)",
-        "lastUpdated": "20220527T110003",
+        "lastUpdated": "20220610T095556",
         "locale": "en",
-        "name": "TB_AGG_STK_AGG_DHIS2.36.10-en",
+        "name": "TB_AGG_STK_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -8977,7 +8902,382 @@
         }
     ],
     "reports": [],
-    "sections": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "mMbufF9c251"
+                },
+                {
+                    "id": "k2MTMQpheOh"
+                },
+                {
+                    "id": "y2yiFi6D7yY"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "gB7IdC2fI8N",
+            "indicators": [],
+            "name": "Discarded",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 5,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Ecarté(e)s"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Уничтожено"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Descartado"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Vyřazeno"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Descartado"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "Z5hsBAh8pCC"
+                },
+                {
+                    "id": "QH1eMVEVhpn"
+                },
+                {
+                    "id": "J3AIrRG01TD"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "iZO1V1SK3Xu",
+            "indicators": [],
+            "name": "Issued",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 3,
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Vydáno"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الصادر"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Émis"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "V7rRkP7jYzO"
+                },
+                {
+                    "id": "PNhNeVxy9Bs"
+                },
+                {
+                    "id": "wqihyXhQuK9"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "C6xT0gWimdR",
+            "indicators": [],
+            "name": "Opening balance",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Bilan d'ouverture"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Počáteční zůstatek"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الرصيد الافتتاحي"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Начальный баланс"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "ShJ42zyXevh"
+                },
+                {
+                    "id": "oMvma7tGHrq"
+                },
+                {
+                    "id": "kfocuNP1nCG"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "VypF8MSdTWp",
+            "indicators": [],
+            "name": "Received",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Reçu"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "المستلم"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Přijato"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Получено"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "المستلم"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "wMv5SrxZ7f6"
+                },
+                {
+                    "id": "Wl9HUMqAXhQ"
+                },
+                {
+                    "id": "cRNeiMflE2s"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "q7q449DL3bP",
+            "indicators": [],
+            "name": "Redistributed",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 4,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Přerozděleno"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Перераспределено"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "WOStFrYxPd9"
+                },
+                {
+                    "id": "uXt7OH5811r"
+                },
+                {
+                    "id": "iJYk0mA3H4I"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "Jogyq4eamOC",
+            "indicators": [],
+            "name": "Stock on hand",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 6,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Наличие на складе"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Skladem"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "en stock"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "المخزون الموجود"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "fTKSvybB6Zh"
+                },
+                {
+                    "id": "tZuKlwig9lD"
+                },
+                {
+                    "id": "CxMUeg8LYid"
+                }
+            ],
+            "dataSet": {
+                "id": "ujLQPjUBfVR"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "VImVGoso9eJ",
+            "indicators": [],
+            "name": "Stock out days",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 7,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Dnů bez zásob"
+                }
+            ]
+        }
+    ],
     "sqlViews": [],
     "userGroups": [
         {
@@ -9204,10 +9504,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -9221,7 +9521,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -9241,7 +9541,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
