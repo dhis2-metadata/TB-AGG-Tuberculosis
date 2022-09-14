@@ -1,1 +1,1 @@
-# TB - Tuberculosis - Aggregate metadata packages
+# TB - Tuberculosis - TB HMIS
