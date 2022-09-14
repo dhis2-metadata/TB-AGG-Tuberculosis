@@ -6200,10 +6200,10 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "xbYdkfluSFm"
+                    "id": "OoXgZyvomEA"
                 },
                 {
-                    "id": "OoXgZyvomEA"
+                    "id": "xbYdkfluSFm"
                 }
             ],
             "categoryOptionGroups": [],
@@ -6344,10 +6344,10 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "iQ2O9MbRdpu"
+                    "id": "uzv1d5nR7cI"
                 },
                 {
-                    "id": "uzv1d5nR7cI"
+                    "id": "iQ2O9MbRdpu"
                 }
             ],
             "categoryOptionGroups": [],
@@ -7193,10 +7193,10 @@
             "attributeValues": [],
             "categories": [
                 {
-                    "id": "bh3B4YvBncQ"
+                    "id": "OCK5lVZU1Yp"
                 },
                 {
-                    "id": "OCK5lVZU1Yp"
+                    "id": "bh3B4YvBncQ"
                 }
             ],
             "categoryOptionCombos": [
@@ -7606,10 +7606,10 @@
             "attributeValues": [],
             "categories": [
                 {
-                    "id": "xBr5ngpvbVq"
+                    "id": "pNqTLazSUbe"
                 },
                 {
-                    "id": "pNqTLazSUbe"
+                    "id": "xBr5ngpvbVq"
                 }
             ],
             "categoryOptionCombos": [
@@ -8002,13 +8002,13 @@
             "attributeValues": [],
             "categories": [
                 {
+                    "id": "pRpZ51R48Dq"
+                },
+                {
                     "id": "bh3B4YvBncQ"
                 },
                 {
                     "id": "vY04kt9imvw"
-                },
-                {
-                    "id": "pRpZ51R48Dq"
                 },
                 {
                     "id": "UQPrHU78Pw5"
@@ -8660,10 +8660,10 @@
             "attributeValues": [],
             "categories": [
                 {
-                    "id": "xBr5ngpvbVq"
+                    "id": "pNqTLazSUbe"
                 },
                 {
-                    "id": "pNqTLazSUbe"
+                    "id": "xBr5ngpvbVq"
                 }
             ],
             "categoryOptionCombos": [
@@ -12616,6 +12616,198 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "QR4lEH0Ycuo"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CqC2GLoKrYM"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NJXd3bUrw1A"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "AcAK0EEmG4y"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "N7LIAia2AWf"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Vt4C8ZBQu5m"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qXvOQLIjpqE"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IuOt9VGsJOW"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MZlhbKVNolD"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RyEszvqML6m"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IHlhAV9XBAY"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kcO0x0g6jfa"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMdcJsSaLby"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B2SUlZTGm4x"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "xOT6VZ6DADk"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "j0i77JvRNvl"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Nz9AKGacbZX"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ph3Tk7RVrMs"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wPjWSCYQdcW"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nhs5MYLa4uU"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "MuTrsjDeBLX"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WDdSiBrqMxq"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "rTG9w3j9oLP"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TiwOMtQvbLY"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "RoH5WPmRMMy"
                     },
                     "dataSet": {
@@ -12632,151 +12824,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "IHlhAV9XBAY"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oMdcJsSaLby"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pxlwtf74uuO"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qXvOQLIjpqE"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WDdSiBrqMxq"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RyEszvqML6m"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MuTrsjDeBLX"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "B2SUlZTGm4x"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TiwOMtQvbLY"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MZlhbKVNolD"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rTG9w3j9oLP"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "qkTMafLDvpu"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GS1GduwhLmN"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NONFrAevEQ2"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CqC2GLoKrYM"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "j0i77JvRNvl"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nhs5MYLa4uU"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wPjWSCYQdcW"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "AcAK0EEmG4y"
+                        "id": "b9ICdl548Ag"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12792,7 +12840,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Mtm7btZTEk3"
+                        "id": "iLwAyx8Y0nO"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GS1GduwhLmN"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12808,7 +12864,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iLwAyx8Y0nO"
+                        "id": "Mtm7btZTEk3"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12816,7 +12872,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "kcO0x0g6jfa"
+                        "id": "NONFrAevEQ2"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12824,7 +12880,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "xOT6VZ6DADk"
+                        "id": "pxlwtf74uuO"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12832,55 +12888,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "QR4lEH0Ycuo"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NJXd3bUrw1A"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Nz9AKGacbZX"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "IuOt9VGsJOW"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "b9ICdl548Ag"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Vt4C8ZBQu5m"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "N7LIAia2AWf"
+                        "id": "qkTMafLDvpu"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -12889,14 +12897,6 @@
                 {
                     "dataElement": {
                         "id": "X3htKCLhsfU"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ph3Tk7RVrMs"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -17767,7 +17767,7 @@
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_LAB",
         "description": "TB Laboratory",
-        "lastUpdated": "20220914T130414",
+        "lastUpdated": "20220914T150829",
         "locale": "en",
         "name": "TB_AGG_LAB_AGG_DHIS2.36.12-en",
         "type": "AGG",
@@ -18323,6 +18323,34 @@
                         "id": "S1qYTgTahRO"
                     },
                     "dataElement": {
+                        "id": "j0i77JvRNvl"
+                    },
+                    "dimensionItem": "j0i77JvRNvl.S1qYTgTahRO",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "j0i77JvRNvl.S1qYTgTahRO",
+                    "legendSets": [],
+                    "name": "TB-LAB - Samples tested by Xpert MTB/RIF Case monitoring",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF Case monitoring",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "S1qYTgTahRO"
+                    },
+                    "dataElement": {
                         "id": "AcAK0EEmG4y"
                     },
                     "dimensionItem": "AcAK0EEmG4y.S1qYTgTahRO",
@@ -18368,34 +18396,6 @@
                         "users": {}
                     },
                     "shortName": "TB-LAB-DX - Cases - Rif-result Xpert MTB/RIF Case monitoring",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "S1qYTgTahRO"
-                    },
-                    "dataElement": {
-                        "id": "j0i77JvRNvl"
-                    },
-                    "dimensionItem": "j0i77JvRNvl.S1qYTgTahRO",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "j0i77JvRNvl.S1qYTgTahRO",
-                    "legendSets": [],
-                    "name": "TB-LAB - Samples tested by Xpert MTB/RIF Case monitoring",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF Case monitoring",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -18559,34 +18559,6 @@
                         "id": "S1qYTgTahRO"
                     },
                     "dataElement": {
-                        "id": "WDdSiBrqMxq"
-                    },
-                    "dimensionItem": "WDdSiBrqMxq.S1qYTgTahRO",
-                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "WDdSiBrqMxq.S1qYTgTahRO",
-                    "legendSets": [],
-                    "name": "TB-LAB - Samples tested by Xpert MTB/RIF Ultra Case monitoring",
-                    "periodOffset": 0,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF Ultra Case monitoring",
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "aggregationType": "SUM",
-                    "attributeValues": [],
-                    "categoryOptionCombo": {
-                        "id": "S1qYTgTahRO"
-                    },
-                    "dataElement": {
                         "id": "kcO0x0g6jfa"
                     },
                     "dimensionItem": "kcO0x0g6jfa.S1qYTgTahRO",
@@ -18660,6 +18632,34 @@
                         "users": {}
                     },
                     "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra Case monitoring",
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "aggregationType": "SUM",
+                    "attributeValues": [],
+                    "categoryOptionCombo": {
+                        "id": "S1qYTgTahRO"
+                    },
+                    "dataElement": {
+                        "id": "WDdSiBrqMxq"
+                    },
+                    "dimensionItem": "WDdSiBrqMxq.S1qYTgTahRO",
+                    "dimensionItemType": "DATA_ELEMENT_OPERAND",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "WDdSiBrqMxq.S1qYTgTahRO",
+                    "legendSets": [],
+                    "name": "TB-LAB - Samples tested by Xpert MTB/RIF Ultra Case monitoring",
+                    "periodOffset": 0,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF Ultra Case monitoring",
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -23157,36 +23157,36 @@
             "attributeDimensions": [],
             "attributeValues": [],
             "axes": [],
-            "categoryDimensions": [
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [
                 {
-                    "category": {
-                        "id": "JUBhgl1x5gZ"
+                    "categoryOptionGroupSet": {
+                        "id": "jISmg5dbw44"
                     },
-                    "categoryOptions": [
+                    "categoryOptionGroups": [
                         {
-                            "id": "VBbpVcuwxu6"
+                            "id": "MInqS6vBZky"
                         },
                         {
-                            "id": "yR8bZgXbPSm"
+                            "id": "dmAxxnlQyx5"
                         },
                         {
-                            "id": "lG62Yc5hfex"
+                            "id": "jTg06PqfeZ1"
                         },
                         {
-                            "id": "CUQtVQM62mw"
+                            "id": "e6BR1oqb94f"
                         },
                         {
-                            "id": "P6DBlh9kOIZ"
+                            "id": "YF4YLKfeTsO"
                         }
                     ]
                 }
             ],
-            "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
             "colTotals": false,
             "colorSet": "COLOR_BLIND",
             "columnDimensions": [
-                "JUBhgl1x5gZ"
+                "jISmg5dbw44"
             ],
             "columns": [],
             "completedOnly": false,
