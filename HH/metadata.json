@@ -3,6 +3,14 @@
     "categories": [
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "n2G1i8DJwWF"
+                },
+                {
+                    "id": "UZaGYjcG4En"
+                }
+            ],
             "categoryOptions": [
                 {
                     "id": "UPvKbcqTEY3"
@@ -14,8 +22,21 @@
             "code": "AGE_UO_5",
             "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
+            "dimension": "jKGKs9gWC3u",
+            "dimensionType": "CATEGORY",
+            "externalAccess": false,
+            "favorite": false,
             "id": "jKGKs9gWC3u",
+            "items": [
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "afpMrUgPzl3"
+                }
+            ],
             "name": "Age (under/over 5 years)",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -125,10 +146,22 @@
                     "property": "SHORT_NAME",
                     "value": "Age (moins/plus de 5 ans)"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "bjDvmb4bfuf"
+                }
+            ],
             "categoryOptions": [
                 {
                     "id": "xYerKDKCefk"
@@ -137,8 +170,18 @@
             "code": "default",
             "dataDimension": false,
             "dataDimensionType": "DISAGGREGATION",
+            "dimension": "GLevLNI9wkl",
+            "dimensionType": "CATEGORY",
+            "externalAccess": false,
+            "favorite": false,
             "id": "GLevLNI9wkl",
+            "items": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
             "name": "default",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -298,10 +341,22 @@
                     "property": "NAME",
                     "value": "الافتراضي"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "UZaGYjcG4En"
+                }
+            ],
             "categoryOptions": [
                 {
                     "id": "IW13O0znMw5"
@@ -313,8 +368,21 @@
             "code": "HIVE_STATUS_KNOWN_UNKNOWN",
             "dataDimension": true,
             "dataDimensionType": "DISAGGREGATION",
+            "dimension": "d65Dy5GNg0e",
+            "dimensionType": "CATEGORY",
+            "externalAccess": false,
+            "favorite": false,
             "id": "d65Dy5GNg0e",
+            "items": [
+                {
+                    "id": "IW13O0znMw5"
+                },
+                {
+                    "id": "JGR3vWtSLhh"
+                }
+            ],
             "name": "HIV status (known/unknown)",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -364,11 +432,19 @@
                     "property": "NAME",
                     "value": "Statut VIH (connu/inconnu)"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "categoryCombos": [
         {
+            "attributeValues": [],
             "categories": [
                 {
                     "id": "d65Dy5GNg0e"
@@ -377,10 +453,28 @@
                     "id": "jKGKs9gWC3u"
                 }
             ],
+            "categoryOptionCombos": [
+                {
+                    "id": "RqyDFrUDkoc"
+                },
+                {
+                    "id": "AtDcGOp9mpo"
+                },
+                {
+                    "id": "dfu6ZsanJkt"
+                },
+                {
+                    "id": "bvHzx3xflb9"
+                }
+            ],
             "code": "AGE_5_HIV_STATUS",
             "dataDimensionType": "DISAGGREGATION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "UZaGYjcG4En",
+            "isDefault": false,
             "name": "Age (U5/O5)/HIV Status (Kn/Unkn)",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -410,18 +504,35 @@
                     "property": "NAME",
                     "value": "Věk (U5/O5) / stav HIV (Zn/Nezn.)"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
+            "attributeValues": [],
             "categories": [
                 {
                     "id": "GLevLNI9wkl"
                 }
             ],
+            "categoryOptionCombos": [
+                {
+                    "id": "HllvX50cXC0"
+                }
+            ],
             "code": "default",
             "dataDimensionType": "DISAGGREGATION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bjDvmb4bfuf",
+            "isDefault": true,
             "name": "default",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -506,7 +617,14 @@
                     "property": "NAME",
                     "value": "الافتراضي"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "categoryOptionCombos": [
@@ -521,9 +639,20 @@
                 }
             ],
             "code": "DEFAULT",
+            "dimensionItem": "HllvX50cXC0",
+            "externalAccess": false,
+            "favorite": false,
             "id": "HllvX50cXC0",
             "ignoreApproval": false,
+            "legendSets": [],
             "name": "default",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "default",
             "translations": [
                 {
                     "locale": "uz",
@@ -600,7 +729,9 @@
                     "property": "NAME",
                     "value": "الافتراضي"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
@@ -615,16 +746,22 @@
                     "id": "UPvKbcqTEY3"
                 }
             ],
+            "dimensionItem": "bvHzx3xflb9",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bvHzx3xflb9",
             "ignoreApproval": false,
+            "legendSets": [],
             "name": "Known HIV +, 0-4 years",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Known HIV +, 0-4 years",
             "translations": [
                 {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "VIH + conocido, 0-4 años"
-                },
-                {
                     "locale": "es_US",
                     "property": "NAME",
                     "value": "VIH + conocido, 0-4 años"
@@ -650,36 +787,13 @@
                     "value": "Známý HIV +, 0-4 roky"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "HIV Positivo conhecido, 0-4 anos"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "VIH+ connu, 0-4 ans"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Známý HIV +, 0-4 roky"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "HIV Positivo conhecido, 0-4 anos"
-                },
-                {
                     "locale": "es",
                     "property": "NAME",
-                    "value": "VIH + conocido, 0-4 años"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
                     "value": "VIH + conocido, 0-4 años"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
@@ -694,9 +808,20 @@
                     "id": "afpMrUgPzl3"
                 }
             ],
+            "dimensionItem": "RqyDFrUDkoc",
+            "externalAccess": false,
+            "favorite": false,
             "id": "RqyDFrUDkoc",
             "ignoreApproval": false,
+            "legendSets": [],
             "name": "Known HIV +, 5+ years",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Known HIV +, 5+ years",
             "translations": [
                 {
                     "locale": "es",
@@ -709,16 +834,6 @@
                     "value": "Známý HIV +, 5+ let"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "VIH + conocido, 5+ años"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "VIH + conocido, 5+ años"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Connu VIH +, 5+ ans"
@@ -727,18 +842,10 @@
                     "locale": "es_US",
                     "property": "NAME",
                     "value": "VIH + conocido, 5+ años"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Známý HIV +, 5+ let"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Connu VIH +, 5+ ans"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
@@ -753,9 +860,20 @@
                     "id": "JGR3vWtSLhh"
                 }
             ],
+            "dimensionItem": "AtDcGOp9mpo",
+            "externalAccess": false,
+            "favorite": false,
             "id": "AtDcGOp9mpo",
             "ignoreApproval": false,
+            "legendSets": [],
             "name": "Known HIV - / Unknown HIV status, 0-4 years",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Known HIV - / Unknown HIV status, 0-4 years",
             "translations": [
                 {
                     "locale": "es_US",
@@ -763,44 +881,19 @@
                     "value": "VIH conocido - / Estado de VIH desconocido, 0-4 años"
                 },
                 {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Známý HIV - / Neznámý stav HIV, 0-4 roky"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "VIH connu - / Statut VIH inconnu, 0-4 ans"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Estado de - HIV conhecido / HIV desconhecido, 0-4 anos"
-                },
-                {
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Estado de - HIV conhecido / HIV desconhecido, 0-4 anos"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Estado de - HIV conhecido / HIV desconhecido, 0-4 anos"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "VIH conocido - / Estado de VIH desconocido, 0-4 años"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Estado de - HIV conhecido / HIV desconhecido, 0-4 anos"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "VIH conocido - / Estado de VIH desconocido, 0-4 años"
                 },
                 {
                     "locale": "es",
@@ -811,13 +904,10 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Známý HIV - / Neznámý stav HIV, 0-4 roky"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "VIH connu - / Statut VIH inconnu, 0-4 ans"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
@@ -832,9 +922,20 @@
                     "id": "afpMrUgPzl3"
                 }
             ],
+            "dimensionItem": "dfu6ZsanJkt",
+            "externalAccess": false,
+            "favorite": false,
             "id": "dfu6ZsanJkt",
             "ignoreApproval": false,
+            "legendSets": [],
             "name": "Known HIV - / Unknown HIV status, 5+ years",
+            "periodOffset": 0,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Known HIV - / Unknown HIV status, 5+ years",
             "translations": [
                 {
                     "locale": "es",
@@ -842,11 +943,6 @@
                     "value": "VIH conocido - / Estado de VIH desconocido, 5+ años"
                 },
                 {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Známý HIV - / Neznámý stav HIV, 5+ let"
-                },
-                {
                     "locale": "es_US",
                     "property": "NAME",
                     "value": "VIH conocido - / Estado de VIH desconocido, 5+ años"
@@ -857,26 +953,13 @@
                     "value": "VIH connu - / Statut VIH inconnu, 5 ans et plus"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "VIH conocido - / Estado de VIH desconocido, 5+ años"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "VIH connu - / Statut VIH inconnu, 5 ans et plus"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Známý HIV - / Neznámý stav HIV, 5+ let"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "VIH conocido - / Estado de VIH desconocido, 5+ años"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "categoryOptionGroupSets": [],
@@ -888,10 +971,204 @@
                     "id": "UPvKbcqTEY3"
                 }
             ],
+            "dataDimensionType": "DISAGGREGATION",
+            "dimensionItem": "f5VxIY91Jz3",
+            "dimensionItemType": "CATEGORY_OPTION_GROUP",
+            "externalAccess": false,
+            "favorite": false,
+            "groupSets": [],
+            "id": "f5VxIY91Jz3",
+            "legendSets": [],
+            "name": "0-14 years",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "0-14 years",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 år"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "0-14 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-14 let"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "0-14 tahun"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-14 ans"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "0-14 años"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "0-14 лет"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 Anos "
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "0-14 ёш"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
+                }
+            ],
             "code": "P0Y--P5Y",
             "dataDimensionType": "DISAGGREGATION",
+            "dimensionItem": "yuathFHLjNe",
+            "dimensionItemType": "CATEGORY_OPTION_GROUP",
+            "externalAccess": false,
+            "favorite": false,
+            "groupSets": [],
             "id": "yuathFHLjNe",
+            "legendSets": [],
             "name": "0-4 years",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1046,16 +1323,270 @@
                     "property": "NAME",
                     "value": "0-4 años"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "UPvKbcqTEY3"
+                },
+                {
+                    "id": "afpMrUgPzl3"
+                }
+            ],
+            "code": "GEN_LIB_AGG",
+            "dimensionItem": "O2MSX2uAySC",
+            "dimensionItemType": "CATEGORY_OPTION_GROUP",
+            "externalAccess": false,
+            "favorite": false,
+            "groupSets": [],
+            "id": "O2MSX2uAySC",
+            "legendSets": [],
+            "name": "GEN - Category Options",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Category Options",
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "categoryOptions": [
         {
             "attributeValues": [],
+            "categories": [
+                {
+                    "id": "prZlmHqhxLO"
+                },
+                {
+                    "id": "xHd2kREtJIQ"
+                },
+                {
+                    "id": "ZUL55wDDyJ5"
+                },
+                {
+                    "id": "Zh31lLGRQaG"
+                },
+                {
+                    "id": "cWCABxOGWjc"
+                },
+                {
+                    "id": "mFoasCYViMW"
+                },
+                {
+                    "id": "avoOKxQrkPC"
+                },
+                {
+                    "id": "RrZWSJ6CsLs"
+                },
+                {
+                    "id": "wAZr8Iv7S64"
+                },
+                {
+                    "id": "FoUE8OoKd3a"
+                },
+                {
+                    "id": "Q3xIIv2LDJF"
+                },
+                {
+                    "id": "jKGKs9gWC3u"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "oDWo5SdfUBw"
+                },
+                {
+                    "id": "QnH2D2lGsQg"
+                },
+                {
+                    "id": "YgSzuXIfed6"
+                },
+                {
+                    "id": "qIwjZD4M6Zz"
+                },
+                {
+                    "id": "lUJJSQQ4e3m"
+                },
+                {
+                    "id": "EYUBVev6ypM"
+                },
+                {
+                    "id": "EFk6pU8L1aB"
+                },
+                {
+                    "id": "Nu5DUxw6f6n"
+                },
+                {
+                    "id": "qYSg0OMIsOS"
+                },
+                {
+                    "id": "LJ81ATdhYYM"
+                },
+                {
+                    "id": "wRsvJp4MHNW"
+                },
+                {
+                    "id": "oPcWGgS2Liz"
+                },
+                {
+                    "id": "gQFIQV6abt6"
+                },
+                {
+                    "id": "OGiH0Y9GZPv"
+                },
+                {
+                    "id": "ahgn5DHCw1M"
+                },
+                {
+                    "id": "BWWRkwU2P6T"
+                },
+                {
+                    "id": "PcXvX2I0Z1b"
+                },
+                {
+                    "id": "QOxR4qVgu0j"
+                },
+                {
+                    "id": "JzrkRqzvWhH"
+                },
+                {
+                    "id": "YUSpF39nFJp"
+                },
+                {
+                    "id": "rIjuchPHhSU"
+                },
+                {
+                    "id": "X7SGUlfmJa5"
+                },
+                {
+                    "id": "TNiUPENUijR"
+                },
+                {
+                    "id": "t5FrQ0GTvGf"
+                },
+                {
+                    "id": "RhyMQrYkcmt"
+                },
+                {
+                    "id": "jMacn8knhdO"
+                },
+                {
+                    "id": "d1XzGx028Z8"
+                },
+                {
+                    "id": "TJwBbR5efS9"
+                },
+                {
+                    "id": "GAOdRubDZb0"
+                },
+                {
+                    "id": "Y7lX4ySLvni"
+                },
+                {
+                    "id": "dwp7Frm692X"
+                },
+                {
+                    "id": "Wppa6YegH3g"
+                },
+                {
+                    "id": "lZ73ggV9KBU"
+                },
+                {
+                    "id": "icarblC2ixW"
+                },
+                {
+                    "id": "AhqePctFfDf"
+                },
+                {
+                    "id": "dFyufuJx6QZ"
+                },
+                {
+                    "id": "oPiYwMFcq1r"
+                },
+                {
+                    "id": "b449dBrOSFK"
+                },
+                {
+                    "id": "DUEO4rsPGes"
+                },
+                {
+                    "id": "CdOi53ChPVR"
+                },
+                {
+                    "id": "pDytzKy77yR"
+                },
+                {
+                    "id": "Ter1Z3EGkQM"
+                },
+                {
+                    "id": "fQ59eeXTE19"
+                },
+                {
+                    "id": "DSn8HCZ3nqB"
+                },
+                {
+                    "id": "AtDcGOp9mpo"
+                },
+                {
+                    "id": "lpN6Bb3nZHi"
+                },
+                {
+                    "id": "uSC1ybGUEIW"
+                },
+                {
+                    "id": "G8Qk5mKppVw"
+                },
+                {
+                    "id": "bvHzx3xflb9"
+                },
+                {
+                    "id": "jQqLIn3xasU"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "O2MSX2uAySC"
+                },
+                {
+                    "id": "f5VxIY91Jz3"
+                },
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
             "code": "0-4Y",
+            "dimensionItem": "UPvKbcqTEY3",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "UPvKbcqTEY3",
+            "isDefault": false,
+            "legendSets": [],
             "name": "0-4 years",
             "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "r-r-----",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1210,14 +1741,59 @@
                     "property": "NAME",
                     "value": "0-4 años"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categories": [
+                {
+                    "id": "wAZr8Iv7S64"
+                },
+                {
+                    "id": "jKGKs9gWC3u"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "RqyDFrUDkoc"
+                },
+                {
+                    "id": "lYKDjAH090w"
+                },
+                {
+                    "id": "EW1nknsma47"
+                },
+                {
+                    "id": "dfu6ZsanJkt"
+                },
+                {
+                    "id": "dAoxGf1oUsc"
+                }
+            ],
+            "categoryOptionGroups": [
+                {
+                    "id": "O2MSX2uAySC"
+                }
+            ],
             "code": "P5Y--P999Y",
+            "dimensionItem": "afpMrUgPzl3",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "afpMrUgPzl3",
+            "isDefault": false,
+            "legendSets": [],
             "name": "5+ years",
             "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "r-r-----",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1277,14 +1853,40 @@
                     "property": "SHORT_NAME",
                     "value": "5 ans et plus"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "HllvX50cXC0"
+                }
+            ],
+            "categoryOptionGroups": [],
             "code": "DEFAULT",
+            "dimensionItem": "xYerKDKCefk",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "xYerKDKCefk",
+            "isDefault": true,
+            "legendSets": [],
             "name": "default",
             "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "rwrw----",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1444,14 +2046,43 @@
                     "property": "NAME",
                     "value": "الافتراضي"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categories": [
+                {
+                    "id": "d65Dy5GNg0e"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "RqyDFrUDkoc"
+                },
+                {
+                    "id": "bvHzx3xflb9"
+                }
+            ],
+            "categoryOptionGroups": [],
             "code": "HIV_KNOWN_POSITIVE",
+            "dimensionItem": "IW13O0znMw5",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "IW13O0znMw5",
+            "isDefault": false,
+            "legendSets": [],
             "name": "Known HIV +",
             "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1501,14 +2132,43 @@
                     "property": "NAME",
                     "value": "VIH + connu"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categories": [
+                {
+                    "id": "d65Dy5GNg0e"
+                }
+            ],
+            "categoryOptionCombos": [
+                {
+                    "id": "AtDcGOp9mpo"
+                },
+                {
+                    "id": "dfu6ZsanJkt"
+                }
+            ],
+            "categoryOptionGroups": [],
             "code": "KNOWN_HIV_NEG_UNKNOWN_STATUS",
+            "dimensionItem": "JGR3vWtSLhh",
+            "dimensionItemType": "CATEGORY_OPTION",
+            "externalAccess": false,
+            "favorite": false,
             "id": "JGR3vWtSLhh",
+            "isDefault": false,
+            "legendSets": [],
             "name": "Known HIV - / Unknown HIV status",
             "organisationUnits": [],
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1558,13 +2218,21 @@
                     "property": "NAME",
                     "value": "Známý HIV - / Neznámý stav HIV"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "constants": [],
     "dashboards": [
         {
             "allowedFilters": [],
+            "attributeValues": [],
             "code": "TB_AGG_HH_CONTACTS",
             "dashboardItems": [
                 {
@@ -1883,9 +2551,12 @@
                     "y": 0
                 }
             ],
-            "favorites": [],
+            "externalAccess": false,
+            "favorite": false,
             "id": "YIn5CgAleTN",
+            "itemCount": 10,
             "name": "TB7. HH Contacts",
+            "publicAccess": "--------",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -1909,11 +2580,30 @@
                     "property": "NAME",
                     "value": "TB7. Contacts Ménage"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
             ]
         }
     ],
     "dataElementGroups": [
         {
+            "aggregationType": "SUM",
             "attributeValues": [],
             "code": "TB_AGG_HH_CONTACTS",
             "dataElements": [
@@ -1939,8 +2629,16 @@
                     "id": "nyzwxN9M9t7"
                 }
             ],
+            "dimensionItem": "pwBbhT1gy3j",
+            "dimensionItemType": "DATA_ELEMENT_GROUP",
+            "externalAccess": false,
+            "favorite": false,
+            "groupSets": [],
             "id": "pwBbhT1gy3j",
+            "legendSets": [],
             "name": "TB  - Household contacts",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1954,8 +2652,20 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "contacts domestiques TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "contacts domestiques TB"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "dataElements": [
@@ -1967,12 +2677,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_TPT_ELIGIBLE_CONTACTS",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "nyzwxN9M9t7"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts eligible to start TPT in the last year",
+            "dimensionItem": "nyzwxN9M9t7",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "Contacts eligible for TPT",
             "id": "nyzwxN9M9t7",
             "legendSets": [],
             "name": "TB-HH - Contacts eligible for TPT",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2063,6 +2795,13 @@
                     "value": "TB-Ménage - Contacts éligibles au TPT"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2074,12 +2813,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_CONTACTS_IDENTIFIED",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "UIHbSe2XmPa"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts who have been identified",
+            "dimensionItem": "UIHbSe2XmPa",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "Contacts identified",
             "id": "UIHbSe2XmPa",
             "legendSets": [],
             "name": "TB-HH - Contacts identified",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2170,6 +2931,13 @@
                     "value": "Contactos identificados"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2181,12 +2949,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_CONTACTS_SCREENED",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "CyOAgl64a0b"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts who have been screened",
+            "dimensionItem": "CyOAgl64a0b",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "Contacts screened",
             "id": "CyOAgl64a0b",
             "legendSets": [],
             "name": "TB-HH - Contacts screened",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2277,6 +3067,13 @@
                     "value": "Contactos examinados"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2288,12 +3085,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_TPT_STARTED_CONTACTS",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "vHJg9RWzMyo"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts who have been started on TPT in the last year",
+            "dimensionItem": "vHJg9RWzMyo",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "Contacts started on TPT",
             "id": "vHJg9RWzMyo",
             "legendSets": [],
             "name": "TB-HH - Contacts started on TPT",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2384,6 +3203,13 @@
                     "value": "Contactos iniciados en TPT"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2395,12 +3221,34 @@
                 "id": "bjDvmb4bfuf"
             },
             "code": "TB_HH_NOTIFIED_IC",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "fbAdmzvjLuY"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of index TB cases registered and notified",
+            "dimensionItem": "fbAdmzvjLuY",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "Notified ICs",
             "id": "fbAdmzvjLuY",
             "legendSets": [],
             "name": "TB-HH - Notified ICs",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2491,6 +3339,13 @@
                     "value": "CI notifiés"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2502,12 +3357,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_TPT_OUTCOMES_COMPLETE",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "i0A7NK3fzXI"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts who completed their TPT",
+            "dimensionItem": "i0A7NK3fzXI",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "TPT outcomes - Completed",
             "id": "i0A7NK3fzXI",
             "legendSets": [],
             "name": "TB-HH - TPT outcomes - Completed",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2598,6 +3475,13 @@
                     "value": "Resultados de TPT - Completado"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         },
@@ -2609,12 +3493,34 @@
                 "id": "UZaGYjcG4En"
             },
             "code": "TB_HH_TPT_OUTCOMES_STOP",
+            "dataElementGroups": [
+                {
+                    "id": "pwBbhT1gy3j"
+                }
+            ],
+            "dataSetElements": [
+                {
+                    "dataElement": {
+                        "id": "RWNXWTrRGG9"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                }
+            ],
             "description": "Number of contacts who stopped their TPT",
+            "dimensionItem": "RWNXWTrRGG9",
+            "dimensionItemType": "DATA_ELEMENT",
             "domainType": "AGGREGATE",
+            "externalAccess": false,
+            "favorite": false,
             "formName": "TPT outcomes - Stopped",
             "id": "RWNXWTrRGG9",
             "legendSets": [],
             "name": "TB-HH - TPT outcomes - Stopped",
+            "optionSetValue": false,
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2705,6 +3611,13 @@
                     "value": "Número de contactos que interrumpieron su TPT"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "valueType": "INTEGER_ZERO_OR_POSITIVE",
             "zeroIsSignificant": true
         }
@@ -2724,7 +3637,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "i0A7NK3fzXI"
+                        "id": "RWNXWTrRGG9"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2732,7 +3645,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "fbAdmzvjLuY"
+                        "id": "i0A7NK3fzXI"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2748,7 +3661,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "vHJg9RWzMyo"
+                        "id": "fbAdmzvjLuY"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UIHbSe2XmPa"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2764,35 +3685,48 @@
                 },
                 {
                     "dataElement": {
-                        "id": "RWNXWTrRGG9"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UIHbSe2XmPa"
+                        "id": "vHJg9RWzMyo"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
                     }
                 }
             ],
+            "dimensionItem": "ybLvxFAQyCn",
+            "dimensionItemType": "REPORTING_RATE",
             "expiryDays": 0,
+            "externalAccess": false,
+            "favorite": false,
             "fieldCombinationRequired": false,
+            "formType": "SECTION",
             "id": "ybLvxFAQyCn",
             "indicators": [],
             "legendSets": [],
             "mobile": false,
-            "name": "TB - Household contacts (Quarterly)",
+            "name": "TB - Household contacts (quarterly)",
             "noValueRequiresComment": false,
             "notifyCompletingUser": false,
             "openFuturePeriods": 0,
             "openPeriodsAfterCoEndDate": 0,
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "--------",
             "renderAsTabs": false,
             "renderHorizontally": true,
+            "sections": [
+                {
+                    "id": "QCLMukuP5zE"
+                },
+                {
+                    "id": "LH7LcksaS4J"
+                },
+                {
+                    "id": "ykKgWavIxWD"
+                },
+                {
+                    "id": "qYy17tccb3R"
+                }
+            ],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2818,6 +3752,16 @@
             "timelyDays": 0,
             "translations": [
                 {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "TB-Hogar"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "TB-Hogar"
+                },
+                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB - Contacts domestiques"
@@ -2826,10 +3770,38 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - Contacts domestiques (Trimestriel)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "TB-HH"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-rw----",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                },
+                {
+                    "access": "r-r-----",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
                 }
             ],
             "validCompleteOnly": false,
-            "version": 35
+            "version": 36
         }
     ],
     "documents": [],
@@ -2840,6 +3812,8 @@
         {
             "attributeValues": [],
             "code": "TB_AGG_HH",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hXZwX8HVTM8",
             "indicators": [
                 {
@@ -2907,6 +3881,7 @@
                 }
             ],
             "name": "TB - Household contacts",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2935,16 +3910,31 @@
                     "property": "NAME",
                     "value": "TB-Ménage"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "indicatorTypes": [
         {
-            "code": "NUMBER_ONLY",
+            "attributeValues": [],
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "externalAccess": false,
             "factor": 1,
+            "favorite": false,
             "id": "kHy61PbChXr",
             "name": "Numerator only (number)",
             "number": true,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "translations": [
                 {
                     "locale": "fr",
@@ -3016,14 +4006,24 @@
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
-            "code": "PERCENT",
+            "attributeValues": [],
+            "code": "GEN_LIB_PERCENT",
+            "externalAccess": false,
             "factor": 100,
+            "favorite": false,
             "id": "hmSnCXmLYwt",
             "name": "Percentage",
             "number": false,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "translations": [
                 {
                     "locale": "uz",
@@ -3036,14 +4036,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Pourcentage"
-                },
-                {
                     "locale": "ar_IQ",
                     "property": "NAME",
                     "value": "نسبة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
                 },
                 {
                     "locale": "es",
@@ -3076,14 +4076,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Percentagem"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Процент"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Percentagem"
                 },
                 {
                     "locale": "ar",
@@ -3100,7 +4100,9 @@
                     "property": "NAME",
                     "value": "Foiz"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "indicators": [
@@ -3108,10 +4110,20 @@
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_COMPLETE",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts who completed TPT",
+            "dimensionItem": "DPgSFO4P0G1",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "DPgSFO4P0G1",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3119,6 +4131,8 @@
             "name": "TB-HH - Contacts completed TPT",
             "numerator": "#{i0A7NK3fzXI}",
             "numeratorDescription": "newinc_con_prevtx_cmplt",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3188,16 +4202,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_CONTACT_SCREEN_TOT",
+            "dataSets": [],
             "denominator": "#{UIHbSe2XmPa}",
             "denominatorDescription": "newinc_con_ident",
             "description": "Proportion of contacts screened out of those identified",
+            "dimensionItem": "d4w3j5nmQbb",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "d4w3j5nmQbb",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -3205,6 +4236,8 @@
             "name": "TB-HH - Contact screening coverage (%)",
             "numerator": "#{CyOAgl64a0b}",
             "numeratorDescription": "newinc_con_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3213,16 +4246,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_CONTACT_SCREEN_U5",
+            "dataSets": [],
             "denominator": "#{UIHbSe2XmPa.bvHzx3xflb9} + #{UIHbSe2XmPa.AtDcGOp9mpo}",
             "denominatorDescription": "newinc_con_04_ident",
             "description": "Proportion of contacts (children aged under 5) screened out of those (children aged under 5) identified",
+            "dimensionItem": "NQjV7Lw96D6",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "NQjV7Lw96D6",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -3230,6 +4280,8 @@
             "name": "TB-HH - Contact screening coverage among children aged under 5 (%)",
             "numerator": "#{CyOAgl64a0b.bvHzx3xflb9} + #{CyOAgl64a0b.AtDcGOp9mpo}",
             "numeratorDescription": "newinc_con_04_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3238,16 +4290,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage (0-4)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_CONTACT_SCREEN_COVERAGE_PLHIV",
+            "dataSets": [],
             "denominator": "#{UIHbSe2XmPa.bvHzx3xflb9} + #{UIHbSe2XmPa.RqyDFrUDkoc}",
             "denominatorDescription": "newinc_con_plhiv_ident",
             "description": "Proportion of contacts (PLHIV) screened out of those (PLHIV) identified",
+            "dimensionItem": "ZckswElv9Yb",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "ZckswElv9Yb",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -3255,6 +4324,8 @@
             "name": "TB-HH - Contact screening coverage among PLHIV (%)",
             "numerator": "#{CyOAgl64a0b.bvHzx3xflb9} + #{CyOAgl64a0b.RqyDFrUDkoc}",
             "numeratorDescription": "newinc_con_plhiv_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3263,16 +4334,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage (PLHIV)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_ELIGIBLE",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts eligible for TPT",
+            "dimensionItem": "zckiMYozzGG",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "zckiMYozzGG",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3280,6 +4368,8 @@
             "name": "TB-HH - Contacts eligible for TPT",
             "numerator": "#{nyzwxN9M9t7}",
             "numeratorDescription": "newinc_con_elig",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3389,16 +4479,33 @@
                     "property": "NAME",
                     "value": "TB-Ménage - Contacts éligibles au TPT"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_ELIGIBLE_U5",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts eligible for TPT under the age of 5",
+            "dimensionItem": "gVGb56B4e0o",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "gVGb56B4e0o",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3406,6 +4513,8 @@
             "name": "TB-HH - Contacts eligible for TPT under the age of 5",
             "numerator": "#{nyzwxN9M9t7.bvHzx3xflb9} + #{nyzwxN9M9t7.AtDcGOp9mpo}",
             "numeratorDescription": "newinc_con_04_elig",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3475,16 +4584,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_IDENTIFIED",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts identified",
+            "dimensionItem": "gFvh80a5vdF",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "gFvh80a5vdF",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3492,6 +4618,8 @@
             "name": "TB-HH - Contacts identified",
             "numerator": "#{UIHbSe2XmPa}",
             "numeratorDescription": "newinc_con_ident",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3601,16 +4729,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_SCREENED",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts screened",
+            "dimensionItem": "hGuPYnbkgi5",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hGuPYnbkgi5",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3618,6 +4763,8 @@
             "name": "TB-HH - Contacts screened",
             "numerator": "#{CyOAgl64a0b}",
             "numeratorDescription": "newinc_con_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3727,16 +4874,33 @@
                     "property": "SHORT_NAME",
                     "value": "Contactos examinados"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_START",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts who started TPT",
+            "dimensionItem": "FIktfdU11d2",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "FIktfdU11d2",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3744,6 +4908,8 @@
             "name": "TB-HH - Contacts started TPT",
             "numerator": "#{vHJg9RWzMyo}",
             "numeratorDescription": "newinc_con_prevtx",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3813,16 +4979,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_STOP",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts who stopped TPT",
+            "dimensionItem": "VG2F54Lx35r",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "VG2F54Lx35r",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3830,6 +5013,8 @@
             "name": "TB-HH - Contacts stopped TPT",
             "numerator": "#{RWNXWTrRGG9}",
             "numeratorDescription": "newinc_con_prevtx_stop",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3899,16 +5084,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_U5_CONTACTS_SCREENED",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts under the age of 5 screened",
+            "dimensionItem": "nGCQAmBS1FS",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "nGCQAmBS1FS",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3916,6 +5118,8 @@
             "name": "TB-HH - Contacts under the age of 5 screened",
             "numerator": "#{CyOAgl64a0b.bvHzx3xflb9} + #{CyOAgl64a0b.AtDcGOp9mpo}",
             "numeratorDescription": "newinc_con_04_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3985,16 +5189,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_HIVPOS_CONTACTS_SCREENED",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of contacts with a known HIV + status screened",
+            "dimensionItem": "fuRVy1cawRG",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "fuRVy1cawRG",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4002,6 +5223,8 @@
             "name": "TB-HH - Contacts with known HIV + status screened",
             "numerator": "#{CyOAgl64a0b.RqyDFrUDkoc} + #{CyOAgl64a0b.bvHzx3xflb9}",
             "numeratorDescription": "newinc_con_plhiv_screen",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4071,16 +5294,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TB_CONTACTS_TPT_ELIGIBLE_HIVPOS",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of HIV+ contacts eligible for TPT",
+            "dimensionItem": "Zy3hE0pkLSi",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "Zy3hE0pkLSi",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4088,6 +5328,8 @@
             "name": "TB-HH - PLHIV Contacts eligible for TPT",
             "numerator": "#{nyzwxN9M9t7.bvHzx3xflb9} + #{nyzwxN9M9t7.RqyDFrUDkoc}",
             "numeratorDescription": "newinc_con_plhiv_elig",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4157,16 +5399,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_IC_IDENTIFIED",
+            "dataSets": [],
             "denominator": "1",
             "denominatorDescription": "1",
             "description": "Number of TB index cases identified",
+            "dimensionItem": "h8PkcXUYxJV",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "h8PkcXUYxJV",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4174,6 +5433,8 @@
             "name": "TB-HH - TB index cases identified",
             "numerator": "#{fbAdmzvjLuY}",
             "numeratorDescription": "newinc_con",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4243,16 +5504,33 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ]
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_COMPLETE_U5",
+            "dataSets": [],
             "denominator": "#{vHJg9RWzMyo.bvHzx3xflb9} + #{vHJg9RWzMyo.AtDcGOp9mpo}",
             "denominatorDescription": "newinc_con_04_prevtx_coh",
             "description": "Proportion of contacts (children under 5) who completed TPT out of those (children under 5) who started TPT",
+            "dimensionItem": "zDCLWcEok43",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "zDCLWcEok43",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4260,6 +5538,8 @@
             "name": "TB-HH - TB preventive treatment completion among children aged under 5 (%)",
             "numerator": "#{i0A7NK3fzXI.bvHzx3xflb9} + #{i0A7NK3fzXI.AtDcGOp9mpo}",
             "numeratorDescription": "newinc_con_04_prevtx_cmplt",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4268,16 +5548,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment completion (0-4)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_COMPLETE_PLHIV",
+            "dataSets": [],
             "denominator": "#{i0A7NK3fzXI.bvHzx3xflb9} + #{i0A7NK3fzXI.RqyDFrUDkoc}",
             "denominatorDescription": "newinc_con_plhiv_prevtx_coh",
             "description": "Proportion of contacts (PLHIV) who completed TPT out of those (PLHIV) who started TPT",
+            "dimensionItem": "ETPT25L7LLY",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "ETPT25L7LLY",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4285,6 +5582,8 @@
             "name": "TB-HH - TB preventive treatment completion among PLHIV (%)",
             "numerator": "#{i0A7NK3fzXI.bvHzx3xflb9} + #{i0A7NK3fzXI.RqyDFrUDkoc}",
             "numeratorDescription": "newinc_con_plhiv_prevtx_cmplt",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4293,16 +5592,33 @@
                 "users": {}
             },
             "shortName": "TPT completion (PLHIV)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_INITIATION_TOT",
+            "dataSets": [],
             "denominator": "#{nyzwxN9M9t7}",
             "denominatorDescription": "newinc_con_elig",
             "description": "Proportion of contacts who started TPT out of those who were eligible TPT",
+            "dimensionItem": "G8gM2ieiAUL",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "G8gM2ieiAUL",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4310,6 +5626,8 @@
             "name": "TB-HH - TB preventive treatment initiation (%)",
             "numerator": "#{vHJg9RWzMyo}",
             "numeratorDescription": "newinc_con_prevtx",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4318,16 +5636,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_INITIATION_U5",
+            "dataSets": [],
             "denominator": "#{nyzwxN9M9t7.bvHzx3xflb9} + #{nyzwxN9M9t7.AtDcGOp9mpo}",
             "denominatorDescription": "newinc_con_04_elig",
             "description": "Proportion of contacts (children aged under 5) who started TPT out of those (children aged under 5)who were eligible TPT",
+            "dimensionItem": "f8lltD3tQUu",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "f8lltD3tQUu",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4335,6 +5670,8 @@
             "name": "TB-HH - TB preventive treatment initiation among children aged under 5 (%)",
             "numerator": "#{vHJg9RWzMyo.bvHzx3xflb9} + #{vHJg9RWzMyo.AtDcGOp9mpo}",
             "numeratorDescription": "newinc_con_04_prevtx",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4343,16 +5680,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation (0-4)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_INITIATION_PLHIV",
+            "dataSets": [],
             "denominator": "#{vHJg9RWzMyo.bvHzx3xflb9} + #{vHJg9RWzMyo.RqyDFrUDkoc}",
             "denominatorDescription": "newinc_con_plhiv_elig",
             "description": "Proportion of contacts (PLHIV) who started TPT out of those (PLHIV)who were eligible TPT",
+            "dimensionItem": "oemqpmb3dsz",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "oemqpmb3dsz",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4360,6 +5714,8 @@
             "name": "TB-HH - TB preventive treatment initiation among PLHIV (%)",
             "numerator": "#{vHJg9RWzMyo.bvHzx3xflb9} + #{vHJg9RWzMyo.RqyDFrUDkoc}",
             "numeratorDescription": "newinc_con_plhiv_prevtx",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4368,16 +5724,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation (PLHIV)",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_COMPLETE",
+            "dataSets": [],
             "denominator": "#{vHJg9RWzMyo}",
             "denominatorDescription": "newinc_con_prevtx_coh",
             "description": "Proportion of contacts who completed TPT out of those who started TPT",
+            "dimensionItem": "bRhf49ZNckC",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bRhf49ZNckC",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4385,6 +5758,8 @@
             "name": "TB-HH - TB preventive treatment outcomes - completed (%)",
             "numerator": "#{i0A7NK3fzXI}",
             "numeratorDescription": "newinc_con_prevtx_cmplt",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4393,16 +5768,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment completed",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_HH_TPT_STOPPED",
+            "dataSets": [],
             "denominator": "#{vHJg9RWzMyo}",
             "denominatorDescription": "newinc_con_prevtx_coh",
             "description": "Proportion of contacts who stopped TPT out of those who started TPT",
+            "dimensionItem": "cu3Jmt4ssWN",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
             "id": "cu3Jmt4ssWN",
+            "indicatorGroups": [
+                {
+                    "id": "hXZwX8HVTM8"
+                }
+            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4410,6 +5802,8 @@
             "name": "TB-HH - TB preventive treatment outcomes - stopped (%)",
             "numerator": "#{RWNXWTrRGG9}",
             "numeratorDescription": "newinc_con_prevtx_stop",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4418,7 +5812,14 @@
                 "users": {}
             },
             "shortName": "TPT stopped",
-            "translations": []
+            "translations": [],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "jobConfigurations": [],
@@ -4430,13 +5831,13 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "11b58fe",
-        "DHIS2Version": "2.36.11.1",
+        "DHIS2Build": "b6d3754",
+        "DHIS2Version": "2.36.12",
         "code": "TB_AGG_HH",
-        "description": "TB Household Contacts (aggregate)",
-        "lastUpdated": "20220610T095556",
+        "description": "TB Household Contacts",
+        "lastUpdated": "20220914T130414",
         "locale": "en",
-        "name": "TB_AGG_HH_AGG_DHIS2.36.11.1-en",
+        "name": "TB_AGG_HH_AGG_DHIS2.36.12-en",
         "type": "AGG",
         "version": ""
     },
@@ -4446,6 +5847,11 @@
     "sections": [
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "UZaGYjcG4En"
+                }
+            ],
             "code": "TB_HH_CONTACTS_IC",
             "dataElements": [
                 {
@@ -4459,10 +5865,17 @@
                 "id": "ybLvxFAQyCn"
             },
             "disableDataElementAutoGroup": false,
+            "externalAccess": false,
+            "favorite": false,
             "greyedFields": [],
             "id": "LH7LcksaS4J",
             "indicators": [],
             "name": "Household contacts of index TB cases",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "showColumnTotals": false,
             "showRowTotals": true,
             "sortOrder": 2,
@@ -4487,10 +5900,17 @@
                     "property": "NAME",
                     "value": "Contacts domestiques des cas index de TB"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "bjDvmb4bfuf"
+                }
+            ],
             "code": "TB_HH_IC",
             "dataElements": [
                 {
@@ -4501,10 +5921,17 @@
                 "id": "ybLvxFAQyCn"
             },
             "disableDataElementAutoGroup": false,
+            "externalAccess": false,
+            "favorite": false,
             "greyedFields": [],
             "id": "QCLMukuP5zE",
             "indicators": [],
             "name": "TB index cases",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "showColumnTotals": false,
             "showRowTotals": false,
             "sortOrder": 1,
@@ -4529,10 +5956,17 @@
                     "property": "NAME",
                     "value": "Casos índice de tuberculosis"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "UZaGYjcG4En"
+                }
+            ],
             "code": "TB_HH_TPT",
             "dataElements": [
                 {
@@ -4546,10 +5980,17 @@
                 "id": "ybLvxFAQyCn"
             },
             "disableDataElementAutoGroup": false,
+            "externalAccess": false,
+            "favorite": false,
             "greyedFields": [],
             "id": "ykKgWavIxWD",
             "indicators": [],
             "name": "TB preventive treatment",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "showColumnTotals": false,
             "showRowTotals": true,
             "sortOrder": 3,
@@ -4574,10 +6015,17 @@
                     "property": "NAME",
                     "value": "Tratamiento preventivo de la tuberculosis"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         },
         {
             "attributeValues": [],
+            "categoryCombos": [
+                {
+                    "id": "UZaGYjcG4En"
+                }
+            ],
             "code": "TB_HH_TPT_OUTCOMES",
             "dataElements": [
                 {
@@ -4591,10 +6039,17 @@
                 "id": "ybLvxFAQyCn"
             },
             "disableDataElementAutoGroup": false,
+            "externalAccess": false,
+            "favorite": false,
             "greyedFields": [],
             "id": "qYy17tccb3R",
             "indicators": [],
             "name": "TB preventive treatment outcomes",
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "showColumnTotals": false,
             "showRowTotals": true,
             "sortOrder": 5,
@@ -4619,7 +6074,9 @@
                     "property": "NAME",
                     "value": "Resultados del tratamiento preventivo de la tuberculosis"
                 }
-            ]
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
     ],
     "sqlViews": [],
@@ -4627,9 +6084,17 @@
         {
             "attributeValues": [],
             "code": "TB_AGG_ACCESS",
+            "externalAccess": false,
+            "favorite": false,
             "id": "Hoe8uDSoNfN",
+            "managedByGroups": [
+                {
+                    "id": "dO0Z6jb54LZ"
+                }
+            ],
             "managedGroups": [],
             "name": "TB access",
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4688,14 +6153,40 @@
                     "value": "Acceso TB"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_ADMIN",
+            "externalAccess": false,
+            "favorite": false,
             "id": "avefFGBIjq1",
+            "managedByGroups": [
+                {
+                    "id": "pYKORibPZEp"
+                }
+            ],
             "managedGroups": [],
             "name": "TB admin",
+            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4754,14 +6245,40 @@
                     "value": "ТБ бўлими администратори"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
             "id": "bHLDx9I0XkE",
+            "managedByGroups": [
+                {
+                    "id": "j6tlQ56IAet"
+                }
+            ],
             "managedGroups": [],
             "name": "TB data capture",
+            "publicAccess": "--------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4780,14 +6297,14 @@
             },
             "translations": [
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Ведение записей данных ТБ"
-                },
-                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "Sil kasalligi boʼyicha maʼlumotlarni olish"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Ведение записей данных ТБ"
                 },
                 {
                     "locale": "pt_BR",
@@ -4802,7 +6319,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Saisie des données TB"
+                    "value": "TB Saisie des données "
                 },
                 {
                     "locale": "es",
@@ -4825,14 +6342,36 @@
                     "value": "Captura de dados TB"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "rw------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "r-------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_STOCK_DATA_CAPTURE",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hT0GsbPl8fg",
+            "managedByGroups": [],
             "managedGroups": [],
             "name": "TB stock data capture",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4840,19 +6379,79 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB Saisie des données stocks"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "users": []
+        }
+    ],
+    "userRoles": [
+        {
+            "attributeValues": [],
+            "authorities": [],
+            "externalAccess": false,
+            "favorite": false,
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d'utilisateur du package"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "users": [
+                {
+                    "id": "vUeLeQMSwhN"
+                }
+            ]
         }
     ],
     "users": [
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
+            "externalAccess": false,
+            "favorite": false,
             "firstName": "package",
             "id": "vUeLeQMSwhN",
+            "name": "package admin",
             "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
             "surname": "admin",
             "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "userAccesses": [],
             "userCredentials": {
                 "attributeValues": [],
                 "catDimensionConstraints": [],
@@ -4866,7 +6465,7 @@
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
                 "name": "package admin",
-                "passwordLastUpdated": "2019-10-16T12:06:30.668",
+                "passwordLastUpdated": "2022-08-17T12:56:38.395",
                 "selfRegistered": false,
                 "sharing": {
                     "external": false,
@@ -4875,6 +6474,12 @@
                 },
                 "translations": [],
                 "twoFA": false,
+                "user": {
+                    "displayName": "Robot Admin",
+                    "id": "vWK2xFwRIUX",
+                    "name": "Robot Admin",
+                    "username": "robot"
+                },
                 "userAccesses": [],
                 "userGroupAccesses": [],
                 "userInfo": {
@@ -4882,7 +6487,7 @@
                 },
                 "userRoles": [
                     {
-                        "id": "yrB6vc5Ip3r"
+                        "id": "nCNR71ZbTHK"
                     }
                 ],
                 "username": "package_admin"
@@ -4894,8 +6499,11 @@
         {
             "attributeValues": [],
             "code": "TB_AGG_HH",
+            "externalAccess": false,
+            "favorite": false,
             "id": "Of1Y0xxO5Xx",
             "name": "TB - Household contacts",
+            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4925,6 +6533,13 @@
                     "value": "TB-Ménage"
                 }
             ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
             "validationRules": [
                 {
                     "id": "OYNcBlgZ6Vv"
@@ -5026,6 +6641,10 @@
         {
             "attributeValues": [],
             "code": "TB_HH_IDENTIFY_VS_ELIGIBLE",
+            "dimensionItem": "RbeVQPgxilW",
+            "displayInstruction": "The number of contacts who have been identified should be greater or equal to the number of eligible contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "RbeVQPgxilW",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have been identified should be greater or equal to the number of eligible contacts",
@@ -5037,10 +6656,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts identified vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Contacts eligible",
                 "displayDescription": "TB - HH - Contacts eligible",
@@ -5093,11 +6716,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet kontaktů, které byly identifikovány, by měl být větší nebo stejný jako počet způsobilých kontaktů"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_IDENTIFY_VS_SCREEN",
+            "dimensionItem": "zw92WZqBmU7",
+            "displayInstruction": "The number of contacts who have been identified should be greater or equal to the number of screened contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "zw92WZqBmU7",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have been identified should be greater or equal to the number of screened contacts",
@@ -5109,10 +6748,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts identified vs Screened",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Contacts screened",
                 "displayDescription": "TB - HH - Contacts screened",
@@ -5165,11 +6808,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet kontaktů, které byly identifikovány, by měl být větší nebo stejný jako počet prověřených kontaktů"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_IDENTIFY_VS_START",
+            "dimensionItem": "dROMaXvG5yC",
+            "displayInstruction": "The number of contacts who have been identified should be greater or equal to the number of contacts who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "dROMaXvG5yC",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have been identified should be greater or equal to the number of contacts who have started TPT",
@@ -5181,10 +6840,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts identified vs Started TPT",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Contacts Started TPT",
                 "displayDescription": "TB - HH - Contacts Started TPT",
@@ -5237,11 +6900,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos que se han identificado debe ser mayor o igual al número de contactos que han iniciado TPT."
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_SCREEN_VS_ELIGIBLE",
+            "dimensionItem": "KdjxpgjUKOt",
+            "displayInstruction": "The number of contacts who have been screened should be greater or equal to the number of eligible contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "KdjxpgjUKOt",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have been screened should be greater or equal to the number of eligible contacts",
@@ -5253,10 +6932,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts Screened vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Contacts TPT Eligible",
                 "displayDescription": "TB - HH - Contacts TPT Eligible",
@@ -5309,11 +6992,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos que se han examinado debe ser mayor o igual al número de contactos elegibles."
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_SCREEN_VS_STARTED",
+            "dimensionItem": "hmbZtsgJ4St",
+            "displayInstruction": "The number of contacts who have been screened should be greater or equal to the number of contacts who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hmbZtsgJ4St",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have been screened should be greater or equal to the number of contacts who have started TPT",
@@ -5325,10 +7024,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts Screened vs Started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Contacts TPT Started",
                 "displayDescription": "TB - HH - Contacts TPT Started",
@@ -5386,11 +7089,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - Contactos examinado vs iniciados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_TPT_START_VS_COMPLETE",
+            "dimensionItem": "FGsINZy1MJW",
+            "displayInstruction": "The number of contacts who have started TPT should be equal or superior to the number of contacts who have completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "FGsINZy1MJW",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have started TPT should be equal or superior to the number of contacts who have completed TPT",
@@ -5402,10 +7121,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts started on TPT vs Completed",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - TPT outcomes - Completed",
                 "displayDescription": "TB - HH - TPT outcomes - Completed",
@@ -5438,11 +7161,27 @@
                     "property": "NAME",
                     "value": "TB-Ménage - Contacts commencés sur TPT vs Terminés"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_TPT_START_VS_STOP",
+            "dimensionItem": "f5VmjPXUSWF",
+            "displayInstruction": "The number of contacts who have started TPT should be equal or superior to the number of contacts who have stopped TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "f5VmjPXUSWF",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have started TPT should be equal or superior to the number of contacts who have stopped TPT",
@@ -5454,10 +7193,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts started on TPT vs Stopped",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - TPT outcomes - Stopped",
                 "displayDescription": "TB - HH - TPT outcomes - Stopped",
@@ -5510,11 +7253,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos que han iniciado TPT debe ser igual o superior al número de contactos que han Interrumpido TPT."
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_TPT_START_VS_STOP_COMPLETE",
+            "dimensionItem": "jSMSsnqcspv",
+            "displayInstruction": "The number of contacts who have started TPT should be equal to the number of contacts who have stopped AND completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "jSMSsnqcspv",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who have started TPT should be equal to the number of contacts who have stopped AND completed TPT",
@@ -5526,10 +7285,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts started on TPT vs Stopped+complete",
+            "notificationTemplates": [],
             "operator": "equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - TPT outcomes - Stopped+complete",
                 "displayDescription": "TB - HH - TPT outcomes - Stopped+complete",
@@ -5587,11 +7350,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos que han iniciado el TPT debe ser igual al número de contactos que interrumpieron Y completado el TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_TPT_ELIGIBLE_VS_START",
+            "dimensionItem": "eO1uO2zrBCz",
+            "displayInstruction": "The number of contacts who are eligible for TPT should be greater or equal to the number of TPT started contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "eO1uO2zrBCz",
             "importance": "MEDIUM",
             "instruction": "The number of contacts who are eligible for TPT should be greater or equal to the number of TPT started contacts",
@@ -5603,10 +7382,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Contacts TPT eligible vs started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - TPT contacts started",
                 "displayDescription": "TB - HH - TPT contacts started",
@@ -5659,11 +7442,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet kontaktů, které mají nárok na TPT, by měl být větší nebo stejný jako počet kontaktů zahájených TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_IDENTIFY_VS_ELIGIBLE",
+            "dimensionItem": "CIQ6ZtS6CI8",
+            "displayInstruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of TPT eligible HIV+ contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "CIQ6ZtS6CI8",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of TPT eligible HIV+ contacts",
@@ -5675,10 +7474,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts identified vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ Contacts eligible",
                 "displayDescription": "TB - HH - HIV+ Contacts eligible",
@@ -5731,11 +7534,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos VIH + que se han identificado debe ser mayor o igual al número de contactos VIH + elegibles para TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_IDENTIFY_VS_SCREEN",
+            "dimensionItem": "kl0McmukoJW",
+            "displayInstruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of screened HIV+ contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "kl0McmukoJW",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of screened HIV+ contacts",
@@ -5747,10 +7566,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts identified vs Screened",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ Contacts screened",
                 "displayDescription": "TB - HH - HIV+ Contacts screened",
@@ -5808,11 +7631,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos VIH + que se han identificado debe ser mayor o igual al número de contactos VIH + examinados."
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_IDENTIFY_VS_START",
+            "dimensionItem": "b18dAhp8U1H",
+            "displayInstruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of HIV+ contacts who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "b18dAhp8U1H",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have been identified should be greater or equal to the number of HIV+ contacts who have started TPT",
@@ -5824,10 +7663,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts identified vs Started TPT",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ Contacts started TPT",
                 "displayDescription": "TB - HH - HIV+ Contacts started TPT",
@@ -5860,11 +7703,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - Contactos VIH + identificados frente a TPT iniciado"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_SCREEN_VS_ELIGIBLE",
+            "dimensionItem": "snO81pHAYoM",
+            "displayInstruction": "The number of HIV+ contacts who have been screened should be greater or equal to the number of HIV+ eligible contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "snO81pHAYoM",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have been screened should be greater or equal to the number of HIV+ eligible contacts",
@@ -5876,10 +7735,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts Screened vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ Contacts TPT Eligible",
                 "displayDescription": "TB - HH - HIV+ Contacts TPT Eligible",
@@ -5932,11 +7795,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet HIV+ kontaktů, které prošly screeningem, by měl být větší nebo stejný jako počet HIV+ vhodných kontaktů"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_SCREEN_VS_STARTED",
+            "dimensionItem": "y5ny5cyOYVN",
+            "displayInstruction": "The number of HIV+ contacts who have been screened should be greater or equal to the number of HIV+ contacts who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "y5ny5cyOYVN",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have been screened should be greater or equal to the number of HIV+ contacts who have started TPT",
@@ -5948,10 +7827,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts Screened vs Started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ Contacts Started TPT",
                 "displayDescription": "TB - HH - HIV+ Contacts Started TPT",
@@ -6004,11 +7887,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - contactos VIH + examinados frente a iniciados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_TPT_START_VS_COMPLETE",
+            "dimensionItem": "qaadCjZ8D7g",
+            "displayInstruction": "The number of HIV+ contacts who have started TPT should be equal or superior to the number of HIV+ contacts who have completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "qaadCjZ8D7g",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have started TPT should be equal or superior to the number of HIV+ contacts who have completed TPT",
@@ -6020,10 +7919,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV + Contacts started on TPT vs Completed",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ TPT outcomes - Completed",
                 "displayDescription": "TB - HH - HIV+ TPT outcomes - Completed",
@@ -6056,11 +7959,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - Contactos VIH + iniciados en TPT frente a completados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_TPT_START_VS_STOP",
+            "dimensionItem": "yPJI5WWiigP",
+            "displayInstruction": "The number of HIV+ contacts who have started TPT should be equal or superior to the number of HIV+ contacts who have stopped TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "yPJI5WWiigP",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have started TPT should be equal or superior to the number of HIV+ contacts who have stopped TPT",
@@ -6072,10 +7991,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts started on TPT vs Stopped",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ TPT outcomes - Stopped",
                 "displayDescription": "TB - HH - HIV+ TPT outcomes - Stopped",
@@ -6128,11 +8051,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos VIH + que han iniciado TPT debe ser igual o superior al número de contactos VIH + que interrumpieron TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_TPT_START_VS_STOP_COMPLET",
+            "dimensionItem": "QFNROMjI7Kl",
+            "displayInstruction": "The number of HIV+ contacts who have started TPT should be equal to the number of HIV+ contacts who have stopped TPT + those who have completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "QFNROMjI7Kl",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who have started TPT should be equal to the number of HIV+ contacts who have stopped TPT + those who have completed TPT",
@@ -6144,10 +8083,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts started on TPT vs Stopped+Completed",
+            "notificationTemplates": [],
             "operator": "equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ TPT outcomes - Stopped+Completed",
                 "displayDescription": "TB - HH - HIV+ TPT outcomes - Stopped+Completed",
@@ -6200,11 +8143,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos VIH + que han iniciado TPT debe ser igual al número de contactos VIH + que han Interrumpido TPT + aquellos que han completado TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_HIVPOS_TPT_ELIGIBLE_VS_START",
+            "dimensionItem": "z6LqxZSAql2",
+            "displayInstruction": "The number of HIV+ contacts who are eligible for TPT should be greater or equal to the number of TPT started HIV+ contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "z6LqxZSAql2",
             "importance": "MEDIUM",
             "instruction": "The number of HIV+ contacts who are eligible for TPT should be greater or equal to the number of TPT started HIV+ contacts",
@@ -6216,10 +8175,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - HIV+ Contacts TPT eligible vs started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - HIV+ TPT contacts started",
                 "displayDescription": "TB - HH - HIV+ TPT contacts started",
@@ -6272,12 +8235,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos VIH + que son elegibles para TPT debe ser mayor o igual al número de contactos VIH + iniciados con TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_ICS_VS_IDENTIFIED_CONTACTS",
             "description": "The number of notified index cases should be less than or equal to the number of identified contacts",
+            "dimensionItem": "JS1MNW3SoPf",
+            "externalAccess": false,
+            "favorite": false,
             "id": "JS1MNW3SoPf",
             "importance": "MEDIUM",
             "leftSide": {
@@ -6288,10 +8266,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Notified ICs vs Identified contacts",
+            "notificationTemplates": [],
             "operator": "less_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Monthly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Identified contacts",
                 "displayDescription": "TB - HH - Identified contacts",
@@ -6344,12 +8326,27 @@
                     "property": "NAME",
                     "value": "TB-HH: CI notificados frente a contactos identificados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_ICS_VS_SCREEN_CONTACTS",
             "description": "The number of notified index cases should be less than or equal to the number of screened contacts",
+            "dimensionItem": "S5b9YwUVyMU",
+            "externalAccess": false,
+            "favorite": false,
             "id": "S5b9YwUVyMU",
             "importance": "MEDIUM",
             "leftSide": {
@@ -6360,10 +8357,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Notified ICs vs screened contacts",
+            "notificationTemplates": [],
             "operator": "less_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Monthly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Screened contacts",
                 "displayDescription": "TB - HH - Screened contacts",
@@ -6416,12 +8417,27 @@
                     "property": "DESCRIPTION",
                     "value": "Le nombre de cas index notifiés doit être inférieur ou égal au nombre de contacts dépistés"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_ICS_VS_TPT_ELIGIBLE_CONTACTS",
             "description": "The number of notified index cases should be less than or equal to the number of contacts who are eligible for TPT",
+            "dimensionItem": "hZzJciiXYGi",
+            "externalAccess": false,
+            "favorite": false,
             "id": "hZzJciiXYGi",
             "importance": "MEDIUM",
             "leftSide": {
@@ -6432,10 +8448,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Notified ICs vs TPT eligible contacts",
+            "notificationTemplates": [],
             "operator": "less_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Monthly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - Eligible TPT contacts",
                 "displayDescription": "TB - HH - Eligible TPT contacts",
@@ -6488,12 +8508,27 @@
                     "property": "DESCRIPTION",
                     "value": "Le nombre de cas index notifiés doit être inférieur ou égal au nombre de contacts éligibles au TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_ICS_VS_TPT_START_CONTACTS",
             "description": "The number of notified index cases should be less than or equal to the number of contacts who have started TPT",
+            "dimensionItem": "gsqMTFsznAn",
+            "externalAccess": false,
+            "favorite": false,
             "id": "gsqMTFsznAn",
             "importance": "MEDIUM",
             "leftSide": {
@@ -6504,10 +8539,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - Notified ICs vs TPT started contacts",
+            "notificationTemplates": [],
             "operator": "less_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Monthly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - TPT started contacts",
                 "displayDescription": "TB - HH - TPT started contacts",
@@ -6560,11 +8599,27 @@
                     "property": "DESCRIPTION",
                     "value": "Počet oznámených případů indexu by měl být menší nebo roven počtu kontaktů, kteří zahájili TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_IDENTIFY_VS_ELIGIBLE",
+            "dimensionItem": "RgXDL8lRJrb",
+            "displayInstruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of eligible contacts under the age of five",
+            "externalAccess": false,
+            "favorite": false,
             "id": "RgXDL8lRJrb",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of eligible contacts under the age of five",
@@ -6576,10 +8631,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts identified vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 Contacts eligible",
                 "displayDescription": "TB - HH - U5 Contacts eligible",
@@ -6632,11 +8691,27 @@
                     "property": "INSTRUCTION",
                     "value": "Le nombre de contacts de moins de 5 ans qui ont été identifiés doit être supérieur ou égal au nombre de contacts éligibles de moins de cinq ans"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_IDENTIFY_VS_SCREEN",
+            "dimensionItem": "biSYiJM93P5",
+            "displayInstruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of screened contacts under the age of five",
+            "externalAccess": false,
+            "favorite": false,
             "id": "biSYiJM93P5",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of screened contacts under the age of five",
@@ -6648,10 +8723,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts identified vs Screened",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 Contacts screened",
                 "displayDescription": "TB - HH - U5 Contacts screened",
@@ -6704,11 +8783,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos menores de 5 años que han sido identificados debe ser mayor o igual al número de contactos examinados menores de cinco años."
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_IDENTIFY_VS_START",
+            "dimensionItem": "OYNcBlgZ6Vv",
+            "displayInstruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of contacts under the age of five who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "OYNcBlgZ6Vv",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have been identified should be greater or equal to the number of contacts under the age of five who have started TPT",
@@ -6720,10 +8815,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts identified vs Started TPT",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 Contacts TPT start",
                 "displayDescription": "TB - HH - U5 Contacts TPT start",
@@ -6776,11 +8875,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet kontaktů mladších 5 let, kteří byli identifikováni, by měl být větší nebo stejný jako počet kontaktů mladších pěti let, kteří zahájili TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_SCREEN_VS_ELIGIBLE",
+            "dimensionItem": "pRs59wLDN4B",
+            "displayInstruction": "The number of contacts under the age of 5 who have been screened should be greater or equal to the number (under the age of 5) of eligible contacts",
+            "externalAccess": false,
+            "favorite": false,
             "id": "pRs59wLDN4B",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have been screened should be greater or equal to the number (under the age of 5) of eligible contacts",
@@ -6792,10 +8907,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts Screened vs Eligible",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 Contacts TPT Eligible",
                 "displayDescription": "TB - HH - U5 Contacts TPT Eligible",
@@ -6848,11 +8967,27 @@
                     "property": "INSTRUCTION",
                     "value": "Počet kontaktů mladších 5 let, které byly prověřeny, by měl být větší nebo stejný jako počet (mladších 5 let) způsobilých kontaktů"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_SCREEN_VS_STARTED",
+            "dimensionItem": "CADyXg4ZVUD",
+            "displayInstruction": "The number of contacts under the age of 5 who have been screened should be greater or equal to the number of contacts under the age of 5 who have started TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "CADyXg4ZVUD",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have been screened should be greater or equal to the number of contacts under the age of 5 who have started TPT",
@@ -6864,10 +8999,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts Screened vs Started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 Contacts TPT Started",
                 "displayDescription": "TB - HH - U5 Contacts TPT Started",
@@ -6925,11 +9064,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - Contactos U5 examinado vs iniciados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_TPT_START_VS_STOP",
+            "dimensionItem": "XdpxewVhofF",
+            "displayInstruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have stopped TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "XdpxewVhofF",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have stopped TPT",
@@ -6941,10 +9096,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts started on TPT vs Stopped",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 TPT outcomes - Stopped",
                 "displayDescription": "TB - HH - U5 TPT outcomes - Stopped",
@@ -6997,11 +9156,27 @@
                     "property": "NAME",
                     "value": "TB-Hogar - contactos U5 iniciados en TPT frente a Interrumpido"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_TPT_START_VS_STOP_COMPLETE",
+            "dimensionItem": "HkgGNSrHVKu",
+            "displayInstruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have stopped TPT + those who have completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "HkgGNSrHVKu",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have stopped TPT + those who have completed TPT",
@@ -7013,10 +9188,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts started on TPT vs Stopped+Completed",
+            "notificationTemplates": [],
             "operator": "equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 TPT outcomes - Stopped+Completed",
                 "displayDescription": "TB - HH - U5 TPT outcomes - Stopped+Completed",
@@ -7069,11 +9248,27 @@
                     "property": "INSTRUCTION",
                     "value": "El número de contactos menores de 5 años que han iniciado TPT debe ser igual o superior al número de contactos (menores de 5 años) que han Interrumpido TPT + aquellos que han completado TPT"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_TPT_U5_START_VS_COMPLETE",
+            "dimensionItem": "zrlrFkBaOW3",
+            "displayInstruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have completed TPT",
+            "externalAccess": false,
+            "favorite": false,
             "id": "zrlrFkBaOW3",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who have started TPT should be equal or superior to the number of contacts (under the age of 5) who have completed TPT",
@@ -7085,10 +9280,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts started on TPT vs U5 Completed",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 TPT outcomes - Completed",
                 "displayDescription": "TB - HH - U5 TPT outcomes - Completed",
@@ -7121,11 +9320,27 @@
                     "property": "NAME",
                     "value": "TB-HH - Contactos U5 iniciados en TPT vs U5 completados"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         },
         {
             "attributeValues": [],
             "code": "TB_HH_U5_TPT_ELIGIBLE_VS_START",
+            "dimensionItem": "oKihEXcYRxK",
+            "displayInstruction": "The number of contacts under the age of 5 who are eligible for TPT should be greater or equal to the number of TPT started contacts under the age of 5",
+            "externalAccess": false,
+            "favorite": false,
             "id": "oKihEXcYRxK",
             "importance": "MEDIUM",
             "instruction": "The number of contacts under the age of 5 who are eligible for TPT should be greater or equal to the number of TPT started contacts under the age of 5",
@@ -7137,10 +9352,14 @@
                 "slidingWindow": false,
                 "translations": []
             },
+            "legendSets": [],
             "name": "TB-HH - U5 Contacts TPT eligible vs started",
+            "notificationTemplates": [],
             "operator": "greater_than_or_equal_to",
             "organisationUnitLevels": [],
+            "periodOffset": 0,
             "periodType": "Quarterly",
+            "publicAccess": "rw------",
             "rightSide": {
                 "description": "TB - HH - U5 TPT contacts started",
                 "displayDescription": "TB - HH - U5 TPT contacts started",
@@ -7198,12 +9417,26 @@
                     "property": "NAME",
                     "value": "TB-Ménage - U5 Contacts éligibles TPT vs commencé"
                 }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "validationRuleGroups": [
+                {
+                    "id": "Of1Y0xxO5Xx"
+                }
             ]
         }
     ],
     "visualizations": [
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7212,6 +9445,7 @@
             "columnDimensions": [
                 "pe"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -7246,13 +9480,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.1_TPT cascade",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -7275,8 +9513,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -7335,6 +9576,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [],
             "sharing": {
                 "external": false,
@@ -7361,11 +9603,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.1_TPT cascade",
             "topLimit": 0,
             "translations": [],
             "type": "COLUMN",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -7373,6 +9639,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "axes": [
                 {
                     "index": 0,
@@ -7392,6 +9660,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -7414,13 +9683,18 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTargetLineLabel": "TARGET",
+            "displayTitle": "TBc_7.2_Contact screening coverage",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "NONE",
@@ -7439,8 +9713,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -7499,6 +9776,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7524,6 +9802,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "targetLineLabel": "TARGET",
             "targetLineValue": 90.0,
@@ -7547,6 +9826,29 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -7554,6 +9856,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "axes": [
                 {
                     "index": 0,
@@ -7573,6 +9877,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -7595,13 +9900,18 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTargetLineLabel": "TARGET",
+            "displayTitle": "TBc_7.3_TPT initiation among eligible contacts",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "NONE",
@@ -7620,8 +9930,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -7680,6 +9993,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7705,6 +10019,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "targetLineLabel": "TARGET",
             "targetLineValue": 90.0,
@@ -7718,6 +10033,29 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -7725,6 +10063,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "axes": [
                 {
                     "index": 0,
@@ -7744,6 +10084,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -7766,13 +10107,18 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTargetLineLabel": "TARGET",
+            "displayTitle": "TBc_7.4_TPT completion",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRowItems": "NONE",
@@ -7791,8 +10137,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -7851,6 +10200,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7876,6 +10226,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "targetLineLabel": "TARGET",
             "targetLineValue": 90.0,
@@ -7899,6 +10250,29 @@
                 }
             ],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -7906,6 +10280,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -7913,6 +10289,7 @@
             "columnDimensions": [
                 "pe"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -7959,13 +10336,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.1a_TPT overview",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
             "hideEmptyRows": false,
@@ -7986,8 +10367,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -8045,6 +10429,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": true,
+            "rows": [],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8070,11 +10455,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.1a_TPT overview",
             "topLimit": 0,
             "translations": [],
             "type": "PIVOT_TABLE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -8082,6 +10491,9 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8090,6 +10502,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8100,13 +10513,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.4_TPT stopped",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -8128,13 +10545,12 @@
             "optionalAxes": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
-            "organisationUnits": [
-                {
-                    "id": "<OU_ROOT_UID>"
-                }
-            ],
+            "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -8193,6 +10609,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [],
             "sharing": {
                 "external": false,
@@ -8219,6 +10636,7 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.4_TPT stopped",
             "topLimit": 0,
@@ -8230,13 +10648,38 @@
                 }
             ],
             "type": "LINE",
-            "userOrganisationUnit": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
+            "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8245,6 +10688,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8261,13 +10705,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.3a_TPT eligibility vs initiation",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -8290,8 +10738,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -8350,6 +10801,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [
                 {
                     "axis": 0,
@@ -8386,11 +10838,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.3a_TPT eligibility vs initiation",
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -8398,6 +10874,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8406,6 +10884,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8422,13 +10901,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.3b_TPT eligibility vs initiation among children under 5 years of age",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -8451,8 +10934,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -8511,6 +10997,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [
                 {
                     "axis": 0,
@@ -8547,11 +11034,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.3b_TPT eligibility vs initiation among children under 5 years of age",
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -8559,6 +11070,8 @@
         },
         {
             "aggregationType": "DEFAULT",
+            "attributeDimensions": [],
+            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8567,6 +11080,7 @@
             "columnDimensions": [
                 "dx"
             ],
+            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8583,13 +11097,17 @@
                     }
                 }
             ],
+            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "favorites": [],
+            "displayTitle": "TBc_7.3c_TPT eligibility vs initiation among PLHIV",
+            "externalAccess": false,
+            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
+            "filters": [],
             "fontSize": "NORMAL",
             "fontStyle": {},
             "hideEmptyColumns": false,
@@ -8612,8 +11130,11 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
+            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
+            "programIndicatorDimensions": [],
+            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -8672,6 +11193,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "rows": [],
             "series": [
                 {
                     "axis": 0,
@@ -8708,11 +11230,35 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
+            "subscribed": false,
             "subscribers": [],
             "title": "TBc_7.3c_TPT eligibility vs initiation among PLHIV",
             "topLimit": 0,
             "translations": [],
             "type": "LINE",
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "bHLDx9I0XkE",
+                    "userGroupUid": "bHLDx9I0XkE"
+                },
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
