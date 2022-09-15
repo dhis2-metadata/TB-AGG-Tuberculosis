@@ -7724,7 +7724,7 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_LAB",
-        "description": "TB Laboratory",
+        "description": "TB Laboratory (dashboard)",
         "lastUpdated": "20220914T150829",
         "locale": "en",
         "name": "TB_AGG_LAB_DSH_DHIS2.36.12-en",
