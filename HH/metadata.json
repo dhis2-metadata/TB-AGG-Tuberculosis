@@ -1336,10 +1336,10 @@
             "attributeValues": [],
             "categoryOptions": [
                 {
-                    "id": "UPvKbcqTEY3"
+                    "id": "afpMrUgPzl3"
                 },
                 {
-                    "id": "afpMrUgPzl3"
+                    "id": "UPvKbcqTEY3"
                 }
             ],
             "code": "GEN_LIB_AGG",
@@ -1762,13 +1762,13 @@
             ],
             "categoryOptionCombos": [
                 {
-                    "id": "RqyDFrUDkoc"
-                },
-                {
                     "id": "lYKDjAH090w"
                 },
                 {
                     "id": "EW1nknsma47"
+                },
+                {
+                    "id": "RqyDFrUDkoc"
                 },
                 {
                     "id": "dfu6ZsanJkt"
@@ -3637,6 +3637,14 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "i0A7NK3fzXI"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "RWNXWTrRGG9"
                     },
                     "dataSet": {
@@ -3645,7 +3653,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "i0A7NK3fzXI"
+                        "id": "vHJg9RWzMyo"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -3661,14 +3669,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "fbAdmzvjLuY"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "UIHbSe2XmPa"
                     },
                     "dataSet": {
@@ -3677,7 +3677,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CyOAgl64a0b"
+                        "id": "fbAdmzvjLuY"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -3685,7 +3685,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "vHJg9RWzMyo"
+                        "id": "CyOAgl64a0b"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -5834,7 +5834,7 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_HH",
-        "description": "TB Household Contacts",
+        "description": "TB Household Contacts (aggregate)",
         "lastUpdated": "20220914T130414",
         "locale": "en",
         "name": "TB_AGG_HH_AGG_DHIS2.36.12-en",
