@@ -1,14 +1,14 @@
 # Release Note
 
-## Version 1.4.1
+## 1.4.1
 
 French translations added to all package components.
 
-## Version 1.4.0
+## 1.4.0
 
 Revised package including a new component: Laboratory data set and dashboard.
 
-## Version 1.1.1
+## 1.1.1
 
 * Included user group `UKWx4jJcrKt` "TB data capture", which has data capture rights on all data shareable objects (only in the complete package)
 * Changed publicaccess sharing to metadata view and data view.
