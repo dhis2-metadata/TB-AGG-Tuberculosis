@@ -394,16 +394,7 @@
                     "id": "nGCQAmBS1FS"
                 },
                 {
-                    "id": "zckiMYozzGG"
-                },
-                {
-                    "id": "DPgSFO4P0G1"
-                },
-                {
                     "id": "f8lltD3tQUu"
-                },
-                {
-                    "id": "cu3Jmt4ssWN"
                 },
                 {
                     "id": "hGuPYnbkgi5"
@@ -412,16 +403,31 @@
                     "id": "G8gM2ieiAUL"
                 },
                 {
-                    "id": "bRhf49ZNckC"
-                },
-                {
                     "id": "h8PkcXUYxJV"
                 },
                 {
-                    "id": "ZckswElv9Yb"
+                    "id": "fuRVy1cawRG"
                 },
                 {
-                    "id": "fuRVy1cawRG"
+                    "id": "VG2F54Lx35r"
+                },
+                {
+                    "id": "gFvh80a5vdF"
+                },
+                {
+                    "id": "zckiMYozzGG"
+                },
+                {
+                    "id": "DPgSFO4P0G1"
+                },
+                {
+                    "id": "cu3Jmt4ssWN"
+                },
+                {
+                    "id": "bRhf49ZNckC"
+                },
+                {
+                    "id": "ZckswElv9Yb"
                 },
                 {
                     "id": "d4w3j5nmQbb"
@@ -430,13 +436,7 @@
                     "id": "ETPT25L7LLY"
                 },
                 {
-                    "id": "VG2F54Lx35r"
-                },
-                {
                     "id": "gVGb56B4e0o"
-                },
-                {
-                    "id": "gFvh80a5vdF"
                 },
                 {
                     "id": "oemqpmb3dsz"
@@ -716,9 +716,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts ayant terminé le TPT"
                 },
                 {
                     "locale": "es_US",
@@ -726,12 +726,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts terminés TPT"
+                },
+                {
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -741,9 +746,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts terminés TPT"
                 },
                 {
                     "locale": "ar_IQ",
@@ -756,17 +761,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_cmplt"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -814,7 +834,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts dépistés parmi ceux identifiés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_screen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_ident"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Couverture du dépistage des contacts"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Couverture du dépistage des contacts (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -858,7 +904,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage (0-4)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Couverture du dépistage des contacts chez les enfants de moins de 5 ans (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_screen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_04_ident"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (enfants de moins de 5 ans) dépistés parmi ceux (enfants de moins de 5 ans) identifiés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Couverture du dépistage des contacts (0-4)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -902,7 +974,33 @@
                 "users": {}
             },
             "shortName": "Contact screening coverage (PLHIV)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (PVVIH) dépistés parmi ceux (PVVIH) identifiés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Couverture du dépistage des contacts (PVVIH)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_screen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Couverture du dépistage des contacts parmi les PVVIH (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_ident"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -953,19 +1051,29 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_elig"
+                },
+                {
                     "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts éligibles au TPT"
                 },
                 {
                     "locale": "cs",
@@ -983,14 +1091,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "TB-HH - Kontakty způsobilé pro TPT"
-                },
-                {
                     "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Contactos elegibles para TPT"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "TB-HH - Kontakty způsobilé pro TPT"
                 },
                 {
                     "locale": "es_US",
@@ -1098,12 +1206,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1113,17 +1221,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1138,9 +1236,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts éligibles au TPT U5"
                 },
                 {
                     "locale": "ru",
@@ -1149,6 +1247,36 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts éligibles au TPT de moins de 5 ans"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts éligibles au TPT de moins de 5 ans"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_elig"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -1198,9 +1326,9 @@
             "shortName": "Contacts identified",
             "translations": [
                 {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Identifikované kontakty"
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "fr",
@@ -1208,17 +1336,17 @@
                     "value": "Contacts identifiés"
                 },
                 {
-                    "locale": "fr",
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Identifikované kontakty"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1258,12 +1386,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_ident"
                 },
                 {
-                    "locale": "pt",
+                    "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1273,9 +1401,19 @@
                     "value": "TB-Hogar - Contactos identificados"
                 },
                 {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "es",
                     "property": "SHORT_NAME",
                     "value": "Contactos identificados"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts identifiés"
                 },
                 {
                     "locale": "es_US",
@@ -1353,17 +1491,12 @@
                     "value": "TB-Ménage - Contacts dépistés"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1371,6 +1504,16 @@
                     "locale": "es_US",
                     "property": "NAME",
                     "value": "TB-Hogar - Contactos examinados"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_screen"
                 },
                 {
                     "locale": "cs",
@@ -1423,6 +1566,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts dépistés"
+                },
+                {
                     "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -1433,14 +1581,14 @@
                     "value": "TB-HH - Prověřené kontakty"
                 },
                 {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Contacts dépistés"
-                },
-                {
                     "locale": "es_US",
                     "property": "SHORT_NAME",
                     "value": "Contactos examinados"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts dépistés"
                 }
             ],
             "user": {
@@ -1493,12 +1641,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1508,19 +1656,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx"
                 },
                 {
                     "locale": "ar_IQ",
@@ -1533,9 +1676,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts qui ont commencé TPT"
                 },
                 {
                     "locale": "ru",
@@ -1546,6 +1689,31 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Les contacts ont commencé le TPT"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Les contacts ont commencé TPT"
                 }
             ],
             "user": {
@@ -1598,12 +1766,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1613,9 +1781,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts arrêtés TPT"
                 },
                 {
                     "locale": "cs",
@@ -1623,9 +1791,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts qui ont arrêté le TPT"
                 },
                 {
                     "locale": "ar_IQ",
@@ -1638,9 +1806,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts arrêtés TPT"
                 },
                 {
                     "locale": "ru",
@@ -1649,6 +1817,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_stop"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -1703,12 +1891,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts de moins de 5 ans dépistés"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1718,17 +1911,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1743,9 +1926,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts U5 dépistés"
                 },
                 {
                     "locale": "ru",
@@ -1754,6 +1937,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts de moins de 5 ans dépistés"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_screen"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -1808,12 +2016,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts PVVIH dépistés"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1823,17 +2036,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1843,12 +2046,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts avec un statut VIH+ connu dépistés"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1859,6 +2062,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts dont le statut VIH+ est connu dépistés"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_screen"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -1913,12 +2141,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -1928,9 +2156,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_elig"
                 },
                 {
                     "locale": "cs",
@@ -1938,9 +2166,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Contacts éligibles au TPT PVVIH"
                 },
                 {
                     "locale": "ar_IQ",
@@ -1953,9 +2181,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Contacts PVVIH éligibles au TPT"
                 },
                 {
                     "locale": "ru",
@@ -1964,6 +2192,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de contacts séropositifs éligibles au TPT"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -2018,12 +2266,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -2033,9 +2281,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Cas index de tuberculose identifiés"
                 },
                 {
                     "locale": "cs",
@@ -2043,9 +2296,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB CI identifié"
                 },
                 {
                     "locale": "ar_IQ",
@@ -2058,17 +2311,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cas index de tuberculose identifiés"
+                },
+                {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -2116,7 +2384,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment completion (0-4)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (enfants de moins de 5 ans) qui ont terminé le TPT par rapport à ceux (enfants de moins de 5 ans) qui ont commencé le TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Achèvement du traitement préventif de la tuberculose (0-4)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Achèvement du traitement préventif de la tuberculose chez les enfants de moins de 5 ans (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_prevtx_cmplt"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_04_prevtx_coh"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2160,7 +2454,33 @@
                 "users": {}
             },
             "shortName": "TPT completion (PLHIV)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_prevtx_coh"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Achèvement du traitement préventif de la tuberculose chez les PVVIH (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (PVVIH) qui ont terminé le TPT parmi ceux (PVVIH) qui ont commencé le TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Achèvement du TPT (PVVIH)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_prevtx_cmplt"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2204,7 +2524,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts qui ont commencé le TPT parmi ceux qui étaient éligibles au TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "initiation du traitement préventif TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - initiation du traitement préventif de la tuberculose (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_elig"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2248,7 +2594,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation (0-4)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - TB preventive treatment initiation among children aged under 5 (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "initiation du traitement préventif de la TB (0-4)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_04_elig"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (enfants de moins de 5 ans) ayant commencé le TPT parmi ceux (enfants de moins de 5 ans) éligibles au TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_prevtx"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2292,7 +2664,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment initiation (PLHIV)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH - Début du traitement préventif TB chez les PVVIH (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Initiation au traitement préventif de la tuberculose (PVVIH)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (PVVIH) ayant commencé le TPT parmi ceux (PVVIH) éligibles au TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_elig"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_plhiv_prevtx"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2336,7 +2734,33 @@
                 "users": {}
             },
             "shortName": "TB preventive treatment completed",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_coh"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_cmplt"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Résultats du traitement préventif de la tuberculose - terminé (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts qui ont terminé le TPT par rapport à ceux qui ont commencé le TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Traitement préventif de la TB terminé"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2380,7 +2804,33 @@
                 "users": {}
             },
             "shortName": "TPT stopped",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH - Issues du traitement préventif de la tuberculose - arrêté (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_coh"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_prevtx_stop"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TPT arrêté"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts qui ont arrêté le TPT par rapport à ceux qui ont commencé le TPT"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2396,8 +2846,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_HH",
-        "description": "TB Household Contacts (dashboard)",
-        "lastUpdated": "20220914T130414",
+        "description": "TB Household Contacts Dashboard",
+        "lastUpdated": "20221024T123025",
         "locale": "en",
         "name": "TB_AGG_HH_DSH_DHIS2.36.12-en",
         "type": "DSH",
@@ -2992,7 +3442,18 @@
             "subscribers": [],
             "title": "TBc_7.1_TPT cascade",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.1_TPT Cascade "
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-001"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -3200,6 +3661,16 @@
                     "value": "TB-HH-002"
                 },
                 {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.2_Couverture du dépistage des contacts"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-002"
+                },
+                {
                     "locale": "cs",
                     "property": "title",
                     "value": "TBc_7.2_Pokrytí screeningu kontaktů"
@@ -3208,6 +3679,11 @@
                     "locale": "cs",
                     "property": "targetLineLabel",
                     "value": "CÍL"
+                },
+                {
+                    "locale": "fr",
+                    "property": "targetLineLabel",
+                    "value": "CIBLE"
                 }
             ],
             "type": "LINE",
@@ -3412,9 +3888,24 @@
             "topLimit": 0,
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-003"
+                },
+                {
                     "locale": "cs",
                     "property": "targetLineLabel",
                     "value": "CÍL"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.3_Initiation TPT parmi les contacts éligibles"
+                },
+                {
+                    "locale": "fr",
+                    "property": "targetLineLabel",
+                    "value": "CIBLE"
                 }
             ],
             "type": "LINE",
@@ -3624,9 +4115,24 @@
                     "value": "TB-HH-004"
                 },
                 {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.4_TPT Achèvement "
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-004"
+                },
+                {
                     "locale": "cs",
                     "property": "targetLineLabel",
                     "value": "CÍL"
+                },
+                {
+                    "locale": "fr",
+                    "property": "targetLineLabel",
+                    "value": "CIBLE"
                 },
                 {
                     "locale": "cs",
@@ -3844,7 +4350,18 @@
             "subscribers": [],
             "title": "TBc_7.1a_TPT overview",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.1a_Aperçu TPT"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-005"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -4030,6 +4547,16 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "TB-HH-006"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-006"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.4_TPT arrêté"
                 }
             ],
             "type": "LINE",
@@ -4227,7 +4754,18 @@
             "subscribers": [],
             "title": "TBc_7.3a_TPT eligibility vs initiation",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-007"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.3a_Éligibilité TPT vs initiation"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -4423,7 +4961,18 @@
             "subscribers": [],
             "title": "TBc_7.3b_TPT eligibility vs initiation among children under 5 years of age",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-008"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.3b_Éligibilité au TPT vs initiation chez les enfants de moins de 5 ans"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -4619,7 +5168,18 @@
             "subscribers": [],
             "title": "TBc_7.3c_TPT eligibility vs initiation among PLHIV",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-HH-009"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "TBc_7.3c_Eligibilité au TPT vs initiation chez les PVVIH"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
