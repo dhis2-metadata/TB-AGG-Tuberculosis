@@ -36,7 +36,18 @@
                 "users": {}
             },
             "shortName": "TB case types",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Type de cas TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Type de cas TB"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -92,7 +103,13 @@
                 "users": {}
             },
             "shortName": "TB - Culture results (tests)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Résultats de culture (tests)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -154,7 +171,13 @@
                 "users": {}
             },
             "shortName": "TB - Microscopy results",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Résultats de microscopie"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -216,7 +239,13 @@
                 "users": {}
             },
             "shortName": "TB - Xpert results (tests)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Résultats Xpert (tests)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -1781,7 +1810,18 @@
                 "users": {}
             },
             "shortName": "Presumptive TB cases",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cas présumés de tuberculose"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Cas présumés de tuberculose"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -1825,7 +1865,7 @@
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "Rares"
+                    "value": "Faible"
                 },
                 {
                     "locale": "ru",
@@ -1845,7 +1885,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Rares"
+                    "value": "Faible"
                 },
                 {
                     "locale": "cs",
@@ -1902,7 +1942,18 @@
                 "users": {}
             },
             "shortName": "TB case monitoring",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Surveillance des cas de tuberculose"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Surveillance des cas de tuberculose"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2866,7 +2917,13 @@
                 },
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB9. Laboratoire"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -2942,10 +2999,10 @@
                     "id": "Pi9lRK14zkH"
                 },
                 {
-                    "id": "ycdMYu5PdTu"
+                    "id": "SlhRDBx1dqN"
                 },
                 {
-                    "id": "SlhRDBx1dqN"
+                    "id": "ycdMYu5PdTu"
                 },
                 {
                     "id": "uvXdjbkkrLi"
@@ -2957,10 +3014,10 @@
                     "id": "Eo8uQqnwMNH"
                 },
                 {
-                    "id": "ljDQhAgtCPQ"
+                    "id": "z0xLTyl294U"
                 },
                 {
-                    "id": "z0xLTyl294U"
+                    "id": "ljDQhAgtCPQ"
                 },
                 {
                     "id": "GiRwSYCuwq8"
@@ -2990,10 +3047,10 @@
                     "id": "s6jUG4c6A7C"
                 },
                 {
-                    "id": "ByuTyZ4nN9e"
+                    "id": "Kyex0bAB8FQ"
                 },
                 {
-                    "id": "Kyex0bAB8FQ"
+                    "id": "ByuTyZ4nN9e"
                 },
                 {
                     "id": "Bs7aunLuXHJ"
@@ -3008,13 +3065,13 @@
                     "id": "Vza0JfpIAqJ"
                 },
                 {
-                    "id": "Uz5V23TA2IW"
+                    "id": "fSobhe0AWrL"
                 },
                 {
                     "id": "ZnTE64yZ6L0"
                 },
                 {
-                    "id": "fSobhe0AWrL"
+                    "id": "Uz5V23TA2IW"
                 },
                 {
                     "id": "p8tl4ORL6xr"
@@ -3143,7 +3200,13 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Tuberculose - Laboratoire"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3448,7 +3511,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Average LCM TAT",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Délai moyen d'exécution de la culture liquide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - DdE MCL moyen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Echantillons testés par culture liquide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - DdE de culture liquide pour l'inoculation des échantillons (jours totaux)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3497,6 +3581,21 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB-LAB - Echantillons testés par microscopie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Microscopie moyenne DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Délai d'exécution de la microscopie (nombre total de jours)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Délai d'exécution moyen en microscopie"
                 }
             ],
             "user": {
@@ -3542,7 +3641,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Average SCM TAT",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Délai moyen d'exécution des cultures solides"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - DdE MCS moyen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Echantillons testés par culture solide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Culture solide DdE pour l'inoculation des échantillons (jours totaux)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3608,17 +3728,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -3633,11 +3743,6 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -3646,6 +3751,36 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture diagnostique par résultat"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de culture diagnostiques (toute méthode)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de culture"
                 }
             ],
             "user": {
@@ -3691,7 +3826,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Culture tests - no growth/contam %",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture diagnostiques par résultat - Pas de croissance, Contamination"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de culture diagnostiques sans croissance ni contamination (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de culture - pas de croissance/contamination %"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de diagnostic en culture liquide par résultat"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3757,17 +3913,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -3782,17 +3928,42 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -3840,7 +4011,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading + (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"+\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie classement + (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"+\""
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3884,7 +4076,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading ++ (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie classement ++ (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3928,7 +4141,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading +++ (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"+++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"+++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie classement +++ (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3972,7 +4206,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading scanty (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"Faible\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie avec classement faible (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"faible\" (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4016,7 +4271,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests - negative (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"Faible\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie - négatifs (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec résultat négatif (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4060,7 +4336,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - MTB-Taux de positivité pour la culture (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité du diagnostic MTB pour la culture (toute méthode) (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - MTB"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4104,7 +4401,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - NTM-Positivity rate for culture (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - NTM"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - NTM-Taux de positivité pour la culture (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique des NTB pour la culture (toute méthode) (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4149,7 +4467,33 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity - any lab diganostic (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique pour tout diagnostic de laboratoire (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Taux de positivité indépendant du type de test diagnostique"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas avec des résultats positifs (tout test de diagnostic de laboratoire)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Positivité - tout diagnostic de laboratoire (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par n'importe quel test de diagnostic de laboratoire"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4193,7 +4537,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate for microscopy (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Taux de positivité pour la microscopie (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés TB avec résultat de microscopie valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique pour la microscopie (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4237,7 +4602,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide MTB détecté"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4281,7 +4667,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF Ultra",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - MTB détecté"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF Ultra"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4347,17 +4754,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4372,9 +4769,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF"
                 },
                 {
                     "locale": "ru",
@@ -4383,6 +4780,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -4430,7 +4852,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - non/inv. résultat %"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF sans résultat, résultat invalide ou erreur (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4481,6 +4924,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF - invalide, pas de résultat, erreur"
+                },
+                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -4496,17 +4944,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF Ultra"
                 },
                 {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4521,17 +4964,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -4579,7 +5037,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - non/inv. résultat %"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4623,7 +5102,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+\" (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas positifs à la microscopie avec classement \"+\" (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4667,7 +5167,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"++\" (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas positifs en microscopie avec classement \"++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"++\" (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4711,7 +5232,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+++\" (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas positifs en microscopie avec un classement \"+++\" (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4755,7 +5297,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - scanty (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB – Cas positifs à la microscopie avec un classement \"Faible\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas positifs à la microscopie - Faible (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"Faible\""
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -4806,6 +5369,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par n'importe quel diagnostic de laboratoire"
+                },
+                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -4821,17 +5389,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés testés par n'importe quel diagnostic de laboratoire"
                 },
                 {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4841,12 +5404,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par n'importe quel diagnostic de laboratoire"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4857,6 +5420,21 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -4926,19 +5504,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés testés par n'importe quelle méthode de culture"
                 },
                 {
                     "locale": "ar_IQ",
@@ -4951,17 +5524,37 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par culture (toute méthode)"
+                },
+                {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par culture (toute méthode)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5031,17 +5624,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5056,17 +5639,42 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par culture liquide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par culture liquide - Cas présumés"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par culture liquide"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5136,17 +5744,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5156,12 +5754,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par microscopie"
                 },
                 {
-                    "locale": "nb",
+                    "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5172,6 +5770,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par microscopie - Cas présumés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par microscopie"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5241,17 +5864,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5266,9 +5879,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés sur culture solide - Cas présumés"
                 },
                 {
                     "locale": "ru",
@@ -5277,6 +5890,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par culture solide"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par culture solide"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5346,19 +5984,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Boîtiers testés par Xpert MTB/RIF"
                 },
                 {
                     "locale": "ar_IQ",
@@ -5371,9 +6004,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF"
                 },
                 {
                     "locale": "ru",
@@ -5382,6 +6015,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF - Cas présumés"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5451,19 +6104,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF Ultra"
                 },
                 {
                     "locale": "ar_IQ",
@@ -5476,17 +6124,37 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF Ultra - Cas présomptifs"
+                },
+                {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5534,7 +6202,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifInd rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas Rif-indéterminés détectés par Xpert MTB/RIF (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour MTB avec résultat Rifampicine par Xpert MTB/RIF - Indéterminé"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le VTT avec résultat Rifampicine par Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - Tarif RifInd"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5578,7 +6267,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifInd rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - Taux RifInd"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas Rif-indéterminés détectés par Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra - Indéterminé"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5621,7 +6331,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifR rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - Taux RifR"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas résistants au Rif détectés par Xpert MTB/RIF (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF - Résistant"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le VTT avec résultat Rifampicine par Xpert MTB/RIF"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5665,7 +6396,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifR rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - Taux RifR"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas résistants au Rif détectés par Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra - Résistant"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5709,7 +6461,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifSus rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - Taux RifSus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas sensibles au RIF détectés par Xpert MTB/RIF (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF - Susceptibles"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le VTT avec résultat Rifampicine par Xpert MTB/RIF"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5753,7 +6526,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifSus rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - Taux RifSus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas sensibles au RIF détectés par Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra - Susceptible"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5797,7 +6591,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Sample loss rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB collectés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB perdus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Taux de perte d'échantillon"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de perte d'échantillon (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5841,7 +6656,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Sample rejection rate",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB rejetés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de rejet des échantillons (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Taux de rejet des échantillons"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -5907,17 +6743,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5932,9 +6758,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons perdus"
                 },
                 {
                     "locale": "ru",
@@ -5943,6 +6769,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB perdus"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons perdus"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -6012,19 +6863,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB reçus"
                 },
                 {
                     "locale": "ar_IQ",
@@ -6037,17 +6883,37 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons reçus"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons reçus"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -6102,6 +6968,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB rejetés"
+                },
+                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -6117,19 +6988,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
                 },
                 {
                     "locale": "ar_IQ",
@@ -6142,17 +7008,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -6222,17 +7103,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6247,9 +7118,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Cas testés par culture (toute méthode)"
                 },
                 {
                     "locale": "ru",
@@ -6258,6 +7134,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -6305,7 +7201,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 0 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 0 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6349,7 +7266,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 10 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 10 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 10 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 10 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6393,7 +7331,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 11+ days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 11+ jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE - 11+ jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 11+ jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6437,7 +7396,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 1 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 1 jour"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6481,7 +7461,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 2 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - MCL DdE 2 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 2 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 2 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6525,7 +7526,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 3 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 3 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 3 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 3 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6569,7 +7591,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 4 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 4 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 4 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 4 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6613,7 +7656,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 5 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 5 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 5 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 5 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6657,7 +7721,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 6 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 6 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 6 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 6 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6701,7 +7786,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 7 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 7 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 7 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 7 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6744,7 +7850,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 8 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 8 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 8 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 8 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6788,7 +7915,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 9 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 9 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 9 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 9 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6832,7 +7980,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 0 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 0 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6876,7 +8045,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 1 day (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 1 jour"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6920,7 +8110,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 2 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Prélèvements - Microscopie DdE 2 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 2 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 2 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -6964,7 +8175,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 3 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 3 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 3 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 3 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7008,7 +8240,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 4 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 4 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 4 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 4 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7052,7 +8305,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 5 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 5 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 5 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 5 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7099,8 +8373,23 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 6+ jours (%)"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
                     "value": "TB-LAB - Diagnostic - Echantillons avec délai microscopie de 6+ j (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 6+ jours"
                 }
             ],
             "user": {
@@ -7146,7 +8435,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 0 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 0 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7190,7 +8500,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 10 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 10 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 10 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 10 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7234,7 +8565,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 11+ days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 11+ jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 11+ jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 11+ jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7278,7 +8630,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 1 jour"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7322,7 +8695,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 2 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 2 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 2 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 2 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7366,7 +8760,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 3 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 3 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 3 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 3 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7410,7 +8825,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 4 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 4 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 4 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 4 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7454,7 +8890,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 5 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 5 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 5 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 5 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7498,7 +8955,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 6 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 6 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 6 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 6 jours (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7542,7 +9020,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 7 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 7 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 7 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 7 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7586,7 +9085,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 8 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 8 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 8 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 8 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7630,7 +9150,28 @@
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 9 days (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 9 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - MCS DdE 9 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 9 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -7646,8 +9187,8 @@
         "DHIS2Build": "23c23c5",
         "DHIS2Version": "2.37.7.1",
         "code": "TB_AGG_LAB",
-        "description": "TB Laboratory (dashboard)",
-        "lastUpdated": "20220914T150829",
+        "description": "TB Laboratory Dashboard",
+        "lastUpdated": "20221024T123024",
         "locale": "en",
         "name": "TB_AGG_LAB_DSH_DHIS2.37.7.1-en",
         "type": "DSH",
@@ -8248,7 +9789,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Samples received",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Échantillons reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-001"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -8453,7 +10010,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Sample loss rate (%)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de perte d'échantillon (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-002"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -8658,7 +10231,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Sample rejection rate (%)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de rejet d'échantillon (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-003"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -8882,7 +10471,18 @@
             "subscribers": [],
             "title": "Presumptive TB cases by type of test",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Cas présumés de tuberculose par type de test"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-004"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -9079,7 +10679,23 @@
             "subtitle": "TB diagnostics",
             "title": "Laboratory positivity rate among presumptive TB cases",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité en laboratoire parmi les cas présumés de tuberculose"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-005"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -9276,7 +10892,23 @@
             "subtitle": "TB diagnostics",
             "title": "Microscopy positivity rate",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité en microscopie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-006"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -9492,7 +11124,23 @@
             "subtitle": "TB diagnostics",
             "title": "Microscopy-positive cases by grade",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-007"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Cas positifs à la microscopie par notation"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -9706,7 +11354,23 @@
             "subtitle": "TB diagnostics",
             "title": "Microscopy tests by result",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-008"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests de microscopie par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -9932,7 +11596,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Turnaround time for microscopy sample processing",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-009"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Délai d'exécution pour le traitement des échantillons de microscopie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "STACKED_BAR",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -10129,7 +11809,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Average turnaround time for microscopy sample processing",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-010"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Délai d'exécution moyen pour le traitement des échantillons de microscopie"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -10326,7 +12022,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF positivity rate",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-011"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -10528,7 +12240,23 @@
             "subtitle": "TB diagnostics",
             "title": "Cases with Rifampicin result by Xpert MTB/RIF",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-012"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Cas avec résultat Rifampicine par Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -10742,7 +12470,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF tests by result",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-013"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -10932,7 +12676,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF tests with no result, invalid result or error",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests Xpert MTB/RIF sans résultat, résultat invalide ou erreur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-014"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -11129,7 +12889,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF Ultra positivity rate",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-015"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -11331,7 +13107,23 @@
             "subtitle": "TB diagnostics",
             "title": "Cases with Rifampicin result by Xpert MTB/RIF Ultra",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Cas avec résultat Rifampicine par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-016"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -11545,7 +13337,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF Ultra tests by result",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests Xpert MTB/RIF Ultra par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-017"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -11735,7 +13543,23 @@
             "subtitle": "TB diagnostics",
             "title": "Xpert MTB/RIF Ultra tests with no result, invalid result or error",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-018"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -11926,7 +13750,23 @@
             "subtitle": "TB diagnostics",
             "title": "MTB-positivity rate for culture (any method)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-019"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité MTB pour la culture (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -12117,7 +13957,23 @@
             "subtitle": "TB diagnostics",
             "title": "NTM-positivity rate for culture (any method)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Taux de positivité des MNT pour la culture (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-020"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -12328,7 +14184,23 @@
             "subtitle": "TB diagnostics",
             "title": "Culture tests by result (any method)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-021"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests de culture par résultat (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "STACKED_COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -12518,7 +14390,23 @@
             "subtitle": "TB diagnostics",
             "title": "Culture tests with no growth or contamination (any method)",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Tests de culture sans croissance ni contamination (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-022"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic de la tuberculose"
+                }
+            ],
             "type": "LINE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -12814,7 +14702,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Turnaround time for solid culture sample inoculation",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-023"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Turnaround time for solid culture sample inoculation"
+                }
+            ],
             "type": "STACKED_BAR",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13011,7 +14915,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Average turnaround time for solid culture sample inoculation",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Délai d'exécution moyen pour l'inoculation d'échantillons de culture solide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-024"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13263,7 +15183,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Turnaround time for liquid culture sample inoculation",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Délai d'exécution pour l'inoculation des échantillons de culture liquide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-025"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "STACKED_BAR",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13460,7 +15396,23 @@
             "subtitle": "TB diagnostics and monitoring",
             "title": "Average turnaround time for liquid culture sample inoculation",
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB-026"
+                },
+                {
+                    "locale": "fr",
+                    "property": "title",
+                    "value": "Délai d'exécution moyen pour l'inoculation des échantillons de culture liquide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "subtitle",
+                    "value": "Diagnostic et surveillance de la tuberculose"
+                }
+            ],
             "type": "COLUMN",
             "user": {
                 "id": "vUeLeQMSwhN",
