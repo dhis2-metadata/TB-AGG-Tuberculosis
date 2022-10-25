@@ -1399,9 +1399,9 @@
                     "value": "Médicaments TB-PR jetés"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "FORM_NAME",
-                    "value": "Drogas DR-TB descartadas"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - médicaments TB-PR jetés"
                 },
                 {
                     "locale": "pt",
@@ -1409,9 +1409,9 @@
                     "value": "TB - Drogas DR-TB descartadas"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - médicaments TB-PR jetés"
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Drogas DR-TB descartadas"
                 },
                 {
                     "locale": "pt",
@@ -1432,6 +1432,11 @@
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "TB - Drogas DR-TB descartadas"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante écartés au cours de la période de rapport (périmés, endommagés, etc.)"
                 },
                 {
                     "locale": "pt_BR",
@@ -1495,9 +1500,24 @@
             "shortName": "DR-TB drugs issued",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments contre la TB pharmacorésistante émis"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "FORM_NAME",
                     "value": "Medicamentos para TB-DR administrados à pacientes"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante émis aux patients au cours de la période de référence"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments contre la TB pharmacorésistante émis"
                 },
                 {
                     "locale": "fr",
@@ -1682,14 +1702,14 @@
             "shortName": "DR-TB drugs received",
             "translations": [
                 {
-                    "locale": "pt",
-                    "property": "FORM_NAME",
-                    "value": "Drogas DR-TB recebidas"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Médicaments TB-PR reçus"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Drogas DR-TB recebidas"
                 },
                 {
                     "locale": "fr",
@@ -1705,6 +1725,11 @@
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Drogas DR-TB recebidas"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre TB pharmacorésistante reçus"
                 },
                 {
                     "locale": "pt_BR",
@@ -1793,6 +1818,11 @@
                     "value": "Drogas DR-TB redistribuídas"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante redistribués dans la chaîne d'approvisionnement et qui ne sont plus destinés aux patients de l'établissement de santé déclarant"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "FORM_NAME",
                     "value": "Drogas DR-TB redistribuídas"
@@ -1818,14 +1848,14 @@
                     "value": "TB - Médicaments TB-PR redistribués"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - medicamentos DR-TB redistribuídos"
-                },
-                {
                     "locale": "pt",
                     "property": "FORM_NAME",
                     "value": "Drogas DR-TB redistribuídas"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - medicamentos DR-TB redistribuídos"
                 }
             ],
             "user": {
@@ -1912,6 +1942,11 @@
                     "locale": "fr",
                     "property": "FORM_NAME",
                     "value": "Stock de médicaments TB-PR disponible"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante disponibles dans l'établissement après l'inventaire physique à la fin de la période de déclaration"
                 },
                 {
                     "locale": "fr",
@@ -2015,19 +2050,24 @@
                     "value": "Dias sem estoque de medicamentos para TB-DR"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de jours pendant lesquels l'établissement a été en rupture de stock de médicaments contre la tuberculose pharmacorésistante (à n'importe quel moment de la journée) au cours de la période de notification."
+                },
+                {
                     "locale": "pt_BR",
                     "property": "FORM_NAME",
                     "value": "Dias sem estoque de medicamentos para TB-DR"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Falta de estoque de medicamentos para TB-DR"
-                },
-                {
                     "locale": "fr",
                     "property": "FORM_NAME",
                     "value": "Jours de rupture de stock de médicaments TB-PR"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - Falta de estoque de medicamentos para TB-DR"
                 }
             ],
             "user": {
@@ -2116,6 +2156,11 @@
                     "value": "TB - médicaments TB-PS jetés"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS jetés au cours de la période de rapport (périmés, endommagés, etc.)"
+                },
+                {
                     "locale": "pt",
                     "property": "FORM_NAME",
                     "value": "Drogas DS-TB descartadas"
@@ -2187,9 +2232,9 @@
             "shortName": "DS-TB drugs issued",
             "translations": [
                 {
-                    "locale": "pt_BR",
-                    "property": "FORM_NAME",
-                    "value": "Medicamentos para TB-DS fornecidos à pacientes"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments antituberculeux DS émis"
                 },
                 {
                     "locale": "pt",
@@ -2197,9 +2242,24 @@
                     "value": "Medicamentos para TB-DS fornecidos à pacientes"
                 },
                 {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Medicamentos para TB-DS fornecidos à pacientes"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS émis aux patients au cours de la période de référence"
+                },
+                {
                     "locale": "fr",
                     "property": "FORM_NAME",
                     "value": "Médicaments TB-PS délivrés aux patients"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments DS-TB émis"
                 }
             ],
             "user": {
@@ -2375,13 +2435,13 @@
             "translations": [
                 {
                     "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Drogas DS-TB recebidas"
+                    "property": "NAME",
+                    "value": "TB - medicamentos DS-TB recebidos"
                 },
                 {
                     "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - medicamentos DS-TB recebidos"
+                    "property": "SHORT_NAME",
+                    "value": "Drogas DS-TB recebidas"
                 },
                 {
                     "locale": "fr",
@@ -2412,6 +2472,11 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Médicaments TB-PS reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS reçus"
                 },
                 {
                     "locale": "pt_BR",
@@ -2475,14 +2540,14 @@
             "shortName": "DS-TB drugs redistributed",
             "translations": [
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - medicamentos DS-TB redistribuídos"
-                },
-                {
                     "locale": "fr",
                     "property": "FORM_NAME",
                     "value": "Médicaments TB-PS redistribués"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - medicamentos DS-TB redistribuídos"
                 },
                 {
                     "locale": "pt_BR",
@@ -2498,6 +2563,11 @@
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Medicamentos DS-TB redistribuídos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS redistribués dans la chaîne d'approvisionnement et qui ne sont plus destinés aux patients de l'établissement de santé déclarant"
                 },
                 {
                     "locale": "fr",
@@ -2510,14 +2580,14 @@
                     "value": "Medicamentos DS-TB redistribuídos"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Medicamentos DS-TB redistribuídos"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Médicaments TB-PS redistribués"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Medicamentos DS-TB redistribuídos"
                 }
             ],
             "user": {
@@ -2581,11 +2651,6 @@
                     "value": "TB - Estoque de medicamentos DS-TB disponível"
                 },
                 {
-                    "locale": "pt",
-                    "property": "FORM_NAME",
-                    "value": "Estoque de medicamentos DS-TB disponível"
-                },
-                {
                     "locale": "fr",
                     "property": "FORM_NAME",
                     "value": "Stock de médicaments TB-PS disponible"
@@ -2596,9 +2661,14 @@
                     "value": "TB - Stock de médicaments TB-PS disponible"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Estoque de medicamentos DS-TB disponível"
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Estoque de medicamentos DS-TB disponível"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS disponibles dans l'établissement après l'inventaire physique à la fin de la période de déclaration"
                 },
                 {
                     "locale": "fr",
@@ -2607,12 +2677,17 @@
                 },
                 {
                     "locale": "pt_BR",
-                    "property": "FORM_NAME",
-                    "value": "Estoque de medicamentos DS-TB disponível"
+                    "property": "NAME",
+                    "value": "TB - Estoque de medicamentos DS-TB disponível"
                 },
                 {
                     "locale": "pt",
                     "property": "SHORT_NAME",
+                    "value": "Estoque de medicamentos DS-TB disponível"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
                     "value": "Estoque de medicamentos DS-TB disponível"
                 },
                 {
@@ -2717,6 +2792,11 @@
                     "value": "Jours de rupture de stock de médicaments TB-PS"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de jours pendant lesquels l'établissement a été en rupture de stock de médicaments antituberculeux DS (à tout moment de la journée) au cours de la période de notification."
+                },
+                {
                     "locale": "pt_BR",
                     "property": "FORM_NAME",
                     "value": "Dias de estoque de medicamentos DS-TB"
@@ -2779,8 +2859,23 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Établissements avec jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante signalés"
+                },
+                {
+                    "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Ce champ est calculé par un prédicteur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "HF avec jours de rupture de stock de médicaments contre la TB pharmacorésistante signalés"
                 }
             ],
             "user": {
@@ -2842,6 +2937,21 @@
                     "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Ce champ est calculé par un prédicteur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Établissements avec des jours de rupture de stock de médicaments contre la TB DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec jours de rupture de stock de médicaments contre TB DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS avec DS-TB jours de rupture de stock de médicaments rapportés"
                 }
             ],
             "user": {
@@ -2901,8 +3011,23 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS avec cartouches GeneXpert jours de rupture de stock"
+                },
+                {
+                    "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Ce champ est calculé par un prédicteur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Installations avec des jours de rupture de stock de cartouches GeneXpert signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock de cartouches GeneXpert signalés"
                 }
             ],
             "user": {
@@ -2962,8 +3087,23 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Établissements sans jours de rupture de stock de médicaments contre la TB pharmacorésistante signalés"
+                },
+                {
+                    "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Ce champ est calculé par un prédicteur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS sans médicaments contre la TB pharmacorésistante jours de rupture de stock signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements sans jours de rupture de stock de médicaments contre la TB pharmacorésistante signalés"
                 }
             ],
             "user": {
@@ -3025,6 +3165,21 @@
                     "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Ce champ est calculé par un prédicteur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements sans jours de rupture de stock de médicaments antituberculeux DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Établissements sans jours de rupture de stock de médicaments contre la tuberculose-DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS sans DS-TB jours de rupture de stock signalés"
                 }
             ],
             "user": {
@@ -3157,7 +3312,28 @@
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges discarded",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert écartées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert écartées au cours de la période de rapport (périmées, endommagées, etc.)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Cartouches GeneXpert écartées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert écartées"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3212,7 +3388,28 @@
                 "users": {}
             },
             "shortName": "GeneXpert cartridges issued",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert émises aux patients au cours de la période de référence"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Cartouches GeneXpert émises aux patients"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert émises"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert émises"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3274,9 +3471,24 @@
                     "value": "Le solde d'ouverture correspond au « nombre de stocks disponibles selon un décompte manuel » physique du mois précédent ; cet élément de données reporte la valeur du mois précédent. Il est pré-rempli dans le formulaire de saisie de données en reportant la valeur du mois précédent et doit être saisi par l'utilisateur."
                 },
                 {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Bilan d'ouverture des cartouches GeneXpert"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "DESCRIPTION",
                     "value": "O saldo inicial é igual à 'contagem de estoque disponível' física do mês anterior; este elemento de dados transportou o valor do mês anterior. Ele é pré-preenchido no formulário de entrada de dados transportando o valor do mês anterior e não precisa ser inserido pelo utilizador."
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan d'ouverture des cartouches GeneXpert"
                 },
                 {
                     "locale": "pt",
@@ -3338,7 +3550,28 @@
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges received",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Cartouches GeneXpert reçues"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3393,7 +3626,28 @@
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges redistributed",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert redistribuées dans la chaîne d'approvisionnement et qui ne sont plus destinées aux patients de l'établissement de santé déclarant"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert redistribuées"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3448,7 +3702,28 @@
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock on hand",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Cartouches GeneXpert en stock"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert en stock"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert disponibles dans l'établissement après l'inventaire physique à la fin de la période de déclaration"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert en stock"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -3571,30 +3846,6 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "J3AIrRG01TD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fTKSvybB6Zh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WOStFrYxPd9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "tZuKlwig9lD"
                     },
                     "dataSet": {
@@ -3611,7 +3862,71 @@
                 },
                 {
                     "dataElement": {
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CxMUeg8LYid"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PNhNeVxy9Bs"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "k2MTMQpheOh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMvma7tGHrq"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cRNeiMflE2s"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "Z5hsBAh8pCC"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uXt7OH5811r"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfocuNP1nCG"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3627,7 +3942,15 @@
                 },
                 {
                     "dataElement": {
-                        "id": "PNhNeVxy9Bs"
+                        "id": "wqihyXhQuK9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QH1eMVEVhpn"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3651,70 +3974,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wMv5SrxZ7f6"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kfocuNP1nCG"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QH1eMVEVhpn"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CxMUeg8LYid"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oMvma7tGHrq"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uXt7OH5811r"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wqihyXhQuK9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k2MTMQpheOh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "V7rRkP7jYzO"
                     },
                     "dataSet": {
@@ -3723,7 +3982,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iJYk0mA3H4I"
+                        "id": "WOStFrYxPd9"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3731,7 +3990,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "cRNeiMflE2s"
+                        "id": "J3AIrRG01TD"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wMv5SrxZ7f6"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fTKSvybB6Zh"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -4329,12 +4604,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4344,17 +4619,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4369,11 +4634,6 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -4382,6 +4642,41 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan de clôture des médicaments contre la TB pharmacorésistante"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Bil de clôture des médicaments contre la tuberculose pharmacorésistante"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan de clôture des médicaments antituberculeux pharmacorésistants"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante en tant que Bilan de clôture [bilan d'ouverture + reçus - émis - redistribués - rejetés] à la fin de la période de déclaration"
                 }
             ],
             "user": {
@@ -4434,12 +4729,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4454,14 +4749,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Médicaments TB-PR jetés"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "ar_IQ",
@@ -4479,29 +4774,29 @@
                     "value": "Drogas DR-TB descartadas"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Drogas DR-TB descartadas"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Drogas DR-TB descartadas"
+                },
+                {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - Drogas DR-TB descartadas"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - médicaments TB-PR jetés"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - Drogas DR-TB descartadas"
                 },
                 {
                     "locale": "ar_EG",
@@ -4527,6 +4822,11 @@
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "TB - Drogas DR-TB descartadas"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la tuberculose pharmacorésistante écartés au cours de la période de rapport (périmés, endommagés, etc.)"
                 },
                 {
                     "locale": "nb",
@@ -4584,12 +4884,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4599,17 +4899,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments contre la TB pharmacorésistante émis"
                 },
                 {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4624,9 +4919,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments contre la TB pharmacorésistante émis"
                 },
                 {
                     "locale": "ru",
@@ -4637,6 +4932,31 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la TB pharmacorésistante délivrés"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Médicaments contre la TB pharmacorésistante émis"
                 }
             ],
             "user": {
@@ -4689,12 +5009,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4719,14 +5039,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - Balanço inicial de medicamentos para TB-DR"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - Solde d'ouverture des médicaments TB-PR"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - Balanço inicial de medicamentos para TB-DR"
                 },
                 {
                     "locale": "ru",
@@ -4754,6 +5074,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la TB pharmacorésistante bilan d'ouverture"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -4764,6 +5089,11 @@
                     "value": "TB - Solde d'ouverture des médicaments TB-PR"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Solde d'ouverture des médicaments TB-PR"
+                },
+                {
                     "locale": "pt",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Balanço inicial de medicamentos para TB-DR"
@@ -4772,11 +5102,6 @@
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Balanço inicial de medicamentos para TB-DR"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Solde d'ouverture des médicaments TB-PR"
                 },
                 {
                     "locale": "pt_BR",
@@ -4844,12 +5169,12 @@
                     "value": "TB - medicamentos para TB-DR recebidos"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -4869,14 +5194,14 @@
                     "value": "TB - Médicaments TB-PR reçus"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "pt",
                     "property": "NAME",
                     "value": "TB - medicamentos para TB-DR recebidos"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "pt",
@@ -4912,6 +5237,11 @@
                     "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la TB pharmacorésistante reçus"
                 },
                 {
                     "locale": "pt_BR",
@@ -4994,12 +5324,12 @@
                     "value": "TB - Médicaments TB-PR redistribués"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5014,22 +5344,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - medicamentos DR-TB redistribuídos"
-                },
-                {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - medicamentos DR-TB redistribuídos"
                 },
                 {
-                    "locale": "ru",
+                    "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5039,14 +5364,24 @@
                     "value": "TB - Médicaments TB-PR redistribués"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - medicamentos DR-TB redistribuídos"
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - medicamentos DR-TB redistribuídos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments contre la TB pharmacorésistante redistribués"
                 },
                 {
                     "locale": "pt_BR",
@@ -5084,14 +5419,14 @@
                     "value": "Počet redistribuovaných léků na DR-TB"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Médicaments TB-PR redistribués"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ],
             "user": {
@@ -5146,6 +5481,11 @@
             "shortName": "DR-TB drugs stock coverage time",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture des stocks de médicaments contre la TB pharmacorésistante"
+                },
+                {
                     "locale": "ar",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "المخزون القابل للاستخدام"
@@ -5156,12 +5496,27 @@
                     "value": "použitelné zásoby"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
                     "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
@@ -5181,11 +5536,6 @@
                     "value": "spotřebované zásoby"
                 },
                 {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
                     "locale": "ar_SD",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "المخزون القابل للاستخدام"
@@ -5196,14 +5546,9 @@
                     "value": "المخزون المستهلك"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Durée de couverture des stocks de médicaments contre la tuberculose pharmacorésistante"
                 }
             ],
             "user": {
@@ -5264,6 +5609,16 @@
                 },
                 {
                     "locale": "fr",
+                    "property": "NAME",
+                    "value": "Écart entre les stocks de médicaments contre la tuberculose et la tuberculose pharmacorésistante (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Écart des stocks de médicaments contre la TB pharmacorésistante"
+                },
+                {
+                    "locale": "fr",
                     "property": "DESCRIPTION",
                     "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
                 },
@@ -5291,6 +5646,11 @@
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Écart des stocks de médicaments contre la TB pharmacorésistante (%)"
                 },
                 {
                     "locale": "nb",
@@ -5353,12 +5713,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5383,14 +5743,14 @@
                     "value": "TB - Estoque de medicamentos para TB-DR disponível"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB - Estoque de medicamentos para TB-DR disponível"
-                },
-                {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Estoque de medicamentos para TB-DR disponível"
                 },
                 {
                     "locale": "ar",
@@ -5401,6 +5761,11 @@
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "TB - Estoque de medicamentos para TB-DR disponível"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de stocks de médicaments contre la TB pharmacorésistante disponibles"
                 },
                 {
                     "locale": "ru",
@@ -5438,14 +5803,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Stock de médicaments TB-PR disponible"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "pt_BR",
@@ -5503,12 +5868,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5523,14 +5888,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Dias sem estoque de medicamentos para TB-DR"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "pt",
@@ -5568,12 +5933,17 @@
                     "value": "1"
                 },
                 {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "TB - Falta de estoque de medicamentos para TB-DR"
                 },
                 {
-                    "locale": "pt",
+                    "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5581,11 +5951,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - jours de rupture de stock de médicaments TB-PR"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
                 },
                 {
                     "locale": "fr",
@@ -5596,6 +5961,11 @@
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de jours pendant lesquels l'établissement a été en rupture de stock de médicaments contre la tuberculose pharmacorésistante (à n'importe quel moment de la journée) au cours de la période de notification."
                 },
                 {
                     "locale": "nb",
@@ -5653,14 +6023,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "bilan d'ouverture + reçu"
                 },
                 {
                     "locale": "ar_SD",
@@ -5668,17 +6043,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5693,9 +6058,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock utilisable de médicaments contre la TB pharmacorésistante"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Stock utilisable de médicaments contre la TB pharmacorésistante"
                 },
                 {
                     "locale": "ru",
@@ -5704,6 +6074,21 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -5756,6 +6141,16 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Taux de gaspillage des médicaments contre la TB pharmacorésistante (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Taux de gaspillage des médicaments contre la TB pharmacorésistante"
                 },
                 {
                     "locale": "cs",
@@ -5823,12 +6218,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS comme bilan de clôture [bilan d'ouverture + Reçus - émis - Redistribués - Jetés] à la fin de la période de déclaration"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5838,17 +6238,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Bil de clôture des médicaments DS-TB"
                 },
                 {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5863,11 +6258,6 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -5876,6 +6266,31 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan de clôture des médicaments antituberculeux DS"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan de clôture des médicaments DS-TB"
                 }
             ],
             "user": {
@@ -5924,13 +6339,13 @@
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Médicaments TB-PS jetés"
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments TB-PS jetés"
                 },
                 {
                     "locale": "pt_BR",
@@ -5938,12 +6353,12 @@
                     "value": "Drogas DS-TB descartadas"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -5953,14 +6368,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "pt",
                     "property": "NAME",
                     "value": "TB - Drogas DS-TB descartadas"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "pt",
@@ -5976,6 +6391,11 @@
                     "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS jetés au cours de la période de rapport (périmés, endommagés, etc.)"
                 },
                 {
                     "locale": "fr",
@@ -6078,12 +6498,22 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments antituberculeux DS émis"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Médicaments DS-TB émis"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6093,17 +6523,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6118,9 +6538,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS émis"
                 },
                 {
                     "locale": "ru",
@@ -6129,6 +6549,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments DS-TB émis"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -6183,12 +6623,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6228,14 +6668,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Balanço inicial de medicamentos DS-TB"
-                },
-                {
                     "locale": "pt",
                     "property": "SHORT_NAME",
                     "value": "Balanço inicial de medicamentos DS-TB"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - Balanço inicial de medicamentos DS-TB"
                 },
                 {
                     "locale": "ar_EG",
@@ -6249,13 +6689,18 @@
                 },
                 {
                     "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
                     "property": "SHORT_NAME",
                     "value": "Balanço inicial de medicamentos DS-TB"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Solde d'ouverture des médicaments TB-PS"
                 },
                 {
                     "locale": "pt",
@@ -6264,8 +6709,8 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Solde d'ouverture des médicaments TB-PS"
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS solde d'ouverture"
                 },
                 {
                     "locale": "fr",
@@ -6338,12 +6783,17 @@
                     "value": "TB - médicaments TB-PS reçus"
                 },
                 {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6353,24 +6803,19 @@
                     "value": "Drogas DS-TB recebidas"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - medicamentos DS-TB recebidos"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - médicaments TB-PS reçus"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "ar_IQ",
@@ -6396,6 +6841,11 @@
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS reçus"
                 },
                 {
                     "locale": "pt",
@@ -6488,12 +6938,12 @@
                     "value": "TB - Médicaments TB-PS redistribués"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6528,14 +6978,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB - medicamentos DS-TB redistribuídos"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - Médicaments TB-PS redistribués"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - medicamentos DS-TB redistribuídos"
                 },
                 {
                     "locale": "ru",
@@ -6573,14 +7023,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments TB-PS redistribués"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "SHORT_NAME",
                     "value": "Medicamentos DS-TB redistribuídos"
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Médicaments TB-PS redistribués"
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS redistribués"
                 }
             ],
             "user": {
@@ -6645,12 +7100,32 @@
                     "value": "použitelné zásoby"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
                     "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture du stock de médicaments DS-TB"
+                },
+                {
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
@@ -6670,27 +7145,17 @@
                     "value": "spotřebované zásoby"
                 },
                 {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
                     "locale": "ar_SD",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "المخزون القابل للاستخدام"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Durée de couverture des stocks de médicaments antituberculeux DS"
+                },
+                {
                     "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 }
@@ -6765,6 +7230,11 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Écart entre les stocks de médicaments TB - DS-TB (%)"
+                },
+                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -6773,6 +7243,16 @@
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Écart des stocks de médicaments antituberculeux DS (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Écart de stock de médicaments antituberculeux DS"
                 },
                 {
                     "locale": "nb",
@@ -6835,12 +7315,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -6855,14 +7335,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB - Estoque de medicamentos DS-TB disponível"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de médicaments antituberculeux DS en stock"
                 },
                 {
                     "locale": "fr",
@@ -6870,9 +7345,14 @@
                     "value": "TB - Stock de médicaments TB-PS disponible"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Estoque de medicamentos DS-TB disponível"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "ar_IQ",
@@ -6885,19 +7365,24 @@
                     "value": "Stock de médicaments TB-PS disponible"
                 },
                 {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - Estoque de medicamentos DS-TB disponível"
+                },
+                {
                     "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Estoque de medicamentos DS-TB disponível"
-                },
-                {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Stock de médicaments TB-PS disponible"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Estoque de medicamentos DS-TB disponível"
                 },
                 {
                     "locale": "pt_BR",
@@ -6985,12 +7470,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7005,14 +7490,14 @@
                     "value": "Dias de estoque de medicamentos DS-TB"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - dias de falta de estoque de medicamentos para TB-DS"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - médicaments TB-PS jours de rupture de stock"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - dias de falta de estoque de medicamentos para TB-DS"
                 },
                 {
                     "locale": "cs",
@@ -7038,6 +7523,11 @@
                     "locale": "pt",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Dias de estoque de medicamentos DS-TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de jours pendant lesquels l'établissement a été en rupture de stock de médicaments antituberculeux DS (à tout moment de la journée) au cours de la période de notification."
                 },
                 {
                     "locale": "ru",
@@ -7075,14 +7565,14 @@
                     "value": "Jours de rupture de stock de médicaments TB-PS"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Jours de rupture de stock de médicaments TB-PS"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ],
             "user": {
@@ -7135,22 +7625,22 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "bilan d'ouverture + reçu"
+                },
+                {
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7160,9 +7650,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock utilisable de médicaments DS-TB"
                 },
                 {
                     "locale": "ar_IQ",
@@ -7175,17 +7665,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Stock utilisable de médicaments antituberculeux DS"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7238,6 +7743,16 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Taux de gaspillage des médicaments antituberculeux DS (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Taux de gaspillage des médicaments antituberculeux DS"
                 },
                 {
                     "locale": "cs",
@@ -7305,14 +7820,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan de clôture des cartouches GeneXpert"
                 },
                 {
                     "locale": "ar_SD",
@@ -7320,17 +7840,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7345,9 +7855,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Bil de fermeture des cartouches GeneXpert"
                 },
                 {
                     "locale": "ru",
@@ -7356,6 +7866,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan de clôture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert comme solde de clôture [bilan d'ouverture + Reçu - Émis - Redistribué - écartés] à la fin de la période de déclaration"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7410,14 +7945,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Cartouches GeneXpert écartées"
                 },
                 {
                     "locale": "ar_SD",
@@ -7425,17 +7965,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7450,17 +7980,42 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert écartées"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert écartées au cours de la période de rapport (périmées, endommagées, etc.)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert écartées"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7515,12 +8070,17 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert émises"
+                },
+                {
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7530,17 +8090,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7555,9 +8105,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert émises"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert émises"
                 },
                 {
                     "locale": "ru",
@@ -7566,6 +8121,26 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert émises"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7620,12 +8195,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7635,9 +8210,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan d'ouverture des cartouches GeneXpert"
                 },
                 {
                     "locale": "cs",
@@ -7645,9 +8225,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert"
                 },
                 {
                     "locale": "ar_IQ",
@@ -7660,17 +8240,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert bilan d'ouverture"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7725,12 +8320,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7740,17 +8335,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7765,9 +8350,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert reçues"
                 },
                 {
                     "locale": "ru",
@@ -7776,6 +8366,31 @@
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7830,12 +8445,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -7845,19 +8460,24 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert redistribuées"
                 },
                 {
                     "locale": "ar_IQ",
@@ -7870,17 +8490,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -7947,12 +8582,27 @@
                     "value": "použitelné zásoby"
                 },
                 {
-                    "locale": "ar_SD",
+                    "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
                     "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 },
@@ -7960,6 +8610,11 @@
                     "locale": "ar_EG",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture du stock de cartouches GeneXpert"
                 },
                 {
                     "locale": "fr",
@@ -7972,27 +8627,17 @@
                     "value": "spotřebované zásoby"
                 },
                 {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
                     "locale": "ar_SD",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "المخزون القابل للاستخدام"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Durée de couverture des stocks de cartouches GeneXpert"
+                },
+                {
                     "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 }
@@ -8052,6 +8697,11 @@
                     "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Écart de stock de cartouches GeneXpert"
+                },
+                {
                     "locale": "cs",
                     "property": "DESCRIPTION",
                     "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
@@ -8065,6 +8715,16 @@
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Écart de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de cartouches GeneXpert (%)"
                 },
                 {
                     "locale": "cs",
@@ -8137,12 +8797,12 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
+                    "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "es_US",
+                    "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -8152,17 +8812,7 @@
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -8177,9 +8827,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert en stock"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert en stock"
                 },
                 {
                     "locale": "ru",
@@ -8190,6 +8845,31 @@
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert en stock"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert en stock"
                 }
             ],
             "user": {
@@ -8387,9 +9067,19 @@
                     "value": "Stock utilisé=([Bilan de clôture]-[Stock disponible]) + perdu + distribué au patient)"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Taux de gaspillage des cartouches GeneXpert"
+                },
+                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "Použité zásoby = ([Konečný zůstatek]-[Zásoby skladem]) + vyřazeno + vydáno pacientovi)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Taux de gaspillage des cartouches GeneXpert (%)"
                 },
                 {
                     "locale": "fr",
@@ -8452,9 +9142,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Stock utilisable GeneXpert"
                 },
                 {
                     "locale": "es_US",
@@ -8462,22 +9152,22 @@
                     "value": "1"
                 },
                 {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "bilan d'ouverture + reçu"
+                },
+                {
                     "locale": "ar_SD",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
@@ -8492,17 +9182,32 @@
                     "value": "1"
                 },
                 {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
                     "locale": "ru",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock utilisable GeneXpert"
+                },
+                {
+                    "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
@@ -8551,6 +9256,26 @@
             },
             "shortName": "HF with DR-TB drugs stockout days (%)",
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements de santé avec jours de rupture de stock de médicaments contre la TB pharmacorésistante (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS avec jours de rupture de stock de médicaments contre la TB pharmacorésistante (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "HF avec jours de rupture de stock de médicaments contre la TB pharmacorésistante signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion d'établissements de santé avec des jours de rupture de stock de médicaments contre la TB pharmacorésistante"
+                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -8603,6 +9328,26 @@
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CdS avec jours de rupture de stock de médicaments TB-DS (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements sanitaires avec jours de rupture de stock de médicaments antituberculeux (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "CdS avec DS-TB jours de rupture de stock de médicaments rapportés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion d'établissements de santé avec jours de rupture de stock de médicaments antituberculeux"
+                },
+                {
+                    "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "CS signale les jours de rupture de stock"
                 }
@@ -8651,6 +9396,26 @@
             },
             "shortName": "HF with GeneXpert cartridges SO days (%)",
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion d'établissements de santé avec des jours de rupture de stock de cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "CdS avec cartouches GeneXpert jours de rupture de stock"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements de santé avec jours de rupture de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "HF avec cartouches GeneXpert jours de rupture (%)"
+                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -8702,6 +9467,11 @@
             "shortName": "DR-TB drugs consumed (%)",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments contre la tuberculose pharmacorésistante consommés (%)"
+                },
+                {
                     "locale": "pt",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - medicamentos DR-TB distribuídos"
@@ -8712,9 +9482,24 @@
                     "value": "TB - Médicaments TB-PR distribués"
                 },
                 {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB - bilan d'ouverture des médicaments antituberculeux pharmacorésistants + distribués = stock utilisable"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion de médicaments antituberculeux pharmacorésistants consommés"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - medicamentos DR-TB distribuídos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de médicaments contre la TB pharmacorésistante qui ont été utilisés sur le bilan d'ouverture des mêmes médicaments"
                 }
             ],
             "user": {
@@ -8762,9 +9547,19 @@
             "shortName": "DR-TB drugs unusable (%)",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de médicaments contre la tuberculose pharmacorésistante qui, sur le bilan d'ouverture, n'ont pas pu être utilisés en raison soit d'une redistribution, soit d'un rejet"
+                },
+                {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB - Balanço inicial de medicamentos para TB-DR"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments antituberculeux inutilisables (%)"
                 },
                 {
                     "locale": "pt_BR",
@@ -8775,6 +9570,16 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB - Solde d'ouverture des médicaments TB-PR"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion de médicaments antituberculeux pharmacorésistants inutilisables"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Tuberculose - Médicaments contre la TB pharmacorésistante éliminés + Tuberculose - Médicaments contre la tuberculose pharmacorésistante redistribués"
                 }
             ],
             "user": {
@@ -8822,14 +9627,34 @@
             "shortName": "DS-TB drugs consumed (%)",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion de médicaments antituberculeux DS consommés"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - medicamentos DS-TB distribuídos"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments antituberculeux DS consommés (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de médicaments antituberculeux DS qui ont été utilisés sur le solde d'ouverture des mêmes médicaments"
+                },
+                {
                     "locale": "pt",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - medicamentos DS-TB distribuídos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB - bilan d'ouverture des médicaments DS-TB + reçus = stock utilisable"
                 },
                 {
                     "locale": "fr",
@@ -8882,14 +9707,34 @@
             "shortName": "DS-TB drugs unusable (%)",
             "translations": [
                 {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion de médicaments DS-TB inutilisables"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Médicaments antituberculeux DS écartés + TB - Médicaments antituberculeux DS redistribués"
+                },
+                {
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB - Balanço inicial de medicamentos DS-TB"
                 },
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Médicaments antituberculeux DS inutilisables (%)"
+                },
+                {
+                    "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB - Solde d'ouverture des médicaments TB-PS"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de médicaments antituberculeux DS qui, sur le bilan d'ouverture, n'ont pas pu être utilisés en raison soit d'une redistribution, soit d'un rejet"
                 },
                 {
                     "locale": "pt",
@@ -8940,7 +9785,33 @@
                 "users": {}
             },
             "shortName": "GeneXpert cartridges consumed (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert consommées (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert + reçu = stock utilisable"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de cartouches GeneXpert qui ont été utilisées pour les diagnostics sur le solde d'ouverture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "To - Proportion de cartouches GeneXpert consommées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert distribuées"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -8984,7 +9855,33 @@
                 "users": {}
             },
             "shortName": "GeneXpert cartridges unusable (%)",
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de cartouches GeneXpert qui, hors du bilan d'ouverture, n'ont pas pu être utilisées en raison d'une redistribution ou d'une mise au rebut"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB - Cartouches GeneXpert écartées + TB - Cartouches GeneXpert redistribuées"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion de cartouches GeneXpert inutilisables"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Cartouches GeneXpert inutilisables (%)"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -9463,7 +10360,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture des médicaments contre la TB pharmacorésistante par établissement"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -9675,7 +10578,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de la couverture des médicaments antituberculeux DS par établissement"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -9893,7 +10802,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture des cartouches GeneXpert par établissement"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -10116,7 +11031,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Tuberculose - Établissements avec des jours de rupture de stock pour les médicaments contre la TB pharmacorésistante"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -10344,7 +11265,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock pour les médicaments antituberculeux DS"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -10562,7 +11489,13 @@
             },
             "subscribed": false,
             "subscribers": [],
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock pour les cartouches GeneXpert"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -10582,7 +11515,7 @@
         "DHIS2Version": "2.37.7.1",
         "code": "TB_AGG_STK",
         "description": "TB Stock",
-        "lastUpdated": "20220914T231222",
+        "lastUpdated": "20221024T231718",
         "locale": "en",
         "name": "TB_AGG_STK_AGG_DHIS2.37.7.1-en",
         "type": "AGG",
@@ -10604,10 +11537,10 @@
                     "id": "THRKEGZpwxw"
                 },
                 {
-                    "id": "y422tw0arBN"
+                    "id": "SDs6uhUjwZ6"
                 },
                 {
-                    "id": "SDs6uhUjwZ6"
+                    "id": "y422tw0arBN"
                 },
                 {
                     "id": "V8BmHyoxomf"
@@ -10616,10 +11549,10 @@
                     "id": "uss7ydeNXfY"
                 },
                 {
-                    "id": "lMmTOYCrExY"
+                    "id": "acbN2iRiVo9"
                 },
                 {
-                    "id": "acbN2iRiVo9"
+                    "id": "lMmTOYCrExY"
                 },
                 {
                     "id": "etVGXYgre3v"
@@ -10702,12 +11635,12 @@
             },
             "translations": [
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Balanço inicial de medicamentos para TB-DR"
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère le bilan d'ouverture des médicaments antituberculeux pharmacorésistants à partir du stock précédent disponible"
                 },
                 {
-                    "locale": "pt",
+                    "locale": "pt_BR",
                     "property": "NAME",
                     "value": "TB - Balanço inicial de medicamentos para TB-DR"
                 },
@@ -10715,6 +11648,11 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - Solde d'ouverture des médicaments TB-PR"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - Balanço inicial de medicamentos para TB-DR"
                 }
             ],
             "userAccesses": [],
@@ -10761,6 +11699,11 @@
                 "users": {}
             },
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère le solde d'ouverture des médicaments DS-TB à partir du stock disponible du mois précédent"
+                },
                 {
                     "locale": "pt",
                     "property": "NAME",
@@ -10820,7 +11763,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements pour lesquels des jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante ont été signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante signalés"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         },
@@ -10864,7 +11818,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements avec des jours de rupture de stock de médicaments contre la tuberculose DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec jours de rupture de stock de médicaments contre TB DS signalés"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         },
@@ -10908,7 +11873,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements avec des jours de rupture de stock de cartouches GeneXpert signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock de cartouches GeneXpert signalés"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         },
@@ -10952,7 +11928,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements sans jours de rupture de stock de médicaments contre la TB pharmacorésistante signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements sans jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante signalés"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         },
@@ -10996,7 +11983,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements sans jours de rupture de stock de médicaments contre la tuberculose DS signalés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements sans jours de rupture de stock de médicaments antituberculeux DS signalés"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         },
@@ -11041,6 +12039,11 @@
                 "users": {}
             },
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère un décompte des établissements sans jours de rupture de stock de cartouches GeneXpert signalés"
+                },
                 {
                     "locale": "fr",
                     "property": "NAME",
@@ -11090,7 +12093,18 @@
                 "userGroups": {},
                 "users": {}
             },
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan d'ouverture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Génère le bilan d'ouverture des cartouches GeneXpert du mois précédent"
+                }
+            ],
             "userAccesses": [],
             "userGroupAccesses": []
         }
@@ -12128,7 +13142,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments contre la tuberculose pharmacorésistante écartés doivent être inférieurs ou égaux au bilan d'ouverture des médicaments contre la tuberculose pharmacorésistante + les médicaments contre la tuberculose pharmacorésistante reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB – Médicaments contre la TB pharmacorésistante écartés<= Médicaments contre la TB pharmacorésistante bilan d'ouverture + Médicaments contre la TB pharmacorésistante reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12184,7 +13209,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments contre la TB pharmacorésistante distribués<=Médicaments contre la TB pharmacorésistante bilan d'ouverture+ médicaments contre la TB pharmacorésistante reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments contre la tuberculose pharmacorésistante distribués doivent être inférieurs ou égaux au solde d'ouverture des médicaments contre la tuberculose pharmacorésistante + les médicaments contre la tuberculose pharmacorésistante reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12240,7 +13276,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments contre la TB pharmacorésistante redistribués <= bilan d'ouverture des médicaments contre la TB pharmacorésistante + médicaments contre la TB pharmacorésistante reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments contre la tuberculose pharmacorésistante redistribués doivent être inférieurs ou égaux au bilan d'ouverture des médicaments contre la tuberculose pharmacorésistante + les médicaments contre la tuberculose pharmacorésistante reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12296,7 +13343,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Le stock de médicaments contre la tuberculose pharmacorésistante disponible doit être inférieur ou égal au bilan d'ouverture des médicaments contre la tuberculose pharmacorésistante + les médicaments contre la tuberculose pharmacorésistante reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock disponible de médicaments contre la TB pharmacorésistante<=bilan d'ouverture des médicaments contre la TB pharmacorésistante + médicaments contre la TB pharmacorésistante reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12352,7 +13410,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Jours de rupture de stock de médicaments contre la TB pharmacorésistante <=30 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les jours de rupture de stock de médicaments contre la tuberculose pharmacorésistante doivent être inférieurs ou égaux à 30 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12408,7 +13477,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments antituberculeux DS écartés doivent être inférieurs ou égaux au bilan d'ouverture des médicaments antituberculeux DS + médicaments antituberculeux DS reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB – Médicaments antituberculeux DS écartés<= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12464,7 +13544,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB – Médicaments antituberculeux DS distribués <= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments antituberculeux DS distribués doivent être inférieurs ou égaux au bilan d'ouverture des médicaments antituberculeux DS + médicaments antituberculeux DS reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12520,7 +13611,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les médicaments contre la tuberculose DS redistribués doivent être inférieurs ou égaux au bilan d'ouverture des médicaments contre la tuberculose DS + les médicaments contre la tuberculose DS reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Médicaments TB-DS redistribués<=bilan d'ouverture médicaments TB-DS + médicaments TB-DS reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12576,7 +13678,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock de médicaments antituberculeux DS disponibles<=bilan d'ouverture médicaments antituberculeux DS + médicaments antituberculeux DS reçus"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Le stock de médicaments antituberculeux DS disponible doit être inférieur ou égal au bilan d'ouverture des médicaments antituberculeux DS + médicaments antituberculeux DS reçus"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12632,7 +13745,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Jours de rupture de stock de médicaments antituberculeux DS <=30 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les jours de rupture de stock des médicaments antituberculeux doivent être inférieurs ou égaux à 30 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12688,7 +13812,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Le nombre de cartouches GeneXpert jetées doit être inférieur ou égal au bilan d'ouverture des cartouches GeneXpert + les cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert rejetées <= bilan d'ouverture des cartouches GeneXpert + Cartouches GeneXpert reçues"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12744,7 +13879,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert distribuées <= bilan d'ouverture des cartouches GeneXpert + Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Le nombre de cartouches GeneXpert distribuées doit être inférieur ou égal au bilan d'ouverture des cartouches GeneXpert + les cartouches GeneXpert reçues"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12800,7 +13946,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Cartouches GeneXpert redistribuées <= bilan d'ouverture des cartouches GeneXpert + Cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les cartouches GeneXpert redistribuées doivent être inférieures ou égales au bilan d'ouverture des cartouches GeneXpert + cartouches GeneXpert reçues"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12856,7 +14013,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Le stock de cartouches GeneXpert disponible doit être inférieur ou égal au bilan d'ouverture des cartouches GeneXpert + cartouches GeneXpert reçues"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock de cartouches GeneXpert disponible <= bilan d'ouverture des cartouches GeneXpert + Cartouches GeneXpert reçues"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -12912,7 +14080,18 @@
                 "users": {}
             },
             "skipFormValidation": false,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Jours de rupture de stock des cartouches GeneXpert<=30 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "INSTRUCTION",
+                    "value": "Les jours de rupture de stock des cartouches GeneXpert doivent être inférieurs ou égaux à 30 jours"
+                }
+            ],
             "user": {
                 "id": "vUeLeQMSwhN",
                 "name": "package admin",
@@ -13203,7 +14382,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stocks de médicaments contre la TB pharmacorésistante"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13390,7 +14575,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - État des stocks de médicaments contre la tuberculose pharmacorésistante, 6 derniers mois"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13577,7 +14768,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock de médicaments DS-TB"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13787,7 +14984,7 @@
             "percentStackedValues": false,
             "periods": [],
             "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
+            "publicAccess": "--------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -13854,8 +15051,17 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
+                "public": "--------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -13866,7 +15072,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de médicaments DS-TB"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -13874,7 +15086,18 @@
                 "username": "package_admin"
             },
             "userAccesses": [],
-            "userGroupAccesses": [],
+            "userGroupAccesses": [
+                {
+                    "access": "r-------",
+                    "id": "Hoe8uDSoNfN",
+                    "userGroupUid": "Hoe8uDSoNfN"
+                },
+                {
+                    "access": "rw------",
+                    "id": "avefFGBIjq1",
+                    "userGroupUid": "avefFGBIjq1"
+                }
+            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -14156,7 +15379,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de cartouches GeneXpert"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -14344,7 +15573,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - État du stock des cartouches GeneXpert"
+                }
+            ],
             "type": "PIVOT_TABLE",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -14494,7 +15729,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les médicaments contre la tuberculose pharmacorésistante"
+                }
+            ],
             "type": "STACKED_AREA",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -14644,7 +15885,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les médicaments antituberculeux DS"
+                }
+            ],
             "type": "STACKED_AREA",
             "user": {
                 "id": "vUeLeQMSwhN",
@@ -14794,7 +16041,13 @@
             "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
-            "translations": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les cartouches GeneXpert"
+                }
+            ],
             "type": "STACKED_AREA",
             "user": {
                 "id": "vUeLeQMSwhN",
