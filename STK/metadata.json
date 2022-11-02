@@ -3873,47 +3873,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "QH1eMVEVhpn"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PNhNeVxy9Bs"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Z5hsBAh8pCC"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mMbufF9c251"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "J3AIrRG01TD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kfocuNP1nCG"
+                        "id": "wqihyXhQuK9"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3929,7 +3889,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "uXt7OH5811r"
+                        "id": "mMbufF9c251"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3937,7 +3897,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "y2yiFi6D7yY"
+                        "id": "V7rRkP7jYzO"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3945,23 +3905,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "oMvma7tGHrq"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iJYk0mA3H4I"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wqihyXhQuK9"
+                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3977,7 +3921,39 @@
                 },
                 {
                     "dataElement": {
-                        "id": "V7rRkP7jYzO"
+                        "id": "uXt7OH5811r"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PNhNeVxy9Bs"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfocuNP1nCG"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMvma7tGHrq"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cRNeiMflE2s"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -4001,7 +3977,39 @@
                 },
                 {
                     "dataElement": {
-                        "id": "cRNeiMflE2s"
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "k2MTMQpheOh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z5hsBAh8pCC"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QH1eMVEVhpn"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "J3AIrRG01TD"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -4025,15 +4033,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k2MTMQpheOh"
+                        "id": "y2yiFi6D7yY"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -11529,8 +11529,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_STK",
-        "description": "TB Stock",
-        "lastUpdated": "20221024T123029",
+        "description": "TB Stock (aggregate)",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "TB_AGG_STK_AGG_DHIS2.36.12-en",
         "type": "AGG",
