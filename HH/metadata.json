@@ -1426,13 +1426,13 @@
                     "id": "qIwjZD4M6Zz"
                 },
                 {
-                    "id": "EFk6pU8L1aB"
-                },
-                {
                     "id": "lUJJSQQ4e3m"
                 },
                 {
                     "id": "EYUBVev6ypM"
+                },
+                {
+                    "id": "EFk6pU8L1aB"
                 },
                 {
                     "id": "Nu5DUxw6f6n"
@@ -1549,10 +1549,10 @@
                     "id": "AtDcGOp9mpo"
                 },
                 {
-                    "id": "uSC1ybGUEIW"
+                    "id": "lpN6Bb3nZHi"
                 },
                 {
-                    "id": "lpN6Bb3nZHi"
+                    "id": "uSC1ybGUEIW"
                 },
                 {
                     "id": "G8Qk5mKppVw"
@@ -3645,14 +3645,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "vHJg9RWzMyo"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "nyzwxN9M9t7"
                     },
                     "dataSet": {
@@ -3661,15 +3653,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UIHbSe2XmPa"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fbAdmzvjLuY"
+                        "id": "CyOAgl64a0b"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -3685,7 +3669,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CyOAgl64a0b"
+                        "id": "vHJg9RWzMyo"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fbAdmzvjLuY"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "UIHbSe2XmPa"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -6284,8 +6284,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG_HH",
-        "description": "TB Household Contacts",
-        "lastUpdated": "20221024T123025",
+        "description": "TB Household Contacts (aggregate)",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "TB_AGG_HH_AGG_DHIS2.36.12-en",
         "type": "AGG",
