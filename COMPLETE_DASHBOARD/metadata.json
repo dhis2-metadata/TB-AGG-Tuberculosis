@@ -10979,55 +10979,16 @@
                     "id": "bROBkQmV84c"
                 },
                 {
-                    "id": "M0ZYBKDE5MG"
-                },
-                {
                     "id": "qUo0WYxG56T"
-                },
-                {
-                    "id": "HCS7wcaCg0x"
-                },
-                {
-                    "id": "EvU2RELvcWw"
-                },
-                {
-                    "id": "IfPgVY7JQDP"
-                },
-                {
-                    "id": "uP6fRmOzFt7"
                 },
                 {
                     "id": "I2xVQlpPVsH"
                 },
                 {
-                    "id": "ASoIXZUJoSr"
-                },
-                {
-                    "id": "Aeq3MqkGJpm"
-                },
-                {
-                    "id": "IqhelwrkQfE"
-                },
-                {
-                    "id": "WjBXSRdpNtB"
-                },
-                {
                     "id": "vra4trX0X4e"
                 },
                 {
-                    "id": "jmL9gwVOYMT"
-                },
-                {
-                    "id": "HTfgP6esTNd"
-                },
-                {
-                    "id": "x90NpeKVF0R"
-                },
-                {
                     "id": "HKdwT711nKH"
-                },
-                {
-                    "id": "mPWHy3MUILa"
                 },
                 {
                     "id": "rnRvOY2hSQr"
@@ -11048,9 +11009,6 @@
                     "id": "Pi9lRK14zkH"
                 },
                 {
-                    "id": "xLsnhUGoaaU"
-                },
-                {
                     "id": "SlhRDBx1dqN"
                 },
                 {
@@ -11061,9 +11019,6 @@
                 },
                 {
                     "id": "Pxn7lV8ADKo"
-                },
-                {
-                    "id": "UBYHbfdKbie"
                 },
                 {
                     "id": "Eo8uQqnwMNH"
@@ -11078,40 +11033,16 @@
                     "id": "GiRwSYCuwq8"
                 },
                 {
-                    "id": "v4IzuZRDVft"
-                },
-                {
                     "id": "z3dG3IqPLJh"
-                },
-                {
-                    "id": "GUrr4w9uV2E"
                 },
                 {
                     "id": "VxiNM6bNpUX"
                 },
                 {
-                    "id": "h3ijwlnjjVf"
-                },
-                {
-                    "id": "QAVMUCfbJTq"
-                },
-                {
                     "id": "iEgdR3feRUN"
                 },
                 {
-                    "id": "erzKhX4t2fp"
-                },
-                {
-                    "id": "gMcDavA0flT"
-                },
-                {
                     "id": "VBIIYfFBoif"
-                },
-                {
-                    "id": "NdL0xmm4rmY"
-                },
-                {
-                    "id": "f9XAFdqtOKU"
                 },
                 {
                     "id": "IqbGPfL6hYH"
@@ -11123,9 +11054,6 @@
                     "id": "kOVRgKTcOOC"
                 },
                 {
-                    "id": "rWDfMcX55cH"
-                },
-                {
                     "id": "s6jUG4c6A7C"
                 },
                 {
@@ -11135,25 +11063,7 @@
                     "id": "Kyex0bAB8FQ"
                 },
                 {
-                    "id": "sj5qUqzZh27"
-                },
-                {
-                    "id": "lPgUz0EsAMJ"
-                },
-                {
-                    "id": "mfK5oIk2oFq"
-                },
-                {
-                    "id": "D2VUzvYmBkD"
-                },
-                {
                     "id": "Bs7aunLuXHJ"
-                },
-                {
-                    "id": "efqvnAAnfMG"
-                },
-                {
-                    "id": "A6AWbZssNsf"
                 },
                 {
                     "id": "eODwrejiDmD"
@@ -11189,13 +11099,103 @@
                     "id": "dRWfZoXkon2"
                 },
                 {
+                    "id": "sBVET6r3GzD"
+                },
+                {
+                    "id": "M0ZYBKDE5MG"
+                },
+                {
+                    "id": "HCS7wcaCg0x"
+                },
+                {
+                    "id": "EvU2RELvcWw"
+                },
+                {
+                    "id": "IfPgVY7JQDP"
+                },
+                {
+                    "id": "uP6fRmOzFt7"
+                },
+                {
+                    "id": "ASoIXZUJoSr"
+                },
+                {
+                    "id": "Aeq3MqkGJpm"
+                },
+                {
+                    "id": "IqhelwrkQfE"
+                },
+                {
+                    "id": "WjBXSRdpNtB"
+                },
+                {
+                    "id": "jmL9gwVOYMT"
+                },
+                {
+                    "id": "HTfgP6esTNd"
+                },
+                {
+                    "id": "x90NpeKVF0R"
+                },
+                {
+                    "id": "mPWHy3MUILa"
+                },
+                {
+                    "id": "xLsnhUGoaaU"
+                },
+                {
+                    "id": "UBYHbfdKbie"
+                },
+                {
+                    "id": "v4IzuZRDVft"
+                },
+                {
+                    "id": "GUrr4w9uV2E"
+                },
+                {
+                    "id": "h3ijwlnjjVf"
+                },
+                {
+                    "id": "QAVMUCfbJTq"
+                },
+                {
+                    "id": "erzKhX4t2fp"
+                },
+                {
+                    "id": "gMcDavA0flT"
+                },
+                {
+                    "id": "NdL0xmm4rmY"
+                },
+                {
+                    "id": "f9XAFdqtOKU"
+                },
+                {
+                    "id": "rWDfMcX55cH"
+                },
+                {
+                    "id": "sj5qUqzZh27"
+                },
+                {
+                    "id": "lPgUz0EsAMJ"
+                },
+                {
+                    "id": "mfK5oIk2oFq"
+                },
+                {
+                    "id": "D2VUzvYmBkD"
+                },
+                {
+                    "id": "efqvnAAnfMG"
+                },
+                {
+                    "id": "A6AWbZssNsf"
+                },
+                {
                     "id": "Y5yS9oMUDkJ"
                 },
                 {
                     "id": "As2eOxgQM9H"
-                },
-                {
-                    "id": "sBVET6r3GzD"
                 },
                 {
                     "id": "fMa60zetD0L"
@@ -11595,12 +11595,6 @@
                     "id": "WID08ddfy5T"
                 },
                 {
-                    "id": "RfRy5y9ANl2"
-                },
-                {
-                    "id": "skv1s6LGh0N"
-                },
-                {
                     "id": "AgJYWRktH9o"
                 },
                 {
@@ -11608,24 +11602,6 @@
                 },
                 {
                     "id": "DKdvXuIfxwl"
-                },
-                {
-                    "id": "zbgm5GueWu9"
-                },
-                {
-                    "id": "BzFJFOFMVCu"
-                },
-                {
-                    "id": "eSTkclrbTy5"
-                },
-                {
-                    "id": "KQf9KBm7VW5"
-                },
-                {
-                    "id": "EHDTSPxpLco"
-                },
-                {
-                    "id": "JaXPqKA823j"
                 },
                 {
                     "id": "UiSEm1IJmhb"
@@ -11649,9 +11625,6 @@
                     "id": "mDpLYl0sbQd"
                 },
                 {
-                    "id": "W4IZTF82Bwx"
-                },
-                {
                     "id": "LmHsc7UGtQf"
                 },
                 {
@@ -11664,9 +11637,6 @@
                     "id": "WBuAm3uZWWs"
                 },
                 {
-                    "id": "ZFd8LiJ1y3C"
-                },
-                {
                     "id": "pRHeUC3sjcO"
                 },
                 {
@@ -11676,19 +11646,7 @@
                     "id": "bCrpRBKKPhA"
                 },
                 {
-                    "id": "bK3hiVktvHR"
-                },
-                {
-                    "id": "K8jFJ0e67kU"
-                },
-                {
-                    "id": "nbSUx9d1e1M"
-                },
-                {
                     "id": "GbqUYVq0NLo"
-                },
-                {
-                    "id": "Ri9wLtxwnJu"
                 },
                 {
                     "id": "ZZiJYBFEJ3v"
@@ -11698,12 +11656,6 @@
                 },
                 {
                     "id": "bD1Z2FmbHKK"
-                },
-                {
-                    "id": "ozucBtxJm2l"
-                },
-                {
-                    "id": "pS9zsya8eUi"
                 },
                 {
                     "id": "FnadQQyc1dP"
@@ -11719,6 +11671,54 @@
                 },
                 {
                     "id": "OvZVFIRgrtG"
+                },
+                {
+                    "id": "RfRy5y9ANl2"
+                },
+                {
+                    "id": "skv1s6LGh0N"
+                },
+                {
+                    "id": "zbgm5GueWu9"
+                },
+                {
+                    "id": "BzFJFOFMVCu"
+                },
+                {
+                    "id": "eSTkclrbTy5"
+                },
+                {
+                    "id": "KQf9KBm7VW5"
+                },
+                {
+                    "id": "EHDTSPxpLco"
+                },
+                {
+                    "id": "JaXPqKA823j"
+                },
+                {
+                    "id": "W4IZTF82Bwx"
+                },
+                {
+                    "id": "ZFd8LiJ1y3C"
+                },
+                {
+                    "id": "bK3hiVktvHR"
+                },
+                {
+                    "id": "K8jFJ0e67kU"
+                },
+                {
+                    "id": "nbSUx9d1e1M"
+                },
+                {
+                    "id": "Ri9wLtxwnJu"
+                },
+                {
+                    "id": "ozucBtxJm2l"
+                },
+                {
+                    "id": "pS9zsya8eUi"
                 }
             ],
             "name": "TB - Stock",
@@ -13521,10 +13521,10 @@
             "id": "AwZgWwQaHvR",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -13679,10 +13679,10 @@
             "id": "BmxOvSZmatv",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -13837,10 +13837,10 @@
             "id": "sk4N1FMqDwQ",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14000,10 +14000,10 @@
             "id": "odbgarQuUvh",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14158,10 +14158,10 @@
             "id": "AK3YLZQERtT",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14236,10 +14236,10 @@
             "id": "DKdvXuIfxwl",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14364,10 +14364,10 @@
             "id": "hSpmpUl6eJk",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14522,10 +14522,10 @@
             "id": "skv1s6LGh0N",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14630,10 +14630,10 @@
             "id": "zbgm5GueWu9",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -14788,10 +14788,10 @@
             "id": "W4IZTF82Bwx",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15162,10 +15162,10 @@
             "id": "mDpLYl0sbQd",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15290,10 +15290,10 @@
             "id": "U1c4P0YOBC5",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15418,10 +15418,10 @@
             "id": "gcMtkbbotUv",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15546,10 +15546,10 @@
             "id": "Vb6NHYRWTyi",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15671,10 +15671,10 @@
             "id": "pRHeUC3sjcO",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15794,10 +15794,10 @@
             "id": "eSTkclrbTy5",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -15867,10 +15867,10 @@
             "id": "WID08ddfy5T",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -18517,13 +18517,13 @@
             "id": "YWTs6xdTRFF",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -19607,13 +19607,13 @@
             "id": "JCs9GgdcC7d",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -20295,10 +20295,10 @@
             "id": "GbqUYVq0NLo",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -20378,10 +20378,10 @@
             "id": "UiSEm1IJmhb",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -20461,10 +20461,10 @@
             "id": "AgJYWRktH9o",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -22295,13 +22295,13 @@
             "id": "m1qHAB0I74y",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -22442,10 +22442,10 @@
             "id": "o7QoPpjWR9h",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -22813,10 +22813,10 @@
                     "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "V4SoC7TzFMi"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -22960,10 +22960,10 @@
                     "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "V4SoC7TzFMi"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -23104,13 +23104,13 @@
             "id": "ZEGEI9XgtZU",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -24041,10 +24041,10 @@
             "id": "bK3hiVktvHR",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24199,10 +24199,10 @@
             "id": "pS9zsya8eUi",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24327,10 +24327,10 @@
             "id": "fdt3FPCzgDc",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24452,10 +24452,10 @@
             "id": "dlUf7CDF3l8",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24567,10 +24567,10 @@
             "id": "e92Z61nHBJY",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24725,10 +24725,10 @@
             "id": "LmHsc7UGtQf",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -24848,10 +24848,10 @@
             "id": "RfRy5y9ANl2",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25006,10 +25006,10 @@
             "id": "jDitMFtRib4",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25134,10 +25134,10 @@
             "id": "bD1Z2FmbHKK",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25292,10 +25292,10 @@
             "id": "ZZiJYBFEJ3v",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25450,10 +25450,10 @@
             "id": "Ri9wLtxwnJu",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25575,10 +25575,10 @@
             "id": "bCrpRBKKPhA",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -25986,10 +25986,10 @@
             "id": "K8jFJ0e67kU",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -26114,10 +26114,10 @@
             "id": "cbAQwCbhhoe",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -26242,10 +26242,10 @@
             "id": "FnadQQyc1dP",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -26370,10 +26370,10 @@
             "id": "OvZVFIRgrtG",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -26498,10 +26498,10 @@
             "id": "VDfuDVALf0f",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -26576,10 +26576,10 @@
             "id": "ZFd8LiJ1y3C",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -30646,13 +30646,13 @@
             "id": "gPJEsVY8R39",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -31198,10 +31198,10 @@
             "id": "WBuAm3uZWWs",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -33853,13 +33853,13 @@
             "id": "WWephINt8ga",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -34012,13 +34012,13 @@
             "id": "MlqHbdCyibN",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -34382,10 +34382,10 @@
             "id": "h7bxqdKWYCa",
             "indicatorGroups": [
                 {
-                    "id": "QCrsjqhAcWA"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "QCrsjqhAcWA"
                 },
                 {
                     "id": "OMyYjoU07pC"
@@ -35287,10 +35287,10 @@
             "id": "EHDTSPxpLco",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -35415,10 +35415,10 @@
             "id": "ozucBtxJm2l",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -35787,10 +35787,10 @@
             "id": "KQf9KBm7VW5",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -35895,10 +35895,10 @@
             "id": "BzFJFOFMVCu",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -36384,6 +36384,126 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_LAB_DX_TESTS_CULTURE",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "dimensionItem": "dRWfZoXkon2",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "dRWfZoXkon2",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic culture tests (any method)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic culture tests by result",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Culture tests",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture diagnostique par résultat"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de culture diagnostiques (toute méthode)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de culture"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_LAB_DX_CULTURE_TESTS_NO_GROWTH_CONTAMINATION",
             "dataSets": [],
             "decimals": 2,
@@ -36634,6 +36754,71 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_LAB_DX_MICRO_2PLUS",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Diagnostics - Microscopy tests with valid result",
+            "dimensionItem": "tbiGmFaa2Uj",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "tbiGmFaa2Uj",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic microscopy tests with grading \"++\" (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic microscopy tests with a valid result - \"++\"",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Microscopy tests grading ++ (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie classement ++ (%)"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_LAB_DX_MICRO_3PLUS",
             "dataSets": [],
             "decimals": 2,
@@ -36686,6 +36871,71 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB-DX - Tests de microscopie classement +++ (%)"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_MICRO_SCANTY",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Diagnostics - Microscopy tests with valid result",
+            "dimensionItem": "ZQyhoJom4vp",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ZQyhoJom4vp",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic microscopy tests with grading \"scanty\" (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic microscopy tests with a valid result - \"Scanty\"",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Microscopy tests grading scanty (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"Faible\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests de microscopie avec classement faible (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"faible\" (%)"
                 }
             ],
             "user": {
@@ -36764,71 +37014,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_MTB_POSITIVITY_RATE_CULTURE",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
-            "dimensionItem": "QAVMUCfbJTq",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "QAVMUCfbJTq",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic MTB-positivity rate for culture (any method) (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - MTB",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - MTB-Taux de positivité pour la culture (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité du diagnostic MTB pour la culture (toute méthode) (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - MTB"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_LAB_DX_NTM_POSITIVITY_RATE_CULTURE",
             "dataSets": [],
             "decimals": 2,
@@ -36881,6 +37066,71 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB-LAB - Taux de positivité diagnostique des NTB pour la culture (toute méthode) (%)"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result",
+            "dimensionItem": "sBVET6r3GzD",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "sBVET6r3GzD",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result MTB detected",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide MTB détecté"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide"
                 }
             ],
             "user": {
@@ -37079,71 +37329,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_XPERT_MTB_RIF_NO_RES_ERROR_INVALID",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
-            "dimensionItem": "mPWHy3MUILa",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "mPWHy3MUILa",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests with no result, invalid result or error (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Xpert MTB/RIF - non/inv. résultat %"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF sans résultat, résultat invalide ou erreur (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_LAB_DX_TESTS_XPERT_MTB_RIF_ULTRA",
             "dataSets": [],
             "decimals": 2,
@@ -37264,16 +37449,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_MICRO_1PLUS",
+            "code": "TB_LAB_DX_XPERT_MTB_RIF_ULTRA_NO_RES_ERROR_INVALID",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with positive microscopy result",
-            "dimensionItem": "sj5qUqzZh27",
+            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
+            "dimensionItem": "oaIOosID6vr",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "sj5qUqzZh27",
+            "id": "oaIOosID6vr",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -37283,9 +37468,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"+\" (%)",
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests with no result, invalid result or error (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"+\"",
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -37295,27 +37480,27 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+\" (%)",
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+\""
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+\" (%)"
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Cas positifs à la microscopie avec classement \"+\" (%)"
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - non/inv. résultat %"
                 }
             ],
             "user": {
@@ -37329,16 +37514,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_MICRO_2PLUS",
+            "code": "TB_LAB_DX_CASES_MICRO_3PLUS",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Presumptive TB cases with positive microscopy result",
-            "dimensionItem": "gMcDavA0flT",
+            "dimensionItem": "Uz5V23TA2IW",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "gMcDavA0flT",
+            "id": "Uz5V23TA2IW",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -37348,9 +37533,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"++\" (%)",
+            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"+++\" (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"++\"",
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"+++\"",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -37360,8 +37545,13 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"++\" (%)",
+            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+++\" (%)",
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+++\" (%)"
+                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -37369,18 +37559,13 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas positifs en microscopie avec classement \"++\" (%)"
-                },
-                {
-                    "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"++\""
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+++\""
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"++\" (%)"
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas positifs en microscopie avec un classement \"+++\" (%)"
                 }
             ],
             "user": {
@@ -37446,126 +37631,6 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"Faible\""
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_TESTED_CULTURE",
-            "dataSets": [],
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "dimensionItem": "f9XAFdqtOKU",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "f9XAFdqtOKU",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by culture (any method)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive cases tested by any culture method",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Cases tested by culture (any method)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés testés par n'importe quelle méthode de culture"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas présumés de TB testés par culture (toute méthode)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas testés par culture (toute méthode)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
                 }
             ],
             "user": {
@@ -38059,6 +38124,126 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF_ULTRA",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "dimensionItem": "fSobhe0AWrL",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "fSobhe0AWrL",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF Ultra",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF Ultra - Presumptive cases",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF Ultra - Cas présomptifs"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_LAB_DX_RIFIND_CASES_XPERT_MTB_RIF",
             "dataSets": [],
             "decimals": 2,
@@ -38111,71 +38296,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB-DX - Xpert MTB/RIF - Tarif RifInd"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_RIFIND_CASES_XPERT_MTB_RIF_ULTRA",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - MTB-positive cases with Rifampicin result by Xpert MTB/RIF Ultra",
-            "dimensionItem": "rWDfMcX55cH",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "rWDfMcX55cH",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Rif-indeterminate cases detected by Xpert MTB/RIF Ultra (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - MTB-positive cases with Rifampicin result by Xpert MTB/RIF Ultra - Indeterminate",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifInd rate",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - Taux RifInd"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas Rif-indéterminés détectés par Xpert MTB/RIF Ultra (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra - Indéterminé"
                 }
             ],
             "user": {
@@ -38578,16 +38698,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_LOST",
+            "code": "TB_LAB_SAMPLES_RECEIVED",
             "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "dimensionItem": "UBYHbfdKbie",
+            "dimensionItem": "Bs7aunLuXHJ",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "UBYHbfdKbie",
+            "id": "Bs7aunLuXHJ",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -38597,9 +38717,9 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples lost",
+            "name": "[CONFIG] TB-LAB - Samples received",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - TB samples lost",
+            "numeratorDescription": "TB-LAB - TB samples received",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -38609,7 +38729,247 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples lost",
+            "shortName": "TB-LAB - Samples received",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB reçus"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons reçus"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons reçus"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_REJECTED",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "dimensionItem": "HiDrWnGqm2h",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "HiDrWnGqm2h",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples rejected at lab",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - TB samples rejected",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples rejected at lab",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB rejetés"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_TESTED_CULTURE",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "dimensionItem": "ZnTE64yZ6L0",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "ZnTE64yZ6L0",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples tested by culture (any method)",
+            "numerator": -1,
+            "numeratorDescription": "Cases tested by culture (any method)",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples tested by culture (any method)",
             "translations": [
                 {
                     "locale": "fr",
@@ -38648,8 +39008,13 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons perdus"
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Cas testés par culture (toute méthode)"
                 },
                 {
                     "locale": "ru",
@@ -38662,24 +39027,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
+                },
+                {
                     "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Échantillons TB perdus"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons perdus"
                 },
                 {
                     "locale": "nb",
@@ -38875,71 +39235,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB - Échantillons - DdE MCL 11+ jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de culture liquide par DdE"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_LCM_TAT_1D",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
-            "dimensionItem": "h3ijwlnjjVf",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "h3ijwlnjjVf",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 1 day (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 1 day",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCL 1 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture liquide par DdE - 1 jour"
                 },
                 {
                     "locale": "fr",
@@ -39348,70 +39643,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_LCM_TAT_8D",
-            "dataSets": [],
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
-            "dimensionItem": "erzKhX4t2fp",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "erzKhX4t2fp",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 8 days (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 8 days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - LCM TAT 8 days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCL 8 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de culture liquide par DdE"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture liquide par DdE - 8 jours"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 8 jours (%)"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_LAB_SAMPLES_LCM_TAT_9D",
             "dataSets": [],
             "decimals": 2,
@@ -39464,6 +39695,71 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_MICRO_TAT_1D",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Microscopy tests by TAT",
+            "dimensionItem": "p8tl4ORL6xr",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "p8tl4ORL6xr",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 1 day (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 1 day",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples - Microscopy TAT 1 day (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE - 1 jour"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de microscopie par DdE"
                 }
             ],
             "user": {
@@ -39542,16 +39838,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_MICRO_TAT_5D",
+            "code": "TB_LAB_SAMPLES_MICRO_TAT_4D",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Microscopy tests by TAT",
-            "dimensionItem": "GUrr4w9uV2E",
+            "dimensionItem": "Vza0JfpIAqJ",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "GUrr4w9uV2E",
+            "id": "Vza0JfpIAqJ",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -39561,9 +39857,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 5 days (%)",
+            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 4 days (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 5 days",
+            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 4 days",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -39573,22 +39869,22 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples - Microscopy TAT 5 days (%)",
+            "shortName": "TB-LAB - Samples - Microscopy TAT 4 days (%)",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - Microscopie DdE 5 jours (%)"
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 4 jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec microscopie DdE 5 jours (%)"
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 4 jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie par DdE - 5 jours"
+                    "value": "TB-LAB - Tests de microscopie par DdE - 4 jours"
                 },
                 {
                     "locale": "fr",
@@ -39672,71 +39968,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_SCM_TAT_0D",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
-            "dimensionItem": "xLsnhUGoaaU",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "xLsnhUGoaaU",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 0 days (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 0 days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - SCM TAT 0 days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 0 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCS 0 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE - 0 jours"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_LAB_SAMPLES_SCM_TAT_10D",
             "dataSets": [],
             "decimals": 2,
@@ -39802,16 +40033,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_SCM_TAT_1D",
+            "code": "TB_LAB_SAMPLES_SCM_TAT_11PLUSD",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
-            "dimensionItem": "NdL0xmm4rmY",
+            "dimensionItem": "eODwrejiDmD",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "NdL0xmm4rmY",
+            "id": "eODwrejiDmD",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -39821,9 +40052,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 1 day (%)",
+            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 11+ days (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 1 day",
+            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 11+ days",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -39833,8 +40064,13 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
+            "shortName": "TB-LAB - Samples - SCM TAT 11+ days (%)",
             "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 11+ jours"
+                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -39843,17 +40079,12 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 1 jour (%)"
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 11+ jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCS 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE - 1 jour"
+                    "value": "TB-LAB - Échantillons - DdE MCS 11+ jours (%)"
                 }
             ],
             "user": {
@@ -39984,71 +40215,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 3 jours (%)"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_SCM_TAT_6D",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
-            "dimensionItem": "v4IzuZRDVft",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "v4IzuZRDVft",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 6 days (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 6 days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - SCM TAT 6 days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 6 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE - 6 jours"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCS 6 jours (%)"
                 }
             ],
             "user": {
@@ -40408,13 +40574,13 @@
             "id": "lRAKLRVIMgp",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -40976,10 +41142,10 @@
             "id": "nbSUx9d1e1M",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -41059,10 +41225,10 @@
             "id": "JaXPqKA823j",
             "indicatorGroups": [
                 {
-                    "id": "pMaektY4E9s"
+                    "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "pMaektY4E9s"
                 }
             ],
             "indicatorType": {
@@ -41136,10 +41302,10 @@
                     "id": "S0n1torLnUz"
                 },
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "V4SoC7TzFMi"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -41287,13 +41453,13 @@
             "id": "onTdlaF4eFF",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -41434,13 +41600,13 @@
             "id": "IIbDJrLi4z5",
             "indicatorGroups": [
                 {
-                    "id": "OMyYjoU07pC"
+                    "id": "S0n1torLnUz"
                 },
                 {
                     "id": "V4SoC7TzFMi"
                 },
                 {
-                    "id": "S0n1torLnUz"
+                    "id": "OMyYjoU07pC"
                 }
             ],
             "indicatorType": {
@@ -41568,136 +41734,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_TESTS_CULTURE",
+            "code": "TB_LAB_DX_MTB_POSITIVITY_RATE_CULTURE",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "1",
-            "dimensionItem": "dRWfZoXkon2",
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
+            "dimensionItem": "QAVMUCfbJTq",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "dRWfZoXkon2",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic culture tests (any method)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic culture tests by result",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Culture tests",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de culture diagnostique par résultat"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests de culture diagnostiques (toute méthode)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Tests de culture"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_MICRO_2PLUS",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostics - Microscopy tests with valid result",
-            "dimensionItem": "tbiGmFaa2Uj",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "tbiGmFaa2Uj",
+            "id": "QAVMUCfbJTq",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -41707,9 +41753,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic microscopy tests with grading \"++\" (%)",
+            "name": "[CONFIG] TB-LAB - Diagnostic MTB-positivity rate for culture (any method) (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic microscopy tests with a valid result - \"++\"",
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - MTB",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -41719,92 +41765,27 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Microscopy tests grading ++ (%)",
+            "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
             "translations": [
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - MTB-Taux de positivité pour la culture (%)"
+                },
+                {
+                    "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"++\" (%)"
+                    "value": "TB-LAB - Taux de positivité du diagnostic MTB pour la culture (toute méthode) (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"++\""
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Tests de microscopie classement ++ (%)"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_MICRO_SCANTY",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostics - Microscopy tests with valid result",
-            "dimensionItem": "ZQyhoJom4vp",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "ZQyhoJom4vp",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic microscopy tests with grading \"scanty\" (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic microscopy tests with a valid result - \"Scanty\"",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Microscopy tests grading scanty (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Diagnostics - Tests de microscopie avec résultat valide"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie diagnostique avec un résultat valide - \"Faible\""
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Tests de microscopie avec classement faible (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests de microscopie diagnostique avec classement \"faible\" (%)"
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - MTB"
                 }
             ],
             "user": {
@@ -41954,81 +41935,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result",
-            "dimensionItem": "sBVET6r3GzD",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "sBVET6r3GzD",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result MTB detected",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide MTB détecté"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_XPERT_MTB_RIF_ULTRA_NO_RES_ERROR_INVALID",
+            "code": "TB_LAB_DX_XPERT_MTB_RIF_NO_RES_ERROR_INVALID",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
-            "dimensionItem": "oaIOosID6vr",
+            "dimensionItem": "mPWHy3MUILa",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "oaIOosID6vr",
+            "id": "mPWHy3MUILa",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -42038,7 +41954,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests with no result, invalid result or error (%)",
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests with no result, invalid result or error (%)",
             "numerator": -1,
             "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
             "periodOffset": 0,
@@ -42050,7 +41966,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
             "translations": [
                 {
                     "locale": "fr",
@@ -42059,18 +41975,18 @@
                 },
                 {
                     "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - non/inv. résultat %"
+                },
+                {
+                    "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur (%)"
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF sans résultat, résultat invalide ou erreur (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - non/inv. résultat %"
                 }
             ],
             "user": {
@@ -42084,16 +42000,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_MICRO_3PLUS",
+            "code": "TB_LAB_DX_CASES_MICRO_1PLUS",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Presumptive TB cases with positive microscopy result",
-            "dimensionItem": "Uz5V23TA2IW",
+            "dimensionItem": "sj5qUqzZh27",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "Uz5V23TA2IW",
+            "id": "sj5qUqzZh27",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -42103,9 +42019,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"+++\" (%)",
+            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"+\" (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"+++\"",
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"+\"",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42115,13 +42031,8 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+++\" (%)",
+            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+\" (%)",
             "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+++\" (%)"
-                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -42130,12 +42041,82 @@
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+++\""
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"+\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"+\" (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Cas positifs en microscopie avec un classement \"+++\" (%)"
+                    "value": "TB-LAB - Cas positifs à la microscopie avec classement \"+\" (%)"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_CASES_MICRO_2PLUS",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with positive microscopy result",
+            "dimensionItem": "gMcDavA0flT",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "gMcDavA0flT",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Microscopy-positive cases with grading \"++\" (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid microscopy result - \"++\"",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Microscopy-positive cases - \"++\" (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de microscopie positif"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas positifs en microscopie avec classement \"++\" (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"++\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas microscopiques positifs - \"++\" (%)"
                 }
             ],
             "user": {
@@ -42269,16 +42250,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF_ULTRA",
+            "code": "TB_LAB_DX_CASES_TESTED_CULTURE",
             "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "dimensionItem": "fSobhe0AWrL",
+            "dimensionItem": "f9XAFdqtOKU",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "fSobhe0AWrL",
+            "id": "f9XAFdqtOKU",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -42288,9 +42269,9 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF Ultra",
+            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by culture (any method)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF Ultra - Presumptive cases",
+            "numeratorDescription": "TB-LAB - Presumptive cases tested by any culture method",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42300,7 +42281,7 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
+            "shortName": "TB-LAB-DX - Cases tested by culture (any method)",
             "translations": [
                 {
                     "locale": "fr",
@@ -42329,8 +42310,8 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF Ultra"
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés testés par n'importe quelle méthode de culture"
                 },
                 {
                     "locale": "ar_IQ",
@@ -42349,8 +42330,8 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF Ultra - Cas présomptifs"
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par culture (toute méthode)"
                 },
                 {
                     "locale": "pt",
@@ -42358,14 +42339,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas testés par Xpert MTB/RIF Ultra"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par culture (toute méthode)"
                 },
                 {
                     "locale": "pt_BR",
@@ -42389,28 +42370,28 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_RECEIVED",
+            "code": "TB_LAB_DX_RIFIND_CASES_XPERT_MTB_RIF_ULTRA",
             "dataSets": [],
-            "decimals": 0,
+            "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "1",
-            "dimensionItem": "Bs7aunLuXHJ",
+            "denominatorDescription": "TB-LAB - MTB-positive cases with Rifampicin result by Xpert MTB/RIF Ultra",
+            "dimensionItem": "rWDfMcX55cH",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "Bs7aunLuXHJ",
+            "id": "rWDfMcX55cH",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
                 }
             ],
             "indicatorType": {
-                "id": "kHy61PbChXr"
+                "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples received",
+            "name": "[CONFIG] TB-LAB - Rif-indeterminate cases detected by Xpert MTB/RIF Ultra (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - TB samples received",
+            "numeratorDescription": "TB-LAB - MTB-positive cases with Rifampicin result by Xpert MTB/RIF Ultra - Indeterminate",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42420,7 +42401,72 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples received",
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifInd rate",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - Taux RifInd"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas Rif-indéterminés détectés par Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas positifs pour le MTB avec résultat Rifampicine par Xpert MTB/RIF Ultra - Indéterminé"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_LOST",
+            "dataSets": [],
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "dimensionItem": "UBYHbfdKbie",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "UBYHbfdKbie",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples lost",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - TB samples lost",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples lost",
             "translations": [
                 {
                     "locale": "fr",
@@ -42448,11 +42494,6 @@
                     "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Échantillons TB reçus"
-                },
-                {
                     "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -42461,6 +42502,11 @@
                     "locale": "ar",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons perdus"
                 },
                 {
                     "locale": "ru",
@@ -42479,8 +42525,8 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons reçus"
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Échantillons TB perdus"
                 },
                 {
                     "locale": "pt_BR",
@@ -42489,8 +42535,8 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons reçus"
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons perdus"
                 },
                 {
                     "locale": "nb",
@@ -42509,28 +42555,28 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_REJECTED",
+            "code": "TB_LAB_SAMPLES_LCM_TAT_1D",
             "dataSets": [],
-            "decimals": 0,
+            "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "1",
-            "dimensionItem": "HiDrWnGqm2h",
+            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
+            "dimensionItem": "h3ijwlnjjVf",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "HiDrWnGqm2h",
+            "id": "h3ijwlnjjVf",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
                 }
             ],
             "indicatorType": {
-                "id": "kHy61PbChXr"
+                "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples rejected at lab",
+            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 1 day (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - TB samples rejected",
+            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 1 day",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42540,82 +42586,27 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples rejected at lab",
+            "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Échantillons TB rejetés"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 1 jour (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "TB-LAB - Échantillons - DdE MCL 1 jours (%)"
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons rejetés au laboratoire"
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 1 jour"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
                 }
             ],
             "user": {
@@ -42629,28 +42620,27 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_TESTED_CULTURE",
+            "code": "TB_LAB_SAMPLES_LCM_TAT_8D",
             "dataSets": [],
-            "decimals": 0,
             "denominator": -1,
-            "denominatorDescription": "1",
-            "dimensionItem": "ZnTE64yZ6L0",
+            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
+            "dimensionItem": "erzKhX4t2fp",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "ZnTE64yZ6L0",
+            "id": "erzKhX4t2fp",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
                 }
             ],
             "indicatorType": {
-                "id": "kHy61PbChXr"
+                "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples tested by culture (any method)",
+            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 8 days (%)",
             "numerator": -1,
-            "numeratorDescription": "Cases tested by culture (any method)",
+            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 8 days",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42660,82 +42650,27 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples tested by culture (any method)",
+            "shortName": "TB-LAB - Samples - LCM TAT 8 days (%)",
             "translations": [
                 {
                     "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 8 jours (%)"
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Cas testés par culture (toute méthode)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 8 jours"
                 },
                 {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons testés par culture (toute méthode)"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 8 jours (%)"
                 }
             ],
             "user": {
@@ -42814,71 +42749,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_MICRO_TAT_1D",
-            "dataSets": [],
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Microscopy tests by TAT",
-            "dimensionItem": "p8tl4ORL6xr",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
-            "id": "p8tl4ORL6xr",
-            "indicatorGroups": [
-                {
-                    "id": "eLxI9vCSW5M"
-                }
-            ],
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 1 day (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 1 day",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - Microscopy TAT 1 day (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - Microscopie DdE 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie par DdE - 1 jour"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec microscopie DdE 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie par DdE"
-                }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_LAB_SAMPLES_MICRO_TAT_2D",
             "dataSets": [],
             "decimals": 2,
@@ -42944,16 +42814,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_MICRO_TAT_4D",
+            "code": "TB_LAB_SAMPLES_MICRO_TAT_5D",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Microscopy tests by TAT",
-            "dimensionItem": "Vza0JfpIAqJ",
+            "dimensionItem": "GUrr4w9uV2E",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "Vza0JfpIAqJ",
+            "id": "GUrr4w9uV2E",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -42963,9 +42833,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 4 days (%)",
+            "name": "[CONFIG] TB-LAB - Samples with microscopy TAT 5 days (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 4 days",
+            "numeratorDescription": "TB-LAB - Microscopy tests by TAT - 5 days",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -42975,22 +42845,22 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples - Microscopy TAT 4 days (%)",
+            "shortName": "TB-LAB - Samples - Microscopy TAT 5 days (%)",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - Microscopie DdE 4 jours (%)"
+                    "value": "TB-LAB - Échantillons - Microscopie DdE 5 jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec microscopie DdE 4 jours (%)"
+                    "value": "TB-LAB - Échantillons avec microscopie DdE 5 jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de microscopie par DdE - 4 jours"
+                    "value": "TB-LAB - Tests de microscopie par DdE - 5 jours"
                 },
                 {
                     "locale": "fr",
@@ -43009,16 +42879,16 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_SCM_TAT_11PLUSD",
+            "code": "TB_LAB_SAMPLES_SCM_TAT_0D",
             "dataSets": [],
             "decimals": 2,
             "denominator": -1,
             "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
-            "dimensionItem": "eODwrejiDmD",
+            "dimensionItem": "xLsnhUGoaaU",
             "dimensionItemType": "INDICATOR",
             "externalAccess": false,
             "favorite": false,
-            "id": "eODwrejiDmD",
+            "id": "xLsnhUGoaaU",
             "indicatorGroups": [
                 {
                     "id": "eLxI9vCSW5M"
@@ -43028,9 +42898,9 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 11+ days (%)",
+            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 0 days (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 11+ days",
+            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 0 days",
             "periodOffset": 0,
             "publicAccess": "rw------",
             "sharing": {
@@ -43040,13 +42910,8 @@
                 "userGroups": {},
                 "users": {}
             },
-            "shortName": "TB-LAB - Samples - SCM TAT 11+ days (%)",
+            "shortName": "TB-LAB - Samples - SCM TAT 0 days (%)",
             "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE - 11+ jours"
-                },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
@@ -43055,12 +42920,82 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 11+ jours (%)"
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 0 jours (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCS 11+ jours (%)"
+                    "value": "TB-LAB - Échantillons - DdE MCS 0 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 0 jours"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_SCM_TAT_1D",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
+            "dimensionItem": "NdL0xmm4rmY",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "NdL0xmm4rmY",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 1 day (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 1 day",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 1 jour"
                 }
             ],
             "user": {
@@ -43191,6 +43126,71 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB-LAB - Tests en culture solide par DdE - 5 jours"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_SCM_TAT_6D",
+            "dataSets": [],
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
+            "dimensionItem": "v4IzuZRDVft",
+            "dimensionItemType": "INDICATOR",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "v4IzuZRDVft",
+            "indicatorGroups": [
+                {
+                    "id": "eLxI9vCSW5M"
+                }
+            ],
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 6 days (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 6 days",
+            "periodOffset": 0,
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples - SCM TAT 6 days (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 6 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 6 jours"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 6 jours (%)"
                 }
             ],
             "user": {
@@ -45436,25 +45436,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#0BFF00",
-                    "endValue": 3.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "mmvDbIcm41d",
-                    "name": "Adequate stock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#EE391E",
                     "endValue": 0.0001,
                     "externalAccess": false,
@@ -45468,6 +45449,25 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#0BFF00",
+                    "endValue": 3.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "mmvDbIcm41d",
+                    "name": "Adequate stock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -54873,8 +54873,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "TB_AGG",
-        "description": "TB HMIS Dashboard",
-        "lastUpdated": "20221024T130716",
+        "description": "TB Aggregate (complete dashboard)",
+        "lastUpdated": "20221028T141622",
         "locale": "en",
         "name": "TB_AGG_DSH_DHIS2.36.12-en",
         "type": "DSH",
