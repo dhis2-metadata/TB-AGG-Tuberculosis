@@ -1,4 +1,4 @@
-# TB Aggregate System Design { #tb-aggregate-design }
+# TB Aggregate System Design { #tb-agg-design }
 
 ## Introduction
 
