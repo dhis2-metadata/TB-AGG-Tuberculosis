@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document describes the system design for the TB configuration package for aggregate reporting, focusing on how the data collection part of the configuration has been designed in DHIS2 (i.e. data sets and data elements).
+This document describes the system design for TB programmes to integrate routine aggregate reporting into the HMIS. Depending on nation context, these data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools. The dashboards are designed to support the [WHO's Analysis and use of health facility data: guidance for tuberculosis programme managers (2018)[https://www.who.int/publications/m/item/analysis-and-use-of-health-facility-data-guidance-presentation-for-tuberculosis-programme-managers]. 
 
 ## Overview
 
