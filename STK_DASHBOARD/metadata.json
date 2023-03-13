@@ -4,7 +4,6 @@
     "dashboards": [
         {
             "allowedFilters": [],
-            "attributeValues": [],
             "code": "TB_AGG_STK",
             "dashboardItems": [
                 {
@@ -23,9 +22,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -52,9 +49,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -81,9 +76,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -107,9 +100,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -136,9 +127,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -168,9 +157,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -194,9 +181,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -223,9 +208,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "text": "SPACER_ITEM_FOR_DASHBOARD_LAYOUT_CONVENIENCE",
                     "translations": [],
@@ -250,9 +233,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -279,9 +260,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -311,9 +290,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -337,9 +314,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -366,9 +341,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "text": "SPACER_ITEM_FOR_DASHBOARD_LAYOUT_CONVENIENCE",
                     "translations": [],
@@ -393,9 +366,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -422,9 +393,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -451,9 +420,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "text": "*DEFINITIONS:*\nClosing balance = Opening balance + Received - Distributed - Redistributed - Discarded -->Automatically  calculated indicator to count the remaining items at the end of the period\nStock on hand = physical stock count at the end of the period\nUsable stock = Opening balance + received\nCoverage time = Usable stock / Distributed + Discarded + Redistributed = nb. of months \n\nStock discrepancy = Stock on hand - closing balance\n     If discrepancy = 0 and 9 --> Stock on hand = closing balance (green cell) - acceptable discrepancy -\n      If discrepancy < 0 --> closing balance > stock on hand (dark red cell)\n      If discrepancy > 9 --> closing balance < stock on hand (light red cell)\n",
                     "translations": [],
@@ -481,9 +448,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "MAP",
@@ -507,9 +472,7 @@
                     "reports": [],
                     "resources": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "translations": [],
                     "type": "VISUALIZATION",
@@ -524,12 +487,8 @@
                     "y": 103
                 }
             ],
-            "externalAccess": false,
-            "favorite": false,
             "id": "Ea95jPFEnHD",
-            "itemCount": 18,
             "name": "TB8. Stock",
-            "publicAccess": "--------",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -563,24 +522,6 @@
                     "property": "NAME",
                     "value": "TB Stock"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "r-------",
-                    "id": "Hoe8uDSoNfN",
-                    "userGroupUid": "Hoe8uDSoNfN"
-                },
-                {
-                    "access": "rw------",
-                    "id": "avefFGBIjq1",
-                    "userGroupUid": "avefFGBIjq1"
-                }
             ]
         }
     ],
@@ -591,8 +532,6 @@
         {
             "attributeValues": [],
             "code": "TB_AGG_STK",
-            "externalAccess": false,
-            "favorite": false,
             "id": "pMaektY4E9s",
             "indicators": [
                 {
@@ -732,12 +671,10 @@
                 }
             ],
             "name": "TB - Stock",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "translations": [
@@ -756,31 +693,16 @@
                     "property": "NAME",
                     "value": "TB - Estoque"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         }
     ],
     "indicatorTypes": [
         {
-            "attributeValues": [],
             "code": "GEN_LIB_NUMBER_ONLY",
-            "externalAccess": false,
             "factor": 1,
-            "favorite": false,
             "id": "kHy61PbChXr",
             "name": "Numerator only (number)",
             "number": true,
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
             "translations": [
                 {
                     "locale": "fr",
@@ -852,24 +774,14 @@
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
                 }
-            ],
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "code": "GEN_LIB_PERCENT",
-            "externalAccess": false,
             "factor": 100,
-            "favorite": false,
             "id": "hmSnCXmLYwt",
             "name": "Percentage",
             "number": false,
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
             "translations": [
                 {
                     "locale": "uz",
@@ -946,24 +858,14 @@
                     "property": "NAME",
                     "value": "Foiz"
                 }
-            ],
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "code": "GEN_LIB_RATE_FACTOR_1",
-            "externalAccess": false,
             "factor": 1,
-            "favorite": false,
             "id": "k4RGC3sMTzO",
             "name": "Rate (factor=1)",
             "number": false,
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
             "translations": [
                 {
                     "locale": "fr",
@@ -1020,9 +922,7 @@
                     "property": "NAME",
                     "value": "Taxa (fator = 1)"
                 }
-            ],
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         }
     ],
     "indicators": [
@@ -1030,20 +930,10 @@
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_CLOSING_BAL",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "dimensionItem": "EHDTSPxpLco",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "EHDTSPxpLco",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1051,13 +941,10 @@
             "name": "[CONFIG] TB - DR-TB drugs closing balance",
             "numerator": -1,
             "numeratorDescription": "DR-TB drugs closing bal",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs closing balance",
@@ -1142,33 +1029,16 @@
                     "property": "DESCRIPTION",
                     "value": "Nombre de médicaments contre la tuberculose pharmacorésistante en tant que Bilan de clôture [bilan d'ouverture + reçus - émis - redistribués - rejetés] à la fin de la période de déclaration"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_DISCARDED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs discarded during the reporting period (expired, damaged, etc.)",
-            "dimensionItem": "bK3hiVktvHR",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "bK3hiVktvHR",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1176,13 +1046,10 @@
             "name": "[CONFIG] TB - DR-TB drugs discarded",
             "numerator": -1,
             "numeratorDescription": "DR-TB drugs discarded",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs discarded",
@@ -1297,33 +1164,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_ISSUED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs issued",
-            "dimensionItem": "pS9zsya8eUi",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "pS9zsya8eUi",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1331,13 +1181,10 @@
             "name": "[CONFIG] TB - DR-TB drugs issued",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs issued",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs issued",
@@ -1422,33 +1269,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Médicaments contre la TB pharmacorésistante émis"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_OPENING_BALANCE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs opening balance",
-            "dimensionItem": "AwZgWwQaHvR",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "AwZgWwQaHvR",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1456,13 +1286,10 @@
             "name": "[CONFIG] TB - DR-TB drugs opening balance",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs opening balance",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs opening balance",
@@ -1577,33 +1404,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_RECV",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs received",
-            "dimensionItem": "BmxOvSZmatv",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "BmxOvSZmatv",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1611,13 +1421,10 @@
             "name": "[CONFIG] TB - DR-TB drugs received",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs received",
@@ -1732,33 +1539,16 @@
                     "property": "SHORT_NAME",
                     "value": "Drogas DR-TB recebidas"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_REDISTRIBUTED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs redistributed",
-            "dimensionItem": "sk4N1FMqDwQ",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "sk4N1FMqDwQ",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -1766,13 +1556,10 @@
             "name": "[CONFIG] TB - DR-TB drugs redistributed",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs redistributed",
@@ -1892,38 +1679,18 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRTB_DRUGS_COVERAGE_TIME",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "consumed stock",
-            "dimensionItem": "fdt3FPCzgDc",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "fdt3FPCzgDc",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "k4RGC3sMTzO"
-            },
-            "legendSet": {
-                "id": "f1hWZIYCTzc"
             },
             "legendSets": [
                 {
@@ -1933,13 +1700,10 @@
             "name": "[CONFIG] TB - DR-TB drugs stock coverage time",
             "numerator": -1,
             "numeratorDescription": "usable stock",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs stock coverage time",
@@ -2014,38 +1778,18 @@
                     "property": "SHORT_NAME",
                     "value": "Durée de couverture des stocks de médicaments contre la tuberculose pharmacorésistante"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_DISCREPANCY",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "stock on hand",
             "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "dimensionItem": "dlUf7CDF3l8",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "dlUf7CDF3l8",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
-            },
-            "legendSet": {
-                "id": "pxeFezcPnQl"
             },
             "legendSets": [
                 {
@@ -2055,13 +1799,10 @@
             "name": "[CONFIG] TB - DR-TB drugs stock discrepancy (%)",
             "numerator": -1,
             "numeratorDescription": "DR-TB drugs stock discrepancy",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs stock discrepancy (%)",
@@ -2126,33 +1867,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_STOCK_ON_HAND",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DR-TB drugs stock on hand",
-            "dimensionItem": "odbgarQuUvh",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "odbgarQuUvh",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2160,13 +1884,10 @@
             "name": "[CONFIG] TB - DR-TB drugs stock on hand",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs stock on hand",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs stock on hand",
@@ -2281,33 +2002,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Estoque de medicamentos para TB-DR disponível"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_STOCKOUT_DAYS",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of days when the facility was stocked out of DR-TB drugs (at any point during the day) during the reporting period.",
-            "dimensionItem": "e92Z61nHBJY",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "e92Z61nHBJY",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2315,13 +2019,10 @@
             "name": "[CONFIG] TB - DR-TB drugs stock out days",
             "numerator": -1,
             "numeratorDescription": "DR-TB drugs stock out days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs stock out days",
@@ -2436,33 +2137,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRDRUGS_USABLE_STOCK",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "dimensionItem": "LmHsc7UGtQf",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "LmHsc7UGtQf",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2470,13 +2154,10 @@
             "name": "[CONFIG] TB - DR-TB drugs usable stock",
             "numerator": -1,
             "numeratorDescription": "opening balance+received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs usable stock",
@@ -2556,33 +2237,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "DR-TB_DRUGS_WASTAGE_RATE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
             "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "dimensionItem": "AK3YLZQERtT",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "AK3YLZQERtT",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -2590,13 +2254,10 @@
             "name": "[CONFIG] TB - DR-TB drugs wastage rate (%)",
             "numerator": -1,
             "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs wastage rate",
@@ -2631,33 +2292,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_CLOSING_BAL",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "dimensionItem": "DKdvXuIfxwl",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "DKdvXuIfxwl",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2665,13 +2309,10 @@
             "name": "[CONFIG] TB - DS-TB drugs closing balance",
             "numerator": -1,
             "numeratorDescription": "DS-TB drugs closing bal",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs closing balance",
@@ -2756,33 +2397,16 @@
                     "property": "NAME",
                     "value": "TB - Bilan de clôture des médicaments DS-TB"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_DISCARDED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs discarded during the reporting period (expired, damaged, etc.)",
-            "dimensionItem": "RfRy5y9ANl2",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "RfRy5y9ANl2",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2790,13 +2414,10 @@
             "name": "[CONFIG] TB - DS-TB drugs discarded",
             "numerator": -1,
             "numeratorDescription": "DS-TB drugs discarded",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs discarded",
@@ -2911,33 +2532,16 @@
                     "property": "SHORT_NAME",
                     "value": "Drogas DS-TB descartadas"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_ISSUED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs issued",
-            "dimensionItem": "jDitMFtRib4",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "jDitMFtRib4",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -2945,13 +2549,10 @@
             "name": "[CONFIG] TB - DS-TB drugs issued",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs issued",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs issued",
@@ -3036,33 +2637,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_OPENING_BALANCE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs opening balance",
-            "dimensionItem": "bD1Z2FmbHKK",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "bD1Z2FmbHKK",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3070,13 +2654,10 @@
             "name": "[CONFIG] TB - DS-TB drugs opening balance",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs opening balance",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs opening balance",
@@ -3191,33 +2772,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Balanço inicial de medicamentos DS-TB"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_RECV",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs received",
-            "dimensionItem": "hSpmpUl6eJk",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "hSpmpUl6eJk",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3225,13 +2789,10 @@
             "name": "[CONFIG] TB - DS-TB drugs received",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs received",
@@ -3346,33 +2907,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_REDISTRIBUTED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs redistributed",
-            "dimensionItem": "ZZiJYBFEJ3v",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "ZZiJYBFEJ3v",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3380,13 +2924,10 @@
             "name": "[CONFIG] TB - DS-TB drugs redistributed",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs redistributed",
@@ -3501,38 +3042,18 @@
                     "property": "DESCRIPTION",
                     "value": "Nombre de médicaments antituberculeux DS redistribués"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSTB_DRUGS_COVERAGE_TIME",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "consumed stock",
-            "dimensionItem": "Ri9wLtxwnJu",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "Ri9wLtxwnJu",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "k4RGC3sMTzO"
-            },
-            "legendSet": {
-                "id": "f1hWZIYCTzc"
             },
             "legendSets": [
                 {
@@ -3542,13 +3063,10 @@
             "name": "[CONFIG] TB - DS-TB drugs stock coverage time",
             "numerator": -1,
             "numeratorDescription": "usable stock",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs stock coverage time",
@@ -3623,33 +3141,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_DISCREPANCY",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "stock on hand",
             "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "dimensionItem": "skv1s6LGh0N",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "skv1s6LGh0N",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -3657,13 +3158,10 @@
             "name": "[CONFIG] TB - DS-TB drugs stock discrepancy (%)",
             "numerator": -1,
             "numeratorDescription": "DS-TB drugs stock discrepancy",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs stock discrepancy (%)",
@@ -3728,33 +3226,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_STOCK_ON_HAND",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of DS-TB drugs stock on hand",
-            "dimensionItem": "ozucBtxJm2l",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "ozucBtxJm2l",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3762,13 +3243,10 @@
             "name": "[CONFIG] TB - DS-TB drugs stock on hand",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs stock on hand",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs stock on hand",
@@ -3883,33 +3361,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_STOCKOUT_DAYS",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of days when the facility was stocked out of DS-TB drugs (at any point during the day) during the reporting period.",
-            "dimensionItem": "zbgm5GueWu9",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "zbgm5GueWu9",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -3917,13 +3378,10 @@
             "name": "[CONFIG] TB - DS-TB drugs stock out days",
             "numerator": -1,
             "numeratorDescription": "DS-TB drugs stock out days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs stock out days",
@@ -4038,33 +3496,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSDRUGS_USABLE_STOCK",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "dimensionItem": "bCrpRBKKPhA",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "bCrpRBKKPhA",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4072,13 +3513,10 @@
             "name": "[CONFIG] TB - DS-TB drugs usable stock",
             "numerator": -1,
             "numeratorDescription": "opening balance+received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs usable stock",
@@ -4158,33 +3596,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "DS-TB_DRUGS_WASTAGE_RATE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
             "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "dimensionItem": "W4IZTF82Bwx",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "W4IZTF82Bwx",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -4192,13 +3613,10 @@
             "name": "[CONFIG] TB - DS-TB drugs wastage rate (%)",
             "numerator": -1,
             "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs wastage rate",
@@ -4233,33 +3651,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_CLOSING_BAL",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "dimensionItem": "mDpLYl0sbQd",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "mDpLYl0sbQd",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4267,13 +3668,10 @@
             "name": "[CONFIG] TB - GeneXpert cartridges closing balance",
             "numerator": -1,
             "numeratorDescription": "GeneXpert cartridges closing bal",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges closing balance",
@@ -4358,33 +3756,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_DISCARDED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges discarded during the reporting period (expired, damaged, etc.)",
-            "dimensionItem": "K8jFJ0e67kU",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "K8jFJ0e67kU",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4392,13 +3773,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges discarded",
             "numerator": -1,
             "numeratorDescription": "GeneXpert Cartridges discarded",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges discarded",
@@ -4483,33 +3861,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_ISSUED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert cartridges issued",
-            "dimensionItem": "cbAQwCbhhoe",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "cbAQwCbhhoe",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4517,13 +3878,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges issued",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges issued",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges issued",
@@ -4608,33 +3966,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_OPENING_BALANCE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges opening balance",
-            "dimensionItem": "U1c4P0YOBC5",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "U1c4P0YOBC5",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4642,13 +3983,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges opening balance",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges opening balance",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges opening balance",
@@ -4733,33 +4071,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_RECV",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges received",
-            "dimensionItem": "gcMtkbbotUv",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "gcMtkbbotUv",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4767,13 +4088,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges received",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges received",
@@ -4858,33 +4176,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_REDISTRIBUTED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges redistributed",
-            "dimensionItem": "FnadQQyc1dP",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "FnadQQyc1dP",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -4892,13 +4193,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges redistributed",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges redistributed",
@@ -4983,38 +4281,18 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_XPERT_COVERAGE_TIME",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "consumed stock",
-            "dimensionItem": "Vb6NHYRWTyi",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "Vb6NHYRWTyi",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "k4RGC3sMTzO"
-            },
-            "legendSet": {
-                "id": "f1hWZIYCTzc"
             },
             "legendSets": [
                 {
@@ -5024,13 +4302,10 @@
             "name": "[CONFIG] TB - GeneXpert cartridges stock coverage time",
             "numerator": -1,
             "numeratorDescription": "usable stock",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges stock coverage time",
@@ -5105,33 +4380,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "المخزون المستهلك"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_DISCREPANCY",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "stock on hand",
             "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "dimensionItem": "KQf9KBm7VW5",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "KQf9KBm7VW5",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5139,13 +4397,10 @@
             "name": "[CONFIG] TB - GeneXpert cartridges stock discrepancy (%)",
             "numerator": -1,
             "numeratorDescription": "GeneXpert cartridges stock discrepancy",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges stock discrepancy (%)",
@@ -5210,33 +4465,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_STOCK_ON_HAND",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of GeneXpert Cartridges stock on hand",
-            "dimensionItem": "OvZVFIRgrtG",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "OvZVFIRgrtG",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -5244,13 +4482,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges stock on hand",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges stock on hand",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock on hand",
@@ -5335,33 +4570,16 @@
                     "property": "SHORT_NAME",
                     "value": "Cartouches GeneXpert en stock"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGE_STOCKOUT_DAYS",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "1",
             "description": "Number of days when the facility was stocked out of GeneXpert Cartridges (at any point during the day) during the reporting period.",
-            "dimensionItem": "BzFJFOFMVCu",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "BzFJFOFMVCu",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -5369,13 +4587,10 @@
             "name": "[CONFIG] TB - GeneXpert Cartridges stock out days",
             "numerator": -1,
             "numeratorDescription": "GeneXpert Cartridges stock out days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock out days",
@@ -5480,33 +4695,16 @@
                     "property": "NAME",
                     "value": "TB - GeneXpert kartridže nejsou skladem dní"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "GENEXPERT_CARTRIDGES_WASTAGE_RATE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
             "description": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "dimensionItem": "VDfuDVALf0f",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "VDfuDVALf0f",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5514,13 +4712,10 @@
             "name": "[CONFIG] TB - GeneXpert cartridges wastage rate (%)",
             "numerator": -1,
             "numeratorDescription": "Stock wasted=([Closing balance]-[Stock at hand]) + discarded)",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges wastage rate",
@@ -5555,33 +4750,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Stock gaspillé=([Bilan de clôture-[Stock disponible]) + jeté)"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_GENEXPERT_USABLE_STOCK",
-            "dataSets": [],
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "dimensionItem": "pRHeUC3sjcO",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "pRHeUC3sjcO",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
@@ -5589,13 +4767,10 @@
             "name": "[CONFIG] TB - GeneXpert usable stock",
             "numerator": -1,
             "numeratorDescription": "opening balance+received",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert usable stock",
@@ -5675,33 +4850,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "HF_WITH_DR-TB_DRUGS_STOCKOUT_DAYS_%",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
             "description": "Proportion of health facilities with DR-TB drugs stockout days",
-            "dimensionItem": "eSTkclrbTy5",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "eSTkclrbTy5",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5709,13 +4867,10 @@
             "name": "[CONFIG] TB - Health facilities with DR-TB drugs stock-out days (%)",
             "numerator": -1,
             "numeratorDescription": "HF with DR-TB drugs stockout days reported",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "HF with DR-TB drugs stockout days (%)",
@@ -5745,33 +4900,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "CS signale les jours de rupture de stock"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "HF_WITH_DS-TB_DRUGS_STOCKOUT_DAYS_%",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
             "description": "Proportion of health facilities with DS-TB drugs stockout days",
-            "dimensionItem": "WID08ddfy5T",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "WID08ddfy5T",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5779,13 +4917,10 @@
             "name": "[CONFIG] TB - Health facilities with DS-TB drugs stock-out days (%)",
             "numerator": -1,
             "numeratorDescription": "HF with DS-TB drugs stockout days reported",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "HF with DS-TB drugs stockout days (%)",
@@ -5815,33 +4950,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "CS signale les jours de rupture de stock"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "HF_WITH_GENEXPERT_CARTRIDGES_STOCKOUT_DAYS_%",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "HF reporting stockout days",
             "description": "Proportion of health facilities with GeneXpert cartridges stockout days",
-            "dimensionItem": "ZFd8LiJ1y3C",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "ZFd8LiJ1y3C",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5849,13 +4967,10 @@
             "name": "[CONFIG] TB - Health facilities with GeneXpert cartridges stock-out days (%)",
             "numerator": -1,
             "numeratorDescription": "HF with GeneXpert cartridges stockout days",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "HF with GeneXpert cartridges SO days (%)",
@@ -5885,33 +5000,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "CS signale les jours de rupture de stock"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRTB_DRUGS_CONSUMED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - DR-TB drugs opening balance + distributed = usable stock",
             "description": "Proportion of DR-TB drugs that have been used over the opening balance of the same drugs",
-            "dimensionItem": "WBuAm3uZWWs",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "WBuAm3uZWWs",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5919,13 +5017,10 @@
             "name": "[CONFIG] TB - Proportion of DR-TB drugs consumed",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs distributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs consumed (%)",
@@ -5965,33 +5060,16 @@
                     "property": "DESCRIPTION",
                     "value": "Proportion de médicaments contre la TB pharmacorésistante qui ont été utilisés sur le bilan d'ouverture des mêmes médicaments"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSSTB_DRUGS_UNUSABLE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - DR-TB drugs opening balance",
             "description": "Proportion of DR-TB drugs that, out of the opening balance, could not be used due to either redistribution or discard",
-            "dimensionItem": "nbSUx9d1e1M",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "nbSUx9d1e1M",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -5999,13 +5077,10 @@
             "name": "[CONFIG] TB - Proportion of DR-TB drugs unusable",
             "numerator": -1,
             "numeratorDescription": "TB - DR-TB drugs discarded + TB - DR-TB drugs redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DR-TB drugs unusable (%)",
@@ -6045,33 +5120,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "Tuberculose - Médicaments contre la TB pharmacorésistante éliminés + Tuberculose - Médicaments contre la tuberculose pharmacorésistante redistribués"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DSTB_DRUGS_CONSUMED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - DS-TB drugs opening balance + received = usable stock",
             "description": "Proportion of DS-TB drugs that have been used over the opening balance of the same drugs",
-            "dimensionItem": "GbqUYVq0NLo",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "GbqUYVq0NLo",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -6079,13 +5137,10 @@
             "name": "[CONFIG] TB - Proportion of DS-TB drugs consumed",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs distributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs consumed (%)",
@@ -6125,33 +5180,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Médicaments TB-PS distribués"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_DRSTB_DRUGS_UNUSABLE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - DS-TB drugs opening balance",
             "description": "Proportion of DS-TB drugs that, out of the opening balance, could not be used due to either redistribution or discard",
-            "dimensionItem": "UiSEm1IJmhb",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "UiSEm1IJmhb",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -6159,13 +5197,10 @@
             "name": "[CONFIG] TB - Proportion of DS-TB drugs unusable",
             "numerator": -1,
             "numeratorDescription": "TB - DS-TB drugs discarded + TB - DS-TB drugs redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "DS-TB drugs unusable (%)",
@@ -6205,33 +5240,16 @@
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "TB - Balanço inicial de medicamentos DS-TB"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGES_CONSUMED",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - GeneXpert Cartridges opening balance + received = usable stock",
             "description": "Proportion of GeneXpert cartridges that have been used for diagnostics over the opening balance of GeneXpert cartridges",
-            "dimensionItem": "JaXPqKA823j",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "JaXPqKA823j",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -6239,13 +5257,10 @@
             "name": "[CONFIG] TB - Proportion of GeneXpert cartridges consumed",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges distributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges consumed (%)",
@@ -6275,33 +5290,16 @@
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB - Cartouches GeneXpert distribuées"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "annualized": false,
             "attributeValues": [],
             "code": "TB_CARTRIDGES_UNUSABLE",
-            "dataSets": [],
             "denominator": -1,
             "denominatorDescription": "TB - GeneXpert Cartridges opening balance",
             "description": "Proportion of GeneXpert cartridges that, out of the opening balance, could not be used due to either redistribution or discard",
-            "dimensionItem": "AgJYWRktH9o",
-            "dimensionItemType": "INDICATOR",
-            "externalAccess": false,
-            "favorite": false,
             "id": "AgJYWRktH9o",
-            "indicatorGroups": [
-                {
-                    "id": "pMaektY4E9s"
-                }
-            ],
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
@@ -6309,13 +5307,10 @@
             "name": "[CONFIG] TB - Proportion of GeneXpert cartridges unusable",
             "numerator": -1,
             "numeratorDescription": "TB - GeneXpert Cartridges discarded + TB - GeneXpert Cartridges redistributed",
-            "periodOffset": 0,
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "shortName": "GeneXpert cartridges unusable (%)",
@@ -6345,27 +5340,18 @@
                     "property": "SHORT_NAME",
                     "value": "Cartouches GeneXpert inutilisables (%)"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         }
     ],
     "legendSets": [
         {
             "attributeValues": [],
             "code": "STOCK_COVERAGE_TIME",
-            "externalAccess": false,
-            "favorite": false,
             "id": "f1hWZIYCTzc",
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#DC00FF",
+                    "color": "#DFD9E0",
                     "endValue": 200.0,
                     "externalAccess": false,
                     "favorite": false,
@@ -6373,9 +5359,7 @@
                     "id": "wfbGANgbnMR",
                     "name": "Invalid",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 12.0,
                     "translations": [],
@@ -6384,7 +5368,7 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#0011FF",
+                    "color": "#13710A",
                     "endValue": 12.0,
                     "externalAccess": false,
                     "favorite": false,
@@ -6392,9 +5376,7 @@
                     "id": "ee8QJxth4ul",
                     "name": "Overstock",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 3.0,
                     "translations": [],
@@ -6411,9 +5393,7 @@
                     "id": "fFBIEwglorN",
                     "name": "Stock out",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 0.0,
                     "translations": [],
@@ -6430,9 +5410,7 @@
                     "id": "mmvDbIcm41d",
                     "name": "Adequate stock",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 1.0,
                     "translations": [],
@@ -6449,9 +5427,7 @@
                     "id": "wAdm1fy3Fmk",
                     "name": "Understock",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 0.0001,
                     "translations": [],
@@ -6460,12 +5436,10 @@
                 }
             ],
             "name": "Stock coverage time",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "translations": [
@@ -6494,20 +5468,11 @@
                     "property": "NAME",
                     "value": "مدة تغطية المخزون"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
             "attributeValues": [],
             "code": "STOCK DISCREPANCY",
-            "externalAccess": false,
-            "favorite": false,
             "id": "pxeFezcPnQl",
             "legends": [
                 {
@@ -6520,9 +5485,7 @@
                     "id": "IdLVcKSBYPP",
                     "name": "Positive",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 9.0,
                     "translations": [],
@@ -6539,9 +5502,7 @@
                     "id": "EcNjRnWM0Yw",
                     "name": "Negative",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": -10000000.0,
                     "translations": [],
@@ -6558,9 +5519,7 @@
                     "id": "bW5lmAtDMhX",
                     "name": "Correct stock",
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "startValue": 1.0,
                     "translations": [],
@@ -6569,12 +5528,10 @@
                 }
             ],
             "name": "Stock discrepancy",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "translations": [
@@ -6603,22 +5560,12 @@
                     "property": "NAME",
                     "value": "تباين المخزون"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         }
     ],
     "maps": [
         {
-            "attributeValues": [],
             "basemap": "bingLight",
-            "externalAccess": false,
-            "favorite": false,
             "id": "Y2rQpAz7UMa",
             "mapViews": [
                 {
@@ -6732,9 +5679,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -6790,9 +5735,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -6813,15 +5756,12 @@
                 }
             ],
             "name": "TB - Coverage time for DR-TB drugs by facility",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -6829,20 +5769,10 @@
                     "property": "NAME",
                     "value": "TB - Durée de couverture des médicaments contre la TB pharmacorésistante par établissement"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "basemap": "bingLight",
-            "externalAccess": false,
-            "favorite": false,
             "id": "b1Q7LZBMulY",
             "mapViews": [
                 {
@@ -6956,9 +5886,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -7014,9 +5942,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -7031,15 +5957,12 @@
                 }
             ],
             "name": "TB - Coverage time for DS-TB drugs by facility",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -7047,20 +5970,10 @@
                     "property": "NAME",
                     "value": "TB - Durée de la couverture des médicaments antituberculeux DS par établissement"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "basemap": "bingLight",
-            "externalAccess": false,
-            "favorite": false,
             "id": "RnpweIAT2Vp",
             "mapViews": [
                 {
@@ -7174,9 +6087,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -7232,9 +6143,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -7255,15 +6164,12 @@
                 }
             ],
             "name": "TB - Coverage time for GeneXpert cartridges by facility",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -7271,21 +6177,11 @@
                     "property": "NAME",
                     "value": "TB - Durée de couverture des cartouches GeneXpert par établissement"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "basemap": "bingLight",
             "description": "",
-            "externalAccess": false,
-            "favorite": false,
             "id": "f51qX1C56dW",
             "mapViews": [
                 {
@@ -7393,9 +6289,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -7467,9 +6361,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -7484,15 +6376,12 @@
                 }
             ],
             "name": "TB - Facilities with stockout days for DR-TB drugs",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -7500,20 +6389,10 @@
                     "property": "NAME",
                     "value": "Tuberculose - Établissements avec des jours de rupture de stock pour les médicaments contre la TB pharmacorésistante"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "basemap": "bingLight",
-            "externalAccess": false,
-            "favorite": false,
             "id": "LDSu7bMS2Kl",
             "mapViews": [
                 {
@@ -7621,9 +6500,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -7695,9 +6572,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -7718,15 +6593,12 @@
                 }
             ],
             "name": "TB - Facilities with stockout days for DS-TB drugs",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -7734,20 +6606,10 @@
                     "property": "NAME",
                     "value": "TB - Établissements avec des jours de rupture de stock pour les médicaments antituberculeux DS"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         },
         {
-            "attributeValues": [],
             "basemap": "bingLight",
-            "externalAccess": false,
-            "favorite": false,
             "id": "eYZd1BLeELf",
             "mapViews": [
                 {
@@ -7856,9 +6718,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
@@ -7925,9 +6785,7 @@
                     "renderingStrategy": "SINGLE",
                     "rows": [],
                     "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
+                        "external": false
                     },
                     "sortOrder": 0,
                     "subscribed": false,
@@ -7942,15 +6800,12 @@
                 }
             ],
             "name": "TB - Facilities with stockout days for GeneXpert cartridges",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
-            "subscribed": false,
             "subscribers": [],
             "translations": [
                 {
@@ -7958,24 +6813,19 @@
                     "property": "NAME",
                     "value": "TB - Établissements avec des jours de rupture de stock pour les cartouches GeneXpert"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
+            ]
         }
     ],
+    "organisationUnitGroupSets": [],
+    "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "23c23c5",
-        "DHIS2Version": "2.37.7.1",
+        "DHIS2Build": "d9a77b2",
+        "DHIS2Version": "2.37.8",
         "code": "TB_AGG_STK",
-        "description": "TB Stock Dashboard",
-        "lastUpdated": "20221024T123027",
+        "description": "TB Stock (dashboard)",
+        "lastUpdated": "20230307T162146",
         "locale": "en",
-        "name": "TB_AGG_STK_DSH_DHIS2.37.7.1-en",
+        "name": "TB_AGG_STK_DSH_DHIS2.37.8-en",
         "type": "DSH",
         "version": ""
     },
@@ -7983,17 +6833,9 @@
         {
             "attributeValues": [],
             "code": "TB_AGG_ACCESS",
-            "externalAccess": false,
-            "favorite": false,
             "id": "Hoe8uDSoNfN",
-            "managedByGroups": [
-                {
-                    "id": "dO0Z6jb54LZ"
-                }
-            ],
             "managedGroups": [],
             "name": "TB access",
-            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8052,40 +6894,14 @@
                     "value": "Acceso TB"
                 }
             ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "r-------",
-                    "id": "Hoe8uDSoNfN",
-                    "userGroupUid": "Hoe8uDSoNfN"
-                },
-                {
-                    "access": "rw------",
-                    "id": "avefFGBIjq1",
-                    "userGroupUid": "avefFGBIjq1"
-                }
-            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_ADMIN",
-            "externalAccess": false,
-            "favorite": false,
             "id": "avefFGBIjq1",
-            "managedByGroups": [
-                {
-                    "id": "pYKORibPZEp"
-                }
-            ],
             "managedGroups": [],
             "name": "TB admin",
-            "publicAccess": "r-------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8144,40 +6960,14 @@
                     "value": "ТБ бўлими администратори"
                 }
             ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "r-------",
-                    "id": "Hoe8uDSoNfN",
-                    "userGroupUid": "Hoe8uDSoNfN"
-                },
-                {
-                    "access": "rw------",
-                    "id": "avefFGBIjq1",
-                    "userGroupUid": "avefFGBIjq1"
-                }
-            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_CAPTURE",
-            "externalAccess": false,
-            "favorite": false,
             "id": "bHLDx9I0XkE",
-            "managedByGroups": [
-                {
-                    "id": "j6tlQ56IAet"
-                }
-            ],
             "managedGroups": [],
             "name": "TB data capture",
-            "publicAccess": "--------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8241,41 +7031,18 @@
                     "value": "Captura de dados TB"
                 }
             ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "rw------",
-                    "id": "Hoe8uDSoNfN",
-                    "userGroupUid": "Hoe8uDSoNfN"
-                },
-                {
-                    "access": "r-------",
-                    "id": "avefFGBIjq1",
-                    "userGroupUid": "avefFGBIjq1"
-                }
-            ],
             "users": []
         },
         {
             "attributeValues": [],
             "code": "TB_AGG_STOCK_DATA_CAPTURE",
-            "externalAccess": false,
-            "favorite": false,
             "id": "hT0GsbPl8fg",
-            "managedByGroups": [],
             "managedGroups": [],
             "name": "TB stock data capture",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "translations": [
@@ -8285,30 +7052,18 @@
                     "value": "TB Saisie des données stocks"
                 }
             ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "users": []
         }
     ],
     "userRoles": [
         {
-            "attributeValues": [],
             "authorities": [],
-            "externalAccess": false,
-            "favorite": false,
             "id": "nCNR71ZbTHK",
             "name": "Package User Role",
-            "publicAccess": "rw------",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "translations": [
@@ -8317,18 +7072,6 @@
                     "property": "NAME",
                     "value": "Rôle d'utilisateur du package"
                 }
-            ],
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
-            "users": [
-                {
-                    "id": "vUeLeQMSwhN"
-                }
             ]
         }
     ],
@@ -8336,21 +7079,11 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "externalAccess": false,
-            "favorite": false,
             "firstName": "package",
             "id": "vUeLeQMSwhN",
-            "name": "package admin",
             "organisationUnits": [],
-            "sharing": {
-                "external": false,
-                "userGroups": {},
-                "users": {}
-            },
             "surname": "admin",
             "teiSearchOrganisationUnits": [],
-            "translations": [],
-            "userAccesses": [],
             "userCredentials": {
                 "attributeValues": [],
                 "catDimensionConstraints": [],
@@ -8367,9 +7100,7 @@
                 "passwordLastUpdated": "2022-08-17T12:56:38.395",
                 "selfRegistered": false,
                 "sharing": {
-                    "external": false,
-                    "userGroups": {},
-                    "users": {}
+                    "external": false
                 },
                 "translations": [],
                 "twoFA": false,
@@ -8396,8 +7127,6 @@
     "visualizations": [
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8405,7 +7134,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8416,16 +7144,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -8586,11 +7310,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -8650,7 +7371,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8658,7 +7378,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": false,
@@ -8666,7 +7385,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -8677,13 +7395,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -8691,8 +7402,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8700,7 +7409,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8747,16 +7455,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -8779,11 +7483,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -8843,7 +7544,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8851,7 +7551,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": false,
@@ -8859,7 +7558,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -8870,13 +7568,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -8884,8 +7575,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8893,7 +7582,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -8940,16 +7628,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -8972,11 +7656,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -9036,7 +7717,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9044,7 +7724,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": false,
@@ -9052,7 +7731,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -9063,13 +7741,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -9077,8 +7748,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9086,7 +7755,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -9097,16 +7765,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -9267,11 +7931,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "--------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -9331,7 +7992,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9356,7 +8016,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -9367,24 +8026,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [
-                {
-                    "access": "r-------",
-                    "id": "Hoe8uDSoNfN",
-                    "userGroupUid": "Hoe8uDSoNfN"
-                },
-                {
-                    "access": "rw------",
-                    "id": "avefFGBIjq1",
-                    "userGroupUid": "avefFGBIjq1"
-                }
-            ],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -9392,8 +8033,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9401,7 +8040,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -9412,17 +8050,13 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -9583,11 +8217,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -9647,7 +8278,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9655,7 +8285,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": false,
@@ -9663,7 +8292,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -9674,13 +8302,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -9688,8 +8309,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9697,7 +8316,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -9744,17 +8362,13 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -9777,11 +8391,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "rw------",
             "regression": false,
             "relativePeriods": {
                 "biMonthsThisYear": false,
@@ -9841,7 +8452,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9849,7 +8459,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "rw------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": false,
@@ -9857,7 +8466,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -9868,13 +8476,6 @@
                 }
             ],
             "type": "PIVOT_TABLE",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -9882,8 +8483,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9891,7 +8490,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -9902,16 +8500,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -9932,11 +8526,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -9997,7 +8588,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -10005,7 +8595,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": true,
@@ -10013,7 +8602,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -10024,13 +8612,6 @@
                 }
             ],
             "type": "STACKED_AREA",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -10038,8 +8619,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -10047,7 +8626,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -10058,16 +8636,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -10088,11 +8662,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -10153,7 +8724,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -10161,7 +8731,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": true,
@@ -10169,7 +8738,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -10180,13 +8748,6 @@
                 }
             ],
             "type": "STACKED_AREA",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
@@ -10194,8 +8755,6 @@
         },
         {
             "aggregationType": "DEFAULT",
-            "attributeDimensions": [],
-            "attributeValues": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -10203,7 +8762,6 @@
             "columnDimensions": [
                 "dx"
             ],
-            "columns": [],
             "completedOnly": false,
             "cumulativeValues": false,
             "dataDimensionItems": [
@@ -10214,16 +8772,12 @@
                     }
                 }
             ],
-            "dataElementDimensions": [],
             "dataElementGroupSetDimensions": [],
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
-            "externalAccess": false,
-            "favorite": false,
             "filterDimensions": [
                 "ou"
             ],
-            "filters": [],
             "fixColumnHeaders": false,
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
@@ -10244,11 +8798,8 @@
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "organisationUnits": [],
-            "parentGraphMap": {},
             "percentStackedValues": false,
             "periods": [],
-            "programIndicatorDimensions": [],
-            "publicAccess": "--------",
             "regression": false,
             "regressionType": "NONE",
             "relativePeriods": {
@@ -10309,7 +8860,6 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
-            "rows": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -10317,7 +8867,6 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "--------",
-                "userGroups": {},
                 "users": {}
             },
             "showData": true,
@@ -10325,7 +8874,6 @@
             "showHierarchy": false,
             "skipRounding": false,
             "sortOrder": 0,
-            "subscribed": false,
             "subscribers": [],
             "topLimit": 0,
             "translations": [
@@ -10336,13 +8884,6 @@
                 }
             ],
             "type": "STACKED_AREA",
-            "user": {
-                "id": "vUeLeQMSwhN",
-                "name": "package admin",
-                "username": "package_admin"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": [],
             "userOrganisationUnit": true,
             "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
