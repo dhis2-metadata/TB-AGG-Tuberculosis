@@ -1,5 +1,9 @@
 # Release Note { #tb-agg-release-note }
 
+## 1.5.0
+
+The Data Quality (DQ) dashboard and guide are added to the TB HMIS toolkit.
+
 ## 1.4.1
 
 French translations added to all package components.
