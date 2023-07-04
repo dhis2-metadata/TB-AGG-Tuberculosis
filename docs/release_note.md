@@ -1,8 +1,8 @@
 # Release Note { #tb-agg-release-note }
 
-## 1.4.2
+## 1.5.0
 
-THe Data Quality (DQ) dashboard and guide added to the TB HMIS toolkit
+The Data Quality (DQ) dashboard and guide are added to the TB HMIS toolkit.
 
 ## 1.4.1
 
