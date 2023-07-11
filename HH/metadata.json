@@ -19,7 +19,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -142,7 +142,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -318,7 +318,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -384,7 +384,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -425,7 +425,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -615,6 +615,7 @@
                     "id": "UPvKbcqTEY3"
                 }
             ],
+            "code": "TB_HIVPOS_0004Y",
             "id": "bvHzx3xflb9",
             "ignoreApproval": false,
             "name": "Known HIV +, 0-4 years",
@@ -664,6 +665,7 @@
                     "id": "afpMrUgPzl3"
                 }
             ],
+            "code": "TB_HIVPOS_05PLUSY",
             "id": "RqyDFrUDkoc",
             "ignoreApproval": false,
             "name": "Known HIV +, 5+ years",
@@ -703,6 +705,7 @@
                     "id": "JGR3vWtSLhh"
                 }
             ],
+            "code": "TB_HIVNEG_UNK_0004Y",
             "id": "AtDcGOp9mpo",
             "ignoreApproval": false,
             "name": "Known HIV - / Unknown HIV status, 0-4 years",
@@ -752,6 +755,7 @@
                     "id": "afpMrUgPzl3"
                 }
             ],
+            "code": "TB_HIVNEG_UNK_05PLUSY",
             "id": "dfu6ZsanJkt",
             "ignoreApproval": false,
             "name": "Known HIV - / Unknown HIV status, 5+ years",
@@ -779,7 +783,816 @@
             ]
         }
     ],
-    "categoryOptionGroupSets": [],
+    "categoryOptionGroupSets": [
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "f5VxIY91Jz3"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years.",
+            "id": "P9P3HGBjI5B",
+            "name": "Age in years (0-14, 15+, unknown)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years (0-14, 15+, unknown)",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech (0-14, 15+, neznámé)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years",
+            "id": "AzDcxg4bW1N",
+            "name": "Age in years (0-4, 5-14, 15+)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years (0-4, 5-14, 15+)",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years.",
+            "id": "dxmp3usPQIm",
+            "name": "Age in years (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, unknown)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Age in years (0-4, 5-14, 15-24, 25-34, 35-44, 45-5",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-4 ، 5-14 ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15-24, 25-34, 35-44,45-54, 55-64, 65+, desconhecida)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Возраст в годах (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, неизвестно)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, desconocido)"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-14, 15-24, 25-34, 35-44,45-54, 55-64, 65+, desconhecida)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder i år (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ukjent)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Ёши йилларда (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ноаниқ)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Ёши йилларда (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ноаниқ)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Age (TB)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-4 ، 5-14 ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, desconocido)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-4 ، 5-14 ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-4 ، 5-14 ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v rocích (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, neznámý)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation in years.",
+            "id": "tuz13lFHjuM",
+            "name": "Age in years  (0-4, 5-9, unknown)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years  (0-4, 5-9, unknown)",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-9, desconhecida)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ёш бўйича категориялар, йилларда."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace v letech."
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Alderkategorisering i år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade em anos."
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge en année"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-9, desconocido)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Age en année (0-4, 5-9, inconnu)"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "Kategorisasi usia dalam tahun"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder i år (0-4, 5-9, ukjent)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-4, 5-9, desconhecida)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech (0-4, 5-9, neznámý)"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Usia dalam tahun (0-4, 5-9 tidak diketahui)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Categorización de edad en años"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad en años (0-4, 5-9, desconocido)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري بالسنوات."
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "Age categorisation for historical TB data only.",
+            "id": "OZlTcjBnAsn",
+            "name": "Age in years (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, unknown)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Age in years (0-5, 5-14, 0-14, 15+, 15-24, 25-34, ",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade apenas para dados históricos de TB."
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, neznámé)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Catégorisation âge pour les données historiques TB seulement"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Clasificación de edad solo para datos históricos de TB"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder i år (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ukjent)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-5 ، 5-14 ، 0-14 ، 15+ ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Ёши йилларда (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ноаниқ)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-5 ، 5-14 ، 0-14 ، 15+ ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44,45-54, 55-64, 65+, desconhecida)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad en años (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, desconocido)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري لبيانات السل التاريخية فقط."
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade em anos (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44,45-54, 55-64, 65+, desconhecida)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Фақатгина ТБ тарихи асосида ёш категориялари."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري لبيانات السل التاريخية فقط."
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Age en année (0-5, 5-14, 0-14, 15 et plus, 15-24, 25-34, 35-44, 45-54, 55-64, 65 et plus, inconnu)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-5 ، 5-14 ، 0-14 ، 15+ ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري لبيانات السل التاريخية فقط."
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Clasificación de edad solo para datos históricos de TB"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Věková kategorizace pouze pro historická data TB."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Фақатгина ТБ тарихи асосида ёш категориялари."
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات (0-5 ، 5-14 ، 0-14 ، 15+ ، 15-24 ، 25-34 ، 35-44 ، 45-54 ، 55-64 ، 65+، مجهول)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Categorização de idade apenas para dados históricos de TB."
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Ёши йилларда (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, ноаниқ)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "التصنيف العمري لبيانات السل التاريخية فقط."
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad en años (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, desconocido)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Возраст в годах (0-5, 5-14, 0-14, 15+, 15-24, 25-34, 35-44, 45-54, 55-64, 65+, неизвестно)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GaGDeErYt4e",
+            "name": "Age in years for COVID-19 (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, 85+)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years for COVID-19 (0-4, 5-14, 15-24, 25-34",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech pro COVID-19 (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, 85+)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge en années pour COVID-19 (0-4, 5-14, 15-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, 85+)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "nd6HGxbW3D5",
+            "name": "Age in years for COVID-19(0-4,5-9,10-14,15-19,20-29,30-39,40-49,50-59,60-64,65-69,70-74,75-79,80+,Unk)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years for COVID-19(0-4,5-9,10-14,15-19,20-2",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge en années pour COVID-19(0-4,5-9,10-14,15-19,20-29,30-39,40-49,50-59,60-64,65-69,70- 74,75-79,80+,Inconnu)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech pro COVID-19(0-4,5-9,10-14,15-19,20-29,30-39,40-49,50-59,60-64,65-69,70-74,75-79,80+, Neznámý)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "yuathFHLjNe"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "zZLqwONmrNU",
+            "name": "Age in years for Rehabilitation (0-4,5-17,18+)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Age in years for Rehabilitation (0-4,5-17,18+)",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Věk v letech pro rehabilitaci (0-4,5-17,18+)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4 ،5-17 ،+18)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4 ،5-17 ،+18)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "العمر بالسنوات للتأهيل (0-4،5-17،+18)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Âge en années pour la réadaptation (0-4,5-17,18+)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Věk v letech pro rehabilitaci (0-4,5-17,18+)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge en années pour la réadaptation (0-4,5-17,18+)"
+                }
+            ]
+        }
+    ],
     "categoryOptionGroups": [
         {
             "attributeValues": [],
@@ -966,7 +1779,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -1135,12 +1948,3144 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "shortName": "Category Options",
             "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "vckBfmugFI3",
+            "name": "0-14 years (specific age)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "0-14 years (specific)",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "0-14 سنة (عمر محدد)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "0-14 ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "0-14 años (edad específica)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة (محدد)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة (محدد)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "0-14 лет (точный возраст)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 anos (específico)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "0-14 سنة (عمر محدد)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш (аниқ)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "0-14 let (konkrétní věk)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "0-14 år (spesifikk alder)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "0-14 ans (âge spécifique)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 anos (específico)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "0-14 anos (idade específica)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 let (konkrétní)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "0-14 anos (idade específica)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "0-14 años (edad específica)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ans (spécifique)"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 (específica)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "0-14 سنة (عمر محدد)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 år (spesifikk)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 (específica)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة (محدد)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 سنة (محدد)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "0-14 ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "0-14 ёш (аниқ)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "0-14 سنة (عمر محدد)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P10Y--P15Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "RoYZKp6iDnH",
+            "name": "10-14 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "10-14 y",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 ans "
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "10-14 tahun"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 a"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "10-14 سنوات"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 a"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 let"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "10-14 anos"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "10-14 años"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "10-14 år"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "10-14 سنوات"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "10-14 سنوات"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "10-14 años"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 Tahun"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "10-14 a"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "10-14 anos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "10-14 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "10-14 let"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "10-14 سنوات"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P15Y--P20Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "qiaJA9sMzj2",
+            "name": "15-19 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "15-19 y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 r"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 anos"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 Tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15-19 let"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15-19 anos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15-19 ans"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15-19 años"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 a"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 anos"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15-19 años"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15-19 Tahun"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15-19 anos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15-19 ans"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15-19 år"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "L7gAblMOZKs",
+            "name": "15-24 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "15-24 y",
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15-24 anos"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15-24 Tahun"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 a"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15-24 år"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 Thn"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15-24 лет"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15-24 ans"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15-24 años"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 år"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15-24 let"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15-24 ёш"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15-24 años"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 a"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15-24 ёш"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15-24 anos"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15-24"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 let"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15-24 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15-24 ёш"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "SqvDE9fTeGl",
+            "name": "15+ years (Multiple)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "15+ years (Multiple)",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ans"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "15+ лет"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15+ år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "15+ Tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15+ سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15+ let"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P15Y--P9999Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "HkomAEMQt5e",
+            "name": "15+ years (single age)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "15+ years (single age)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "15 ans et plus (spécifique)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "15+ år (spesifikk alder)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "15+ anos (idade específica)"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años (específica)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos (específica)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "15+ años (edad específica)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "15+ let (konkrétní)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "15+ anos (específica)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш (аниқ)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "15+ سنة (محدد)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "15+ лет (точный возраст)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "15+ år (spesifikk)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "15+ ёш (аниқ)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "15+ ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "15+ سنة (عمر محدد)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "15 ans et plus (âge spécifique)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "15+ años (específica)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "15+ anos (idade específica)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "15+ let (konkrétní věk)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "15+ ёш (аниқ ёш)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "15+ años (edad específica)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P18Y--P9999Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "vCGvIKUNjM5",
+            "name": "18+ years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "18+ y",
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "18+ ans"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "18+ let"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "18+ ans"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "18+ سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "18+ r"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P20Y--P30Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "p84eezwJhMd",
+            "name": "20-29 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "20-29 y",
+            "translations": [
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "20-29 år"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "20-29 ans"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "20-29 a"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "20-29 a"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "20-29 r"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "20-29 år"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "20-29 let"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "20-29 años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "20-29 ans"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "20-29 años"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "cRskhJQLr4J",
+            "name": "25-34 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "25-34 y",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 a"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 ёш"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 ёш"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "25-34 let"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 a"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 let"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "25-34 ёш"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "25-34 anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "25-34 år"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "25-34 anos"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "25-34 Tahun"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 år"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "25-34"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "25-34 años"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "25-34 ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "25-34 ans"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 Tahun"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "25-34 años"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "25-34 a"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "25-34 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "25-34 лет"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P30Y--P40Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "u87kL0SUYZa",
+            "name": "30-39 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "30-39 y",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "30-39 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "30-39 let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "30-39 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "30-39 r"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "KkZHYvn7Zor",
+            "name": "35-44 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "35-44 y",
+            "translations": [
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 Thn"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "35-44 ёш"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "35-44 ёш"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "35-44 años"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 a"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "35-44 anos"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "35-44 let"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 a"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 a"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 ёш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "35-44 лет"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 ans"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "35-44 Tahun"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 a"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "35-44 anos"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 let"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "35-44 år"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "35-44 ans"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 år"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 ёш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "35-44 سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "35-44 años"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P40Y--P50Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "nuU9qXctcQE",
+            "name": "40-49 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "40-49 y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "40-49 r"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "40-49 let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "40-49 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "40-49 ans"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "y5yT8JF4uCA",
+            "name": "45-54 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "45-54 y",
+            "translations": [
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 år"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "45-54 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "45-54"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 let"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "45-54 años"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "45-54 ёш"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "45-54 años"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 a"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 a"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 ёш"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "45-54 лет"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 ёш"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "45-54 ёш"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "45-54 anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "45-54 år"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "45-54 Tahun"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 Thn"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "45-54 a"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "45-54 سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "45-54 let"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "45-54 anos"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P50Y--P60Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "IpuKFEXhtUJ",
+            "name": "50-59 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "50-59 y",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "50-59 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "50-59 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "50-59 r"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "50-59 let"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P5Y--P15Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "V9t81g7Wspa",
+            "name": "5-14 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "5-14 y",
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "5-14 سنوات"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "5-14 años"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 a"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "5-14 år"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 ёш"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 Thn"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "5-14 سنوات"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "5-14 anos"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 лет"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "5-14 ёш"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "5-14 سنوات"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 let"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "5-14 سنوات"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "5-14 anos"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 a"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-14 let"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "5-14 años"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "5-14 Tahun"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 år"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 a"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "5-14 سنة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "5-14 лет"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-14 ans"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "5-14 ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "5-14"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P5Y--P18Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "PFDF9xpnNJw",
+            "name": "5-17 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "5-17 y",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-17 ans"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-17 let"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 سنة"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "5-17 r"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "QllZ8PveFCQ",
+            "name": "55-64 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "55-64 y",
+            "translations": [
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "55-64 anos"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "55-64 let"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "55-64 лет"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "55-64 år"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 ёш"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 år"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "55-64 Tahun"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 a"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "55-64 años"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "55-64 ёш"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 a"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "55-64 años"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 let"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "55-64 ёш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 a"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "55-64 anos"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 سنة"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "55-64"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 ёш"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "55-64 Tahun"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "55-64 ans"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P5Y--P10Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "Mcv3dvoK2iM",
+            "name": "5-9 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "5-9 y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "5-9 let"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "5-9 anos"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "5-9 Tahun"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 a"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 år"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "5-9 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 ans "
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 a"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 a"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "5-9 años"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "5-9 anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "5-9 år"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 r"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 a"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "5-9 Tahun"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "5-9 años"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P60Y--P65Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "JrQqLgsGgFr",
+            "name": "60-64 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "60-64 y",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "60-64 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "60-64 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "60-64 let"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "60-64 r"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P65Y--P70Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "Bap549vCg8U",
+            "name": "65-69 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "65-69 y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "65-69 let"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "65-69 let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "65-69 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "65-69 ans"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "Y4rNex59t8s",
+            "name": "65-74 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "65-74  y",
+            "translations": [
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 år"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 a"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 a"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 a"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "65-74 let"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "65-74 años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 a"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 ans"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "65-74 anos"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "65-74 años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "65-74 ans"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "65-74 år"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 r"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "65-74 anos"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "65-74 سنوات"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "65-74 سنوات"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "DdhMoYLz6Un",
+            "name": "65+ years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "65+ y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "65+ r"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "65+ ёш"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "65+ anos"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "65+ ёш"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "65+ a"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "65+ a"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "65+ ans"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "65+ a"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "65+ лет"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "65+ ans"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "65+ ёш"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "65+ años"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "65+ Tahun"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "65+ let"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "65+ år"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "65+ anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "65+ år"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "65+ Tahun"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "65+ ёш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "65+ años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "65+ سنة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "65+ a"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P70Y--P75Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "t1JMgMVyoac",
+            "name": "70-74 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "70-74 y",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "70-74 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "70-74 r"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "70-74 let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "70-74 ans"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P75Y--P80Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "FplLHwIitbU",
+            "name": "75-79 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "75-79 y",
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "75-79 let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "75-79 ans"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "75-79 ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "75-79 let"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "SFZ9S9XHquk",
+            "name": "75-84 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "75-84  y",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 a"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 a"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "75-84 anos"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "75-84 años"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 a"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "75-84 år"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 a"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "75-84 ans"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "75-84 anos"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 år"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "75-84 let"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 r"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 ans"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "75-84 سنوات"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "75-84 años"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "P80Y--P9999Y",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "v1e6orGTL3f",
+            "name": "80+ years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "80+ y",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Mais de 80 anos"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "80+ años"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "80+ anos"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "80+ ans"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "80+ anos"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "80+ años"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "80+ a"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "80+ años"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "80+ r"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Mais de 80 anos"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "80+ let"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "80+ años"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GL19QsdIgIu",
+            "name": "85+ years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "85+ y",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "85+ ans"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "85+ let"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "85+ let"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "85+ ans"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "UNK_AGE",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "YXE2HxNf3YB",
+            "name": "Unknown age",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Unknown age",
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Edad desconocida"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Neznámý věk"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Ноаниқ ёш"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Idade desconhecida"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Idade desconhecida"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Ноаниқ ёш"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Edad desconocida"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Alder ukjent"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Возраст неизвестен"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Umur tidak diketahui"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Edad desconocida"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Âge inconnu"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Idade desconhecida"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámý věk"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Umur tidak diketahui"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Ноаниқ ёш"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Idade desconhecida"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Возраст неизвестен"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "Alder ukjent"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Ноаниқ ёш"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Âge inconnu"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "العمر مجهول"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Edad desconocida"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "code": "UNK_SEX",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "SZJNeRyrh22",
+            "name": "Unknown Sex",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Unk Sex",
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Nezn. pohlaví"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo Desconhecido"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Neznámé pohlaví"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Autre/sexe non connu"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo desconhecido"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس مجهول"
+                }
+            ]
         }
     ],
     "categoryOptions": [
@@ -1153,7 +5098,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1315,7 +5260,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1382,7 +5327,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1549,7 +5494,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1606,7 +5551,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -1986,13 +5931,13 @@
             "code": "TB_AGG_HH_CONTACTS",
             "dataElements": [
                 {
+                    "id": "i0A7NK3fzXI"
+                },
+                {
                     "id": "UIHbSe2XmPa"
                 },
                 {
                     "id": "vHJg9RWzMyo"
-                },
-                {
-                    "id": "i0A7NK3fzXI"
                 },
                 {
                     "id": "RWNXWTrRGG9"
@@ -2012,7 +5957,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2049,7 +5994,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2156,7 +6101,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2263,7 +6208,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2370,7 +6315,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2477,7 +6422,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2574,7 +6519,7 @@
             "categoryCombo": {
                 "id": "UZaGYjcG4En"
             },
-            "code": "TB_HH_TPT_OUTCOMES_COMPLETE",
+            "code": "TB_HH_CONTACTS_TPT_CMPL",
             "description": "Number of contacts who completed their TPT",
             "domainType": "AGGREGATE",
             "formName": "TPT outcomes - Completed",
@@ -2584,7 +6529,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2681,7 +6626,7 @@
             "categoryCombo": {
                 "id": "UZaGYjcG4En"
             },
-            "code": "TB_HH_TPT_OUTCOMES_STOP",
+            "code": "TB_HH_CONTACTS_TPT_STOP",
             "description": "Number of contacts who stopped their TPT",
             "domainType": "AGGREGATE",
             "formName": "TPT outcomes - Stopped",
@@ -2691,7 +6636,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2797,6 +6742,14 @@
             "dataSetElements": [
                 {
                     "dataElement": {
+                        "id": "CyOAgl64a0b"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "RWNXWTrRGG9"
                     },
                     "dataSet": {
@@ -2805,31 +6758,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "vHJg9RWzMyo"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "nyzwxN9M9t7"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "UIHbSe2XmPa"
-                    },
-                    "dataSet": {
-                        "id": "ybLvxFAQyCn"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CyOAgl64a0b"
+                        "id": "i0A7NK3fzXI"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2845,7 +6774,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "i0A7NK3fzXI"
+                        "id": "UIHbSe2XmPa"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "nyzwxN9M9t7"
+                    },
+                    "dataSet": {
+                        "id": "ybLvxFAQyCn"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "vHJg9RWzMyo"
                     },
                     "dataSet": {
                         "id": "ybLvxFAQyCn"
@@ -2869,7 +6814,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -3000,7 +6945,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3212,7 +7157,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3318,7 +7263,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3369,7 +7314,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3420,7 +7365,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3471,7 +7416,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3607,7 +7552,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3713,7 +7658,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3849,7 +7794,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -3985,7 +7930,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4091,7 +8036,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4197,7 +8142,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4303,7 +8248,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4409,7 +8354,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4515,7 +8460,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4621,7 +8566,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4672,7 +8617,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4723,7 +8668,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4774,7 +8719,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4825,7 +8770,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4876,7 +8821,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4927,7 +8872,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -4970,13 +8915,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "accc6ee",
-        "DHIS2Version": "2.39.1.1",
+        "DHIS2Build": "99a70d2",
+        "DHIS2Version": "2.39.2.1",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (aggregate)",
-        "lastUpdated": "20230312T235948",
+        "healthAreaCode": "TB",
+        "healthAreaName": "Tuberculosis",
+        "lastUpdated": "20230710T225606",
         "locale": "en",
-        "name": "TB_AGG_HH_AGG_DHIS2.39.1.1-en",
+        "name": "TB_AGG_HH_AGG_DHIS2.39.2.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -5302,22 +9249,22 @@
         },
         {
             "attributeValues": [],
-            "code": "TB_AGG_CAPTURE",
+            "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
             "name": "TB data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "r-------",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     }
@@ -5382,7 +9329,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5404,7 +9351,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5453,7 +9400,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5606,7 +9553,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5678,7 +9625,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5750,7 +9697,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5822,7 +9769,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5894,7 +9841,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5971,7 +9918,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6028,7 +9975,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6100,7 +10047,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6177,7 +10124,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6249,7 +10196,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6321,7 +10268,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6398,7 +10345,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6455,7 +10402,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6527,7 +10474,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6599,7 +10546,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6656,7 +10603,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6728,7 +10675,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6800,7 +10747,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6872,7 +10819,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -6944,7 +10891,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7016,7 +10963,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7088,7 +11035,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7160,7 +11107,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7232,7 +11179,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7304,7 +11251,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7376,7 +11323,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7448,7 +11395,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7525,7 +11472,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7597,7 +11544,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7669,7 +11616,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7726,7 +11673,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7920,7 +11867,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -8105,7 +12052,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -8310,7 +12257,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -8505,7 +12452,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -8722,7 +12669,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -8889,7 +12836,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -9076,7 +13023,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -9258,7 +13205,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -9440,7 +13387,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
