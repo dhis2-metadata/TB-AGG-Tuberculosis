@@ -406,7 +406,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -582,7 +582,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -771,7 +771,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -1104,7 +1104,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -1208,7 +1208,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -1305,7 +1305,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -1400,7 +1400,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
@@ -6442,7 +6442,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -7317,7 +7317,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -8187,7 +8187,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -8356,7 +8356,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -8518,7 +8518,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -8680,7 +8680,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -8842,7 +8842,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9004,7 +9004,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9166,7 +9166,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9328,7 +9328,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9490,7 +9490,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9587,7 +9587,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9749,7 +9749,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -9911,7 +9911,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -9919,12 +9919,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -10094,7 +10094,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -10102,12 +10102,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -10277,7 +10277,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rwrw----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -10444,7 +10444,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -10452,12 +10452,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -10627,7 +10627,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -10635,12 +10635,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -10810,7 +10810,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -10977,7 +10977,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -10985,12 +10985,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -11155,7 +11155,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -11322,7 +11322,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "r-r-----",
+                "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -11330,12 +11330,12 @@
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "rwr-----",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "--rw----",
+                        "access": "r-rw----",
                         "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
@@ -11505,7 +11505,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -11602,7 +11602,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
@@ -19753,7 +19753,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -22161,7 +22161,18 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "qlkxnlC6dzU"
+                        "id": "sJRCCgJJBHD"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "QNFhsj0fOxK"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22183,39 +22194,6 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "sJRCCgJJBHD"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "ZiF0ngznP1Z"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "Ow8ltIsRQKX"
-                    },
-                    "dataElement": {
-                        "id": "tr0lVojK425"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
                         "id": "Nv1RGi4eI7F"
                     },
                     "dataSet": {
@@ -22227,7 +22205,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "NYxehRdsQx3"
+                        "id": "QStu7Ux1Loa"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22238,7 +22216,40 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "FMLmCNm7QTf"
+                        "id": "qlkxnlC6dzU"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "lgKh8oeoKVj"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "Orjo9ewlU9Z"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "l4TyT04yP8f"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22250,6 +22261,17 @@
                     },
                     "dataElement": {
                         "id": "NJaeD9Xia7x"
+                    },
+                    "dataSet": {
+                        "id": "OyutuMOPgkt"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "Ow8ltIsRQKX"
+                    },
+                    "dataElement": {
+                        "id": "tr0lVojK425"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22282,18 +22304,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "tl9LwbDa3ny"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "QNFhsj0fOxK"
+                        "id": "Q5KSbP9ZzHQ"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22315,7 +22326,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "QStu7Ux1Loa"
+                        "id": "ZiF0ngznP1Z"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22326,7 +22337,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "lgKh8oeoKVj"
+                        "id": "FMLmCNm7QTf"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22337,7 +22348,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "l4TyT04yP8f"
+                        "id": "NYxehRdsQx3"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22348,18 +22359,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "Orjo9ewlU9Z"
-                    },
-                    "dataSet": {
-                        "id": "OyutuMOPgkt"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "Q5KSbP9ZzHQ"
+                        "id": "tl9LwbDa3ny"
                     },
                     "dataSet": {
                         "id": "OyutuMOPgkt"
@@ -22383,7 +22383,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -22440,7 +22440,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "jbYbSDxfhtT"
+                        "id": "NmVXzjN0SPM"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -22451,7 +22451,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "b1bgx4QmS1I"
+                        "id": "aj8BY9VM5Eo"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -22473,7 +22473,18 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "cvGGWoMIk9y"
+                        "id": "b1bgx4QmS1I"
+                    },
+                    "dataSet": {
+                        "id": "rSfhnkAdm5y"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "jbYbSDxfhtT"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -22495,18 +22506,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "NmVXzjN0SPM"
-                    },
-                    "dataSet": {
-                        "id": "rSfhnkAdm5y"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "aj8BY9VM5Eo"
+                        "id": "cvGGWoMIk9y"
                     },
                     "dataSet": {
                         "id": "rSfhnkAdm5y"
@@ -22530,7 +22530,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -22587,7 +22587,7 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
-                        "id": "naqurivGjIK"
+                        "id": "URwo7ZKQilR"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -22606,87 +22606,10 @@
                 },
                 {
                     "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "Ns5mfRqKAe3"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "ZoqWQikYpwx"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "HMvIu0dUfhe"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "oJ4x8PXZvnh"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "k6HZ0Z9zFer"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
                         "id": "ZpJNlVE95GS"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "mruHvHAumOI"
-                    },
-                    "dataSet": {
-                        "id": "lYNYevNTO7B"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "URwo7ZKQilR"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -22708,7 +22631,84 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
+                        "id": "naqurivGjIK"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "mYvRBhu9rSh"
+                    },
+                    "dataElement": {
+                        "id": "oJ4x8PXZvnh"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "ZoqWQikYpwx"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
                         "id": "DcNF57mpVpN"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "mYvRBhu9rSh"
+                    },
+                    "dataElement": {
+                        "id": "HMvIu0dUfhe"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "mruHvHAumOI"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "mYvRBhu9rSh"
+                    },
+                    "dataElement": {
+                        "id": "Ns5mfRqKAe3"
+                    },
+                    "dataSet": {
+                        "id": "lYNYevNTO7B"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
+                        "id": "k6HZ0Z9zFer"
                     },
                     "dataSet": {
                         "id": "lYNYevNTO7B"
@@ -22732,7 +22732,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -22819,29 +22819,7 @@
                         "id": "mYvRBhu9rSh"
                     },
                     "dataElement": {
-                        "id": "zgrK8yB9Tsp"
-                    },
-                    "dataSet": {
-                        "id": "kiODgwGG9I2"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "bjDvmb4bfuf"
-                    },
-                    "dataElement": {
-                        "id": "rqe6qIBHEJr"
-                    },
-                    "dataSet": {
-                        "id": "kiODgwGG9I2"
-                    }
-                },
-                {
-                    "categoryCombo": {
-                        "id": "mYvRBhu9rSh"
-                    },
-                    "dataElement": {
-                        "id": "BXN41jBKb9c"
+                        "id": "quUtGfLgolX"
                     },
                     "dataSet": {
                         "id": "kiODgwGG9I2"
@@ -22863,6 +22841,28 @@
                         "id": "bjDvmb4bfuf"
                     },
                     "dataElement": {
+                        "id": "rqe6qIBHEJr"
+                    },
+                    "dataSet": {
+                        "id": "kiODgwGG9I2"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "mYvRBhu9rSh"
+                    },
+                    "dataElement": {
+                        "id": "zgrK8yB9Tsp"
+                    },
+                    "dataSet": {
+                        "id": "kiODgwGG9I2"
+                    }
+                },
+                {
+                    "categoryCombo": {
+                        "id": "bjDvmb4bfuf"
+                    },
+                    "dataElement": {
                         "id": "me7x7kaqWth"
                     },
                     "dataSet": {
@@ -22874,7 +22874,7 @@
                         "id": "mYvRBhu9rSh"
                     },
                     "dataElement": {
-                        "id": "quUtGfLgolX"
+                        "id": "BXN41jBKb9c"
                     },
                     "dataSet": {
                         "id": "kiODgwGG9I2"
@@ -22898,7 +22898,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
@@ -26023,15 +26023,19 @@
             "attributeValues": [],
             "code": "TB_C_PCNT_NEW_014",
             "decimals": 0,
-            "denominator": "#{EAFHfKsIwhz} + #{CN5QIF5zIj9} + #{l2YPwvUHjsS} ",
+            "denominator": "#{tr0lVojK425}",
             "denominatorDescription": "Total number notified by age and sex",
             "id": "aPfDXoI0tPS",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "eKcBht0c5OQ"
+                }
+            ],
             "name": "TB - Notified TB cases (new, all forms) aged 0-14 (%)",
-            "numerator": "#{l2YPwvUHjsS.Buv6Vt7rlaN}+ #{l2YPwvUHjsS.hrPYhzRokAX} +#{l2YPwvUHjsS.b9rb6qpqgO9} + #{CN5QIF5zIj9.Buv6Vt7rlaN}+#{CN5QIF5zIj9.hrPYhzRokAX} + #{CN5QIF5zIj9.b9rb6qpqgO9}+#{EAFHfKsIwhz.Buv6Vt7rlaN} + #{EAFHfKsIwhz.hrPYhzRokAX} + #{EAFHfKsIwhz.b9rb6qpqgO9}",
+            "numerator": "#{tr0lVojK425.Buv6Vt7rlaN} + #{tr0lVojK425.hrPYhzRokAX} +\n#{tr0lVojK425.YEgJBndPbIM} + #{tr0lVojK425.rDzmnH2ECiL}",
             "numeratorDescription": "Number of TB cases aged under 15",
             "sharing": {
                 "external": false,
@@ -28690,7 +28694,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "PNIsr3txKyc"
+                }
+            ],
             "name": "TB - Notified TB cases (new, extrapulmonary) (%)",
             "numerator": "#{ZiF0ngznP1Z}",
             "numeratorDescription": "New extrapulmonary cases",
@@ -28837,7 +28845,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "AZLl9cQBN4T"
+                }
+            ],
             "name": "TB - Notified TB cases (new, pulmonary bacteriologically confirmed) (%)",
             "numerator": "\n#{Orjo9ewlU9Z} + #{lgKh8oeoKVj} + #{wadYJEcT9yh}",
             "numeratorDescription": "New pulm bacteriologically confirmed cases (for old forms smear +)",
@@ -29228,7 +29240,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "AZLl9cQBN4T"
+                }
+            ],
             "name": "TB - Notified TB cases (previously treated incl. relapse, pulmonary bacteriologically confirmed) (%)",
             "numerator": "\n#{Nv1RGi4eI7F} + #{l4TyT04yP8f} + #{hKTgk1mG2qn} + #{M6JHtLJJ34t} + #{PdhQ1JCS2ij} + #{KZ7rMA7BqcQ} + #{PRB6dolaxC4}",
             "numeratorDescription": "Previously treated TB cases bac conf including relapse",
@@ -29326,7 +29342,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "nyybajrEibI"
+                }
+            ],
             "name": "TB - Notified TB cases (previously treated including relapse, all forms) (%)",
             "numerator": "#{hKTgk1mG2qn} + #{PdhQ1JCS2ij} + #{M6JHtLJJ34t} + #{KZ7rMA7BqcQ} + #{l4TyT04yP8f} + #{NYxehRdsQx3} + #{QNFhsj0fOxK} +#{Nv1RGi4eI7F} + #{NJaeD9Xia7x} + #{KhCB35MHs9A} ",
             "numeratorDescription": "Total notified previously treated cases (INCLUDING relapse!)",
@@ -29711,7 +29731,11 @@
             "indicatorType": {
                 "id": "k4RGC3sMTzO"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "c2WmhDERIo9"
+                }
+            ],
             "name": "TB - Ratio of TB cases male:female (new and relapse, all forms)",
             "numerator": "#{EAFHfKsIwhz.ahgn5DHCw1M} + #{EAFHfKsIwhz.yrPacW5BotF} + #{EAFHfKsIwhz.Buv6Vt7rlaN} + #{EAFHfKsIwhz.vblxXtbDltI} + #{EAFHfKsIwhz.F0DxP1DUjXH} + #{EAFHfKsIwhz.nosZSeJC3Gl} + #{EAFHfKsIwhz.ox4ZRileubR} + #{EAFHfKsIwhz.j6dSWJ3QikR} + #{EAFHfKsIwhz.LQQMOZTyZmD} + #{EAFHfKsIwhz.FaLnUSglZDP} + #{CN5QIF5zIj9.ahgn5DHCw1M} + #{CN5QIF5zIj9.yrPacW5BotF} + #{CN5QIF5zIj9.Buv6Vt7rlaN} + #{CN5QIF5zIj9.vblxXtbDltI} + #{CN5QIF5zIj9.F0DxP1DUjXH} + #{CN5QIF5zIj9.nosZSeJC3Gl} + #{CN5QIF5zIj9.ox4ZRileubR} + #{CN5QIF5zIj9.j6dSWJ3QikR} + #{CN5QIF5zIj9.LQQMOZTyZmD} + #{CN5QIF5zIj9.FaLnUSglZDP} + #{CN5QIF5zIj9.JPko43UMgN4} +#{l2YPwvUHjsS.ahgn5DHCw1M} + #{l2YPwvUHjsS.yrPacW5BotF} + #{l2YPwvUHjsS.Buv6Vt7rlaN} + #{l2YPwvUHjsS.vblxXtbDltI} + #{l2YPwvUHjsS.F0DxP1DUjXH} + #{l2YPwvUHjsS.nosZSeJC3Gl} + #{l2YPwvUHjsS.ox4ZRileubR} + #{l2YPwvUHjsS.j6dSWJ3QikR} + #{l2YPwvUHjsS.LQQMOZTyZmD} + #{l2YPwvUHjsS.FaLnUSglZDP} + #{l2YPwvUHjsS.JPko43UMgN4} + #{tr0lVojK425.PcXvX2I0Z1b}+ #{tr0lVojK425.YEgJBndPbIM} + #{tr0lVojK425.fGPIkhFU9gZ} + #{tr0lVojK425.UdKHt4kcT0M} + #{tr0lVojK425.PwBF9kiGSTp} + #{tr0lVojK425.qFz7OICuv0Z} + #{tr0lVojK425.ZJFWAWtxBVA} + #{tr0lVojK425.KuHpVjsOQKx} + #{tr0lVojK425.WrTcXFoa5TX}",
             "numeratorDescription": "Total number of males",
@@ -43700,6 +43724,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -44121,6 +44146,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -44522,6 +44548,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -44923,6 +44950,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -46890,13 +46918,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "accc6ee",
-        "DHIS2Version": "2.39.1.1",
+        "DHIS2Build": "99a70d2",
+        "DHIS2Version": "2.39.2.1",
         "code": "TB_AGG_NO",
         "description": "TB Notifications and Outcomes (aggregate)",
-        "lastUpdated": "20230312T235948",
+        "healthAreaCode": "TB",
+        "healthAreaName": "Tuberculosis",
+        "lastUpdated": "20230710T225606",
         "locale": "en",
-        "name": "TB_AGG_NO_AGG_DHIS2.39.1.1-en",
+        "name": "TB_AGG_NO_AGG_DHIS2.39.2.1-en",
         "type": "AGG",
         "version": ""
     },
@@ -47813,22 +47843,22 @@
         },
         {
             "attributeValues": [],
-            "code": "TB_AGG_CAPTURE",
+            "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
             "name": "TB data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "r-------",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     }
@@ -47893,7 +47923,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -47915,7 +47945,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
