@@ -40,9 +40,9 @@ In DHIS2, the data entry form completeness indicators are triggered only upon fo
 
 In some settings the timeliness may be a reflection of the hierarchical system of transmission of health facility reports to lower-level administrative units and how quickly these can enter the data onto the system. In other settings, data may be keyed in at health facility level and the timeliness of data entry would be a closer reflection of the actual reporting timeline.  
 
- [Chart 1: TB Notifications](resources/images/TB-DQ-001.png)
+ ![Chart 1: TB Notifications](resources/images/TB-DQ-001.png)
 
- [Chart 2: TB Outcomes](resources/images/TB-DQ-002.png)
+ ![Chart 2: TB Outcomes](resources/images/TB-DQ-002.png)
 
 **Interpretation and Actions**
 
@@ -60,7 +60,7 @@ These tables display a list of key data elements and the unit level completeness
 
 These lists can be used to further interrogate inconsistencies with indicators that are being tracked for analyses of trends and geographical variations. Indicators highlighted in red, orange and yellow may be unreliable as less than three in five (<60%) facilities expected to report, would have reported a valid value for the respective data element.  
 
- [Table 3: Completeness of quarterly reported variables](resources/images/TB-DQ-003.png)
+ ![Table 3: Completeness of quarterly reported variables](resources/images/TB-DQ-003.png)
 
 The list of variables in Table 3 includes:
 
@@ -80,7 +80,7 @@ The list of variables in Table 3 includes:
 
 This is expected to lag by one year and therefore would be blank (white) in the 4 most recent quarter.
 
- [Table 4: Completeness of annualy reported variables](resources/images/TB-DQ-005.png)
+ ![Table 4: Completeness of annualy reported variables](resources/images/TB-DQ-005.png)
 
 The list of variables in Table 4 includes:
 
@@ -100,7 +100,7 @@ ii) Recommending the enforcement of mandatory fields with error identification, 
 
 This table displays some of the core indicators used for assessing internal consistency of routinely collected tuberculosis data. It is used to highlight discrepancies in the data that may need further followup. All of the indicators listed in this table should be relatively consistent over time in a robust and well-functioning surveillance system with good data validation unless a major intervention, or changes in diagnostic and treatment practices and/or services have occurred; especially those which target or affect specific populations. 
 
-[Table 3: Internal COnsistency](resources/images/TB-DQ-004.png)
+![Table 3: Internal COnsistency](resources/images/TB-DQ-004.png)
 
 The following indicators are presented in this table:
 
@@ -123,9 +123,9 @@ Chatrs 3 and 4 provide another way to visualise and compare variables for consis
 
 In both cases, the tuberculosis basic management units are plotted and those outside the specified range are labelled for further enquiry. These charts assist to flag basic management units where records are not adequately updated across different registers, or where patient data are not captured seamlessly across different service delivery areas.
 
-[Chart 3: bacteriological confirmation (health facility register) against laboratory confirmed cases](resources/images/TB-DQ-007.png)
+![Chart 3: bacteriological confirmation (health facility register) against laboratory confirmed cases](resources/images/TB-DQ-007.png)
 
-[Chart 4: bacteriological confirmation (health facility register) against presumptive cases tested positive (presumptive case registers)](resources/images/TB-DQ-006.png)
+![Chart 4: bacteriological confirmation (health facility register) against presumptive cases tested positive (presumptive case registers)](resources/images/TB-DQ-006.png)
 
 ##### Interpretation and actions
 
@@ -136,7 +136,7 @@ Inconsistencies may arise due to various reasons beyond incomplete reporting. BM
 
 This chart compares the notification and corresponding treatment outcome cohorts. These lines should be consistent in direction and trend. The lines should overlie each other at the national level but may not necessarily match at facility level due to delays in accounting for cases transferred in on treatment.
 
-[Chart 5: Trends of TB notification and outcomes for DS TB cohort](resources/images/TB-DQ-008.png)
+![Chart 5: Trends of TB notification and outcomes for DS TB cohort](resources/images/TB-DQ-008.png)
 
 **Interpretation and Actions**
 
@@ -146,7 +146,7 @@ Differences in treatment cohort numbers should be examined for causes. Differenc
 
 Use this chart check that the subnational population trends are consistent.
 
-[Chart 6: Trends of population data](resources/images/TB-DQ-009.png)
+![Chart 6: Trends of population data](resources/images/TB-DQ-009.png)
 
 ### Outlier Detection
 
@@ -177,11 +177,11 @@ This refers to the maximum number of outliers listed in the results.
 The outliers can be sorted by Z-score or by Absolute deviation from Mean (in advanced section).
 10) Click Start The analysis process duration depends on the amount of data that is being analysed. If there are standard deviations outliers, they will be presented in a list.
 
-[Outlier detection](resources/images/TB-DQ-011.png)
+![Outlier detection](resources/images/TB-DQ-011.png)
 
 Results are displayed in a table format such as the one below
 
-[Outlier detection results](resources/images/TB-DQ-010.png)
+![Outlier detection results](resources/images/TB-DQ-010.png)
 
 #### Using the “Outliers” dashboard in the WHO DQ app
 
@@ -189,7 +189,7 @@ The tool makes it easier to start of the investigation of outliers at higher lev
 
 Use the “Outliers” dashboard to identify suspicious district-level values: Click on the tab for “Outliers”. If necessary, use the menu to set Disaggregation to District. To free up space on the page, click on the menu icon to make the menu disappear. The page shows a “Result” table with a large number of rows. Each row has one or more values highlighted in red. How are the values highlighted in red different from the other values in the same row? The Tool finds the values highlighted in red to be suspicious because they are either significantly higher or significantly lower than the other values in the row. The rows are sorted in order of “weight”. The “weight” can be thought of as the difference between the suspicious value and the average of other values in the row. There are so many rows that the table will not fit on a single page. You can view the subsequent pages by clicking on the controls at the bottom of the page.
 
-[Interpretation of the table](resources/images/TB-DQ-012.png)
+![Interpretation of the table](resources/images/TB-DQ-012.png)
 
 ## Appendices
 
