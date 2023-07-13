@@ -2,7 +2,7 @@
 
 ## Design
 
-- [TB Notifications and Outcomes](#tb-agg-design)
+- [TB Notifications and Outcomes](#tb-agg-no-design)
 - [TB Laboratory](#tb-agg-lab-design)
 - [TB Household Contacts](#tb-agg-hh-design)
 - [TB Logistics](#tb-agg-stk-design)
