@@ -6,27 +6,18 @@ This document describes the system design for TB programmes to integrate routine
 
 ## Overview
 
-The TB configuration package for aggregate reporting is based on the WHO [Definitions and reporting framework for tuberculosis](http://apps.who.int/iris/bitstream/10665/79199/1/9789241505345_eng.pdf). It contains a total of 7 data sets, as described in table 1.
+The TB configuration package for aggregate reporting is based on the WHO [Definitions and reporting framework for tuberculosis](http://apps.who.int/iris/bitstream/10665/79199/1/9789241505345_eng.pdf).
 
 |Name|Periodicity|Purpose|
 |:--|:--|:--|
-|TB case registration|Quarterly|Reporting of new cases of TB (notifications)|
-|TB treatment outcomes|Quarterly|Reporting of treatment outcomes of first line treatment|
-|TB treatment outcomes - second line|Yearly|Reporting of treatment outcomes of second line treatment|
-|RR/MDR-TB case detection and treatment|Yearly|Reporting of new cases of drug-reistant TB|
-|**[old records only]** TB case registration by smear results|Quarterly|Reporting of new cases of TB (notifications), based on the 2006 reporting framework|
-|**[old records only]** TB treatment outcomes - by smear results|Quarterly|Reporting of treatment outcomes of first line treatment, based on the 2006 reporting framework|
-|**[old records only]** TB treatment outcomes - second line|Yearly|Reporting of treatment outcomes of second line treatment, based on the 2006 reporting framework|
-
-As the name implies, the last 3 of the data sets show in the above table are only included for the purpose of keeping historical data according to the previous reporting guidelines. This is important because the tuberculosis epidemiology changes relatively slowly, and analysis of TB data requires looking at multi-year trend. Where possible, the same data elements have been used for the new and old forms. Indicators included the configuration package are linked to data elements from both current and old forms, to make it possible to compare data collected using the two different frameworks.
-
-**Note:** These **[old records only]** data set should **not** be used for prospective data entry.
+|TB case registration|Quarterly|Reporting on new cases of TB (notifications)|
+|TB treatment outcomes|Quarterly|Reporting on treatment outcomes of first line treatment|
+|TB treatment outcomes - second line|Yearly|Reporting on treatment outcomes of second line treatment|
+|RR/MDR-TB case detection and treatment|Yearly|Reporting on new cases of drug-reistant TB|
 
 ## Data set structure and design
 
 This section will for each data set present the main sections (tables) of the data sets (reporting forms), explaining how and why they have been configured.
-
-The **[old records only]** will not be described in detail as they are relatively close to the current forms, except for the age disaggregation of the case registration form.
 
 ### TB case registration
 
@@ -115,17 +106,3 @@ A data validation rule checks that the number RR-TB or MDR-TB cases is more than
 ![Treatment](resources/images/TB_AGG_image9.png)
 
 The treatment section/table is configured with individual data elements.
-
-### [old records only] TB case registration by smear results
-
-#### Cases by sex and age (legacy)
-
-![Cases by sex and age (legacy)](resources/images/TB_AGG_image10.png)  
-
-The [old records only] data sets are not discussed in detail, but the “cases by sex and age” section/table deserves a special comment. The previous TB reporting framework (2006 version) allowed some variations in how notifications where disaggregated by age. Consequently, different countries use a few different age disaggregations. Because the TB configuration package is designed to be used in different countries/contexts, the “cases by sex and age” section uses a sex category that includes “unknown sex”, and an age category that includes a few different, overlapping age options. For example, it includes both 0-4 years, 5-14 years _and_ 0-14 years. This is in general **not** a recommended approach as 1) the category total does not make sense, and 2) there is a risk for double counting if all age brackets are used. However, this was done here for the following reasons:
-
-* It is only used for the historical data, which is not intended to be typed in manually (and if typed manually
-* Since it is designed for use with already existing data, there should not be any case where data exists for any of the overlapping
-* Including only one set of age options and leaving it to each country to add the once they need could work, but would require updates to indicator formulas as new category option combos would be generated.
-* Individual category options can be re-used, both the current and the old frameworks. When using category option groups, it is possible to define age disaggregations that work over time even as the reported age brackets change.
-* Quite a large number of countries have saved their historical data in a global DHIS2 database maintained by the WHO GTB, where this category is used (for the above reasons). If a different category was used for the historical data in the TB configuration package, moving this data into the national DHIS2 database would be more complicated.
