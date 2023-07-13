@@ -6959,7 +6959,7 @@
         "DHIS2Build": "4119e92",
         "DHIS2Version": "2.38.4.3",
         "code": "TB_AGG_STK",
-        "description": "TB Stock",
+        "description": "TB Stock (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
         "lastUpdated": "20230628T175639",
