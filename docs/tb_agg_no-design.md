@@ -1,4 +1,4 @@
-# TB Aggregate System Design { #tb-agg-design }
+# TB Notifications and Outcomes Design { #tb-agg-no-design }
 
 ## Introduction
 
