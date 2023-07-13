@@ -7286,7 +7286,7 @@
         "DHIS2Build": "4119e92",
         "DHIS2Version": "2.38.4.3",
         "code": "TB_AGG_LAB",
-        "description": "TB Laboratory",
+        "description": "TB Laboratory (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
         "lastUpdated": "20230628T175639",
