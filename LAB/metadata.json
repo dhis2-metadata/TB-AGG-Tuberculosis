@@ -20,7 +20,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Culture results (cases)",
@@ -62,7 +75,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Culture results (tests)",
@@ -128,7 +154,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Culture TAT",
@@ -346,7 +385,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Microscopy results",
@@ -397,7 +449,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Microscopy TAT",
@@ -436,7 +501,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Resistant/Susceptible/Indeterminate",
@@ -472,7 +550,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB case type",
@@ -508,7 +599,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Xpert results (cases)",
@@ -553,7 +657,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Xpert results (tests)",
@@ -586,7 +703,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -612,7 +742,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -638,7 +781,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -664,7 +820,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -786,7 +955,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -812,7 +994,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -838,7 +1033,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -864,7 +1072,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -890,7 +1111,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipTotal": false,
@@ -2802,7 +3036,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB case types",
@@ -2843,7 +3090,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB - Culture results (tests)",
@@ -2882,7 +3142,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB - Microscopy results",
@@ -2921,7 +3194,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB - Xpert results (tests)",
@@ -2950,7 +3236,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "+",
@@ -3012,7 +3311,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "++",
@@ -3074,7 +3386,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "+++",
@@ -3136,7 +3461,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Contamination",
@@ -3228,7 +3566,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Error",
@@ -3350,7 +3701,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Invalid",
@@ -3512,7 +3876,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "MTB",
@@ -3644,7 +4021,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "MTB detected",
@@ -3686,7 +4076,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "MTB not detected",
@@ -3728,7 +4131,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Negative",
@@ -3890,7 +4306,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "No growth",
@@ -4022,7 +4451,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "No result",
@@ -4164,7 +4606,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "NTM",
@@ -4296,7 +4751,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Presumptive TB cases",
@@ -4328,7 +4796,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Scanty",
@@ -4400,7 +4881,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB case monitoring",
@@ -4431,18 +4925,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -4504,18 +4995,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -4577,18 +5065,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -4648,7 +5133,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "0 days",
@@ -4675,7 +5173,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "10 days",
@@ -4702,7 +5213,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "11+ days",
@@ -4729,7 +5253,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "1 day",
@@ -4756,7 +5293,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "2 days",
@@ -4783,7 +5333,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "3 days",
@@ -4810,7 +5373,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "4 days",
@@ -4837,7 +5413,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "5 days",
@@ -4864,7 +5453,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "6 days",
@@ -4891,7 +5493,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "6+ days",
@@ -4918,7 +5533,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "7 days",
@@ -4945,7 +5573,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "8 days",
@@ -4972,7 +5613,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "9 days",
@@ -5001,18 +5655,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5044,18 +5695,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5314,18 +5962,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5445,7 +6090,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Indeterminate",
@@ -5594,18 +6252,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5767,18 +6422,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5910,18 +6562,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -5963,18 +6612,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6016,18 +6662,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6189,18 +6832,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6332,18 +6972,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6485,18 +7122,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6628,18 +7262,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6669,7 +7300,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Resistant",
@@ -6818,18 +7462,15 @@
                 "public": "r-rw----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -6899,7 +7540,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Susceptible",
@@ -7970,21 +8624,18 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
                         "access": "r-------",
-                        "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     },
                     "hT0GsbPl8fg": {
-                        "access": "r-------",
+                        "access": "",
                         "displayName": "TB stock data capture",
                         "id": "hT0GsbPl8fg"
                     }
@@ -8120,7 +8771,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -8150,7 +8814,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Cases tested by LCM",
@@ -8191,7 +8868,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB cases tested by microscopy",
@@ -8232,7 +8922,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Cases tested by SCM",
@@ -8273,7 +8976,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF",
@@ -8314,7 +9030,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
@@ -8355,7 +9084,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - LCM tests by result",
@@ -8396,7 +9138,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests with valid result",
@@ -8437,7 +9192,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - SCM tests by result",
@@ -8478,7 +9246,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF tests by result",
@@ -8519,7 +9300,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra tests by result",
@@ -8560,7 +9354,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - LCM total TAT",
@@ -8601,7 +9408,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - LCM tests by TAT",
@@ -8642,7 +9462,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Microscopy tests by TAT",
@@ -8683,7 +9516,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Microscopy total TAT",
@@ -8724,7 +9570,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases - Rif-result Xpert MTB/RIF",
@@ -8765,7 +9624,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases - Rif-result Xpert MTB/RIF Ultra",
@@ -8806,7 +9678,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by any lab diagnostic",
@@ -8847,7 +9732,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases positive by any lab diagnostic",
@@ -8888,7 +9786,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases with valid LCM result",
@@ -8929,7 +9840,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases with microscopy result",
@@ -8970,7 +9894,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases with valid SCM result",
@@ -9011,7 +9948,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases with Xpert MTB/RIF result",
@@ -9052,7 +10002,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases with Xpert MTB/RIF Ultra result",
@@ -9093,7 +10056,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by LCM",
@@ -9134,7 +10110,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by microscopy",
@@ -9175,7 +10164,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by SCM",
@@ -9216,7 +10218,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF",
@@ -9272,7 +10287,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by Xpert MTB/RIF Ultra",
@@ -9328,7 +10356,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - SCM total TAT",
@@ -9369,7 +10410,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - SCM tests by TAT",
@@ -9410,7 +10464,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Collected TB samples",
@@ -9451,7 +10518,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - TB samples lost",
@@ -9492,7 +10572,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Received TB Samples",
@@ -9533,7 +10626,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "Rejected TB samples",
@@ -9574,7 +10680,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF tests - Rif-result",
@@ -9615,7 +10734,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra tests - Rif-result",
@@ -9655,47 +10787,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "qXvOQLIjpqE"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "MZlhbKVNolD"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "TiwOMtQvbLY"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rTG9w3j9oLP"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "myYx7QEy38z"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "GS1GduwhLmN"
+                        "id": "N7LIAia2AWf"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9711,22 +10803,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "QR4lEH0Ycuo"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "j0i77JvRNvl"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "IHlhAV9XBAY"
                     },
                     "dataSet": {
@@ -9735,7 +10811,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "qkTMafLDvpu"
+                        "id": "rTG9w3j9oLP"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9743,63 +10819,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "UAl2tCjaRUf"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iLwAyx8Y0nO"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "RoH5WPmRMMy"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NJXd3bUrw1A"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Vt4C8ZBQu5m"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "NONFrAevEQ2"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Nz9AKGacbZX"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "IuOt9VGsJOW"
+                        "id": "QR4lEH0Ycuo"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9815,22 +10835,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Mtm7btZTEk3"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ph3Tk7RVrMs"
-                    },
-                    "dataSet": {
-                        "id": "aAPOz0K3C9x"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "wPjWSCYQdcW"
                     },
                     "dataSet": {
@@ -9839,7 +10843,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "B2SUlZTGm4x"
+                        "id": "MZlhbKVNolD"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9847,7 +10851,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CqC2GLoKrYM"
+                        "id": "wSWJDrxz7Hb"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9871,7 +10875,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "N7LIAia2AWf"
+                        "id": "CqC2GLoKrYM"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NONFrAevEQ2"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "TiwOMtQvbLY"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9887,6 +10907,14 @@
                 },
                 {
                     "dataElement": {
+                        "id": "nhs5MYLa4uU"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "b9ICdl548Ag"
                     },
                     "dataSet": {
@@ -9895,7 +10923,63 @@
                 },
                 {
                     "dataElement": {
-                        "id": "X3htKCLhsfU"
+                        "id": "Nz9AKGacbZX"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iLwAyx8Y0nO"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "NJXd3bUrw1A"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Vt4C8ZBQu5m"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ph3Tk7RVrMs"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "IuOt9VGsJOW"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qkTMafLDvpu"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "myYx7QEy38z"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9911,7 +10995,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "nhs5MYLa4uU"
+                        "id": "UAl2tCjaRUf"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9919,7 +11003,55 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wSWJDrxz7Hb"
+                        "id": "xOT6VZ6DADk"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "B2SUlZTGm4x"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "j0i77JvRNvl"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "RoH5WPmRMMy"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "X3htKCLhsfU"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "qXvOQLIjpqE"
+                    },
+                    "dataSet": {
+                        "id": "aAPOz0K3C9x"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "GS1GduwhLmN"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9935,7 +11067,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "xOT6VZ6DADk"
+                        "id": "Mtm7btZTEk3"
                     },
                     "dataSet": {
                         "id": "aAPOz0K3C9x"
@@ -9962,22 +11094,19 @@
                 "public": "r-r-----",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "r-r-----",
-                        "displayName": "TB access",
+                        "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
-                        "access": "r-rw----",
-                        "displayName": "TB data capture",
+                        "access": "r-------",
                         "id": "bHLDx9I0XkE"
                     },
                     "hT0GsbPl8fg": {
-                        "access": "r-rw----",
+                        "access": "",
                         "displayName": "TB stock data capture",
                         "id": "hT0GsbPl8fg"
                     }
@@ -10243,7 +11372,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10504,7 +11646,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Average LCM TAT",
@@ -10550,7 +11705,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Average microscopy TAT",
@@ -10596,7 +11764,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Average SCM TAT",
@@ -10642,7 +11823,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Culture tests",
@@ -10743,7 +11937,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Culture tests - no growth/contam %",
@@ -10789,7 +11996,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests",
@@ -10890,7 +12110,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading + (%)",
@@ -10936,7 +12169,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading ++ (%)",
@@ -10982,7 +12228,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading +++ (%)",
@@ -11028,7 +12287,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests grading scanty (%)",
@@ -11074,7 +12346,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy tests - negative (%)",
@@ -11120,7 +12405,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
@@ -11166,7 +12464,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - NTM-Positivity rate for culture (%)",
@@ -11213,7 +12524,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity - any lab diganostic (%)",
@@ -11264,7 +12588,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate for microscopy (%)",
@@ -11310,7 +12647,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
@@ -11356,7 +12706,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF Ultra",
@@ -11402,7 +12765,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF tests",
@@ -11503,7 +12879,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
@@ -11549,7 +12938,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra tests",
@@ -11650,7 +13052,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
@@ -11696,7 +13111,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+\" (%)",
@@ -11742,7 +13170,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"++\" (%)",
@@ -11788,7 +13229,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - \"+++\" (%)",
@@ -11834,7 +13288,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Microscopy-positive cases - scanty (%)",
@@ -11880,7 +13347,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by any lab diagnostic",
@@ -11981,7 +13461,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by culture (any method)",
@@ -12082,7 +13575,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by liquid culture",
@@ -12183,7 +13689,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by microscopy",
@@ -12284,7 +13803,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by solid culture",
@@ -12385,7 +13917,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF",
@@ -12486,7 +14031,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
@@ -12587,7 +14145,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifInd rate",
@@ -12633,7 +14204,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifInd rate",
@@ -12678,7 +14262,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifR rate",
@@ -12724,7 +14321,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifR rate",
@@ -12770,7 +14380,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF - RifSus rate",
@@ -12816,7 +14439,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - RifSus rate",
@@ -12862,7 +14498,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Sample loss rate",
@@ -12908,7 +14557,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Sample rejection rate",
@@ -12954,7 +14616,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples lost",
@@ -13055,7 +14730,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples received",
@@ -13156,7 +14844,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples rejected at lab",
@@ -13257,7 +14958,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples tested by culture (any method)",
@@ -13358,7 +15072,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 0 days (%)",
@@ -13404,7 +15131,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 10 days (%)",
@@ -13450,7 +15190,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 11+ days (%)",
@@ -13496,7 +15249,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
@@ -13542,7 +15308,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 2 days (%)",
@@ -13588,7 +15367,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 3 days (%)",
@@ -13634,7 +15426,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 4 days (%)",
@@ -13680,7 +15485,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 5 days (%)",
@@ -13726,7 +15544,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 6 days (%)",
@@ -13772,7 +15603,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 7 days (%)",
@@ -13817,7 +15661,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 8 days (%)",
@@ -13863,7 +15720,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - LCM TAT 9 days (%)",
@@ -13909,7 +15779,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 0 days (%)",
@@ -13955,7 +15838,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 1 day (%)",
@@ -14001,7 +15897,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 2 days (%)",
@@ -14047,7 +15956,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 3 days (%)",
@@ -14093,7 +16015,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 4 days (%)",
@@ -14139,7 +16074,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 5 days (%)",
@@ -14185,7 +16133,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - Microscopy TAT 6+ days (%)",
@@ -14231,7 +16192,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 0 days (%)",
@@ -14277,7 +16251,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 10 days (%)",
@@ -14323,7 +16310,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 11+ days (%)",
@@ -14369,7 +16369,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
@@ -14415,7 +16428,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 2 days (%)",
@@ -14461,7 +16487,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 3 days (%)",
@@ -14507,7 +16546,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 4 days (%)",
@@ -14553,7 +16605,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 5 days (%)",
@@ -14599,7 +16664,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 6 days (%)",
@@ -14645,7 +16723,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 7 days (%)",
@@ -14691,7 +16782,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 8 days (%)",
@@ -14737,7 +16841,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB-LAB - Samples - SCM TAT 9 days (%)",
@@ -14780,7 +16897,7 @@
         "description": "TB Lab (aggregate)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230710T225606",
+        "lastUpdated": "20230712T225549",
         "locale": "en",
         "name": "TB_AGG_LAB_AGG_DHIS2.39.2.1-en",
         "type": "AGG",
@@ -15600,13 +17717,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -15668,13 +17787,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -15736,13 +17857,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -15806,7 +17929,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -15828,7 +17964,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -15877,7 +18026,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -15973,7 +18135,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16020,7 +18195,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16067,7 +18255,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16114,7 +18315,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16150,7 +18364,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16186,7 +18413,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16233,7 +18473,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16269,7 +18522,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16316,7 +18582,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16363,7 +18642,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16410,7 +18702,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16457,7 +18762,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16504,7 +18822,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16551,7 +18882,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16598,7 +18942,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16645,7 +19002,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16692,7 +19062,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -16860,13 +19243,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -17052,13 +19437,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -17244,13 +19631,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -17457,13 +19846,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -17635,13 +20026,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -17819,13 +20212,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -18022,12 +20417,14 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
                     },
                     "bHLDx9I0XkE": {
                         "access": "r-------",
-                        "displayName": "TB data capture",
                         "id": "bHLDx9I0XkE"
                     }
                 },
@@ -18223,13 +20620,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -18436,13 +20835,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -18620,13 +21021,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -18804,13 +21207,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -18993,13 +21398,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -19194,13 +21601,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -19371,13 +21780,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -19555,13 +21966,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -19744,13 +22157,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -19945,13 +22360,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -20122,13 +22539,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -20300,13 +22719,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -20478,13 +22899,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -20676,13 +23099,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -20853,13 +23278,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -21136,13 +23563,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -21320,13 +23749,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -21559,13 +23990,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -21743,13 +24176,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
