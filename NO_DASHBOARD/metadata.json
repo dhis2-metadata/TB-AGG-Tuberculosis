@@ -385,7 +385,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -1235,7 +1235,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -2080,7 +2080,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -5581,10 +5581,10 @@
                     "id": "zw1DhQYN9mb"
                 },
                 {
-                    "id": "j6wYomVhfNs"
+                    "id": "qzl44PwyQCY"
                 },
                 {
-                    "id": "qzl44PwyQCY"
+                    "id": "j6wYomVhfNs"
                 },
                 {
                     "id": "aPT4OksC5z7"
@@ -5611,13 +5611,13 @@
                     "id": "JCs9GgdcC7d"
                 },
                 {
+                    "id": "AmkNXobiXxa"
+                },
+                {
                     "id": "VcwgKNqXO9n"
                 },
                 {
                     "id": "kWuyYvtjl6s"
-                },
-                {
-                    "id": "AmkNXobiXxa"
                 },
                 {
                     "id": "PJ5fX7RGHZt"
@@ -5626,10 +5626,10 @@
                     "id": "FETY3REnbWa"
                 },
                 {
-                    "id": "WWephINt8ga"
+                    "id": "NlKiCH8eRVc"
                 },
                 {
-                    "id": "NlKiCH8eRVc"
+                    "id": "WWephINt8ga"
                 },
                 {
                     "id": "ePih3BMGzXU"
@@ -5644,10 +5644,10 @@
                     "id": "onTdlaF4eFF"
                 },
                 {
-                    "id": "NbbSAGzGYrH"
+                    "id": "yGDEeabaiza"
                 },
                 {
-                    "id": "yGDEeabaiza"
+                    "id": "NbbSAGzGYrH"
                 },
                 {
                     "id": "lRAKLRVIMgp"
@@ -5665,10 +5665,10 @@
                     "id": "h7bxqdKWYCa"
                 },
                 {
-                    "id": "SPJLukKxHaj"
+                    "id": "ZEGEI9XgtZU"
                 },
                 {
-                    "id": "ZEGEI9XgtZU"
+                    "id": "SPJLukKxHaj"
                 },
                 {
                     "id": "jU1JpPt2T62"
@@ -5731,10 +5731,10 @@
                     "id": "Fyx8nuRcxja"
                 },
                 {
-                    "id": "whkj4kr4ghD"
+                    "id": "h7bxqdKWYCa"
                 },
                 {
-                    "id": "h7bxqdKWYCa"
+                    "id": "whkj4kr4ghD"
                 },
                 {
                     "id": "cX7gRvEV6kK"
@@ -5803,25 +5803,13 @@
                     "id": "L6TXyCTI2mW"
                 },
                 {
-                    "id": "gHZcDFFvq5x"
-                },
-                {
-                    "id": "cX7gRvEV6kK"
-                },
-                {
                     "id": "WCE27g52nBt"
                 },
                 {
                     "id": "OuSWXCijKks"
                 },
                 {
-                    "id": "tSmuPZGxDdu"
-                },
-                {
                     "id": "p18w24U0caC"
-                },
-                {
-                    "id": "AAiHWXynwMP"
                 },
                 {
                     "id": "fBAKfSVeUX2"
@@ -5830,13 +5818,7 @@
                     "id": "ajJXlrOt4NU"
                 },
                 {
-                    "id": "C4cDwij2oqU"
-                },
-                {
                     "id": "m1qHAB0I74y"
-                },
-                {
-                    "id": "gPJEsVY8R39"
                 },
                 {
                     "id": "uIaLNEz7eFy"
@@ -5848,40 +5830,16 @@
                     "id": "RJlAMDG3FZn"
                 },
                 {
-                    "id": "mPz2CV8PamC"
-                },
-                {
-                    "id": "F9eE09Dtqft"
-                },
-                {
-                    "id": "zyyolGvDOLQ"
-                },
-                {
                     "id": "YWTs6xdTRFF"
                 },
                 {
                     "id": "gm3SU0QX9tO"
                 },
                 {
-                    "id": "ExXsF5qlzdc"
-                },
-                {
-                    "id": "sqVJYe4DGLs"
-                },
-                {
-                    "id": "J7ChdEuwMPW"
-                },
-                {
                     "id": "wTmoLwBYFa8"
                 },
                 {
-                    "id": "g6tK0H6KkYe"
-                },
-                {
                     "id": "hO7plbvXQPQ"
-                },
-                {
-                    "id": "DV5YjkDeN36"
                 },
                 {
                     "id": "c5yG2hQbSWF"
@@ -5893,28 +5851,10 @@
                     "id": "HSLNfDLCbUc"
                 },
                 {
-                    "id": "tvB7kjQuQda"
-                },
-                {
-                    "id": "nhoEcbYl2hU"
-                },
-                {
                     "id": "zw1DhQYN9mb"
                 },
                 {
-                    "id": "j6wYomVhfNs"
-                },
-                {
-                    "id": "WgDUfvpjXFq"
-                },
-                {
-                    "id": "qzl44PwyQCY"
-                },
-                {
                     "id": "v7cZx5SUBXP"
-                },
-                {
-                    "id": "xlmDFjsyuiS"
                 },
                 {
                     "id": "aPT4OksC5z7"
@@ -5923,31 +5863,13 @@
                     "id": "jlzNtLhlpue"
                 },
                 {
-                    "id": "Tm4N8CLJM9I"
-                },
-                {
                     "id": "DdIWhMWSI8i"
-                },
-                {
-                    "id": "w7apwGjX5oC"
-                },
-                {
-                    "id": "B0Wm5ZKo9AY"
                 },
                 {
                     "id": "VTNrh2DfO91"
                 },
                 {
                     "id": "pe3UIgLzj8p"
-                },
-                {
-                    "id": "JfrM1j1pYhc"
-                },
-                {
-                    "id": "vc2AIHZvwbQ"
-                },
-                {
-                    "id": "MlqHbdCyibN"
                 },
                 {
                     "id": "JCs9GgdcC7d"
@@ -5959,31 +5881,13 @@
                     "id": "kWuyYvtjl6s"
                 },
                 {
-                    "id": "AmkNXobiXxa"
-                },
-                {
                     "id": "VcwgKNqXO9n"
-                },
-                {
-                    "id": "PJ5fX7RGHZt"
                 },
                 {
                     "id": "P6wlyWUyJHp"
                 },
                 {
-                    "id": "aArkaKMHNhw"
-                },
-                {
-                    "id": "m0VAZ280hFd"
-                },
-                {
-                    "id": "FETY3REnbWa"
-                },
-                {
                     "id": "NlKiCH8eRVc"
-                },
-                {
-                    "id": "WWephINt8ga"
                 },
                 {
                     "id": "ePih3BMGzXU"
@@ -5992,28 +5896,13 @@
                     "id": "rv14EhkmZof"
                 },
                 {
-                    "id": "onTdlaF4eFF"
-                },
-                {
                     "id": "NbbSAGzGYrH"
-                },
-                {
-                    "id": "yGDEeabaiza"
-                },
-                {
-                    "id": "lRAKLRVIMgp"
                 },
                 {
                     "id": "N7OZj7DONas"
                 },
                 {
-                    "id": "TVbAl90q4tl"
-                },
-                {
                     "id": "TV1Qm6X0ILb"
-                },
-                {
-                    "id": "XjyUl0Jmjbj"
                 },
                 {
                     "id": "ZAkEhIOXlhS"
@@ -6031,6 +5920,129 @@
                     "id": "axHsIHLBpRm"
                 },
                 {
+                    "id": "w3CiHTdwV4j"
+                },
+                {
+                    "id": "vwRyMhcuZDh"
+                },
+                {
+                    "id": "ERUV57qB52t"
+                },
+                {
+                    "id": "PjSomS4AXiD"
+                },
+                {
+                    "id": "gHZcDFFvq5x"
+                },
+                {
+                    "id": "cX7gRvEV6kK"
+                },
+                {
+                    "id": "tSmuPZGxDdu"
+                },
+                {
+                    "id": "AAiHWXynwMP"
+                },
+                {
+                    "id": "C4cDwij2oqU"
+                },
+                {
+                    "id": "gPJEsVY8R39"
+                },
+                {
+                    "id": "mPz2CV8PamC"
+                },
+                {
+                    "id": "F9eE09Dtqft"
+                },
+                {
+                    "id": "zyyolGvDOLQ"
+                },
+                {
+                    "id": "ExXsF5qlzdc"
+                },
+                {
+                    "id": "sqVJYe4DGLs"
+                },
+                {
+                    "id": "J7ChdEuwMPW"
+                },
+                {
+                    "id": "g6tK0H6KkYe"
+                },
+                {
+                    "id": "DV5YjkDeN36"
+                },
+                {
+                    "id": "tvB7kjQuQda"
+                },
+                {
+                    "id": "nhoEcbYl2hU"
+                },
+                {
+                    "id": "j6wYomVhfNs"
+                },
+                {
+                    "id": "WgDUfvpjXFq"
+                },
+                {
+                    "id": "qzl44PwyQCY"
+                },
+                {
+                    "id": "xlmDFjsyuiS"
+                },
+                {
+                    "id": "Tm4N8CLJM9I"
+                },
+                {
+                    "id": "w7apwGjX5oC"
+                },
+                {
+                    "id": "B0Wm5ZKo9AY"
+                },
+                {
+                    "id": "JfrM1j1pYhc"
+                },
+                {
+                    "id": "vc2AIHZvwbQ"
+                },
+                {
+                    "id": "MlqHbdCyibN"
+                },
+                {
+                    "id": "AmkNXobiXxa"
+                },
+                {
+                    "id": "PJ5fX7RGHZt"
+                },
+                {
+                    "id": "aArkaKMHNhw"
+                },
+                {
+                    "id": "m0VAZ280hFd"
+                },
+                {
+                    "id": "FETY3REnbWa"
+                },
+                {
+                    "id": "WWephINt8ga"
+                },
+                {
+                    "id": "onTdlaF4eFF"
+                },
+                {
+                    "id": "yGDEeabaiza"
+                },
+                {
+                    "id": "lRAKLRVIMgp"
+                },
+                {
+                    "id": "TVbAl90q4tl"
+                },
+                {
+                    "id": "XjyUl0Jmjbj"
+                },
+                {
                     "id": "IIbDJrLi4z5"
                 },
                 {
@@ -6043,22 +6055,10 @@
                     "id": "WRDnlKY9y1d"
                 },
                 {
-                    "id": "w3CiHTdwV4j"
-                },
-                {
-                    "id": "vwRyMhcuZDh"
-                },
-                {
                     "id": "RlFZHghqtq7"
                 },
                 {
                     "id": "NNwvy3Ym6vj"
-                },
-                {
-                    "id": "ERUV57qB52t"
-                },
-                {
-                    "id": "PjSomS4AXiD"
                 }
             ],
             "name": "TB - Treatment outcomes",
@@ -7371,189 +7371,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_C_PCNT_LABCONF_DIED",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "New and relapse pulmonary bacteriologically confirmed cases in cohort",
-            "description": "Number of new and relapse pulmonary bacteriologically confirmed TB patients who died as a percentage of the total cohort registered",
-            "id": "gHZcDFFvq5x",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB - Died (new and relapse pulmonary bacteriologically confirmed DS-TB cases) (%)",
-            "numerator": -1,
-            "numeratorDescription": "Died",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "displayName": "TB access",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "displayName": "TB admin",
-                        "id": "avefFGBIjq1"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Died (pulm bact conf DS-TB) (%)",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "ТБ - Ўлган (бактериологик тасдиқланган янги ва қайталанган дорига сезгир ТБ ҳолатлари) (%)"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "توفيت"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Morreu"
-                },
-                {
-                    "locale": "id",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Meninggal"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Sil kasalligi - O`ldi  (bakteriologik tasdiqlangan birlamchi aniqlangan va qayta davolangan doriga sezgir sil holatlari) (%)"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Meninggal (TB SO paru konf bakt) (%)"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "توفيت"
-                },
-                {
-                    "locale": "es",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Fallecido"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Morreu (pulm bact conf DS-TB) (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Décès (nouveaux cas et rechutes de TB-PS forme pulmonaire confirmés bacteriologiquement) (%)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Zemřel"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Ўлган"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "O`lgan"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "توفيت"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Décès (TB-PS pulm conf bact) (%)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Morreu (pulm bact conf DS-TB) (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Décès"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Morreu"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de nouveaux patients et de patients en rechute atteints de tuberculose pulmonaire bactériologique confirmée qui sont morts, en pourcentage de la cohorte totale enregistrée"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Døde"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "ТБ - Умер (бактериологически подтверждённые новые и повторные ЛЧ-ТБ случаи) (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Número de novos e confirmados pacientes com TB pulmonar confirmados bacteriologicamente que morreram como uma porcentagem do total da coorte registrada"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Número de novos e confirmados pacientes com TB pulmonar confirmados bacteriologicamente que morreram como uma porcentagem do total da coorte registrada"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Nouveaux cas pulmonaires et rechutes confirmés bactériologiquement dans la cohorte"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Смерть"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "توفيت"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Morreu (casos novos e com reincidência pulmonar bacteriologicamente confirmados com DS-TB) (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - Morreu (casos novos e com reincidência pulmonar bacteriologicamente confirmados com DS-TB) (%)"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Fallecido"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_C_PCNT_FAIL",
             "decimals": 1,
             "denominator": -1,
@@ -8750,7 +8567,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "eKcBht0c5OQ"
+                }
+            ],
             "name": "[CONFIG] TB - Notified TB cases (new, all forms) aged 0-14 (%)",
             "numerator": -1,
             "numeratorDescription": "Number of TB cases aged under 15",
@@ -11411,7 +11232,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "PNIsr3txKyc"
+                }
+            ],
             "name": "[CONFIG] TB - Notified TB cases (new, extrapulmonary) (%)",
             "numerator": -1,
             "numeratorDescription": "New extrapulmonary cases",
@@ -11558,7 +11383,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "AZLl9cQBN4T"
+                }
+            ],
             "name": "[CONFIG] TB - Notified TB cases (new, pulmonary bacteriologically confirmed) (%)",
             "numerator": -1,
             "numeratorDescription": "New pulm bacteriologically confirmed cases (for old forms smear +)",
@@ -11949,7 +11778,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "AZLl9cQBN4T"
+                }
+            ],
             "name": "[CONFIG] TB - Notified TB cases (previously treated incl. relapse, pulmonary bacteriologically confirmed) (%)",
             "numerator": -1,
             "numeratorDescription": "Previously treated TB cases bac conf including relapse",
@@ -12047,7 +11880,11 @@
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "nyybajrEibI"
+                }
+            ],
             "name": "[CONFIG] TB - Notified TB cases (previously treated including relapse, all forms) (%)",
             "numerator": -1,
             "numeratorDescription": "Total notified previously treated cases (INCLUDING relapse!)",
@@ -12432,7 +12269,11 @@
             "indicatorType": {
                 "id": "k4RGC3sMTzO"
             },
-            "legendSets": [],
+            "legendSets": [
+                {
+                    "id": "c2WmhDERIo9"
+                }
+            ],
             "name": "[CONFIG] TB - Ratio of TB cases male:female (new and relapse, all forms)",
             "numerator": -1,
             "numeratorDescription": "Total number of males",
@@ -14991,6 +14832,199 @@
             ]
         },
         {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_C_PCNT_NEW_SP_CUR",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "New pulmonary smear positive cases in cohort",
+            "description": "Number of new smear-positive TB patients who were cured as a percentage of the total cohort registered",
+            "id": "ajJXlrOt4NU",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB - TB: Cured - new smear-positive (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cured",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cured new smear+ (%)",
+            "translations": [
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "شفيت"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - TB: Curado - novo esfregaço positivo (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Curado"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Sil kasalligi - Sog`aygan - Birlamchi sil kasalligi musbat natijali surtma bilan (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Nova mancha curada + (%)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Davolangan"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Даволанган"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Nova mancha curada + (%)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "ТБ - Вылеченные - с положительным мазком (%)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "شفيت"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "شفيت"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "ТБ - Соғайган - Янги ТБ  ҳолатлар мусбат натижали суртма билан  (%)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Sanados"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Nouveaux cas positifs à frottis pulmonaire dans la cohorte"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Počet nových pacientů s TBC pozitivních na stěr, kteří byli vyléčeni jako procento z celkové registrované skupiny"
+                },
+                {
+                    "locale": "id",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Sembuh"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Guérison frottis+"
+                },
+                {
+                    "locale": "es",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Sanados"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Kurert"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Вылеченные"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Guérison"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Nové pozitivní případy plicní stěr v kohortě"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "شفيت"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Curado"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de nouveaux patients tuberculeux à frottis positif qui ont été guéris, en pourcentage de la cohorte totale enregistrée"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Número de novos pacientes de tuberculose com baciloscopia positiva que foram curados como uma porcentagem da coorte total registada"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Guérison, frottis positif"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - TB: Curado - novo esfregaço positivo (%)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Vyléčeno"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Número de novos pacientes de tuberculose com baciloscopia positiva que foram curados como uma porcentagem da coorte total registada"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Vyléčeno nový stěr+ (%)"
+                }
+            ]
+        },
+        {
             "annualized": true,
             "attributeValues": [],
             "code": "TB_C_NOTIFIED_100K",
@@ -16926,6 +16960,189 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "Décès (tous TB-PS/HIV) (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_C_PCNT_LABCONF_DIED",
+            "decimals": 1,
+            "denominator": -1,
+            "denominatorDescription": "New and relapse pulmonary bacteriologically confirmed cases in cohort",
+            "description": "Number of new and relapse pulmonary bacteriologically confirmed TB patients who died as a percentage of the total cohort registered",
+            "id": "gHZcDFFvq5x",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB - Died (new and relapse pulmonary bacteriologically confirmed DS-TB cases) (%)",
+            "numerator": -1,
+            "numeratorDescription": "Died",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "displayName": "TB access",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "displayName": "TB admin",
+                        "id": "avefFGBIjq1"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Died (pulm bact conf DS-TB) (%)",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "ТБ - Ўлган (бактериологик тасдиқланган янги ва қайталанган дорига сезгир ТБ ҳолатлари) (%)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "توفيت"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Morreu"
+                },
+                {
+                    "locale": "id",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Meninggal"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Sil kasalligi - O`ldi  (bakteriologik tasdiqlangan birlamchi aniqlangan va qayta davolangan doriga sezgir sil holatlari) (%)"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Meninggal (TB SO paru konf bakt) (%)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "توفيت"
+                },
+                {
+                    "locale": "es",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Fallecido"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Morreu (pulm bact conf DS-TB) (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Décès (nouveaux cas et rechutes de TB-PS forme pulmonaire confirmés bacteriologiquement) (%)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Zemřel"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Ўлган"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "O`lgan"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "توفيت"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Décès (TB-PS pulm conf bact) (%)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Morreu (pulm bact conf DS-TB) (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Décès"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Morreu"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de nouveaux patients et de patients en rechute atteints de tuberculose pulmonaire bactériologique confirmée qui sont morts, en pourcentage de la cohorte totale enregistrée"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Døde"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "ТБ - Умер (бактериологически подтверждённые новые и повторные ЛЧ-ТБ случаи) (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Número de novos e confirmados pacientes com TB pulmonar confirmados bacteriologicamente que morreram como uma porcentagem do total da coorte registrada"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Número de novos e confirmados pacientes com TB pulmonar confirmados bacteriologicamente que morreram como uma porcentagem do total da coorte registrada"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "Nouveaux cas pulmonaires et rechutes confirmés bactériologiquement dans la cohorte"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Смерть"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "توفيت"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - Morreu (casos novos e com reincidência pulmonar bacteriologicamente confirmados com DS-TB) (%)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - Morreu (casos novos e com reincidência pulmonar bacteriologicamente confirmados com DS-TB) (%)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Fallecido"
                 }
             ]
         },
@@ -19818,199 +20035,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_C_PCNT_NEW_SP_CUR",
-            "decimals": 1,
-            "denominator": -1,
-            "denominatorDescription": "New pulmonary smear positive cases in cohort",
-            "description": "Number of new smear-positive TB patients who were cured as a percentage of the total cohort registered",
-            "id": "ajJXlrOt4NU",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB - TB: Cured - new smear-positive (%)",
-            "numerator": -1,
-            "numeratorDescription": "Cured",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "displayName": "TB access",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "displayName": "TB admin",
-                        "id": "avefFGBIjq1"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Cured new smear+ (%)",
-            "translations": [
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "شفيت"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - TB: Curado - novo esfregaço positivo (%)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Curado"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Sil kasalligi - Sog`aygan - Birlamchi sil kasalligi musbat natijali surtma bilan (%)"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Nova mancha curada + (%)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Davolangan"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Даволанган"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Nova mancha curada + (%)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "ТБ - Вылеченные - с положительным мазком (%)"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "شفيت"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "شفيت"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "ТБ - Соғайган - Янги ТБ  ҳолатлар мусбат натижали суртма билан  (%)"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Sanados"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Nouveaux cas positifs à frottis pulmonaire dans la cohorte"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Počet nových pacientů s TBC pozitivních na stěr, kteří byli vyléčeni jako procento z celkové registrované skupiny"
-                },
-                {
-                    "locale": "id",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Sembuh"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Guérison frottis+"
-                },
-                {
-                    "locale": "es",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Sanados"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Kurert"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Вылеченные"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Guérison"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Nové pozitivní případy plicní stěr v kohortě"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "شفيت"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Curado"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de nouveaux patients tuberculeux à frottis positif qui ont été guéris, en pourcentage de la cohorte totale enregistrée"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Número de novos pacientes de tuberculose com baciloscopia positiva que foram curados como uma porcentagem da coorte total registada"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Guérison, frottis positif"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - TB: Curado - novo esfregaço positivo (%)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Vyléčeno"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Número de novos pacientes de tuberculose com baciloscopia positiva que foram curados como uma porcentagem da coorte total registada"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "Vyléčeno nový stěr+ (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_C_PCNT_NEW_SP_CMPLT",
             "decimals": 1,
             "denominator": -1,
@@ -20758,25 +20782,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#fd8d3c",
-                    "endValue": 20.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "JWxM9tlG8uC",
-                    "name": "10 - 20",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffb2",
                     "endValue": 5.0,
                     "externalAccess": false,
@@ -20809,6 +20814,25 @@
                         "users": {}
                     },
                     "startValue": 20.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fd8d3c",
+                    "endValue": 20.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "JWxM9tlG8uC",
+                    "name": "10 - 20",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 10.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -20881,6 +20905,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#DEC9F2",
+                    "endValue": 1.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "O7iJon3zqgA",
+                    "name": "1",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#F4A582",
                     "endValue": 1.0,
                     "externalAccess": false,
@@ -20919,44 +20962,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#CA0020",
-                    "endValue": 0.5,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "rrprM8Ddds3",
-                    "name": "< 0.5",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#DEC9F2",
-                    "endValue": 1.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "O7iJon3zqgA",
-                    "name": "1",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#92C5DE",
                     "endValue": 2.0,
                     "externalAccess": false,
@@ -20970,6 +20975,25 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#CA0020",
+                    "endValue": 0.5,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "rrprM8Ddds3",
+                    "name": "< 0.5",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -21353,6 +21377,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#F5F6B5",
+                    "endValue": 50.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "oNciUbh8Rhp",
+                    "name": "20 - 50",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#F66A6A",
                     "endValue": 20.0,
                     "externalAccess": false,
@@ -21404,25 +21447,6 @@
                         "users": {}
                     },
                     "startValue": 80.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#F5F6B5",
-                    "endValue": 50.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "oNciUbh8Rhp",
-                    "name": "20 - 50",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -21495,6 +21519,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FB6D6D",
+                    "endValue": 20.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "zO30gF4ML5O",
+                    "name": "10 - 20",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 10.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#F70005",
                     "endValue": 100.0,
                     "externalAccess": false,
@@ -21527,25 +21570,6 @@
                         "users": {}
                     },
                     "startValue": 5.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FB6D6D",
-                    "endValue": 20.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "zO30gF4ML5O",
-                    "name": "10 - 20",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -21618,25 +21642,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#fbb4b9",
-                    "endValue": 40.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "GZ3ihJU1VUQ",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#c51b8a",
                     "endValue": 80.0,
                     "externalAccess": false,
@@ -21650,6 +21655,25 @@
                         "users": {}
                     },
                     "startValue": 60.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fbb4b9",
+                    "endValue": 40.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GZ3ihJU1VUQ",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -21940,25 +21964,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#edf8e9",
-                    "endValue": 25.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "qpv2Wgfgvzq",
-                    "name": "0 - 25",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#bae4b3",
                     "endValue": 50.0,
                     "externalAccess": false,
@@ -21991,6 +21996,25 @@
                         "users": {}
                     },
                     "startValue": 50.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#edf8e9",
+                    "endValue": 25.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "qpv2Wgfgvzq",
+                    "name": "0 - 25",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -22044,6 +22068,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#FF0000",
+                    "endValue": 5.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "CStbLXkDyI6",
+                    "name": "0 - 5",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#FFFFFF",
                     "endValue": 15.0,
                     "externalAccess": false,
@@ -22076,25 +22119,6 @@
                         "users": {}
                     },
                     "startValue": 15.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 5.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "CStbLXkDyI6",
-                    "name": "0 - 5",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -26237,6 +26261,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -26657,6 +26682,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -27057,6 +27083,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -27457,6 +27484,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -29420,13 +29448,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "3f41220",
-        "DHIS2Version": "2.38.2",
+        "DHIS2Build": "4119e92",
+        "DHIS2Version": "2.38.4.3",
         "code": "TB_AGG_NO",
-        "description": "TB Notifications and Outcomes (dashboard)",
-        "lastUpdated": "20230307T162146",
+        "description": "TB Notifications and Outcomes",
+        "healthAreaCode": "TB",
+        "healthAreaName": "Tuberculosis",
+        "lastUpdated": "20230628T175639",
         "locale": "en",
-        "name": "TB_AGG_NO_DSH_DHIS2.38.2-en",
+        "name": "TB_AGG_NO_DSH_DHIS2.38.4.3-en",
         "type": "DSH",
         "version": ""
     },
@@ -29569,22 +29599,22 @@
         },
         {
             "attributeValues": [],
-            "code": "TB_AGG_CAPTURE",
+            "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
             "name": "TB data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "--------",
+                "public": "r-------",
                 "userGroups": {
                     "Hoe8uDSoNfN": {
-                        "access": "rw------",
+                        "access": "r-------",
                         "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
-                        "access": "r-------",
+                        "access": "rw------",
                         "displayName": "TB admin",
                         "id": "avefFGBIjq1"
                     }
@@ -29649,7 +29679,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -29671,7 +29701,7 @@
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
-                "public": "rw------",
+                "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
@@ -33584,14 +33614,14 @@
             "axes": [
                 {
                     "index": 0,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "steps": 4,
                     "targetLine": {
                         "title": {
                             "text": "≥ 90%"
                         },
-                        "value": 90
+                        "value": 90.0
                     },
                     "type": "RANGE"
                 }
@@ -33801,14 +33831,14 @@
             "axes": [
                 {
                     "index": 0,
-                    "maxValue": 100,
-                    "minValue": 0,
+                    "maxValue": 100.0,
+                    "minValue": 0.0,
                     "steps": 4,
                     "targetLine": {
                         "title": {
                             "text": "≥ 90%"
                         },
-                        "value": 90
+                        "value": 90.0
                     },
                     "type": "RANGE"
                 }
@@ -34465,7 +34495,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 6,
                     "type": "RANGE"
                 }
@@ -34683,7 +34713,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 6,
                     "type": "RANGE"
                 }
@@ -34966,7 +34996,7 @@
                         "title": {
                             "text": "≥ 90 Target"
                         },
-                        "value": 90
+                        "value": 90.0
                     },
                     "type": "RANGE"
                 }
@@ -35437,7 +35467,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 4,
                     "type": "RANGE"
                 }
@@ -35673,7 +35703,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 4,
                     "type": "RANGE"
                 }
@@ -35882,7 +35912,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 4,
                     "type": "RANGE"
                 }
@@ -36091,7 +36121,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "minValue": 0,
+                    "minValue": 0.0,
                     "steps": 6,
                     "type": "RANGE"
                 }
@@ -37297,8 +37327,8 @@
                 {
                     "decimals": 0,
                     "index": 0,
-                    "maxValue": 120,
-                    "minValue": 0,
+                    "maxValue": 120.0,
+                    "minValue": 0.0,
                     "steps": 7,
                     "type": "RANGE"
                 }
@@ -37545,8 +37575,8 @@
                 {
                     "decimals": 0,
                     "index": 0,
-                    "maxValue": 120,
-                    "minValue": 0,
+                    "maxValue": 120.0,
+                    "minValue": 0.0,
                     "steps": 7,
                     "type": "RANGE"
                 }
@@ -37786,7 +37816,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "maxValue": 120,
+                    "maxValue": 120.0,
                     "steps": 7,
                     "type": "RANGE"
                 }
@@ -38007,7 +38037,7 @@
             "axes": [
                 {
                     "index": 0,
-                    "maxValue": 120,
+                    "maxValue": 120.0,
                     "steps": 7,
                     "type": "RANGE"
                 }
