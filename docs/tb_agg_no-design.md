@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This document describes the system design for TB programmes to integrate routine aggregate reporting into the HMIS. Depending on nation context, these data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools. The dashboards are designed to support the [WHO's Analysis and use of health facility data: guidance for tuberculosis programme managers (2018)[https://www.who.int/publications/m/item/analysis-and-use-of-health-facility-data-guidance-presentation-for-tuberculosis-programme-managers]. 
+This document describes the system design for TB programmes to integrate routine aggregate reporting into the HMIS. Depending on national context, these data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools. The dashboards are designed to support the [WHO's Analysis and use of health facility data: guidance for tuberculosis programme managers (2018)(https://www.who.int/publications/m/item/analysis-and-use-of-health-facility-data-guidance-presentation-for-tuberculosis-programme-managers). 
 
 ## Overview
 
-The TB configuration package for aggregate reporting is based on the WHO [Definitions and reporting framework for tuberculosis](http://apps.who.int/iris/bitstream/10665/79199/1/9789241505345_eng.pdf).
+The TB configuration is based on the WHO [Definitions and reporting framework for tuberculosis](http://apps.who.int/iris/bitstream/10665/79199/1/9789241505345_eng.pdf).
 
 |Name|Periodicity|Purpose|
 |:--|:--|:--|
