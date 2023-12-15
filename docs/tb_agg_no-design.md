@@ -213,7 +213,7 @@ This represents a significant departure from past protocols—now, **the respons
 
 ![Outcome for TB patients on a short second line treatment](resources/images/TB_OUTCOME_Y_001.png)
 
-Depending on the countries’ implementation of the previous guidelines - which counted MDR and XDR cases - 
+Depending on the implementation of previous guidelines by countries—where MDR and XDR cases were counted—decisions regarding data analysis against the new reporting framework must be made by implementers and TB programs. Were all previously reported cases already under a shorter regimen? If not, might it be worthwhile to contemplate the creation of an indicator that combines old metadata with both short and long regimens for general analytical purposes? These considerations play a pivotal role in achieving harmonization across reporting frameworks.
 
 #### Treatment outcomes for people started on long (> 12 months and ≤ 24 months) regimens designed to treat rifampicin-resistant TB, two years before the current reporting year
 
@@ -223,7 +223,7 @@ There is no longer need to disaggregate outcomes further by both drug resistance
 
 ## Dashboards and Analytics
 
-**Version 2.0.0 encompasses four dashboards meticulously designed to amalgamate totals, rates, and percentages, streamlining the analysis process - “TB - Notifications (Quarterly)”, “TB - Notifications (Annual)”, “TB - Outcomes (Quarterly)”, and “TB - Outcomes (Annual)”.**
+**Version 2.0.0 encompasses four dashboards meticulously designed to amalgamate totals, rates, and percentages, streamlining the analysis process - “TB - Notifications (Quarterly)”, “TB - Notifications (Annual)”, “TB - Outcomes (Quarterly)”, and “TB - Outcomes (Annual)”**.
 
 Due to considerable shifts in notification reporting and outcomes, several previous DEs indicators are now categorized within designated “Legacy” indicator and data element groups. In the dashboard visualizations, when feasible, analytics will combine legacy metadata with new metadata, as seen in the “Notification rates”. Alternatively, in cases like “Successful outcomes”, priority will be given to the new metadata, while the legacy metadata will necessitate a thorough review by implementers. The latter approach was devised to prevent the blending of potentially incongruous entities within continuity indicators (e.g., outcomes by TB type and case vs outcomes by treatment regimen). This prudent observation becomes especially crucial considering that implementations frequently involve modifying the original design to align more closely with the specific requirements of local execution.
 
