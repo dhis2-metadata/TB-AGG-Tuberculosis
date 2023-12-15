@@ -37,8 +37,7 @@ The TB aggregate version 2.0.0 metadata mirrors some key changes in terminology 
 
 - **The old “Relapses” are now called “Recurrent“ cases** - This change ensures alignment with the case definition for people with TB commonly used in TB clinical trials.
 - **The old “Retreatments” are now called “Re-registered for treatment“** - this is a simplified and more accurate description for people who start a new TB treatment regimen (following either treatment failure or LTFU), or for whom the outcome of a previous treatment is undocumented/unknown. 
-- this is a simplified description of people newly diagnosed with TB.
-- **The old “New or relapse cases” are now called “New episode of TB"**
+- **The old “New or relapse cases” are now called “New episode of TB"** - this is a simplified description of people newly diagnosed with TB.
 
 #### Cases by previous treatment history
 
