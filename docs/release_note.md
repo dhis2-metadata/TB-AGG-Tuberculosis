@@ -40,7 +40,7 @@ Metadata changes primarily affect the notification and outcomes for first and se
 * Data Elements
   Revised disaggregation no longer includes the HIV status of the contacts; but maintains age disaggregation (under or over 5 years old).
 
-### Fixes & Improvements
+All the changes to the metadata are also reflected in the indicators employed for the analysis of the TB - Data Quality dashboard.
 
 ## 1.5.0
 
