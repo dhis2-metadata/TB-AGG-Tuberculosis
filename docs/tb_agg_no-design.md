@@ -29,14 +29,15 @@ More information is provided also in the “Dashboards and Analytics” section 
 
 ### TB - Case notification
 
-> **_NOTE:_**
-**Although this dataset is designed by default as a quarterly report, the same template could be also used for an annual report depending on the needs and the resources of the implementation.**
+> **NOTE**
+>
+> Although this dataset is designed by default as a quarterly report, the same template could be also used for an annual report depending on the needs and the resources of the implementation.
 
 The TB aggregate version 2.0.0 metadata mirrors some key changes in terminology and definitions outlined in the new guidance. The naming convention was applied to new, older, and legacy metadata.
 
 - **The old “Relapses” are now called “Recurrent“ cases** - This change ensures alignment with the case definition for people with TB commonly used in TB clinical trials.
 - **The old “Retreatments” are now called “Re-registered for treatment“** - this is a simplified and more accurate description for people who start a new TB treatment regimen (following either treatment failure or LTFU), or for whom the outcome of a previous treatment is undocumented/unknown. 
-” - this is a simplified description of people newly diagnosed with TB.
+- this is a simplified description of people newly diagnosed with TB.
 - **The old “New or relapse cases” are now called “New episode of TB"**
 
 #### Cases by previous treatment history
@@ -72,8 +73,9 @@ The table was configured with individual data elements. The new version no longe
 
 #### RIF Susceptibility testing among PBC TB cases
 
-> **_NOTE:_**
-**Should this dataset be reported with an annual periodicity, this table could be added instead to the supplemental annual dataset described in the next chapter.**
+> **NOTE**
+>
+> Should this dataset be reported with an annual periodicity, this table could be added instead to the supplemental annual dataset described in the next chapter.
 
  ![RIF testing](resources/images/TB_NOTIF_Q_007.png)
 
@@ -100,8 +102,9 @@ The table above reports all the options that could be possibly reported, though 
 
 ![Optional data points](resources/images/TB_NOTIF_Q_005.png)
 
-> **_NOTE:_**
-If these three options are not used, it should be noted then that “Started on treatment in this facility” should also include patients transferred in to start treatment and excludes those who died, were lost to follow-up or transferred out before the start of treatment.
+> **NOTE**
+>
+> If these three options are not used, it should be noted then that “Started on treatment in this facility” should also include patients transferred in to start treatment and excludes those who died, were lost to follow-up or transferred out before the start of treatment.
 
 ![Manual vs calculated values](resources/images/TB_NOTIF_Q_010.png)
 
@@ -111,8 +114,9 @@ The added value of the three additional DEs becomes evident in the visual repres
 
 The 2.0.0 version of the Case notification (**previously named “RR/MDR case detection and treatment”**) dataset include extensive changes on the data collected and reported based on the new guidelines, newer treatment classes, and resistance testing that are currently being deployed in the field (e.g. Bedaquiline testing).
 
-> **_NOTE:_**
-The number of RR-TB cases can be considered from the annual aggregation of the quarterly notification dataset - “Rifampicin susceptibility testing among people with pulmonary bacteriologically confirmed TB” section. As the quarterly dataset can also be considered for annual reporting, it is up to the implementers to consider whether the RIF resistance information should fall under one dataset or the other.
+> **NOTE**
+>
+> The number of RR-TB cases can be considered from the annual aggregation of the quarterly notification dataset - “Rifampicin susceptibility testing among people with pulmonary bacteriologically confirmed TB” section. As the quarterly dataset can also be considered for annual reporting, it is up to the implementers to consider whether the RIF resistance information should fall under one dataset or the other.
 
 #### Isoniazid susceptibility among PBC TB with RIF testing
 
@@ -171,15 +175,16 @@ These are recommended for reporting and use in countries with case-based digital
 
 The treatment outcomes table, specifically applicable to first-line treatments, is organized based on various types of TB cases (bacteriologically confirmed, clinical, re/treatments, HIV positive patients). 
 
-> **_NOTE:_**
-Note that the BC and CD classification of reported TB cases in this table is designed primarily for implementations using entirely digitalized individual data collection and analysis. For countries employing a hybrid approach (combining paper and digital methods or utilizing both tracker and aggregate data), merging these two data types into a single DE may be considered.
+> **NOTE**
+>
+> Note that the BC and CD classification of reported TB cases in this table is designed primarily for implementations using entirely digitalized individual data collection and analysis. For countries employing a hybrid approach (combining paper and digital methods or utilizing both tracker and aggregate data), merging these two data types into a single DE may be considered.
 
 Within each patient category, the table details the number of registered cases (the treatment cohort) along with their respective treatment outcomes. In DHIS2, each patient category is represented as one data element for cases registered/cohort and one for treatment outcomes. The treatment outcome data elements are categorized under 'TB treatment outcome' with six distinct outcomes.
 
 The rationale for selecting these categories encompasses several factors:
 - **Meaningful Aggregation**: Categories are structured so that their collective sum remains meaningful, offering a default total in reporting tools. Though the overall total might not directly serve certain analyses, it represents a significant evaluated outcome—a crucial figure for reference. Conversely, categories like 'cases and deaths' often lack meaningful aggregation.
 - **Reduction in Data Elements**: By organizing categories for current and past forms, first and second-line treatments, the treatment outcome category streamlines the dataset from 78 to 13 data elements. This reduction simplifies data management and analysis.
-- **Enhanced Analytical Flexibility**: Categorization significantly enhances the flexibility in analyzing treatment outcome data. For instance, filtering two category options—'cured' and 'treatment completed'—allows for a straightforward display of the total number of 'treatment success' outcomes.
+- **Enhanced Analytical Flexibility**: Categorization significantly enhances the flexibility in analyzing treatment outcome data. For instance, filtering two category options—'cured' and 'treatment completed' — allows for a straightforward display of the total number of 'treatment success' outcomes.
 
 The use of categories not only ensures a comprehensible aggregation of outcomes but also streamlines data management and enables nuanced analyses for a more informed understanding of treatment effectiveness.
 
@@ -188,8 +193,9 @@ The use of categories not only ensures a comprehensible aggregation of outcomes 
 The new table for the treatment outcomes focuses on the outcomes by type of confirmation - bacteriological or clinical. Previously the “re-treatments (excluding recurrent)” cases were a separate DE - they have now been moved to the LEGACY DE group and should be kept in mind whenever calculating the total numbers of outcomes for continuity purposes. All the DEs in the table above should include new episodes and re-treatments.
 Just as the older framework, **the HIV positive TB cases reported are not mutually exclusive with the BC abd CD cases reported in the same table**.
 
-> **_NOTE:_**
-Please note that the treatment outcomes section was designed including only the core variables. The new WHO guidelines set as optional three extra categories that can support the correct calculation of the cohort size, leading to a table that could potentially look like this:
+> **NOTE**
+>
+> Please note that the treatment outcomes section was designed including only the core variables. The new WHO guidelines set as optional three extra categories that can support the correct calculation of the cohort size, leading to a table that could potentially look like this:
 
 ![Treatment outcomes - 1st line with optional categories](resources/images/TB_OUTCOME_Q_002.png)
 
@@ -206,6 +212,7 @@ The new version of the outcome reporting form for second line patients is now sp
 When working with the new metadata for ongoing analysis, implementers should remember how the older framework was used locally. They need to think about the best ways to analyze past data, considering total numbers, previous reporting methods, and the differences between short and long regimens against an older framework that did not report the same type of information.
 
 Just as outlined in the quarterly outcome dataset, this dataset **also only includes the compulsory data points**. Implementers and TB programmes can evaluate whether it is necessary to add to the table the points to report the cases “Registered in this facility” (which is supposed match the numbers reported in “Enrolment on treatment among all registered people diagnosed with TB disease “ section from one or two calendar years ago depending on the regimen); cases “Transferred in to continue treatment after starting treatment at another facility”; and cases “Transferred out to continue treatment in another facility”.
+
 This represents a significant departure from past protocols—now, **the responsibility for reporting treatment outcomes lies with the facility where an individual completes their treatment, not the facility of their initial registration**. Another notable shift is in the patient categories, encompassing **all new TB episodes and individuals re-registered for TB**, irrespective of their known treatment history. Unlike the 2013 WHO guidance, this inclusive approach poses a challenge for direct comparisons of success rates. 
 **The adoption of the new definitions is anticipated to yield lower success rates, introducing a potential disparity when gauged against outcomes reported under the previous framework.**
 
@@ -227,7 +234,7 @@ There is no longer need to disaggregate outcomes further by both drug resistance
 
 Due to considerable shifts in notification reporting and outcomes, several previous DEs indicators are now categorized within designated “Legacy” indicator and data element groups. In the dashboard visualizations, when feasible, analytics will combine legacy metadata with new metadata, as seen in the “Notification rates”. Alternatively, in cases like “Successful outcomes”, priority will be given to the new metadata, while the legacy metadata will necessitate a thorough review by implementers. The latter approach was devised to prevent the blending of potentially incongruous entities within continuity indicators (e.g., outcomes by TB type and case vs outcomes by treatment regimen). This prudent observation becomes especially crucial considering that implementations frequently involve modifying the original design to align more closely with the specific requirements of local execution.
 
-[This mapping]() serves as a guide for implementers, aiding in the transition between older visualizations and their updated counterparts, contingent upon the local mapping conducted during the implementation of the previous DHIS2 TB aggregate version.
+![This mapping](resources/dashboards_1.5.0_vs_2.0.0.xlsx) serves as a guide for implementers, aiding in the transition between older visualizations and their updated counterparts, contingent upon the local mapping conducted during the implementation of the previous DHIS2 TB aggregate version.
 
 ### TB Notifications - Quarterly and Annual
 
@@ -240,11 +247,12 @@ Whenever feasible,the dashboards aim to repurpose existing visualizations by upd
 Nonetheless, several prior visualizations, which are often based on legacy indicators, will necessitate thorough analysis to map and interpret the evolving data trends.
 For instance, taking the number of notified cases, where new data elements (DEs) are combined with existing ones to ensure a seamless analytical continuity. While the indicator itself wasn't initially classified as 'legacy,' certain foundational components rely on an older framework. Therefore, those implementing it should verify if the indicator aligns effectively with their specific local implementation, as it may necessitate cross-referencing with the older framework.
 
-![Notified TB cases indicators](resources/images/TB_DASHBOARD_001.png).
+![Notified TB cases indicators](resources/images/TB_DASHBOARD_001.png)
 
 ### TB Outcomes - Quarterly and Annual
 
 The outcomes data can be analyzed in two indicators: **“TB3 - Outcomes (Quarterly)”** (whose visualizations are named starting with **TB_OUTQ** (Outcomes Quarterly)), and **“TB4 - Outcomes (Annual)”** (whose visualizations are named starting with **TB_OUTA** (Outcomes Annual)).
+
 Version 2.0.0 introduces significant changes in outcome counting and reporting methodologies for both first and second lines of treatments, distinct from the Notifications datasets and dashboards. Consequently, these dashboards do not incorporate legacy indicators or reused visualizations, nor provide a thorough mapping of the older visualizations. 
 
 ![Outcomes for cases enrolled in shorter treatment regimenfor RR cases - continuation of the old  “TBc_5.5_Treatment outcomes for DR-TB (%)”?](resources/images/TB_DASHBOARD_003.png)
@@ -254,6 +262,4 @@ This adaptation is crucial for establishing connections and sustaining analytica
 
 ## References
 
-Consolidated guidance on tuberculosis data generation and use. Module 1. Tuberculosis
-surveillance. Geneva: World Health Organization; 2023. Licence: CC BY-NC-SA 3.0 IGO (in
-press)
+Consolidated guidance on tuberculosis data generation and use. Module 1. Tuberculosis surveillance. Geneva: World Health Organization; 2023. Licence: CC BY-NC-SA 3.0 IGO (in press)
