@@ -234,7 +234,7 @@ There is no longer need to disaggregate outcomes further by both drug resistance
 
 Due to considerable shifts in notification reporting and outcomes, several previous DEs indicators are now categorized within designated “Legacy” indicator and data element groups. In the dashboard visualizations, when feasible, analytics will combine legacy metadata with new metadata, as seen in the “Notification rates”. Alternatively, in cases like “Successful outcomes”, priority will be given to the new metadata, while the legacy metadata will necessitate a thorough review by implementers. The latter approach was devised to prevent the blending of potentially incongruous entities within continuity indicators (e.g., outcomes by TB type and case vs outcomes by treatment regimen). This prudent observation becomes especially crucial considering that implementations frequently involve modifying the original design to align more closely with the specific requirements of local execution.
 
-![This mapping](resources/dashboards_1.5.0_vs_2.0.0.xlsx) serves as a guide for implementers, aiding in the transition between older visualizations and their updated counterparts, contingent upon the local mapping conducted during the implementation of the previous DHIS2 TB aggregate version.
+[This mapping](resources/dashboards_1.5.0_vs_2.0.0.xlsx) serves as a guide for implementers, aiding in the transition between older visualizations and their updated counterparts, contingent upon the local mapping conducted during the implementation of the previous DHIS2 TB aggregate version.
 
 ### TB Notifications - Quarterly and Annual
 
