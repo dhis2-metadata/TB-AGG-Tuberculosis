@@ -1,5 +1,47 @@
 # Release Note { #tb-agg-release-note }
 
+## 2.0.0
+
+This is a major new release of the TB metadata and system design for integrating routine tuberculosis data into national HMIS for analysis. This version is aligned with the latest WHO strategic information guidelines for tuberculosis programmes (2023).
+
+The changes affect the notification and outcomes for first and second line treatment as well as for the household contacts of the confirmed TB cases.
+
+### New Content
+
+Metadata changes primarily affect the notification and outcomes for first and second line treatment, as well as household contacts of confirmed TB cases. 
+
+* **Notification and Outcomes**
+  
+  The main changes to the datasets TB - Case notification, TB - Case notification (additional), TB - Treatment outcomes, and TB - Treatment outcomes (second line) datasets include:
+  Updated dataset name dataset name for additional yearly notifications. This dataset is considered an annual extension of the routine core quarterly reported information and therefore called “additional”.
+
+* **TB - Case notification (additional)** (previously called ‘TB - RR/MDR case detection and treatment’
+
+   Updated metadata (new, older and legacy) names to conform with updated WHO nomenclature for:
+      - **Recurrent** cases (previously referred to as ‘relapsed’)
+      - **Re-registered** cases (previously referred to as ‘retreated’)
+      - **New episode** cases (previously referred to as ‘new or relapse’)
+
+   Updated data element to reflect the new guidelines on disaggregation, such as
+      - Data Elements for Extrapulmonary, bacteriologically confirmed or clinically diagnosed  no longer require a disaggregation by treatment history
+      - Additional age disaggregations for TB cases
+      - Resistance monitoring classifications (e.g. Isoniazid, fluoroquinolones and bedaquiline susceptibility testing)
+      - Treatment history: Lab confirmed RR/MDR-TB now disaggregated by previous treatment history
+      - Treatment regimen: DR-TB cohorts are now defined in terms of their regimen length and content
+
+  The re-labeling of metadata as 'LEGACY_TB' accentuates its purpose for historical data collected under past guidelines, indicating its outdated alignment with the current framework. This measure was taken to emphasize the need of mapping and adapting the analysis to sustain analytical insights. The legacy metadata is grouped in legacy DE and indicator groups as well as a “TB - Legacy metadata” dataset.
+
+* **TB Prevention - Household (HH) contacts**
+
+   Split previous dataset into two new datasets to ensure precise calculations derived from specific cohorts and analysis periods; and allows for streamlined aggregation of data sourced from the Household Contacts Investigation tracker:
+      - Notifications of HH contacts
+      - Tuberculosis Preventive Treatment (TPT) outcomes
+
+* Data Elements
+  Revised disaggregation no longer includes the HIV status of the contacts; but maintains age disaggregation (under or over 5 years old).
+
+### Fixes & Improvements
+
 ## 1.5.0
 
 The Data Quality (DQ) dashboard and guide are added to the TB HMIS toolkit.
