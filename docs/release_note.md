@@ -4,16 +4,16 @@
 
 This is a major new release of the TB metadata and system design for integrating routine tuberculosis data into national HMIS for analysis. This version is aligned with the latest WHO strategic information guidelines for tuberculosis programmes (2023).
 
-The changes affect the notification and outcomes for first and second line treatment as well as for the household contacts of the confirmed TB cases.
+The changes affect the notification and outcomes for first and second-line treatment and the household contacts of the confirmed TB cases.
 
 ### New Content
 
-Metadata changes primarily affect the notification and outcomes for first and second line treatment, as well as household contacts of confirmed TB cases. 
+Metadata changes primarily affect the notification and outcomes for first and second-line treatment, as well as household contacts of confirmed TB cases. 
 
 * **Notification and Outcomes**
   
   The main changes to the datasets TB - Case notification, TB - Case notification (additional), TB - Treatment outcomes, and TB - Treatment outcomes (second line) datasets include:
-  Updated dataset name dataset name for additional yearly notifications. This dataset is considered an annual extension of the routine core quarterly reported information and therefore called “additional”.
+  Updated dataset name dataset name for additional yearly notifications. This dataset is considered an annual extension of the routine core quarterly reported information and is therefore called “additional”.
 
 * **TB - Case notification (additional)** (previously called ‘TB - RR/MDR case detection and treatment’
 
@@ -22,14 +22,12 @@ Metadata changes primarily affect the notification and outcomes for first and se
       - **Re-registered** cases (previously referred to as ‘retreated’)
       - **New episode** cases (previously referred to as ‘new or relapse’)
 
-   Updated data element to reflect the new guidelines on disaggregation, such as
+   Updated data elements to reflect the new guidelines on disaggregation, such as
       - Data Elements for Extrapulmonary, bacteriologically confirmed or clinically diagnosed  no longer require a disaggregation by treatment history
       - Additional age disaggregations for TB cases
       - Resistance monitoring classifications (e.g. Isoniazid, fluoroquinolones and bedaquiline susceptibility testing)
       - Treatment history: Lab confirmed RR/MDR-TB now disaggregated by previous treatment history
       - Treatment regimen: DR-TB cohorts are now defined in terms of their regimen length and content
-
-  The re-labeling of metadata as 'LEGACY_TB' accentuates its purpose for historical data collected under past guidelines, indicating its outdated alignment with the current framework. This measure was taken to emphasize the need of mapping and adapting the analysis to sustain analytical insights. The legacy metadata is grouped in legacy DE and indicator groups as well as a “TB - Legacy metadata” dataset.
 
 * **TB Prevention - Household (HH) contacts**
 
@@ -38,7 +36,7 @@ Metadata changes primarily affect the notification and outcomes for first and se
       - Tuberculosis Preventive Treatment (TPT) outcomes
 
 * Data Elements
-  Revised disaggregation no longer includes the HIV status of the contacts; but maintains age disaggregation (under or over 5 years old).
+  Revised disaggregation no longer includes the HIV status of the contacts, but maintains age disaggregation (under or over 5 years old).
 
 All the changes to the metadata are also reflected in the indicators employed for the analysis of the TB - Data Quality dashboard.
 
@@ -48,7 +46,7 @@ The Data Quality (DQ) dashboard and guide are added to the TB HMIS toolkit.
 
 ## 1.4.1
 
-French translations added to all package components.
+French translations were added to all package components.
 
 ## 1.4.0
 
@@ -57,7 +55,7 @@ Revised package including a new component: Laboratory data set and dashboard.
 ## 1.1.1
 
 * Included user group `UKWx4jJcrKt` "TB data capture", which has data capture rights on all data shareable objects (only in the complete package)
-* Changed publicaccess sharing to metadata view and data view.
+* Changed public access sharing to metadata view and data view.
 * Removed dashboard `o2Wg6pXAN6X` "TB2.Notifications (rates)", and associated chart `gTcOAYjw4CQ`, pivot table `HCmjOlNONzQ` and map `z4FMNqKG4gl`.
 * Updated dashboard layout for use with the new dashboard app (from DHIS 2.29 and above)
 * Updated periods in favourites, including data up to and including Q2 2019 (where relevant)
@@ -70,7 +68,7 @@ Revised package including a new component: Laboratory data set and dashboard.
 * Fixed denominator of indicator `whkj4kr4ghD`, should be `#{hKTgk1mG2qn} + #{PdhQ1JCS2ij} + #{M6JHtLJJ34t} + #{KZ7rMA7BqcQ} + #{l4TyT04yP8f} + #{NYxehRdsQx3} +#{QNFhsj0fOxK} + #{Nv1RGi4eI7F} + #{NJaeD9Xia7x} + #{KhCB35MHs9A}`
 * Changed description of indicator `p18w24U0caC`
 * Changed name, shortName, code and description of indicator `VLtzufVWnHc`
-* Fixed 3 validation rules with incorrrect formulas:
+* Fixed 3 validation rules with incorrect formulas:
 	* `bDjCyRMtkHO` - New pulmonary smear-positive
 	* `VhVCSKuqraP` - New pulmonary smear-negative/smear-unknown/smear not done
 	* `hZveAwRhLRh` - New extrapulmonary cases
@@ -80,7 +78,7 @@ Revised package including a new component: Laboratory data set and dashboard.
 * Added three validation rules for the TB/HIV section of the "TB treatment outcomes" data set:
 	* `hXd2GANq20y` - "TB/HIV testing (by time of outcome)"
 	* `zANh0v8Sbr1` - "HIV-positive TB patients on co-trimoxazole preventive therapy (CPT) (by time of outcome)"
-	* `EG3H3WrJnKe` - "HIV-positive TB patients on antoretroviral therapy (ART) (by time of outcome)"
+	* `EG3H3WrJnKe` - "HIV-positive TB patients on antiretroviral therapy (ART) (by time of outcome)"
 * Fixed three validation rules:
 	* `puOMC36U2ad` - "HIV-positive TB patients on antiretroviral therapy (ART)"
 	* `MWDQUNd4sZE` - "HIV-positive TB patients on co-trimoxazole preventive therapy (CPT)"
