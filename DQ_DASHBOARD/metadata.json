@@ -304,7 +304,7 @@
             "layout": {
                 "columns": []
             },
-            "name": "TB10 - Data quality",
+            "name": "TB08 - Data Quality",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -338,10 +338,10 @@
             "id": "zcOsvKlQzxs",
             "indicators": [
                 {
-                    "id": "pe3UIgLzj8p"
+                    "id": "ARk5nOEhKGM"
                 },
                 {
-                    "id": "ARk5nOEhKGM"
+                    "id": "pe3UIgLzj8p"
                 },
                 {
                     "id": "wiw9pEf31oa"
@@ -365,13 +365,7 @@
                     "id": "FETY3REnbWa"
                 },
                 {
-                    "id": "BG42WqMPbO0"
-                },
-                {
                     "id": "ZeX5QIgXjba"
-                },
-                {
-                    "id": "CayXWuRM9x2"
                 },
                 {
                     "id": "vphUG8XAePl"
@@ -395,7 +389,7 @@
                     "id": "RIMCpjlrVPz"
                 },
                 {
-                    "id": "aPfDXoI0tPS"
+                    "id": "Z18j3AIea3J"
                 },
                 {
                     "id": "h7bxqdKWYCa"
@@ -407,19 +401,19 @@
                     "id": "DV5YjkDeN36"
                 },
                 {
-                    "id": "l1CiB6k56Oz"
+                    "id": "T4Geo4rpHWo"
                 },
                 {
-                    "id": "T4Geo4rpHWo"
+                    "id": "CayXWuRM9x2"
                 },
                 {
                     "id": "Ct5LfR6u60G"
                 },
                 {
-                    "id": "Z18j3AIea3J"
+                    "id": "pTjRIGcMD5m"
                 },
                 {
-                    "id": "pTjRIGcMD5m"
+                    "id": "l1CiB6k56Oz"
                 },
                 {
                     "id": "WRDnlKY9y1d"
@@ -434,7 +428,7 @@
                     "id": "edKJeLfdNB8"
                 }
             ],
-            "name": "TB Data quality",
+            "name": "TB - Data quality",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -497,14 +491,14 @@
                     "value": "البسط فقط (رقم)"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Фақат рақамловчи (рақам)"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
                 },
                 {
                     "locale": "ar",
@@ -527,14 +521,14 @@
                     "value": "Kun teller (tall)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "البسط فقط (رقم)"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
                 }
             ]
         },
@@ -556,14 +550,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "نسبة"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
                 },
                 {
                     "locale": "es",
@@ -596,14 +590,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Процент"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
                 },
                 {
                     "locale": "ar",
@@ -640,17 +634,12 @@
                     "value": "Četnost (faktor=1)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "معدل (العامل = 1)"
-                },
-                {
                     "locale": "uz",
                     "property": "NAME",
                     "value": "Ставка (омил = 1)"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "ar_SD",
                     "property": "NAME",
                     "value": "معدل (العامل = 1)"
                 },
@@ -658,6 +647,11 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Taxa (fator = 1)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "معدل (العامل = 1)"
                 },
                 {
                     "locale": "uz_UZ",
@@ -905,6 +899,594 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "RPT_CONTACT_ELG_TPT",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for Household contacts",
+            "description": "Count of reports with contacts eligible for TPT divided by actual number of reports received multiplied by 100",
+            "id": "ljVgj7vLyn4",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with contacts eligible for TPT complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Contacts eligible for TPT",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with contacts eligible for TPT",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_RR_MDR",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and treatment",
+            "description": "Count of reports with laboratory confirmed RR or MDR TB cases divided by actual number of reports received multiplied by 100",
+            "id": "ywnYyWQoC9M",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with laboratory confirmed RR or MDR TB cases complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Laboratory confirmed RR or MDR TB cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with lab confirmed RR/MDR",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_RIF_SUS",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and tx",
+            "description": "Count of reports with new TB cases tested for rifampicin susceptibility divided by actual number of reports received multiplied by 100",
+            "id": "Ct5LfR6u60G",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new TB cases tested for rifampicin susceptibility complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "New TB cases tested for rifampicin susceptibility",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with test for rifampicin susceptibility",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_TB_HIV_DOC",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for TB notification",
+            "description": "Count of reports with new and relapse TB cases with HIV status documented divided by actual number of reports received multiplied by 100",
+            "id": "jkvAm2ZSuz0",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new and relapse TB cases with HIV status documented complete (%)",
+            "numerator": -1,
+            "numeratorDescription": " New and relapse TB cases with HIV status documented ",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with TB cases with doc HIV status",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_OUTCOME",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for treatment outcomes (quarterly)",
+            "description": "Count of reports with new and relapse TB cases with an outcome recorded divided by actual number of reports received multiplied by 100",
+            "id": "Z18j3AIea3J",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new episodes TB cases with an outcome recorded complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "New and relapse TB cases with an outcome recorded ",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with new episodes TB cases with o/c",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_NEW_XP_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the new extrapulmonary TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "edKJeLfdNB8",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new extrapulmonary TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "New extrapulmonary TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with new extrapulmonary cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_NEW_PBC_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the new pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "hdLjprwd6hp",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new pulmonary bacteriologically confirmed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "New pulmonary bacteriologically confirmed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with new pulmonary BC TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_NEW_PCD_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the new pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "wiw9pEf31oa",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with new pulmonary clinically diagnosed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "New pulmonary clinically diagnosed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with new pulmonary PCD TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_RR_OUT",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and tx",
+            "description": "Count of reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size multiplied by 100",
+            "id": "gzhrcx2O0k7",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size complete (%) ",
+            "numerator": -1,
+            "numeratorDescription": "Outcomes of confirmed cases of RR-/MDR-TB registered cohort size",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% outcome of RR-/MDR-TB registered complete",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_PRESUMPTIVE",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for TB Laboratory",
+            "description": "Count of reports with presumptive cases tested by any lab diagnostic divided by actual number of reports received multiplied by 100",
+            "id": "IZQtqKtfej5",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with presumptive cases tested by any lab diagnostic complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Presumptive cases tested by any lab diagnostic",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with presumptive cases tested",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_PTX_PCD_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the previously treated pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "pTjRIGcMD5m",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with previously treated pulmonary clinically diagnosed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Previously treated pulmonary clinically diagnosed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with previously tx pulmonary CD TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_PTX_PBC_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the re-treated pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "l1CiB6k56Oz",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with re-treated pulmonary bacteriologically confirmed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Previously treated pulmonary bacteriologically confirmed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports re-treated tx pulmonary BC TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_RECURRENT_PBC_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual reports for TB notification",
+            "description": "Count of reports with the recurrent pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "CayXWuRM9x2",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with recurrent pulmonary bacteriologically confirmed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Relapse pulmonary bacteriologically confirmed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with recurrent pulmonary BC TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "RPT_RECURRENT_PCD_TB",
+            "denominator": -1,
+            "denominatorDescription": "Actual report for TB notification",
+            "description": "Count of reports with the recurrent pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
+            "id": "gUsktWYflG0",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [
+                {
+                    "id": "kqfOfmaaMVl"
+                }
+            ],
+            "name": "[CONFIG] TB  - Reports with recurrent pulmonary clinically diagnosed TB cases notified complete (%)",
+            "numerator": -1,
+            "numeratorDescription": "Relapse pulmonary clinically diagnosed TB cases notified",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "% reports with recurrent pulmonary PCD TB cases",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_RPT_COMPLETENESS",
             "denominator": -1,
             "denominatorDescription": "Number of health facilities expected to report on TB notification",
@@ -981,99 +1563,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_C_PCNT_NEW_014",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "Total number notified by age and sex",
-            "id": "aPfDXoI0tPS",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "eKcBht0c5OQ"
-                }
-            ],
-            "name": "[CONFIG] TB - Notified TB cases (new, all forms) aged 0-14 (%)",
-            "numerator": -1,
-            "numeratorDescription": "Number of TB cases aged under 15",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "0-14 (%)",
-            "translations": [
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "0-14 (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "0-14 (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Cas de TB notifiés (nouveaux, toutes formes) âgés de 0-14 (%)"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - Casos de TB notificados (novos, todas as formas) de 0 à 14 anos (%)"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "ТБ - Рўйхатга олинган ТБ ҳолатлари (янги, барча шакллари), болалар 0-14 ёшдагилар (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "Nombre total notifié par âge et sexe"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - Casos de TB notificados (novos, todas as formas) de 0 à 14 anos (%)"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Sil kasalligi - Ro`yxatga olingan sil kasalligi holatlari (birlamchi aniqlangan, barcha shakllari), bolalar 0-14 yoshdagilar (%)"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "ТБ - Зарегистрированные случаи ТБ (новые, все формы) в возрасте 0-14 (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Nombre de cas de tuberculose âgés de moins de 15 ans"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_C_NEWINC",
             "decimals": 0,
             "denominator": -1,
@@ -1115,19 +1604,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Novo e reincidência (todas as formas TB)"
-                },
-                {
                     "locale": "es_US",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "TB - casos de TB notificados (novos e reincidências, todas as formas)"
                 },
                 {
                     "locale": "ar_IQ",
@@ -1160,6 +1639,16 @@
                     "value": "1"
                 },
                 {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "TB - casos de TB notificados (novos e reincidências, todas as formas)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Novo ereincidência (todas as formas TB)"
+                },
+                {
                     "locale": "ar_SD",
                     "property": "DESCRIPTION",
                     "value": "نوبات جديدة من السل، بجميع أشكاله، تشمل حالات جديدة، وانتكاسات، وحالات ذات تاريخ علاجي مجهول"
@@ -1180,14 +1669,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Novos episódios de TB, todas as formas, incluindo novos casos,  reincidências e casos com histórico de tratamento desconhecido"
+                },
+                {
                     "locale": "es",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "DESCRIPTION",
-                    "value": "Novos episódios de TB, todas as formas, incluindo novos casos,  reincidências e casos com histórico de tratamento desconhecido"
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "TB - casos de TB notificados (novos e reincidências, todas as formas)"
                 },
                 {
                     "locale": "ar_SD",
@@ -1200,6 +1694,11 @@
                     "value": "Nové a relapsy (všechny formy TB)"
                 },
                 {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Novos episódios de TB, todas as formas, incluindo novos casos, reincidências e casos com histórico de tratamento desconhecido"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "Sil kasalligi - Ro`yxatga olingan sil kasalligi holatlari (birlamchi aniqlangan va qaytalanganlar, barcha shakllari)"
@@ -1208,6 +1707,11 @@
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Novo e reincidência (todas as formas TB)"
                 },
                 {
                     "locale": "fr",
@@ -1235,11 +1739,6 @@
                     "value": "Nouveaux cas et rechutes"
                 },
                 {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "TB - casos de TB notificados (novos e reincidências, todas as formas)"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
@@ -1250,19 +1749,9 @@
                     "value": "نوبات جديدة من السل، بجميع أشكاله، تشمل حالات جديدة، وانتكاسات، وحالات ذات تاريخ علاجي مجهول"
                 },
                 {
-                    "locale": "pt",
-                    "property": "DESCRIPTION",
-                    "value": "Novos episódios de TB, todas as formas, incluindo novos casos,  reincidências e casos com histórico de tratamento desconhecido"
-                },
-                {
                     "locale": "ar",
                     "property": "DESCRIPTION",
                     "value": "نوبات جديدة من السل، بجميع أشكاله، تشمل حالات جديدة، وانتكاسات، وحالات ذات تاريخ علاجي مجهول"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Novo e reincidência (todas as formas TB)"
                 }
             ]
         },
@@ -1462,7 +1951,7 @@
             "attributeValues": [],
             "code": "TB_C_PCNT_BAC_NEW",
             "denominator": -1,
-            "denominatorDescription": "New pulmonary TB cases (bact conf and clin diag, smer +, smear -)",
+            "denominatorDescription": "New pulmonary TB cases",
             "description": "Number of new TB cases which were confirmed bacteriologically in given period as a percentage of the total new pulmonary bacteriologically confirmed TB cases.",
             "id": "RIMCpjlrVPz",
             "indicatorType": {
@@ -1475,7 +1964,7 @@
             ],
             "name": "[CONFIG] TB - Notified TB cases (new, pulmonary bacteriologically confirmed) (%)",
             "numerator": -1,
-            "numeratorDescription": "New pulm bacteriologically confirmed cases (for old forms smear +)",
+            "numeratorDescription": "New pulmonary bacteriologically confirmed cases",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1579,7 +2068,7 @@
             ],
             "name": "[CONFIG] TB - Notified TB cases (previously treated including relapse, all forms) (%)",
             "numerator": -1,
-            "numeratorDescription": "Total notified previously treated cases (INCLUDING relapse!)",
+            "numeratorDescription": "Total notified previously treated cases (INCLUDING recurrent!)",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1899,636 +2388,6 @@
                     "value": "Sil kasalligi - Sil kasalligining jinsi bo`yicha erkaklar : ayollar o`rtasidagi nisbati (birlamchi aniqlanganlar va qaytalanganlar, barcha shakllari) (%)"
                 }
             ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_CONTACT_ELG_TPT",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for Household contacts",
-            "description": "Count of reports with contacts eligible for TPT divided by actual number of reports received multiplied by 100",
-            "id": "ljVgj7vLyn4",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with contacts eligible for TPT complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Contacts eligible for TPT",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with contacts eligible for TPT",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_RR_MDR",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and treatment",
-            "description": "Count of reports with laboratory confirmed RR or MDR TB cases divided by actual number of reports received multiplied by 100",
-            "id": "ywnYyWQoC9M",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with laboratory confirmed RR or MDR TB cases complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Laboratory confirmed RR or MDR TB cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with lab confirmed RR/MDR",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_OUTCOME",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for treatment outcomes (quarterly)",
-            "description": "Count of reports with new and relapse TB cases with an outcome recorded divided by actual number of reports received multiplied by 100",
-            "id": "Z18j3AIea3J",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new and relapse TB cases with an outcome recorded complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "New and relapse TB cases with an outcome recorded ",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with new and relapse TB cases with o/c",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_TB_HIV_DOC",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for TB notification",
-            "description": "Count of reports with new and relapse TB cases with HIV status documented divided by actual number of reports received multiplied by 100",
-            "id": "jkvAm2ZSuz0",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new and relapse TB cases with HIV status documented complete (%)",
-            "numerator": -1,
-            "numeratorDescription": " New and relapse TB cases with HIV status documented ",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with TB cases with doc HIV status",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_NEW_XP_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the new extrapulmonary TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "edKJeLfdNB8",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new extrapulmonary TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "New extrapulmonary TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with new extrapulmonary cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_NEW_PBC_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the new pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "hdLjprwd6hp",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new pulmonary bacteriologically confirmed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "New pulmonary bacteriologically confirmed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with new pulmonary BC TB cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_NEW_PCD_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the new pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "wiw9pEf31oa",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new pulmonary clinically diagnosed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "New pulmonary clinically diagnosed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with new pulmonary PCD TB cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_RIF_SUS",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and tx",
-            "description": "Count of reports with new TB cases tested for rifampicin susceptibility divided by actual number of reports received multiplied by 100",
-            "id": "Ct5LfR6u60G",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with new TB cases tested for rifampicin susceptibility complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "New TB cases tested for rifampicin susceptibility",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with test for rifampicin susceptibility",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_RR_OUT",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and tx",
-            "description": "Count of reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size multiplied by 100",
-            "id": "gzhrcx2O0k7",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size complete (%) ",
-            "numerator": -1,
-            "numeratorDescription": "Outcomes of confirmed cases of RR-/MDR-TB registered cohort size",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% outcome of RR-/MDR-TB registered complete",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_PRESUMPTIVE",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for TB Laboratory",
-            "description": "Count of reports with presumptive cases tested by any lab diagnostic divided by actual number of reports received multiplied by 100",
-            "id": "IZQtqKtfej5",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with presumptive cases tested by any lab diagnostic complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Presumptive cases tested by any lab diagnostic",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with presumptive cases tested",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_PRESUMPTIVE_BAC",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for TB Laboratory",
-            "description": "Count of reports with presumptive TB cases bacteriologically tested divided by actual number of reports received multiplied by 100",
-            "id": "BG42WqMPbO0",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with presumptive TB cases bacteriologically tested  (%)",
-            "numerator": -1,
-            "numeratorDescription": "Presumptive TB cases bacteriologically tested",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with presumptive cases bac tested",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_PTX_PBC_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the previously treated pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "l1CiB6k56Oz",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with previously treated pulmonary bacteriologically confirmed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Previously treated pulmonary bacteriologically confirmed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with previously tx pulmonary BC TB cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_PTX_PCD_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the previously treated pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "pTjRIGcMD5m",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with previously treated pulmonary clinically diagnosed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Previously treated pulmonary clinically diagnosed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with previously tx pulmonary CD TB cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_RELAPSE_PBC_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual reports for TB notification",
-            "description": "Count of reports with the relapse pulmonary bacteriologically confirmed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "CayXWuRM9x2",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with relapse pulmonary bacteriologically confirmed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Relapse pulmonary bacteriologically confirmed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with relapse pulmonary BC TB cases",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "RPT_RELAPSE_PCD_TB",
-            "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
-            "description": "Count of reports with the relapse pulmonary clinically diagnosed TB cases notified divided by actual number of reports received multiplied by 100",
-            "id": "gUsktWYflG0",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [
-                {
-                    "id": "kqfOfmaaMVl"
-                }
-            ],
-            "name": "[CONFIG] TB  - Reports with relapse pulmonary clinically diagnosed TB cases notified complete (%)",
-            "numerator": -1,
-            "numeratorDescription": "Relapse pulmonary clinically diagnosed TB cases notified",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "% reports with relapse pulmonary PCD TB cases",
-            "translations": []
         },
         {
             "annualized": false,
@@ -3240,6 +3099,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#fd8d3c",
+                    "endValue": 20.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "JWxM9tlG8uC",
+                    "name": "10 - 20",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 10.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#ffffb2",
                     "endValue": 5.0,
                     "externalAccess": false,
@@ -3272,25 +3150,6 @@
                         "users": {}
                     },
                     "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#fd8d3c",
-                    "endValue": 20.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "JWxM9tlG8uC",
-                    "name": "10 - 20",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -3365,25 +3224,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#DEC9F2",
-                    "endValue": 1.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "O7iJon3zqgA",
-                    "name": "1",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#F4A582",
                     "endValue": 1.0,
                     "externalAccess": false,
@@ -3422,25 +3262,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#92C5DE",
-                    "endValue": 2.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "YwboYL7y0lR",
-                    "name": "1-2",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#CA0020",
                     "endValue": 0.5,
                     "externalAccess": false,
@@ -3454,6 +3275,44 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#DEC9F2",
+                    "endValue": 1.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "O7iJon3zqgA",
+                    "name": "1",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#92C5DE",
+                    "endValue": 2.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "YwboYL7y0lR",
+                    "name": "1-2",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -3636,70 +3495,31 @@
                     "value": "Легенда_ТБм_3.6"
                 }
             ]
-        },
+        }
+    ],
+    "maps": [],
+    "organisationUnitGroupSets": [],
+    "organisationUnitGroups": [],
+    "package": {
+        "DHIS2Build": "94310fb",
+        "DHIS2Version": "2.39.4",
+        "code": "TB_AGG_DQ",
+        "description": "TB Data Quality (dashboard)",
+        "healthAreaCode": "TB",
+        "healthAreaName": "Tuberculosis",
+        "lastUpdated": "20240102T090602",
+        "locale": "en",
+        "name": "TB_AGG_DQ_DSH_DHIS2.39.4-en",
+        "type": "DSH",
+        "version": ""
+    },
+    "userGroups": [
         {
             "attributeValues": [],
-            "id": "eKcBht0c5OQ",
-            "legends": [
-                {
-                    "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 5.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "CStbLXkDyI6",
-                    "name": "0 - 5",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FFFFFF",
-                    "endValue": 15.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "nL5uBMartNu",
-                    "name": "5-15",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 5.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#FF0000",
-                    "endValue": 100.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "X03rO8hw7n2",
-                    "name": "15 - 100",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 15.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                }
-            ],
-            "name": "Legend_TBt_3.1_Children (%)",
+            "code": "TB_DRS_ACCESS",
+            "id": "LHhbGJKXmzz",
+            "managedGroups": [],
+            "name": "DRS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3722,51 +3542,388 @@
             },
             "translations": [
                 {
-                    "locale": "pt_BR",
+                    "locale": "fr",
                     "property": "NAME",
-                    "value": "Legend_TBt_3.1_Crianças (%)"
+                    "value": "TB DRS accès"
                 },
                 {
-                    "locale": "ru",
+                    "locale": "cs",
                     "property": "NAME",
-                    "value": "Легенда_ТБт_3.1_Дети (%)"
+                    "value": "DRS - Přístup"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_DRS_ADMIN",
+            "id": "vN3X85Hxzno",
+            "managedGroups": [],
+            "name": "DRS - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "admin TB DRS"
                 },
                 {
-                    "locale": "pt",
+                    "locale": "cs",
                     "property": "NAME",
-                    "value": "Legend_TBt_3.1_Crianças (%)"
+                    "value": "DRS - Admin"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_DRS_DATA_CAPTURE",
+            "id": "byS9SDFsd9p",
+            "managedGroups": [],
+            "name": "DRS - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB DRS saisie des données"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "DRS - Sběr dat"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_DRS_SRL",
+            "id": "XTNFOnPGrp0",
+            "managedGroups": [],
+            "name": "DRS - SRL",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "DRS - SRL"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "Legend_TBt_3.1_Enfants (%)"
+                    "value": "ERM - LRE"
                 }
-            ]
-        }
-    ],
-    "maps": [],
-    "organisationUnitGroupSets": [],
-    "organisationUnitGroups": [],
-    "package": {
-        "DHIS2Build": "99a70d2",
-        "DHIS2Version": "2.39.2.1",
-        "code": "TB_AGG_DQ",
-        "description": "TB Data Quality (dashboard)",
-        "healthAreaCode": "TB",
-        "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230703T121017",
-        "locale": "en",
-        "name": "TB_AGG_DQ_DSH_DHIS2.39.2.1-en",
-        "type": "DSH",
-        "version": ""
-    },
-    "userGroups": [
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_ACCESS",
+            "id": "pyu2ZlNKbzQ",
+            "managedGroups": [],
+            "name": "TB - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Accès"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_ADMIN",
+            "id": "Ubzlyfqm1gO",
+            "managedGroups": [],
+            "name": "TB - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Admin"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_DATA_CAPTURE",
+            "id": "UKWx4jJcrKt",
+            "managedGroups": [],
+            "name": "TB - Data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Saisie des données"
+                }
+            ],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_LAB_ACCESS",
+            "id": "s1Q2JPVhTep",
+            "managedGroups": [],
+            "name": "TB CS - Lab access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "TB_CS_LAB_DATA_CAPTURE",
+            "id": "zBZXkRW0PJy",
+            "managedGroups": [],
+            "name": "TB CS - Lab data capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "UKWx4jJcrKt": {
+                        "access": "r-------",
+                        "displayName": "TB - Data capture",
+                        "id": "UKWx4jJcrKt"
+                    },
+                    "Ubzlyfqm1gO": {
+                        "access": "rw------",
+                        "displayName": "TB - Admin",
+                        "id": "Ubzlyfqm1gO"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    },
+                    "pyu2ZlNKbzQ": {
+                        "access": "r-------",
+                        "displayName": "TB - Access",
+                        "id": "pyu2ZlNKbzQ"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB SC - Saisie des données de labo"
+                }
+            ],
+            "users": []
+        },
         {
             "attributeValues": [],
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3836,7 +3993,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -3906,7 +4063,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4073,157 +4230,6 @@
         }
     ],
     "visualizations": [
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "axes": [],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "colorSet": "DEFAULT",
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "h7bxqdKWYCa"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "description": "This chart shows the population at the subunit level for comparison of trends. The district-level user can check that the subunits are well configured and that there are no unexplained shifts in trends.",
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "ou"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": false,
-            "hideTitle": false,
-            "id": "gT0TRsnAZX2",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false
-            },
-            "name": "TB - 10.10 Trends of population data",
-            "noSpaceBetweenColumns": false,
-            "numberType": "VALUE",
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [],
-            "organisationUnits": [],
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": false,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": true,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": true,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [
-                "pe"
-            ],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "series": [],
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [],
-            "type": "LINE",
-            "userOrganisationUnit": true,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
         {
             "aggregationType": "COUNT",
             "attributeValues": [],
@@ -4610,12 +4616,6 @@
                 {
                     "dataDimensionItemType": "INDICATOR",
                     "indicator": {
-                        "id": "BG42WqMPbO0"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
                         "id": "ljVgj7vLyn4"
                     }
                 },
@@ -4971,12 +4971,6 @@
                     "indicator": {
                         "id": "gm3SU0QX9tO"
                     }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "aPfDXoI0tPS"
-                    }
                 }
             ],
             "dataElementGroupSetDimensions": [],
@@ -5106,6 +5100,157 @@
             "type": "PIVOT_TABLE",
             "userOrganisationUnit": false,
             "userOrganisationUnitChildren": true,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "h7bxqdKWYCa"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "description": "This chart shows the population at the subunit level for comparison of trends. The district-level user can check that the subunits are well configured and that there are no unexplained shifts in trends.",
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "gT0TRsnAZX2",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "TB - 10.10 Trends of population data",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [],
+            "type": "LINE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
             "userOrganisationUnitGrandChildren": false,
             "yearlySeries": []
         },
