@@ -206,37 +206,8 @@
                         "id": "gT0TRsnAZX2"
                     },
                     "width": 30,
-                    "x": 30,
+                    "x": 0,
                     "y": 116
-                },
-                {
-                    "attributeValues": [],
-                    "contentCount": 1,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "height": 29,
-                    "id": "M8IwtPlKxJ4",
-                    "interpretationCount": 0,
-                    "interpretationLikeCount": 0,
-                    "reports": [],
-                    "resources": [],
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "translations": [],
-                    "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
-                    "users": [],
-                    "visualization": {
-                        "id": "ctnOfObhrgJ"
-                    },
-                    "width": 30,
-                    "x": 30,
-                    "y": 87
                 },
                 {
                     "attributeValues": [],
@@ -293,8 +264,8 @@
                         "id": "dYwJ1Wc1zd4"
                     },
                     "width": 30,
-                    "x": 0,
-                    "y": 116
+                    "x": 30,
+                    "y": 87
                 }
             ],
             "id": "ciXKCzQSoXP",
@@ -341,9 +312,6 @@
                     "id": "ARk5nOEhKGM"
                 },
                 {
-                    "id": "pe3UIgLzj8p"
-                },
-                {
                     "id": "wiw9pEf31oa"
                 },
                 {
@@ -356,16 +324,13 @@
                     "id": "ljVgj7vLyn4"
                 },
                 {
-                    "id": "aa61J9MUgbw"
+                    "id": "FETY3REnbWa"
                 },
                 {
                     "id": "ywnYyWQoC9M"
                 },
                 {
-                    "id": "FETY3REnbWa"
-                },
-                {
-                    "id": "ZeX5QIgXjba"
+                    "id": "gzhrcx2O0k7"
                 },
                 {
                     "id": "vphUG8XAePl"
@@ -383,25 +348,28 @@
                     "id": "gUsktWYflG0"
                 },
                 {
-                    "id": "jkvAm2ZSuz0"
+                    "id": "RIMCpjlrVPz"
                 },
                 {
-                    "id": "RIMCpjlrVPz"
+                    "id": "jkvAm2ZSuz0"
                 },
                 {
                     "id": "Z18j3AIea3J"
                 },
                 {
-                    "id": "h7bxqdKWYCa"
+                    "id": "pe3UIgLzj8p"
                 },
                 {
-                    "id": "gzhrcx2O0k7"
+                    "id": "h7bxqdKWYCa"
                 },
                 {
                     "id": "DV5YjkDeN36"
                 },
                 {
                     "id": "T4Geo4rpHWo"
+                },
+                {
+                    "id": "ZeX5QIgXjba"
                 },
                 {
                     "id": "CayXWuRM9x2"
@@ -416,9 +384,6 @@
                     "id": "l1CiB6k56Oz"
                 },
                 {
-                    "id": "WRDnlKY9y1d"
-                },
-                {
                     "id": "TPoow69hqdv"
                 },
                 {
@@ -426,6 +391,9 @@
                 },
                 {
                     "id": "edKJeLfdNB8"
+                },
+                {
+                    "id": "WRDnlKY9y1d"
                 }
             ],
             "name": "TB - Data quality",
@@ -1027,7 +995,7 @@
             "attributeValues": [],
             "code": "RPT_TB_HIV_DOC",
             "denominator": -1,
-            "denominatorDescription": "Actual reports for TB notification",
+            "denominatorDescription": "Case notification (quarterly) - Actual reports",
             "description": "Count of reports with new and relapse TB cases with HIV status documented divided by actual number of reports received multiplied by 100",
             "id": "jkvAm2ZSuz0",
             "indicatorType": {
@@ -1040,7 +1008,7 @@
             ],
             "name": "[CONFIG] TB  - Reports with new and relapse TB cases with HIV status documented complete (%)",
             "numerator": -1,
-            "numeratorDescription": " New and relapse TB cases with HIV status documented ",
+            "numeratorDescription": "TB patients (new episode) with HIV test result recorded",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1069,7 +1037,7 @@
             "attributeValues": [],
             "code": "RPT_OUTCOME",
             "denominator": -1,
-            "denominatorDescription": "Actual reports for treatment outcomes (quarterly)",
+            "denominatorDescription": "Treatment outcomes (quarterly) - Actual reports",
             "description": "Count of reports with new and relapse TB cases with an outcome recorded divided by actual number of reports received multiplied by 100",
             "id": "Z18j3AIea3J",
             "indicatorType": {
@@ -1082,7 +1050,7 @@
             ],
             "name": "[CONFIG] TB  - Reports with new episodes TB cases with an outcome recorded complete (%)",
             "numerator": -1,
-            "numeratorDescription": "New and relapse TB cases with an outcome recorded ",
+            "numeratorDescription": "Outcomes: bacteriologically confirmed Cured",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1111,7 +1079,7 @@
             "attributeValues": [],
             "code": "RPT_NEW_XP_TB",
             "denominator": -1,
-            "denominatorDescription": "Actual report for TB notification",
+            "denominatorDescription": "Case notification (quarterly) - Actual reports",
             "description": "Count of reports with the new extrapulmonary TB cases notified divided by actual number of reports received multiplied by 100",
             "id": "edKJeLfdNB8",
             "indicatorType": {
@@ -1124,7 +1092,7 @@
             ],
             "name": "[CONFIG] TB  - Reports with new extrapulmonary TB cases notified complete (%)",
             "numerator": -1,
-            "numeratorDescription": "New extrapulmonary TB cases notified",
+            "numeratorDescription": "Extrapulmonary TB cases, bacteriologically confirmed or clinically diagnosed",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1237,7 +1205,7 @@
             "attributeValues": [],
             "code": "RPT_RR_OUT",
             "denominator": -1,
-            "denominatorDescription": "Actual reports for RR/MDR-TB case detection and tx",
+            "denominatorDescription": "Case notification - additional (yearly) - Actual reports",
             "description": "Count of reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size multiplied by 100",
             "id": "gzhrcx2O0k7",
             "indicatorType": {
@@ -1248,7 +1216,7 @@
                     "id": "kqfOfmaaMVl"
                 }
             ],
-            "name": "[CONFIG] TB  - Reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size complete (%) ",
+            "name": "[CONFIG] TB  - Reports with outcomes of confirmed cases of RR-/MDR-TB registered cohort size complete (%)",
             "numerator": -1,
             "numeratorDescription": "Outcomes of confirmed cases of RR-/MDR-TB registered cohort size",
             "sharing": {
@@ -1761,7 +1729,7 @@
             "code": "TB_C_PCNT_EP",
             "denominator": -1,
             "denominatorDescription": "Total new cases",
-            "description": "Number of extrapulmonary TB cases (new, bacteriologically confirmed and clinically diagnosed) notified in given period as a percentage of the total notified TB cases.",
+            "description": "Number of extrapulmonary TB cases (new, bacteriologically confirmed and clinically diagnosed) notified in given period as a percentage of the total notified TB cases",
             "id": "WRDnlKY9y1d",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
@@ -1773,7 +1741,7 @@
             ],
             "name": "[CONFIG] TB - Notified TB cases (new, extrapulmonary) (%)",
             "numerator": -1,
-            "numeratorDescription": "New extrapulmonary cases",
+            "numeratorDescription": "Extrapulmonary TB cases, bacteriologically confirmed or clinically diagnosed",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2173,7 +2141,7 @@
             "attributeValues": [],
             "code": "TB_OC_COMPLETENESS",
             "denominator": -1,
-            "denominatorDescription": "Number of health facilities expected to report TB outcomes",
+            "denominatorDescription": "Treatment outcomes (quarterly) - Expected reports",
             "description": "Number of actual reports received divided by total number of health facilities expected to report",
             "id": "T4Geo4rpHWo",
             "indicatorType": {
@@ -2182,7 +2150,7 @@
             "legendSets": [],
             "name": "[CONFIG] TB - Outcome reporting completeness (%)",
             "numerator": -1,
-            "numeratorDescription": "Number of health facilities reporting TB outcomes ",
+            "numeratorDescription": "Treatment outcomes (quarterly) - Actual reports",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2211,7 +2179,7 @@
             "attributeValues": [],
             "code": "TB_OC_TIMELINESS",
             "denominator": -1,
-            "denominatorDescription": "Number of health facilities expected to report TB outcomes",
+            "denominatorDescription": "Treatment outcomes (quarterly) - Expected reports",
             "description": "Number of actual reports received on time divided by total number of health facilities expected to report",
             "id": "TPoow69hqdv",
             "indicatorType": {
@@ -2220,7 +2188,7 @@
             "legendSets": [],
             "name": "[CONFIG] TB - Outcome reporting timeliness (%)",
             "numerator": -1,
-            "numeratorDescription": "Number of health facilities reporting TB outcomes ",
+            "numeratorDescription": "Treatment outcomes (quarterly) - Actual reports on time",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2242,43 +2210,6 @@
                 "users": {}
             },
             "shortName": "TB outcome reporting timeliness (%)",
-            "translations": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_PRESUMPTIVE_TESTPOS",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "aa61J9MUgbw",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB - Presumptive TB cases bacteriologically tested positive",
-            "numerator": -1,
-            "numeratorDescription": "Presumptive TB cases tested positive",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Presumptive TB cases bacteriologically tested +",
             "translations": []
         },
         {
@@ -2401,7 +2332,7 @@
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB - TB cases tested for susceptibility to rifampicin (new)",
+            "name": "[CONFIG] TB - TB cases tested for RIF susceptibility (new)",
             "numerator": -1,
             "numeratorDescription": "R testing for new TB cases",
             "sharing": {
@@ -2740,7 +2671,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB - Year-to-year percentage change in TB notification rate (all cases, all forms) ",
+            "name": "[CONFIG] TB - Year-to-year percentage change in TB notification rate (all cases, all forms)",
             "numerator": -1,
             "numeratorDescription": "(TB notification rate this year  - TB notification rate previous year)",
             "sharing": {
@@ -2832,25 +2763,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
                     "externalAccess": false,
@@ -2883,6 +2795,25 @@
                         "users": {}
                     },
                     "startValue": 60.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -3507,417 +3438,13 @@
         "description": "TB Data Quality (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20240102T090602",
+        "lastUpdated": "20240104T160122",
         "locale": "en",
         "name": "TB_AGG_DQ_DSH_DHIS2.39.4-en",
         "type": "DSH",
         "version": ""
     },
     "userGroups": [
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_ACCESS",
-            "id": "LHhbGJKXmzz",
-            "managedGroups": [],
-            "name": "DRS - Access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB DRS accès"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Přístup"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_ADMIN",
-            "id": "vN3X85Hxzno",
-            "managedGroups": [],
-            "name": "DRS - Admin",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "admin TB DRS"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Admin"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_DATA_CAPTURE",
-            "id": "byS9SDFsd9p",
-            "managedGroups": [],
-            "name": "DRS - Data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB DRS saisie des données"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Sběr dat"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_SRL",
-            "id": "XTNFOnPGrp0",
-            "managedGroups": [],
-            "name": "DRS - SRL",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - SRL"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "ERM - LRE"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_ACCESS",
-            "id": "pyu2ZlNKbzQ",
-            "managedGroups": [],
-            "name": "TB - Access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Accès"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_ADMIN",
-            "id": "Ubzlyfqm1gO",
-            "managedGroups": [],
-            "name": "TB - Admin",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Admin"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_DATA_CAPTURE",
-            "id": "UKWx4jJcrKt",
-            "managedGroups": [],
-            "name": "TB - Data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Saisie des données"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_LAB_ACCESS",
-            "id": "s1Q2JPVhTep",
-            "managedGroups": [],
-            "name": "TB CS - Lab access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_LAB_DATA_CAPTURE",
-            "id": "zBZXkRW0PJy",
-            "managedGroups": [],
-            "name": "TB CS - Lab data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Saisie des données de labo"
-                }
-            ],
-            "users": []
-        },
         {
             "attributeValues": [],
             "code": "TB_AGG_ACCESS",
@@ -4974,7 +4501,7 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "This table displays a list of key indicators and highlights those with validity concerns in each of the last 5 years, for subunits of the user's organisation unit. Indicators highlighted in red may need further interrogation to explore the cause of the inconsistency. ",
+            "description": "This table displays a list of key indicators and highlights those with validity concerns in each of the last 5 years, for subunits of the user's organisation unit. Indicators highlighted in red may need further interrogation to explore the cause of the inconsistency.",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [],
@@ -5147,7 +4674,7 @@
             "legend": {
                 "showKey": false
             },
-            "name": "TB - 10.10 Trends of population data",
+            "name": "TB - 10.09 Trends of population data",
             "noSpaceBetweenColumns": false,
             "numberType": "VALUE",
             "optionalAxes": [],
@@ -5604,196 +5131,6 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
-            "axes": [
-                {
-                    "index": 0,
-                    "title": {
-                        "textMode": "AUTO"
-                    },
-                    "type": "RANGE"
-                },
-                {
-                    "index": 1,
-                    "title": {
-                        "textMode": "AUTO"
-                    },
-                    "type": "RANGE"
-                }
-            ],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "colorSet": "DEFAULT",
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "MxVhppsnDTZ"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "aa61J9MUgbw"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "description": "This chart displays to see if inconsistencies are due to recording and reporting concerns. It compares the number of new pulmonary bacteriologically confirmed and the number of presumptive TB cases bacteriologically tested positive that should have a linear relationship and shows outliers for organisation units outside the threshold for outlier detection. This is plotted for the user's sub-org units for the last 4 quarters.",
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "pe"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": true,
-            "hideTitle": true,
-            "id": "ctnOfObhrgJ",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false
-            },
-            "name": "TB - 10.8 Scatter plot of new pulmonary bacteriologically confirmed vs presumptive TB cases bacteriologically tested positive",
-            "noSpaceBetweenColumns": false,
-            "numberType": "VALUE",
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [],
-            "organisationUnits": [],
-            "outlierAnalysis": {
-                "enabled": true,
-                "extremeLines": {
-                    "enabled": false,
-                    "value": 1.0
-                },
-                "outlierMethod": "IQR",
-                "thresholdFactor": 1.0
-            },
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": false,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [
-                "ou"
-            ],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "series": [
-                {
-                    "axis": 0,
-                    "dimensionItem": "DV5YjkDeN36"
-                },
-                {
-                    "axis": 0,
-                    "dimensionItem": "YWTs6xdTRFF"
-                }
-            ],
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "topLimit": 0,
-            "translations": [],
-            "type": "SCATTER",
-            "userOrganisationUnit": false,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": true,
-            "yearlySeries": []
-        },
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
             "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
@@ -5841,7 +5178,7 @@
             "legend": {
                 "showKey": false
             },
-            "name": "TB - 10.9 Year-to-year percentage change in annual notification rates (%)",
+            "name": "TB - 10.8 Year-to-year percentage change in annual notification rates (%)",
             "noSpaceBetweenColumns": false,
             "numberType": "VALUE",
             "optionalAxes": [],
