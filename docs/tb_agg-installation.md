@@ -10,14 +10,13 @@ The package includes metadata json files containing the following components:
 
 1. TB HMIS - Complete package
 2. TB HMIS - Dashboard package
-3. TB Notifications and Outcomes
-4. TB Notifications and Outcomes (dashboard)
-5. TB Laboratory
-6. TB Laboratory (dashboard)
-7. TB Household Contacts
-8. TB Household Contacts (dashboard)
-9. TB Stock
-10. TB Stock (dashboard)
+3. TB Laboratory
+4. TB Laboratory (dashboard)
+5. TB Household Contacts
+6. TB Household Contacts (dashboard)
+7. TB Stock
+8. TB Stock (dashboard)
+9. TB Data Quality (dashboard)
 
 ## Installation
 
@@ -160,8 +159,8 @@ When implementing the _dashboard package_ only, the indicator numerators and den
 
 > **NOTE**
 >
-> This section only applies if you are importing into a DHIS2 database in which there is already meta-data present. If you are working with a new DHIS2 instance, please skip this section and go to [Adapting the tracker program](#adapting-the-tracker-program).
-> If you are using any third party applications that rely on the current metadata, please take into account that this update could break them”
+> This section only applies if you are importing into a DHIS2 database where metadata is already present. If you are working in a new DHIS2 instance, please skip this section and go to [Adapting the tracker program](#adapting-the-tracker-program).
+> If you are using any third party applications that rely on the current metadata, please take into account that this update could "break" their functionality.
 
 Even when metadata has been successfully imported without any import conflicts, there can be duplicates in the metadata - data elements, tracked entity attributes or option sets that already exist. As was noted in the section above on resolving conflict, an important issue to keep in mind is that decisions on making changes to the metadata in DHIS2 also needs to take into account other documents and resources that are in different ways associated with both the existing metadata, and the metadata that has been imported through the configuration package. Resolving duplicates is thus not only a matter of "cleaning up the database", but also making sure that this is done without, for example, breaking potential integrating with other systems, the possibility to use training material, breaking SOPs etc. This will very much be context-dependent.
 
