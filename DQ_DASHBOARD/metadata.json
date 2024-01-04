@@ -2763,6 +2763,25 @@
                 },
                 {
                     "attributeValues": [],
+                    "color": "#fdae61",
+                    "endValue": 40.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjjM7FWzhBS",
+                    "name": "20 - 40",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 20.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#ffffbf",
                     "endValue": 60.0,
                     "externalAccess": false,
@@ -2795,25 +2814,6 @@
                         "users": {}
                     },
                     "startValue": 60.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#fdae61",
-                    "endValue": 40.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "kjjM7FWzhBS",
-                    "name": "20 - 40",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 20.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -3030,25 +3030,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#fd8d3c",
-                    "endValue": 20.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "JWxM9tlG8uC",
-                    "name": "10 - 20",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#ffffb2",
                     "endValue": 5.0,
                     "externalAccess": false,
@@ -3081,6 +3062,25 @@
                         "users": {}
                     },
                     "startValue": 20.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#fd8d3c",
+                    "endValue": 20.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "JWxM9tlG8uC",
+                    "name": "10 - 20",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 10.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -3155,6 +3155,25 @@
             "legends": [
                 {
                     "attributeValues": [],
+                    "color": "#DEC9F2",
+                    "endValue": 1.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "O7iJon3zqgA",
+                    "name": "1",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#F4A582",
                     "endValue": 1.0,
                     "externalAccess": false,
@@ -3193,44 +3212,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#CA0020",
-                    "endValue": 0.5,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "rrprM8Ddds3",
-                    "name": "< 0.5",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#DEC9F2",
-                    "endValue": 1.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "O7iJon3zqgA",
-                    "name": "1",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#92C5DE",
                     "endValue": 2.0,
                     "externalAccess": false,
@@ -3244,6 +3225,25 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#CA0020",
+                    "endValue": 0.5,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "rrprM8Ddds3",
+                    "name": "< 0.5",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
