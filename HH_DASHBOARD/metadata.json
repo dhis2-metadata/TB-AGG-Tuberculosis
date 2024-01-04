@@ -13,35 +13,6 @@
                     "favorite": false,
                     "favorites": [],
                     "height": 13,
-                    "id": "jVnb5NDJq6R",
-                    "interpretationCount": 0,
-                    "interpretationLikeCount": 0,
-                    "reports": [],
-                    "resources": [],
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "translations": [],
-                    "type": "VISUALIZATION",
-                    "userAccesses": [],
-                    "userGroupAccesses": [],
-                    "users": [],
-                    "visualization": {
-                        "id": "kEUxIBTuFcO"
-                    },
-                    "width": 28,
-                    "x": 28,
-                    "y": 49
-                },
-                {
-                    "attributeValues": [],
-                    "contentCount": 1,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "height": 13,
                     "id": "USufN7ehvNz",
                     "interpretationCount": 0,
                     "interpretationLikeCount": 0,
@@ -205,7 +176,7 @@
                     },
                     "width": 28,
                     "x": 28,
-                    "y": 62
+                    "y": 49
                 },
                 {
                     "attributeValues": [],
@@ -296,7 +267,7 @@
                 }
             ],
             "id": "YIn5CgAleTN",
-            "name": "TB7. HH Contacts",
+            "name": "TB05 - HH Contacts",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -336,6 +307,9 @@
             "id": "hXZwX8HVTM8",
             "indicators": [
                 {
+                    "id": "cu3Jmt4ssWN"
+                },
+                {
                     "id": "NQjV7Lw96D6"
                 },
                 {
@@ -345,55 +319,37 @@
                     "id": "nGCQAmBS1FS"
                 },
                 {
-                    "id": "f8lltD3tQUu"
+                    "id": "DPgSFO4P0G1"
+                },
+                {
+                    "id": "zckiMYozzGG"
                 },
                 {
                     "id": "hGuPYnbkgi5"
                 },
                 {
+                    "id": "f8lltD3tQUu"
+                },
+                {
                     "id": "G8gM2ieiAUL"
+                },
+                {
+                    "id": "bRhf49ZNckC"
                 },
                 {
                     "id": "h8PkcXUYxJV"
                 },
                 {
-                    "id": "fuRVy1cawRG"
+                    "id": "d4w3j5nmQbb"
+                },
+                {
+                    "id": "gVGb56B4e0o"
                 },
                 {
                     "id": "VG2F54Lx35r"
                 },
                 {
                     "id": "gFvh80a5vdF"
-                },
-                {
-                    "id": "zckiMYozzGG"
-                },
-                {
-                    "id": "DPgSFO4P0G1"
-                },
-                {
-                    "id": "cu3Jmt4ssWN"
-                },
-                {
-                    "id": "bRhf49ZNckC"
-                },
-                {
-                    "id": "ZckswElv9Yb"
-                },
-                {
-                    "id": "d4w3j5nmQbb"
-                },
-                {
-                    "id": "ETPT25L7LLY"
-                },
-                {
-                    "id": "gVGb56B4e0o"
-                },
-                {
-                    "id": "oemqpmb3dsz"
-                },
-                {
-                    "id": "Zy3hE0pkLSi"
                 },
                 {
                     "id": "zDCLWcEok43"
@@ -483,14 +439,14 @@
                     "value": "البسط فقط (رقم)"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Фақат рақамловчи (рақам)"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
                 },
                 {
                     "locale": "ar",
@@ -513,14 +469,14 @@
                     "value": "Kun teller (tall)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "البسط فقط (رقم)"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
                 }
             ]
         },
@@ -542,14 +498,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "نسبة"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
                 },
                 {
                     "locale": "es",
@@ -582,14 +538,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Процент"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
                 },
                 {
                     "locale": "ar",
@@ -610,6 +566,134 @@
         }
     ],
     "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_HH_CONTACT_SCREEN_TOT",
+            "denominator": -1,
+            "denominatorDescription": "newinc_con_ident",
+            "description": "Proportion of contacts screened out of those identified",
+            "id": "d4w3j5nmQbb",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-HH - Contact screening coverage (%)",
+            "numerator": -1,
+            "numeratorDescription": "newinc_con_screen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Contact screening coverage",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts dépistés parmi ceux identifiés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_screen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_ident"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Couverture du dépistage des contacts"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Couverture du dépistage des contacts (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_HH_CONTACT_SCREEN_U5",
+            "denominator": -1,
+            "denominatorDescription": "Contacts identified 0-4 years",
+            "description": "Proportion of contacts (children aged under 5) screened out of those (children aged under 5) identified",
+            "id": "NQjV7Lw96D6",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-HH - Contact screening coverage among children aged under 5 (%)",
+            "numerator": -1,
+            "numeratorDescription": "Contacts screened 0-4 years",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Contact screening coverage (0-4)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-Ménage - Couverture du dépistage des contacts chez les enfants de moins de 5 ans (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "newinc_con_04_screen"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "newinc_con_04_ident"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Proportion de contacts (enfants de moins de 5 ans) dépistés parmi ceux (enfants de moins de 5 ans) identifiés"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Couverture du dépistage des contacts (0-4)"
+                }
+            ]
+        },
         {
             "annualized": false,
             "attributeValues": [],
@@ -726,198 +810,6 @@
                     "locale": "nb",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_HH_CONTACT_SCREEN_TOT",
-            "denominator": -1,
-            "denominatorDescription": "newinc_con_ident",
-            "description": "Proportion of contacts screened out of those identified",
-            "id": "d4w3j5nmQbb",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contact screening coverage (%)",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_screen",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Contact screening coverage",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Proportion de contacts dépistés parmi ceux identifiés"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_screen"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "newinc_con_ident"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Couverture du dépistage des contacts"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Couverture du dépistage des contacts (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_HH_CONTACT_SCREEN_U5",
-            "denominator": -1,
-            "denominatorDescription": "newinc_con_04_ident",
-            "description": "Proportion of contacts (children aged under 5) screened out of those (children aged under 5) identified",
-            "id": "NQjV7Lw96D6",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contact screening coverage among children aged under 5 (%)",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_04_screen",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Contact screening coverage (0-4)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Couverture du dépistage des contacts chez les enfants de moins de 5 ans (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_04_screen"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "newinc_con_04_ident"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Proportion de contacts (enfants de moins de 5 ans) dépistés parmi ceux (enfants de moins de 5 ans) identifiés"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Couverture du dépistage des contacts (0-4)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_HH_CONTACT_SCREEN_COVERAGE_PLHIV",
-            "denominator": -1,
-            "denominatorDescription": "newinc_con_plhiv_ident",
-            "description": "Proportion of contacts (PLHIV) screened out of those (PLHIV) identified",
-            "id": "ZckswElv9Yb",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contact screening coverage among PLHIV (%)",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_plhiv_screen",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Contact screening coverage (PLHIV)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Proportion de contacts (PVVIH) dépistés parmi ceux (PVVIH) identifiés"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Couverture du dépistage des contacts (PVVIH)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_screen"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Couverture du dépistage des contacts parmi les PVVIH (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_ident"
                 }
             ]
         },
@@ -1084,7 +976,7 @@
             "legendSets": [],
             "name": "[CONFIG] TB-HH - Contacts eligible for TPT under the age of 5",
             "numerator": -1,
-            "numeratorDescription": "newinc_con_04_elig",
+            "numeratorDescription": "Contacts eligible for TPT 0-4 years",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -1847,244 +1739,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_HH_TB_HIVPOS_CONTACTS_SCREENED",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of contacts with a known HIV + status screened",
-            "id": "fuRVy1cawRG",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - Contacts with known HIV + status screened",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_plhiv_screen",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Contacts PLHIV screened",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Contacts PVVIH dépistés"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de contacts avec un statut VIH+ connu dépistés"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Contacts dont le statut VIH+ est connu dépistés"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_screen"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_HH_TB_CONTACTS_TPT_ELIGIBLE_HIVPOS",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of HIV+ contacts eligible for TPT",
-            "id": "Zy3hE0pkLSi",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - PLHIV Contacts eligible for TPT",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_plhiv_elig",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "Contacts eligible for TPT PLHIV",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_elig"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Contacts éligibles au TPT PVVIH"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Contacts PVVIH éligibles au TPT"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de contacts séropositifs éligibles au TPT"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_HH_IC_IDENTIFIED",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -2206,7 +1860,7 @@
             "attributeValues": [],
             "code": "TB_HH_TPT_COMPLETE_U5",
             "denominator": -1,
-            "denominatorDescription": "newinc_con_04_prevtx_coh",
+            "denominatorDescription": "Contacts started on TPT (cohort) 0-4 years",
             "description": "Proportion of contacts (children under 5) who completed TPT out of those (children under 5) who started TPT",
             "id": "zDCLWcEok43",
             "indicatorType": {
@@ -2215,7 +1869,7 @@
             "legendSets": [],
             "name": "[CONFIG] TB-HH - TB preventive treatment completion among children aged under 5 (%)",
             "numerator": -1,
-            "numeratorDescription": "newinc_con_04_prevtx_cmplt",
+            "numeratorDescription": "TPT outcomes - Completed 0-4 years",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2262,70 +1916,6 @@
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "newinc_con_04_prevtx_coh"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_HH_TPT_COMPLETE_PLHIV",
-            "denominator": -1,
-            "denominatorDescription": "newinc_con_plhiv_prevtx_coh",
-            "description": "Proportion of contacts (PLHIV) who completed TPT out of those (PLHIV) who started TPT",
-            "id": "ETPT25L7LLY",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment completion among PLHIV (%)",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_plhiv_prevtx_cmplt",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TPT completion (PLHIV)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_prevtx_coh"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-Ménage - Achèvement du traitement préventif de la tuberculose chez les PVVIH (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Proportion de contacts (PVVIH) qui ont terminé le TPT parmi ceux (PVVIH) qui ont commencé le TPT"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Achèvement du TPT (PVVIH)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_prevtx_cmplt"
                 }
             ]
         },
@@ -2398,7 +1988,7 @@
             "attributeValues": [],
             "code": "TB_HH_TPT_INITIATION_U5",
             "denominator": -1,
-            "denominatorDescription": "newinc_con_04_elig",
+            "denominatorDescription": "Contacts eligible for TPT 0-4 years",
             "description": "Proportion of contacts (children aged under 5) who started TPT out of those (children aged under 5)who were eligible TPT",
             "id": "f8lltD3tQUu",
             "indicatorType": {
@@ -2407,7 +1997,7 @@
             "legendSets": [],
             "name": "[CONFIG] TB-HH - TB preventive treatment initiation among children aged under 5 (%)",
             "numerator": -1,
-            "numeratorDescription": "newinc_con_04_prevtx",
+            "numeratorDescription": "Contacts started on TPT 0-4 years",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2460,70 +2050,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_HH_TPT_INITIATION_PLHIV",
-            "denominator": -1,
-            "denominatorDescription": "newinc_con_plhiv_elig",
-            "description": "Proportion of contacts (PLHIV) who started TPT out of those (PLHIV)who were eligible TPT",
-            "id": "oemqpmb3dsz",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment initiation among PLHIV (%)",
-            "numerator": -1,
-            "numeratorDescription": "newinc_con_plhiv_prevtx",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB preventive treatment initiation (PLHIV)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-HH - Début du traitement préventif TB chez les PVVIH (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Initiation au traitement préventif de la tuberculose (PVVIH)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Proportion de contacts (PVVIH) ayant commencé le TPT parmi ceux (PVVIH) éligibles au TPT"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_elig"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "newinc_con_plhiv_prevtx"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_HH_TPT_COMPLETE",
             "denominator": -1,
             "denominatorDescription": "newinc_con_prevtx_coh",
@@ -2533,7 +2059,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment outcomes - completed (%)",
+            "name": "[CONFIG] TB-HH - TB preventive treatment outcome - completed (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_cmplt",
             "sharing": {
@@ -2597,7 +2123,7 @@
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-HH - TB preventive treatment outcomes - stopped (%)",
+            "name": "[CONFIG] TB-HH - TB preventive treatment outcome - stopped (%)",
             "numerator": -1,
             "numeratorDescription": "newinc_con_prevtx_stop",
             "sharing": {
@@ -2655,15 +2181,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "99a70d2",
-        "DHIS2Version": "2.39.2.1",
+        "DHIS2Build": "94310fb",
+        "DHIS2Version": "2.39.4",
         "code": "TB_AGG_HH",
         "description": "TB Household Contacts (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230628T175639",
+        "lastUpdated": "20240104T160122",
         "locale": "en",
-        "name": "TB_AGG_HH_DSH_DHIS2.39.2.1-en",
+        "name": "TB_AGG_HH_DSH_DHIS2.39.4-en",
         "type": "DSH",
         "version": ""
     },
@@ -2673,7 +2199,7 @@
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2743,7 +2269,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2813,7 +2339,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -2983,6 +2509,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -3201,12 +2728,6 @@
                 {
                     "dataDimensionItemType": "INDICATOR",
                     "indicator": {
-                        "id": "ZckswElv9Yb"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
                         "id": "NQjV7Lw96D6"
                     }
                 }
@@ -3300,6 +2821,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -3403,12 +2925,6 @@
                 {
                     "dataDimensionItemType": "INDICATOR",
                     "indicator": {
-                        "id": "oemqpmb3dsz"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
                         "id": "f8lltD3tQUu"
                     }
                 }
@@ -3502,6 +3018,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -3590,12 +3107,6 @@
                     "dataDimensionItemType": "INDICATOR",
                     "indicator": {
                         "id": "bRhf49ZNckC"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "ETPT25L7LLY"
                     }
                 },
                 {
@@ -3694,6 +3205,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -3766,6 +3278,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -3829,6 +3342,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -3850,6 +3364,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -3908,6 +3423,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": true,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -4129,6 +3645,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -4308,6 +3825,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -4476,185 +3994,6 @@
                     "locale": "fr",
                     "property": "title",
                     "value": "TBc_7.3b_Éligibilité au TPT vs initiation chez les enfants de moins de 5 ans"
-                }
-            ],
-            "type": "LINE",
-            "userOrganisationUnit": true,
-            "userOrganisationUnitChildren": false,
-            "userOrganisationUnitGrandChildren": false,
-            "yearlySeries": []
-        },
-        {
-            "aggregationType": "DEFAULT",
-            "attributeValues": [],
-            "categoryDimensions": [],
-            "categoryOptionGroupSetDimensions": [],
-            "colSubTotals": false,
-            "colTotals": false,
-            "colorSet": "DEFAULT",
-            "columnDimensions": [
-                "dx"
-            ],
-            "completedOnly": false,
-            "cumulativeValues": false,
-            "dataDimensionItems": [
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "Zy3hE0pkLSi"
-                    }
-                },
-                {
-                    "dataDimensionItemType": "INDICATOR",
-                    "indicator": {
-                        "id": "oemqpmb3dsz"
-                    }
-                }
-            ],
-            "dataElementGroupSetDimensions": [],
-            "digitGroupSeparator": "SPACE",
-            "displayDensity": "NORMAL",
-            "filterDimensions": [
-                "ou"
-            ],
-            "fixColumnHeaders": false,
-            "fixRowHeaders": false,
-            "fontSize": "NORMAL",
-            "fontStyle": {},
-            "hideEmptyColumns": false,
-            "hideEmptyRowItems": "NONE",
-            "hideEmptyRows": false,
-            "hideLegend": false,
-            "hideSubtitle": false,
-            "hideTitle": false,
-            "id": "kEUxIBTuFcO",
-            "itemOrganisationUnitGroups": [],
-            "legend": {
-                "showKey": false,
-                "strategy": "FIXED",
-                "style": "FILL"
-            },
-            "name": "TB-HH-009",
-            "noSpaceBetweenColumns": false,
-            "numberType": "VALUE",
-            "optionalAxes": [],
-            "organisationUnitGroupSetDimensions": [],
-            "organisationUnitLevels": [],
-            "organisationUnits": [],
-            "percentStackedValues": false,
-            "periods": [],
-            "regression": false,
-            "regressionType": "NONE",
-            "relativePeriods": {
-                "biMonthsThisYear": false,
-                "last10FinancialYears": false,
-                "last10Years": false,
-                "last12Months": false,
-                "last12Weeks": false,
-                "last14Days": false,
-                "last180Days": false,
-                "last2SixMonths": false,
-                "last30Days": false,
-                "last3Days": false,
-                "last3Months": false,
-                "last4BiWeeks": false,
-                "last4Quarters": true,
-                "last4Weeks": false,
-                "last52Weeks": false,
-                "last5FinancialYears": false,
-                "last5Years": false,
-                "last60Days": false,
-                "last6BiMonths": false,
-                "last6Months": false,
-                "last7Days": false,
-                "last90Days": false,
-                "lastBiWeek": false,
-                "lastBimonth": false,
-                "lastFinancialYear": false,
-                "lastMonth": false,
-                "lastQuarter": false,
-                "lastSixMonth": false,
-                "lastWeek": false,
-                "lastYear": false,
-                "monthsLastYear": false,
-                "monthsThisYear": false,
-                "quartersLastYear": false,
-                "quartersThisYear": false,
-                "thisBiWeek": false,
-                "thisBimonth": false,
-                "thisDay": false,
-                "thisFinancialYear": false,
-                "thisMonth": false,
-                "thisQuarter": true,
-                "thisSixMonth": false,
-                "thisWeek": false,
-                "thisYear": false,
-                "weeksThisYear": false,
-                "yesterday": false
-            },
-            "reportingParams": {
-                "grandParentOrganisationUnit": false,
-                "organisationUnit": false,
-                "parentOrganisationUnit": false,
-                "reportingPeriod": false
-            },
-            "rowDimensions": [
-                "pe"
-            ],
-            "rowSubTotals": false,
-            "rowTotals": false,
-            "series": [
-                {
-                    "axis": 0,
-                    "dimensionItem": "Zy3hE0pkLSi",
-                    "type": "COLUMN"
-                },
-                {
-                    "axis": 1,
-                    "dimensionItem": "oemqpmb3dsz"
-                }
-            ],
-            "seriesKey": {
-                "hidden": false
-            },
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "showData": true,
-            "showDimensionLabels": false,
-            "showHierarchy": false,
-            "skipRounding": false,
-            "sortOrder": 0,
-            "subscribers": [],
-            "title": "TBc_7.3c_TPT eligibility vs initiation among PLHIV",
-            "topLimit": 0,
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-HH-009"
-                },
-                {
-                    "locale": "fr",
-                    "property": "title",
-                    "value": "TBc_7.3c_Eligibilité au TPT vs initiation chez les PVVIH"
                 }
             ],
             "type": "LINE",
