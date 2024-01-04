@@ -4,55 +4,6 @@
             "attributeValues": [],
             "categoryOptionGroups": [
                 {
-                    "id": "gebMQGQ1rmS"
-                },
-                {
-                    "id": "PCfzIpNVyiA"
-                }
-            ],
-            "dataDimension": true,
-            "dataDimensionType": "DISAGGREGATION",
-            "description": "TB case types",
-            "id": "nc484RwFfsm",
-            "name": "TB case types",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB case types",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Type de cas TB"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "Type de cas TB"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "categoryOptionGroups": [
-                {
                     "id": "iBGkLb9Q85T"
                 },
                 {
@@ -199,6 +150,55 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB - Résultats Xpert (tests)"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "categoryOptionGroups": [
+                {
+                    "id": "gebMQGQ1rmS"
+                },
+                {
+                    "id": "PCfzIpNVyiA"
+                }
+            ],
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "description": "TB case types",
+            "id": "nc484RwFfsm",
+            "name": "TB case types",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB case types",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Type de cas TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Type de cas TB"
                 }
             ]
         }
@@ -1056,6 +1056,146 @@
         },
         {
             "attributeValues": [],
+            "code": "NTM",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "K5uKYsnvtgp",
+            "name": "NTM",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "NTM",
+            "translations": [
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "НМТБ"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "НТМ"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "НМТБ"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "НМТБ"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "НМТБ"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "НТМ"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "NTM"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "NTM"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
             "code": "NEGATIVE",
             "dataDimensionType": "DISAGGREGATION",
             "id": "AHNb0b29woM",
@@ -1511,146 +1651,6 @@
                     "locale": "ar_SD",
                     "property": "NAME",
                     "value": "لا توجد نتيجة"
-                }
-            ]
-        },
-        {
-            "attributeValues": [],
-            "code": "NTM",
-            "dataDimensionType": "DISAGGREGATION",
-            "id": "K5uKYsnvtgp",
-            "name": "NTM",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "NTM",
-            "translations": [
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "НМТБ"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "НТМ"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "НМТБ"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "НМТБ"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "НМТБ"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "НТМ"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "NTM"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "NTM"
                 }
             ]
         },
@@ -2738,7 +2738,7 @@
                 }
             ],
             "id": "kFYwtaCBj5m",
-            "name": "TB9. Laboratory",
+            "name": "TB07 - Laboratory",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -2758,7 +2758,7 @@
                         "id": "bHLDx9I0XkE"
                     },
                     "hT0GsbPl8fg": {
-                        "access": "",
+                        "access": "rw------",
                         "displayName": "TB stock data capture",
                         "id": "hT0GsbPl8fg"
                     }
@@ -2816,10 +2816,10 @@
                     "id": "Pi9lRK14zkH"
                 },
                 {
-                    "id": "SlhRDBx1dqN"
+                    "id": "ycdMYu5PdTu"
                 },
                 {
-                    "id": "ycdMYu5PdTu"
+                    "id": "SlhRDBx1dqN"
                 },
                 {
                     "id": "uvXdjbkkrLi"
@@ -2852,10 +2852,10 @@
                     "id": "VBIIYfFBoif"
                 },
                 {
-                    "id": "IqbGPfL6hYH"
+                    "id": "ZFfoHkuZ1ff"
                 },
                 {
-                    "id": "ZFfoHkuZ1ff"
+                    "id": "IqbGPfL6hYH"
                 },
                 {
                     "id": "kOVRgKTcOOC"
@@ -2879,7 +2879,7 @@
                     "id": "tbiGmFaa2Uj"
                 },
                 {
-                    "id": "Vza0JfpIAqJ"
+                    "id": "Uz5V23TA2IW"
                 },
                 {
                     "id": "fSobhe0AWrL"
@@ -2888,7 +2888,7 @@
                     "id": "ZnTE64yZ6L0"
                 },
                 {
-                    "id": "Uz5V23TA2IW"
+                    "id": "Vza0JfpIAqJ"
                 },
                 {
                     "id": "p8tl4ORL6xr"
@@ -2900,10 +2900,10 @@
                     "id": "ZQyhoJom4vp"
                 },
                 {
-                    "id": "HiDrWnGqm2h"
+                    "id": "dRWfZoXkon2"
                 },
                 {
-                    "id": "dRWfZoXkon2"
+                    "id": "HiDrWnGqm2h"
                 },
                 {
                     "id": "sBVET6r3GzD"
@@ -2948,6 +2948,9 @@
                     "id": "mPWHy3MUILa"
                 },
                 {
+                    "id": "As2eOxgQM9H"
+                },
+                {
                     "id": "xLsnhUGoaaU"
                 },
                 {
@@ -2966,10 +2969,10 @@
                     "id": "QAVMUCfbJTq"
                 },
                 {
-                    "id": "erzKhX4t2fp"
+                    "id": "gMcDavA0flT"
                 },
                 {
-                    "id": "gMcDavA0flT"
+                    "id": "erzKhX4t2fp"
                 },
                 {
                     "id": "NdL0xmm4rmY"
@@ -3000,9 +3003,6 @@
                 },
                 {
                     "id": "Y5yS9oMUDkJ"
-                },
-                {
-                    "id": "As2eOxgQM9H"
                 },
                 {
                     "id": "fMa60zetD0L"
@@ -3077,14 +3077,14 @@
                     "value": "البسط فقط (رقم)"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Фақат рақамловчи (рақам)"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
                 },
                 {
                     "locale": "ar",
@@ -3107,14 +3107,14 @@
                     "value": "Kun teller (tall)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "البسط فقط (رقم)"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
                 }
             ]
         },
@@ -3136,14 +3136,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "نسبة"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
                 },
                 {
                     "locale": "es",
@@ -3176,14 +3176,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Процент"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
                 },
                 {
                     "locale": "ar",
@@ -3220,17 +3220,12 @@
                     "value": "Četnost (faktor=1)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "معدل (العامل = 1)"
-                },
-                {
                     "locale": "uz",
                     "property": "NAME",
                     "value": "Ставка (омил = 1)"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "ar_SD",
                     "property": "NAME",
                     "value": "معدل (العامل = 1)"
                 },
@@ -3238,6 +3233,11 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Taxa (fator = 1)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "معدل (العامل = 1)"
                 },
                 {
                     "locale": "uz_UZ",
@@ -3442,6 +3442,470 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB-LAB - Culture solide DdE pour l'inoculation des échantillons (jours totaux)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_MTB_POSITIVITY_RATE_CULTURE",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
+            "id": "QAVMUCfbJTq",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic MTB-positivity rate for culture (any method) (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - MTB",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - MTB-Taux de positivité pour la culture (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité du diagnostic MTB pour la culture (toute méthode) (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - MTB"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_NTM_POSITIVITY_RATE_CULTURE",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
+            "id": "ycdMYu5PdTu",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic NTM-positivity rate for culture (any method) (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - NTM",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - NTM-Positivity rate for culture (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - NTM"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - NTM-Taux de positivité pour la culture (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Taux de positivité diagnostique des NTB pour la culture (toute méthode) (%)"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_TESTS_XPERT_MTB_RIF_ULTRA",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "EKudfsZCmHL",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests - invalid, no result, error",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra tests",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF - invalide, pas de résultat, erreur"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_XPERT_MTB_RIF_ULTRA_NO_RES_ERROR_INVALID",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
+            "id": "oaIOosID6vr",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests with no result, invalid result or error (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - non/inv. résultat %"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_TESTS_XPERT_MTB_RIF",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "EvU2RELvcWw",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF tests",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_XPERT_MTB_RIF_NO_RES_ERROR_INVALID",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
+            "id": "mPWHy3MUILa",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests with no result, invalid result or error (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Xpert MTB/RIF - non/inv. résultat %"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF sans résultat, résultat invalide ou erreur (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
                 }
             ]
         },
@@ -4030,18 +4494,18 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_MTB_POSITIVITY_RATE_CULTURE",
+            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF",
             "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
-            "id": "QAVMUCfbJTq",
+            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result",
+            "id": "sBVET6r3GzD",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic MTB-positivity rate for culture (any method) (%)",
+            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - MTB",
+            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result MTB detected",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4062,45 +4526,45 @@
                 },
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - MTB-Positivity rate for culture (%)",
+            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - MTB-Taux de positivité pour la culture (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
+                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité du diagnostic MTB pour la culture (toute méthode) (%)"
+                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF (%)"
                 },
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - MTB"
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide MTB détecté"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_NTM_POSITIVITY_RATE_CULTURE",
+            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF_ULTRA",
             "decimals": 2,
             "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid culture result",
-            "id": "ycdMYu5PdTu",
+            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result",
+            "id": "VxiNM6bNpUX",
             "indicatorType": {
                 "id": "hmSnCXmLYwt"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic NTM-positivity rate for culture (any method) (%)",
+            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF Ultra (%)",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid culture result - NTM",
+            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - MTB detected",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -4121,27 +4585,27 @@
                 },
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - NTM-Positivity rate for culture (%)",
+            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF Ultra",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat de culture valide - NTM"
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - MTB détecté"
                 },
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de TB avec résultat de culture valide"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - NTM-Taux de positivité pour la culture (%)"
+                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat"
                 },
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité diagnostique des NTB pour la culture (toute méthode) (%)"
+                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF Ultra (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF Ultra"
                 }
             ]
         },
@@ -4266,470 +4730,6 @@
                     "locale": "fr",
                     "property": "NAME",
                     "value": "TB-LAB - Taux de positivité diagnostique pour la microscopie (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result",
-            "id": "sBVET6r3GzD",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive TB cases with valid Xpert MTB/RIF result MTB detected",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide MTB détecté"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés de tuberculose avec résultat Xpert MTB/RIF valide"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_POSITIVITY_RATE_XPERT_MTB_RIF_ULTRA",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result",
-            "id": "VxiNM6bNpUX",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic positivity rate for Xpert MTB/RIF Ultra (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - MTB detected",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Positivity rate by Xpert MTB/RIF Ultra",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - MTB détecté"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Taux de positivité diagnostique pour Xpert MTB/RIF Ultra (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Taux de positivité par Xpert MTB/RIF Ultra"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_TESTS_XPERT_MTB_RIF",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "EvU2RELvcWw",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF tests",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_XPERT_MTB_RIF_NO_RES_ERROR_INVALID",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
-            "id": "mPWHy3MUILa",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF tests with no result, invalid result or error (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF - no/inv. result %",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Xpert MTB/RIF - non/inv. résultat %"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF sans résultat, résultat invalide ou erreur (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_TESTS_XPERT_MTB_RIF_ULTRA",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "EKudfsZCmHL",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests - invalid, no result, error",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra tests",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF - invalide, pas de résultat, erreur"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Tests Xpert MTB/RIF Ultra"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_XPERT_MTB_RIF_ULTRA_NO_RES_ERROR_INVALID",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF tests by result",
-            "id": "oaIOosID6vr",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests with no result, invalid result or error (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Diagnostic Xpert MTB/RIF Ultra tests by result - invalid, no result, error",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Xpert MTB/RIF Ultra - no/inv. result %",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF par résultat"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra sans résultat, résultat invalide ou erreur (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests Diagnostic Xpert MTB/RIF Ultra par résultat - invalide, pas de résultat, erreur"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Xpert MTB/RIF Ultra - non/inv. résultat %"
                 }
             ]
         },
@@ -4954,11 +4954,6 @@
                 },
                 {
                     "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB – Cas positifs à la microscopie avec un classement \"Faible\" (%)"
-                },
-                {
-                    "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB-DX - Cas positifs à la microscopie - Faible (%)"
                 },
@@ -4966,24 +4961,29 @@
                     "locale": "fr",
                     "property": "NUMERATOR_DESCRIPTION",
                     "value": "TB-LAB - Cas présumés de tuberculose avec résultat de microscopie valide - \"Faible\""
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB – Cas positifs à la microscopie avec un classement \"Faible\" (%)"
                 }
             ]
         },
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_ANY_DX_TEST",
+            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF",
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "id": "As2eOxgQM9H",
+            "id": "HTfgP6esTNd",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by any lab diagnostic",
+            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Presumptive cases tested by any lab diagnostic",
+            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF - Presumptive cases",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -5004,17 +5004,12 @@
                 },
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Cases tested by any lab diagnostic",
+            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas présumés de TB testés par n'importe quel diagnostic de laboratoire"
                 },
                 {
                     "locale": "es_US",
@@ -5032,14 +5027,14 @@
                     "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas présumés testés par n'importe quel diagnostic de laboratoire"
-                },
-                {
                     "locale": "cs",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Boîtiers testés par Xpert MTB/RIF"
                 },
                 {
                     "locale": "ar_IQ",
@@ -5047,9 +5042,118 @@
                     "value": "1"
                 },
                 {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
                     "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas testés par n'importe quel diagnostic de laboratoire"
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF - Cas présumés"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF_ULTRA",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "fSobhe0AWrL",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF Ultra",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF Ultra - Presumptive cases",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF Ultra"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 },
                 {
                     "locale": "ar",
@@ -5062,9 +5166,19 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF Ultra - Cas présomptifs"
+                },
+                {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB-DX - Cas testés par Xpert MTB/RIF Ultra"
                 },
                 {
                     "locale": "ar_EG",
@@ -5542,18 +5656,19 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF",
+            "code": "TB_LAB_DX_CASES_WRD_DX_TEST",
             "decimals": 0,
             "denominator": -1,
             "denominatorDescription": "1",
-            "id": "HTfgP6esTNd",
+            "description": "Tested using a WHO-recommended rapid diagnostic (WRD) as the initial diagnostic test (regardless of result)",
+            "id": "As2eOxgQM9H",
             "indicatorType": {
                 "id": "kHy61PbChXr"
             },
             "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF",
+            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested using a WHO-recommended rapid diagnostic",
             "numerator": -1,
-            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF - Presumptive cases",
+            "numeratorDescription": "TB-LAB - Presumptive cases tested by any lab diagnostic",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -5574,12 +5689,17 @@
                 },
                 "users": {}
             },
-            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF",
+            "shortName": "TB-LAB-DX - Cases tested using WRD",
             "translations": [
                 {
                     "locale": "fr",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Cas présumés de TB testés par n'importe quel diagnostic de laboratoire"
                 },
                 {
                     "locale": "es_US",
@@ -5597,133 +5717,24 @@
                     "value": "1"
                 },
                 {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Cas présumés testés par n'importe quel diagnostic de laboratoire"
+                },
+                {
                     "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
                 },
                 {
                     "locale": "fr",
                     "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Boîtiers testés par Xpert MTB/RIF"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF - Cas présumés"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_DX_CASES_TESTED_XPERT_MTB_RIF_ULTRA",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "id": "fSobhe0AWrL",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Presumptive TB cases tested by Xpert MTB/RIF Ultra",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Cases tested by Xpert MTB/RIF Ultra - Presumptive cases",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB-DX - Cases tested by Xpert MTB/RIF Ultra",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Cas présumés de TB testés par Xpert MTB/RIF Ultra"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
+                    "value": "TB-LAB-DX - Cas testés par n'importe quel diagnostic de laboratoire"
                 },
                 {
                     "locale": "ar",
@@ -5736,19 +5747,9 @@
                     "value": "1"
                 },
                 {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Cas testés par Xpert MTB/RIF Ultra - Cas présomptifs"
-                },
-                {
                     "locale": "pt",
                     "property": "DENOMINATOR_DESCRIPTION",
                     "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB-DX - Cas testés par Xpert MTB/RIF Ultra"
                 },
                 {
                     "locale": "ar_EG",
@@ -6756,6 +6757,65 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_LCM_TAT_1D",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
+            "id": "h3ijwlnjjVf",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 1 day (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 1 day",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCL 1 jours (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture liquide par DdE - 1 jour"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests de culture liquide par DdE"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_LAB_SAMPLES_LCM_TAT_10D",
             "decimals": 2,
             "denominator": -1,
@@ -6863,65 +6923,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB - Échantillons - DdE MCL 11+ jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests de culture liquide par DdE"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_LCM_TAT_1D",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Liquid culture tests by TAT",
-            "id": "h3ijwlnjjVf",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with liquid culture inoculation TAT 1 day (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Liquid culture tests by TAT - 1 day",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - LCM TAT 1 days (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture liquide DdE 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCL 1 jours (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture liquide par DdE - 1 jour"
                 },
                 {
                     "locale": "fr",
@@ -7876,6 +7877,65 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_LAB_SAMPLES_SCM_TAT_1D",
+            "decimals": 2,
+            "denominator": -1,
+            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
+            "id": "NdL0xmm4rmY",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 1 day (%)",
+            "numerator": -1,
+            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 1 day",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "TB-LAB - Échantillons - DdE MCS 1 jour (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "TB-LAB - Tests en culture solide par DdE - 1 jour"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "TB_LAB_SAMPLES_SCM_TAT_10D",
             "decimals": 2,
             "denominator": -1,
@@ -7988,65 +8048,6 @@
                     "locale": "fr",
                     "property": "SHORT_NAME",
                     "value": "TB-LAB - Échantillons - DdE MCS 11+ jours (%)"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_LAB_SAMPLES_SCM_TAT_1D",
-            "decimals": 2,
-            "denominator": -1,
-            "denominatorDescription": "TB-LAB - Solid culture tests by TAT",
-            "id": "NdL0xmm4rmY",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB-LAB - Samples with solid culture inoculation TAT 1 day (%)",
-            "numerator": -1,
-            "numeratorDescription": "TB-LAB - Solid culture tests by TAT - 1 day",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "TB-LAB - Samples - SCM TAT 1 day (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB-LAB - Échantillons avec inoculation de culture solide DdE 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "TB-LAB - Échantillons - DdE MCS 1 jour (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "TB-LAB - Tests en culture solide par DdE - 1 jour"
                 }
             ]
         },
@@ -8528,15 +8529,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "99a70d2",
-        "DHIS2Version": "2.39.2.1",
+        "DHIS2Build": "94310fb",
+        "DHIS2Version": "2.39.4",
         "code": "TB_AGG_LAB",
         "description": "TB Lab (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230628T175639",
+        "lastUpdated": "20240104T160122",
         "locale": "en",
-        "name": "TB_AGG_LAB_DSH_DHIS2.39.2.1-en",
+        "name": "TB_AGG_LAB_DSH_DHIS2.39.4-en",
         "type": "DSH",
         "version": ""
     },
@@ -8546,7 +8547,7 @@
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8616,7 +8617,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -8686,7 +8687,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
