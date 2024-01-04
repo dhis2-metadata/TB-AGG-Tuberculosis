@@ -1,5 +1,872 @@
 {
-    "attributes": [],
+    "attributes": [
+        {
+            "categoryAttribute": false,
+            "categoryOptionAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "code": "GEN_LIB_TRK_ICD10",
+            "constantAttribute": false,
+            "dataElementAttribute": true,
+            "dataElementGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "dataSetAttribute": false,
+            "description": "ICD-10 code",
+            "documentAttribute": false,
+            "eventChartAttribute": false,
+            "eventReportAttribute": false,
+            "id": "iehcXLBKVWM",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "legendSetAttribute": false,
+            "mandatory": false,
+            "mapAttribute": false,
+            "name": "Code (ICD-10)",
+            "objectTypes": [
+                "TRACKED_ENTITY_ATTRIBUTE",
+                "DATA_ELEMENT"
+            ],
+            "optionAttribute": false,
+            "optionSetAttribute": false,
+            "organisationUnitAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "programAttribute": false,
+            "programIndicatorAttribute": false,
+            "programStageAttribute": false,
+            "relationshipTypeAttribute": false,
+            "sectionAttribute": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "ICD10 code",
+            "sortOrder": 1,
+            "sqlViewAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "trackedEntityTypeAttribute": false,
+            "translations": [
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "رمز ICD-10 "
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "رمز ICD-10 "
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Código (ICD-10)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "رمز (ICD-10)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "МКБ-10"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "ICD-10 kód"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "رمز ICD-10 "
+                },
+                {
+                    "locale": "ru",
+                    "property": "DESCRIPTION",
+                    "value": "Код МКБ-10"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Code (CIM-10)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Code CIM-10"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Код (МКБ-10)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "CIE-10"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Código (ICD-10)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "رمز (ICD-10)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "رمز ICD-10 "
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "CIM-10"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Código ICD-10"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "رمز (ICD-10)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kód (ICD-10)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Código ICD-10"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "ICD-10"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "رمز (ICD-10)"
+                }
+            ],
+            "unique": false,
+            "userAttribute": false,
+            "userGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "valueType": "TEXT",
+            "visualizationAttribute": false
+        },
+        {
+            "categoryAttribute": false,
+            "categoryOptionAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "code": "GEN_LIB_TRK_LOINC",
+            "constantAttribute": false,
+            "dataElementAttribute": true,
+            "dataElementGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "dataSetAttribute": false,
+            "description": "Loinc version 2.68",
+            "documentAttribute": false,
+            "eventChartAttribute": false,
+            "eventReportAttribute": false,
+            "id": "mpXON5igCG1",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "legendSetAttribute": false,
+            "mandatory": false,
+            "mapAttribute": false,
+            "name": "Code (Loinc v2.68)",
+            "objectTypes": [
+                "TRACKED_ENTITY_ATTRIBUTE",
+                "DATA_ELEMENT"
+            ],
+            "optionAttribute": false,
+            "optionSetAttribute": false,
+            "organisationUnitAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "programAttribute": false,
+            "programIndicatorAttribute": false,
+            "programStageAttribute": false,
+            "relationshipTypeAttribute": false,
+            "sectionAttribute": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Loinc_v268",
+            "sortOrder": 3,
+            "sqlViewAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "trackedEntityTypeAttribute": false,
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "رمز (Loinc)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Loinc kód"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "رمز (Loinc)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Код (Loinc)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "رمز Loinc"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kód (Loinc)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "code (LOINC)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "رمز (Loinc)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Código (Loinc)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "LOINC"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Código Loinc"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "رمز (Loinc)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "code LOINC"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Código Loinc"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Código (Loinc)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "رمز Loinc"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "رمز Loinc"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DESCRIPTION",
+                    "value": "Код Loinc"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "Loinc"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "رمز Loinc"
+                }
+            ],
+            "unique": false,
+            "userAttribute": false,
+            "userGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "valueType": "TEXT",
+            "visualizationAttribute": false
+        },
+        {
+            "categoryAttribute": false,
+            "categoryOptionAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "code": "GEN_LIB_TRK_SNOMED",
+            "constantAttribute": false,
+            "dataElementAttribute": true,
+            "dataElementGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "dataSetAttribute": false,
+            "description": "SNOMED CT Intl code",
+            "documentAttribute": false,
+            "eventChartAttribute": false,
+            "eventReportAttribute": false,
+            "id": "I6u65yRc0ct",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "legendSetAttribute": false,
+            "mandatory": false,
+            "mapAttribute": false,
+            "name": "Code (SNOMED CT Intl)",
+            "objectTypes": [
+                "TRACKED_ENTITY_ATTRIBUTE",
+                "DATA_ELEMENT"
+            ],
+            "optionAttribute": false,
+            "optionSetAttribute": false,
+            "organisationUnitAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "programAttribute": false,
+            "programIndicatorAttribute": false,
+            "programStageAttribute": false,
+            "relationshipTypeAttribute": false,
+            "sectionAttribute": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "SNOMED",
+            "sortOrder": 6,
+            "sqlViewAttribute": false,
+            "trackedEntityAttributeAttribute": true,
+            "trackedEntityTypeAttribute": false,
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "code SNOMED"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "رمز SNOMED"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "رمز (SNOMED)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "رمز (SNOMED)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Código SNOMED"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "SNOMED kód"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Código (SNOMED)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "رمز (SNOMED)"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Código SNOMED"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Código (SNOMED)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Код (SNOMED)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Code (SNOMED)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "رمز SNOMED"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "رمز SNOMED"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Kód (SNOMED)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "رمز (SNOMED)"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "SNOMED"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "رمز SNOMED"
+                }
+            ],
+            "unique": false,
+            "userAttribute": false,
+            "userGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "valueType": "TEXT",
+            "visualizationAttribute": false
+        },
+        {
+            "categoryAttribute": false,
+            "categoryOptionAttribute": false,
+            "categoryOptionComboAttribute": false,
+            "categoryOptionGroupAttribute": false,
+            "categoryOptionGroupSetAttribute": false,
+            "code": "DATA_ELEMENT_AGG",
+            "constantAttribute": false,
+            "dataElementAttribute": false,
+            "dataElementGroupAttribute": false,
+            "dataElementGroupSetAttribute": false,
+            "dataSetAttribute": false,
+            "description": "Data element for aggregate data export",
+            "documentAttribute": false,
+            "eventChartAttribute": false,
+            "eventReportAttribute": false,
+            "id": "vudyDP7jUy5",
+            "indicatorAttribute": false,
+            "indicatorGroupAttribute": false,
+            "legendSetAttribute": false,
+            "mandatory": false,
+            "mapAttribute": false,
+            "name": "Data element for aggregate data export",
+            "objectTypes": [
+                "PROGRAM_INDICATOR"
+            ],
+            "optionAttribute": false,
+            "optionSetAttribute": false,
+            "organisationUnitAttribute": false,
+            "organisationUnitGroupAttribute": false,
+            "organisationUnitGroupSetAttribute": false,
+            "programAttribute": false,
+            "programIndicatorAttribute": true,
+            "programStageAttribute": false,
+            "relationshipTypeAttribute": false,
+            "sectionAttribute": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Data element for aggregate data export",
+            "sqlViewAttribute": false,
+            "trackedEntityAttributeAttribute": false,
+            "trackedEntityTypeAttribute": false,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Datový prvek pro agregovaný export dat"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Élément de données pour l’exportation de données agrégées"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "data elemen untuk ekspor data agregat"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Elemento de datos para exportar datos agregados"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Elemento de datos para la exportación de datos agregados"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "data elemen untuk ekspor data agregat"
+                },
+                {
+                    "locale": "id",
+                    "property": "DESCRIPTION",
+                    "value": "data elemen untuk ekspor data agregat"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Élément de données pour l’exportation de données agrégées"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Élément de données pour l’exportation de données agrégées"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Datový prvek pro agregovaný export dat"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Elemento de datos para exportar datos agregados"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Elemento de datos para exportar datos agregados"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Elemento de datos para la exportación de datos agregados"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Элемент данных для экспорта агрегированных данных"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Datový prvek pro agregovaný export dat"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Умумий маълумотларни экспорт қилиш учун маълумотлар элементи"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DESCRIPTION",
+                    "value": "Элемент данных для экспорта агрегированных данных"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Elemento de datos para la exportación de datos agregados"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Элемент данных для экспорта агрегированных данных"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "عنصر البيانات لتصدير البيانات المجمعة"
+                }
+            ],
+            "unique": false,
+            "userAttribute": false,
+            "userGroupAttribute": false,
+            "validationRuleAttribute": false,
+            "validationRuleGroupAttribute": false,
+            "valueType": "TEXT",
+            "visualizationAttribute": false
+        }
+    ],
     "categories": [
         {
             "attributeValues": [],
@@ -15,164 +882,12 @@
             "name": "default",
             "sharing": {
                 "external": false,
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
+            "translations": []
         }
     ],
     "categoryCombos": [
@@ -188,89 +903,12 @@
             "name": "default",
             "sharing": {
                 "external": false,
-                "owner": "vUeLeQMSwhN",
                 "public": "r-------",
                 "userGroups": {},
                 "users": {}
             },
             "skipTotal": false,
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
+            "translations": []
         }
     ],
     "categoryOptionCombos": [
@@ -284,87 +922,11 @@
                     "id": "xYerKDKCefk"
                 }
             ],
-            "code": "DEFAULT",
+            "code": "default",
             "id": "HllvX50cXC0",
             "ignoreApproval": false,
             "name": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
+            "translations": []
         }
     ],
     "categoryOptionGroupSets": [],
@@ -372,170 +934,18 @@
     "categoryOptions": [
         {
             "attributeValues": [],
-            "code": "DEFAULT",
+            "code": "default",
             "id": "xYerKDKCefk",
             "name": "default",
             "organisationUnits": [],
             "sharing": {
                 "external": false,
-                "owner": "vUeLeQMSwhN",
                 "public": "r-rw----",
                 "userGroups": {},
                 "users": {}
             },
             "shortName": "default",
-            "translations": [
-                {
-                    "locale": "uz",
-                    "property": "NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "id",
-                    "property": "NAME",
-                    "value": "Putus berobat/default"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrao"
-                },
-                {
-                    "locale": "nb",
-                    "property": "NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                }
-            ]
+            "translations": []
         }
     ],
     "constants": [],
@@ -1062,7 +1472,7 @@
                 }
             ],
             "id": "Ea95jPFEnHD",
-            "name": "TB8. Stock",
+            "name": "TB06 - Stock",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -1071,13 +1481,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -1125,10 +1537,10 @@
                     "id": "tZuKlwig9lD"
                 },
                 {
-                    "id": "kfocuNP1nCG"
+                    "id": "J3AIrRG01TD"
                 },
                 {
-                    "id": "J3AIrRG01TD"
+                    "id": "kfocuNP1nCG"
                 },
                 {
                     "id": "Z5hsBAh8pCC"
@@ -1155,10 +1567,10 @@
                     "id": "V7rRkP7jYzO"
                 },
                 {
-                    "id": "WOStFrYxPd9"
+                    "id": "wMv5SrxZ7f6"
                 },
                 {
-                    "id": "wMv5SrxZ7f6"
+                    "id": "WOStFrYxPd9"
                 },
                 {
                     "id": "JbsaRc2nZsf"
@@ -1173,10 +1585,10 @@
                     "id": "oMvma7tGHrq"
                 },
                 {
-                    "id": "y2yiFi6D7yY"
+                    "id": "LqSBB96bJv0"
                 },
                 {
-                    "id": "LqSBB96bJv0"
+                    "id": "y2yiFi6D7yY"
                 },
                 {
                     "id": "FH75MzJQA5u"
@@ -1194,7 +1606,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "TB - Stock",
@@ -1251,7 +1676,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs discarded",
@@ -1328,7 +1766,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs issued",
@@ -1385,7 +1836,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs opening balance",
@@ -1472,7 +1936,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs received",
@@ -1549,7 +2026,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs redistributed",
@@ -1626,7 +2116,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock on hand",
@@ -1703,7 +2206,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock out days",
@@ -1780,7 +2296,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs discarded",
@@ -1857,7 +2386,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs issued",
@@ -1914,7 +2456,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs opening balance",
@@ -2001,7 +2556,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs received",
@@ -2078,7 +2646,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs redistributed",
@@ -2155,7 +2736,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock on hand",
@@ -2232,7 +2826,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock out days",
@@ -2309,7 +2916,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with DR-TB drugs stockout days reported",
@@ -2356,7 +2976,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with DS-TB drugs stockout days reported",
@@ -2403,7 +3036,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with GeneXpert cartridges stockout days",
@@ -2450,7 +3096,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF without DR-TB drugs stockout days reported",
@@ -2497,7 +3156,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF without DS-TB drugs stockout days reported",
@@ -2544,7 +3216,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF without GeneXpert cartridges stockout days",
@@ -2591,7 +3276,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges discarded",
@@ -2638,7 +3336,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert cartridges issued",
@@ -2685,7 +3396,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges opening balance",
@@ -2742,7 +3466,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges received",
@@ -2789,7 +3526,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges redistributed",
@@ -2836,7 +3586,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock on hand",
@@ -2883,7 +3646,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock out days",
@@ -2948,31 +3724,7 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "cRNeiMflE2s"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uXt7OH5811r"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "k2MTMQpheOh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
+                        "id": "mMbufF9c251"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -2988,55 +3740,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ShJ42zyXevh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tZuKlwig9lD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wMv5SrxZ7f6"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "V7rRkP7jYzO"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "iJYk0mA3H4I"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mMbufF9c251"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "y2yiFi6D7yY"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3052,7 +3756,55 @@
                 },
                 {
                     "dataElement": {
-                        "id": "fTKSvybB6Zh"
+                        "id": "Z5hsBAh8pCC"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wMv5SrxZ7f6"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "y2yiFi6D7yY"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfocuNP1nCG"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tZuKlwig9lD"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ShJ42zyXevh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CxMUeg8LYid"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3076,7 +3828,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "kfocuNP1nCG"
+                        "id": "k2MTMQpheOh"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3084,7 +3836,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wqihyXhQuK9"
+                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3092,7 +3844,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "CxMUeg8LYid"
+                        "id": "fTKSvybB6Zh"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3100,7 +3852,23 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Z5hsBAh8pCC"
+                        "id": "uXt7OH5811r"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cRNeiMflE2s"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3109,6 +3877,14 @@
                 {
                     "dataElement": {
                         "id": "J3AIrRG01TD"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "wqihyXhQuK9"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3136,13 +3912,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-r-----",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-rw----",
+                        "id": "bHLDx9I0XkE"
                     },
                     "hT0GsbPl8fg": {
                         "access": "r-rw----",
@@ -3168,7 +3946,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 42
+            "version": 59
         }
     ],
     "documents": [],
@@ -3199,10 +3977,10 @@
                     "id": "DKdvXuIfxwl"
                 },
                 {
-                    "id": "UiSEm1IJmhb"
+                    "id": "fdt3FPCzgDc"
                 },
                 {
-                    "id": "fdt3FPCzgDc"
+                    "id": "UiSEm1IJmhb"
                 },
                 {
                     "id": "sk4N1FMqDwQ"
@@ -3235,10 +4013,10 @@
                     "id": "pRHeUC3sjcO"
                 },
                 {
-                    "id": "VDfuDVALf0f"
+                    "id": "bCrpRBKKPhA"
                 },
                 {
-                    "id": "bCrpRBKKPhA"
+                    "id": "VDfuDVALf0f"
                 },
                 {
                     "id": "GbqUYVq0NLo"
@@ -3247,19 +4025,19 @@
                     "id": "ZZiJYBFEJ3v"
                 },
                 {
-                    "id": "cbAQwCbhhoe"
+                    "id": "bD1Z2FmbHKK"
                 },
                 {
-                    "id": "bD1Z2FmbHKK"
+                    "id": "cbAQwCbhhoe"
                 },
                 {
                     "id": "FnadQQyc1dP"
                 },
                 {
-                    "id": "jDitMFtRib4"
+                    "id": "BmxOvSZmatv"
                 },
                 {
-                    "id": "BmxOvSZmatv"
+                    "id": "jDitMFtRib4"
                 },
                 {
                     "id": "Vb6NHYRWTyi"
@@ -3283,10 +4061,10 @@
                     "id": "eSTkclrbTy5"
                 },
                 {
-                    "id": "KQf9KBm7VW5"
+                    "id": "EHDTSPxpLco"
                 },
                 {
-                    "id": "EHDTSPxpLco"
+                    "id": "KQf9KBm7VW5"
                 },
                 {
                     "id": "JaXPqKA823j"
@@ -3321,7 +4099,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -3382,14 +4173,14 @@
                     "value": "البسط فقط (رقم)"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Фақат рақамловчи (рақам)"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
                 },
                 {
                     "locale": "ar",
@@ -3412,14 +4203,14 @@
                     "value": "Kun teller (tall)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "البسط فقط (رقم)"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
                 }
             ]
         },
@@ -3441,14 +4232,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "نسبة"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
                 },
                 {
                     "locale": "es",
@@ -3481,14 +4272,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Процент"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
                 },
                 {
                     "locale": "ar",
@@ -3525,17 +4316,12 @@
                     "value": "Četnost (faktor=1)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "معدل (العامل = 1)"
-                },
-                {
                     "locale": "uz",
                     "property": "NAME",
                     "value": "Ставка (омил = 1)"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "ar_SD",
                     "property": "NAME",
                     "value": "معدل (العامل = 1)"
                 },
@@ -3543,6 +4329,11 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Taxa (fator = 1)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "معدل (العامل = 1)"
                 },
                 {
                     "locale": "uz_UZ",
@@ -3592,7 +4383,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs closing balance",
@@ -3698,7 +4502,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs discarded",
@@ -3834,7 +4651,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs issued",
@@ -3940,7 +4770,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs opening balance",
@@ -4076,7 +4919,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs received",
@@ -4212,7 +5068,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs redistributed",
@@ -4357,7 +5226,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock coverage time",
@@ -4457,7 +5339,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock discrepancy (%)",
@@ -4543,7 +5438,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock on hand",
@@ -4679,7 +5587,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs stock out days",
@@ -4815,7 +5736,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs usable stock",
@@ -4916,7 +5850,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs wastage rate",
@@ -4972,7 +5919,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs closing balance",
@@ -5078,7 +6038,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs discarded",
@@ -5214,7 +6187,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs issued",
@@ -5320,7 +6306,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs opening balance",
@@ -5456,7 +6455,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs received",
@@ -5592,7 +6604,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs redistributed",
@@ -5732,7 +6757,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock coverage time",
@@ -5828,7 +6866,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock discrepancy (%)",
@@ -5914,7 +6965,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock on hand",
@@ -6050,7 +7114,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs stock out days",
@@ -6186,7 +7263,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs usable stock",
@@ -6287,7 +7377,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs wastage rate",
@@ -6327,112 +7430,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_CARTRIDGE_CLOSING_BAL",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "description": "Number of GeneXpert Cartridges as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "id": "mDpLYl0sbQd",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "TB - GeneXpert cartridges closing balance",
-            "numerator": "#{kfocuNP1nCG}+#{wqihyXhQuK9}-#{y2yiFi6D7yY}-#{J3AIrRG01TD}-#{cRNeiMflE2s}",
-            "numeratorDescription": "GeneXpert cartridges closing bal",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges closing balance",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Bilan de clôture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Bil de fermeture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Bilan de clôture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de cartouches GeneXpert comme solde de clôture [bilan d'ouverture + Reçu - Émis - Redistribué - écartés] à la fin de la période de déclaration"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_CARTRIDGE_DISCARDED",
             "denominator": "1",
             "denominatorDescription": "1",
@@ -6449,7 +7446,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges discarded",
@@ -6555,7 +7565,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert cartridges issued",
@@ -6661,7 +7684,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges opening balance",
@@ -6767,7 +7803,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges received",
@@ -6873,7 +7922,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges redistributed",
@@ -6963,192 +8025,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_XPERT_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": "#{y2yiFi6D7yY} + #{J3AIrRG01TD} + #{cRNeiMflE2s}",
-            "denominatorDescription": "consumed stock",
-            "id": "Vb6NHYRWTyi",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "TB - GeneXpert cartridges stock coverage time",
-            "numerator": "#{wqihyXhQuK9} + #{kfocuNP1nCG}",
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Durée de couverture du stock de cartouches GeneXpert"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Durée de couverture des stocks de cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_CARTRIDGE_DISCREPANCY",
-            "denominator": "#{iJYk0mA3H4I}",
-            "denominatorDescription": "stock on hand",
-            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "id": "KQf9KBm7VW5",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "TB - GeneXpert cartridges stock discrepancy (%)",
-            "numerator": "#{iJYk0mA3H4I}-(#{kfocuNP1nCG}+#{wqihyXhQuK9}-#{y2yiFi6D7yY}-#{J3AIrRG01TD}-#{cRNeiMflE2s})",
-            "numeratorDescription": "GeneXpert cartridges stock discrepancy",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges stock discrepancy (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Écart de stock de cartouches GeneXpert"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Écart de stock de cartouches GeneXpert (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Écart de stock de cartouches GeneXpert (%)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_CARTRIDGE_STOCK_ON_HAND",
             "denominator": "1",
             "denominatorDescription": "1",
@@ -7165,7 +8041,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock on hand",
@@ -7271,7 +8160,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert Cartridges stock out days",
@@ -7381,6 +8283,337 @@
         {
             "annualized": false,
             "attributeValues": [],
+            "code": "TB_CARTRIDGE_CLOSING_BAL",
+            "denominator": "1",
+            "denominatorDescription": "1",
+            "description": "Number of GeneXpert Cartridges as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
+            "id": "mDpLYl0sbQd",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "TB - GeneXpert cartridges closing balance",
+            "numerator": "#{kfocuNP1nCG}+#{wqihyXhQuK9}-#{y2yiFi6D7yY}-#{J3AIrRG01TD}-#{cRNeiMflE2s}",
+            "numeratorDescription": "GeneXpert cartridges closing bal",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges closing balance",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan de clôture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Bil de fermeture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan de clôture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert comme solde de clôture [bilan d'ouverture + Reçu - Émis - Redistribué - écartés] à la fin de la période de déclaration"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_XPERT_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": "#{y2yiFi6D7yY} + #{J3AIrRG01TD} + #{cRNeiMflE2s}",
+            "denominatorDescription": "consumed stock",
+            "id": "Vb6NHYRWTyi",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "TB - GeneXpert cartridges stock coverage time",
+            "numerator": "#{wqihyXhQuK9} + #{kfocuNP1nCG}",
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture du stock de cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Durée de couverture des stocks de cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_CARTRIDGE_DISCREPANCY",
+            "denominator": "#{iJYk0mA3H4I}",
+            "denominatorDescription": "stock on hand",
+            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
+            "id": "KQf9KBm7VW5",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "TB - GeneXpert cartridges stock discrepancy (%)",
+            "numerator": "#{iJYk0mA3H4I}-(#{kfocuNP1nCG}+#{wqihyXhQuK9}-#{y2yiFi6D7yY}-#{J3AIrRG01TD}-#{cRNeiMflE2s})",
+            "numeratorDescription": "GeneXpert cartridges stock discrepancy",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges stock discrepancy (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Écart de stock de cartouches GeneXpert"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Écart de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
             "code": "GENEXPERT_CARTRIDGES_WASTAGE_RATE",
             "denominator": "((#{kfocuNP1nCG}+#{wqihyXhQuK9}-#{y2yiFi6D7yY}-#{J3AIrRG01TD}-#{cRNeiMflE2s})-#{iJYk0mA3H4I})+#{y2yiFi6D7yY}+#{J3AIrRG01TD}",
             "denominatorDescription": "Stock used=([Closing balance]-[Stock at hand]) + discarded + dispensed to patient)",
@@ -7397,7 +8630,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert cartridges wastage rate",
@@ -7453,7 +8699,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert usable stock",
@@ -7554,7 +8813,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with DR-TB drugs stockout days (%)",
@@ -7605,7 +8877,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with DS-TB drugs stockout days (%)",
@@ -7656,7 +8941,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "HF with GeneXpert cartridges SO days (%)",
@@ -7707,7 +9005,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs consumed (%)",
@@ -7768,7 +9079,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DR-TB drugs unusable (%)",
@@ -7829,7 +9153,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs consumed (%)",
@@ -7890,7 +9227,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "DS-TB drugs unusable (%)",
@@ -7951,7 +9301,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert cartridges consumed (%)",
@@ -8002,7 +9365,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "shortName": "GeneXpert cartridges unusable (%)",
@@ -8143,7 +9519,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -8242,7 +9631,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -8396,6 +9798,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -8454,6 +9857,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -8477,7 +9881,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -8610,6 +10027,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -8668,6 +10086,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -8685,7 +10104,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -8818,6 +10250,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -8876,6 +10309,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -8899,7 +10333,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -8914,7 +10361,6 @@
         {
             "attributeValues": [],
             "basemap": "bingLight",
-            "description": "",
             "id": "f51qX1C56dW",
             "mapViews": [
                 {
@@ -9027,6 +10473,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -9101,6 +10548,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -9118,7 +10566,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -9245,6 +10706,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -9319,6 +10781,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -9342,7 +10805,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -9470,6 +10946,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -9539,6 +11016,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -9556,7 +11034,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "subscribers": [],
@@ -9575,15 +11066,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "cddb161",
-        "DHIS2Version": "2.40.0.1",
+        "DHIS2Build": "db15b78",
+        "DHIS2Version": "2.40.2",
         "code": "TB_AGG_STK",
-        "description": "TB Stock",
+        "description": "TB Stock (aggregate)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230712T230606",
+        "lastUpdated": "20240104T175839",
         "locale": "en",
-        "name": "TB_AGG_STK_AGG_DHIS2.40.0.1-en",
+        "name": "TB_AGG_STK_AGG_DHIS2.40.2-en",
         "type": "AGG",
         "version": ""
     },
@@ -9612,20 +11103,33 @@
                     "id": "THRKEGZpwxw"
                 },
                 {
+                    "id": "acbN2iRiVo9"
+                },
+                {
                     "id": "lMmTOYCrExY"
                 },
                 {
                     "id": "etVGXYgre3v"
-                },
-                {
-                    "id": "acbN2iRiVo9"
                 }
             ],
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10451,7 +11955,7 @@
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10459,13 +11963,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -10519,7 +12025,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10527,13 +12033,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -10587,7 +12095,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10595,13 +12103,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -10665,7 +12175,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10688,7 +12211,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10736,7 +12272,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "translations": [
@@ -10826,7 +12375,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -10839,7 +12401,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB – Médicaments contre la TB pharmacorésistante écartés<= Médicaments contre la TB pharmacorésistante bilan d'ouverture + Médicaments contre la TB pharmacorésistante reçus"
+                    "value": "TB – Médicaments contre la TB pharmacorésistante écartés<= Médicaments contre la TB pharmacorésistante bilan d'ouverture + Médicaments contre la TB pharmacorésistante reçus"
                 }
             ]
         },
@@ -10873,7 +12435,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -10920,7 +12495,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -10967,7 +12555,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11014,7 +12615,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11022,7 +12636,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB - Jours de rupture de stock de médicaments contre la TB pharmacorésistante <=30 jours"
+                    "value": "TB - Jours de rupture de stock de médicaments contre la TB pharmacorésistante <=30 jours"
                 },
                 {
                     "locale": "fr",
@@ -11061,7 +12675,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11074,7 +12701,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB – Médicaments antituberculeux DS écartés<= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
+                    "value": "TB – Médicaments antituberculeux DS écartés<= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
                 }
             ]
         },
@@ -11108,7 +12735,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11116,7 +12756,7 @@
                 {
                     "locale": "fr",
                     "property": "NAME",
-                    "value": "TB – Médicaments antituberculeux DS distribués <= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
+                    "value": "TB – Médicaments antituberculeux DS distribués <= Médicaments antituberculeux DS, bilan d'ouverture + Médicaments antituberculeux DS reçus"
                 },
                 {
                     "locale": "fr",
@@ -11155,7 +12795,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11202,7 +12855,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11249,7 +12915,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11296,7 +12975,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11343,7 +13035,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11390,7 +13095,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11437,7 +13155,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11484,7 +13215,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "skipFormValidation": false,
@@ -11506,6 +13250,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -11533,6 +13278,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -11558,6 +13304,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -11616,6 +13363,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -11623,7 +13371,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -11649,6 +13410,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -11712,6 +13474,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -11734,6 +13497,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -11792,6 +13556,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -11799,7 +13564,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -11825,6 +13603,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -11888,6 +13667,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -11910,6 +13690,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -11968,6 +13749,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -11975,7 +13757,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -12001,6 +13796,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12028,6 +13824,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -12053,6 +13850,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -12111,6 +13909,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12121,13 +13920,15 @@
                 "userGroups": {
                     "Hoe8uDSoNfN": {
                         "access": "r-------",
-                        "displayName": "TB access",
                         "id": "Hoe8uDSoNfN"
                     },
                     "avefFGBIjq1": {
                         "access": "rw------",
-                        "displayName": "TB admin",
                         "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
                     }
                 },
                 "users": {}
@@ -12155,6 +13956,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12173,7 +13975,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -12183,6 +13984,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -12208,6 +14010,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -12266,6 +14069,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12273,7 +14077,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -12299,6 +14116,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12353,7 +14171,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -12363,6 +14180,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -12385,6 +14203,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -12443,6 +14262,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12450,7 +14270,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": false,
@@ -12476,6 +14309,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12582,6 +14416,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12589,7 +14424,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12615,6 +14463,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12721,6 +14570,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12728,7 +14578,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
@@ -12754,6 +14617,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -12860,6 +14724,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -12867,7 +14732,20 @@
                 "external": false,
                 "owner": "vUeLeQMSwhN",
                 "public": "r-------",
-                "userGroups": {},
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
                 "users": {}
             },
             "showData": true,
