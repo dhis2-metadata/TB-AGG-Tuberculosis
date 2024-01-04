@@ -42,16 +42,6 @@
                         "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
                     "avefFGBIjq1": {
                         "access": "rw------",
                         "id": "avefFGBIjq1"
@@ -59,11 +49,6 @@
                     "bHLDx9I0XkE": {
                         "access": "r-------",
                         "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
                     }
                 },
                 "users": {}
@@ -260,16 +245,6 @@
                         "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
                     "avefFGBIjq1": {
                         "access": "rw------",
                         "id": "avefFGBIjq1"
@@ -277,11 +252,6 @@
                     "bHLDx9I0XkE": {
                         "access": "r-------",
                         "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
                     }
                 },
                 "users": {}
@@ -478,16 +448,6 @@
                         "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
                     "avefFGBIjq1": {
                         "access": "rw------",
                         "id": "avefFGBIjq1"
@@ -495,11 +455,6 @@
                     "bHLDx9I0XkE": {
                         "access": "r-------",
                         "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
                     }
                 },
                 "users": {}
@@ -691,16 +646,6 @@
                         "access": "r-------",
                         "id": "Hoe8uDSoNfN"
                     },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
                     "avefFGBIjq1": {
                         "access": "rw------",
                         "id": "avefFGBIjq1"
@@ -708,11 +653,6 @@
                     "bHLDx9I0XkE": {
                         "access": "r-------",
                         "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
                     }
                 },
                 "users": {}
@@ -1066,10 +1006,10 @@
                     "id": "oMvma7tGHrq"
                 },
                 {
-                    "id": "y2yiFi6D7yY"
+                    "id": "LqSBB96bJv0"
                 },
                 {
-                    "id": "LqSBB96bJv0"
+                    "id": "y2yiFi6D7yY"
                 },
                 {
                     "id": "FH75MzJQA5u"
@@ -3205,7 +3145,111 @@
             "dataSetElements": [
                 {
                     "dataElement": {
-                        "id": "Z5hsBAh8pCC"
+                        "id": "wqihyXhQuK9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tZuKlwig9lD"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "ShJ42zyXevh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "CxMUeg8LYid"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "V7rRkP7jYzO"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uXt7OH5811r"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WOStFrYxPd9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PNhNeVxy9Bs"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "mMbufF9c251"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMvma7tGHrq"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "kfocuNP1nCG"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QH1eMVEVhpn"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Wl9HUMqAXhQ"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3229,70 +3273,6 @@
                 },
                 {
                     "dataElement": {
-                        "id": "y2yiFi6D7yY"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "QH1eMVEVhpn"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WOStFrYxPd9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "tZuKlwig9lD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uXt7OH5811r"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oMvma7tGHrq"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "CxMUeg8LYid"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
                         "id": "fTKSvybB6Zh"
                     },
                     "dataSet": {
@@ -3301,7 +3281,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iJYk0mA3H4I"
+                        "id": "Z5hsBAh8pCC"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3309,39 +3289,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "ShJ42zyXevh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "cRNeiMflE2s"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "V7rRkP7jYzO"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "kfocuNP1nCG"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mMbufF9c251"
+                        "id": "y2yiFi6D7yY"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3357,15 +3305,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "wqihyXhQuK9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PNhNeVxy9Bs"
+                        "id": "cRNeiMflE2s"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3427,7 +3367,7 @@
                 }
             ],
             "validCompleteOnly": false,
-            "version": 50
+            "version": 59
         }
     ],
     "documents": [],
@@ -3440,19 +3380,13 @@
             "id": "pMaektY4E9s",
             "indicators": [
                 {
-                    "id": "hSpmpUl6eJk"
-                },
-                {
                     "id": "e92Z61nHBJY"
                 },
                 {
+                    "id": "hSpmpUl6eJk"
+                },
+                {
                     "id": "WID08ddfy5T"
-                },
-                {
-                    "id": "RfRy5y9ANl2"
-                },
-                {
-                    "id": "skv1s6LGh0N"
                 },
                 {
                     "id": "AgJYWRktH9o"
@@ -3462,24 +3396,6 @@
                 },
                 {
                     "id": "DKdvXuIfxwl"
-                },
-                {
-                    "id": "zbgm5GueWu9"
-                },
-                {
-                    "id": "BzFJFOFMVCu"
-                },
-                {
-                    "id": "eSTkclrbTy5"
-                },
-                {
-                    "id": "EHDTSPxpLco"
-                },
-                {
-                    "id": "KQf9KBm7VW5"
-                },
-                {
-                    "id": "JaXPqKA823j"
                 },
                 {
                     "id": "fdt3FPCzgDc"
@@ -3503,22 +3419,16 @@
                     "id": "mDpLYl0sbQd"
                 },
                 {
-                    "id": "W4IZTF82Bwx"
-                },
-                {
                     "id": "LmHsc7UGtQf"
                 },
                 {
                     "id": "AwZgWwQaHvR"
                 },
                 {
-                    "id": "WBuAm3uZWWs"
-                },
-                {
                     "id": "U1c4P0YOBC5"
                 },
                 {
-                    "id": "ZFd8LiJ1y3C"
+                    "id": "WBuAm3uZWWs"
                 },
                 {
                     "id": "pRHeUC3sjcO"
@@ -3528,18 +3438,6 @@
                 },
                 {
                     "id": "VDfuDVALf0f"
-                },
-                {
-                    "id": "bK3hiVktvHR"
-                },
-                {
-                    "id": "K8jFJ0e67kU"
-                },
-                {
-                    "id": "nbSUx9d1e1M"
-                },
-                {
-                    "id": "Ri9wLtxwnJu"
                 },
                 {
                     "id": "GbqUYVq0NLo"
@@ -3554,25 +3452,67 @@
                     "id": "cbAQwCbhhoe"
                 },
                 {
-                    "id": "ozucBtxJm2l"
-                },
-                {
-                    "id": "pS9zsya8eUi"
-                },
-                {
                     "id": "FnadQQyc1dP"
                 },
                 {
-                    "id": "jDitMFtRib4"
+                    "id": "BmxOvSZmatv"
                 },
                 {
-                    "id": "BmxOvSZmatv"
+                    "id": "jDitMFtRib4"
                 },
                 {
                     "id": "Vb6NHYRWTyi"
                 },
                 {
                     "id": "OvZVFIRgrtG"
+                },
+                {
+                    "id": "RfRy5y9ANl2"
+                },
+                {
+                    "id": "skv1s6LGh0N"
+                },
+                {
+                    "id": "zbgm5GueWu9"
+                },
+                {
+                    "id": "BzFJFOFMVCu"
+                },
+                {
+                    "id": "eSTkclrbTy5"
+                },
+                {
+                    "id": "EHDTSPxpLco"
+                },
+                {
+                    "id": "KQf9KBm7VW5"
+                },
+                {
+                    "id": "JaXPqKA823j"
+                },
+                {
+                    "id": "W4IZTF82Bwx"
+                },
+                {
+                    "id": "ZFd8LiJ1y3C"
+                },
+                {
+                    "id": "bK3hiVktvHR"
+                },
+                {
+                    "id": "K8jFJ0e67kU"
+                },
+                {
+                    "id": "nbSUx9d1e1M"
+                },
+                {
+                    "id": "Ri9wLtxwnJu"
+                },
+                {
+                    "id": "ozucBtxJm2l"
+                },
+                {
+                    "id": "pS9zsya8eUi"
                 }
             ],
             "name": "TB - Stock",
@@ -8939,25 +8879,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#0BFF00",
-                    "endValue": 3.0,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "mmvDbIcm41d",
-                    "name": "Adequate stock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 1.0,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#EE391E",
                     "endValue": 0.0001,
                     "externalAccess": false,
@@ -8971,6 +8892,25 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#0BFF00",
+                    "endValue": 3.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "mmvDbIcm41d",
+                    "name": "Adequate stock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -9170,7 +9110,7 @@
         "description": "TB Stock (aggregate)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20231229T123619",
+        "lastUpdated": "20240104T142900",
         "locale": "en",
         "name": "TB_AGG_STK_AGG_DHIS2.39.4-en",
         "type": "AGG",
@@ -10050,414 +9990,10 @@
     "userGroups": [
         {
             "attributeValues": [],
-            "code": "TB_DRS_ACCESS",
-            "id": "LHhbGJKXmzz",
-            "managedGroups": [],
-            "name": "DRS - Access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB DRS accès"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Přístup"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_ADMIN",
-            "id": "vN3X85Hxzno",
-            "managedGroups": [],
-            "name": "DRS - Admin",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "admin TB DRS"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Admin"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_DATA_CAPTURE",
-            "id": "byS9SDFsd9p",
-            "managedGroups": [],
-            "name": "DRS - Data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB DRS saisie des données"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - Sběr dat"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_DRS_SRL",
-            "id": "XTNFOnPGrp0",
-            "managedGroups": [],
-            "name": "DRS - SRL",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "cs",
-                    "property": "NAME",
-                    "value": "DRS - SRL"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "ERM - LRE"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_ACCESS",
-            "id": "pyu2ZlNKbzQ",
-            "managedGroups": [],
-            "name": "TB - Access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Accès"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_ADMIN",
-            "id": "Ubzlyfqm1gO",
-            "managedGroups": [],
-            "name": "TB - Admin",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Admin"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_DATA_CAPTURE",
-            "id": "UKWx4jJcrKt",
-            "managedGroups": [],
-            "name": "TB - Data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Saisie des données"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_LAB_ACCESS",
-            "id": "s1Q2JPVhTep",
-            "managedGroups": [],
-            "name": "TB CS - Lab access",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [],
-            "users": []
-        },
-        {
-            "attributeValues": [],
-            "code": "TB_CS_LAB_DATA_CAPTURE",
-            "id": "zBZXkRW0PJy",
-            "managedGroups": [],
-            "name": "TB CS - Lab data capture",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "UKWx4jJcrKt": {
-                        "access": "r-------",
-                        "displayName": "TB - Data capture",
-                        "id": "UKWx4jJcrKt"
-                    },
-                    "Ubzlyfqm1gO": {
-                        "access": "rw------",
-                        "displayName": "TB - Admin",
-                        "id": "Ubzlyfqm1gO"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    },
-                    "pyu2ZlNKbzQ": {
-                        "access": "r-------",
-                        "displayName": "TB - Access",
-                        "id": "pyu2ZlNKbzQ"
-                    }
-                },
-                "users": {}
-            },
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB SC - Saisie des données de labo"
-                }
-            ],
-            "users": []
-        },
-        {
-            "attributeValues": [],
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10527,7 +10063,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10597,7 +10133,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -10817,10 +10353,10 @@
                     "id": "gYATvcNPKIt"
                 },
                 {
-                    "id": "z8nmv6DgbSC"
+                    "id": "A94nxQASTNJ"
                 },
                 {
-                    "id": "A94nxQASTNJ"
+                    "id": "z8nmv6DgbSC"
                 },
                 {
                     "id": "SoAZiNlwjMc"
@@ -10838,10 +10374,10 @@
                     "id": "DClPdUIzqUQ"
                 },
                 {
-                    "id": "KituK0VHFr5"
+                    "id": "IrV3psd73XS"
                 },
                 {
-                    "id": "IrV3psd73XS"
+                    "id": "KituK0VHFr5"
                 }
             ]
         }
