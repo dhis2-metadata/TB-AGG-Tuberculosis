@@ -933,7 +933,570 @@
         }
     ],
     "constants": [],
-    "dashboards": [],
+    "dashboards": [
+        {
+            "allowedFilters": [],
+            "code": "TB_AGG_STK",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 35,
+                    "id": "CM2PcEqCR9o",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "b1Q7LZBMulY"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 14,
+                    "x": 30,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 34,
+                    "id": "KqDxs3fV59E",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "Y2rQpAz7UMa"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 14,
+                    "x": 30,
+                    "y": 90
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 33,
+                    "id": "mBvN5C7NCJ4",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "RnpweIAT2Vp"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 12,
+                    "x": 32,
+                    "y": 14
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 14,
+                    "id": "V8tZEe2ARAM",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "nSDMgCmJIuY"
+                    },
+                    "width": 25,
+                    "x": 0,
+                    "y": 14
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 14,
+                    "id": "JIKtXlBXXtz",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "zYQMT6pnu9V"
+                    },
+                    "width": 7,
+                    "x": 25,
+                    "y": 14
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 33,
+                    "id": "anxaaxDVh9I",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "eYZd1BLeELf"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 12,
+                    "x": 44,
+                    "y": 14
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 19,
+                    "id": "UciKAQatbZe",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "VjMcZMgOVmC"
+                    },
+                    "width": 32,
+                    "x": 0,
+                    "y": 28
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 4,
+                    "id": "dLEMpO2i1Z3",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "text": "SPACER_ITEM_FOR_DASHBOARD_LAYOUT_CONVENIENCE",
+                    "translations": [],
+                    "type": "TEXT",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 56,
+                    "x": 0,
+                    "y": 47
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 14,
+                    "id": "XTRFKHZ2yoi",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "qjxIL321YEn"
+                    },
+                    "width": 24,
+                    "x": 0,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 14,
+                    "id": "UBj7OZXkZMQ",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "VrMKZcU5a3W"
+                    },
+                    "width": 6,
+                    "x": 24,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 35,
+                    "id": "VFnInTDCop9",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "LDSu7bMS2Kl"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 12,
+                    "x": 44,
+                    "y": 51
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 21,
+                    "id": "LX4EVFrVwqo",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "rPbD7zgFdZT"
+                    },
+                    "width": 30,
+                    "x": 0,
+                    "y": 65
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 4,
+                    "id": "b0vGBKCZLCq",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "text": "SPACER_ITEM_FOR_DASHBOARD_LAYOUT_CONVENIENCE",
+                    "translations": [],
+                    "type": "TEXT",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 56,
+                    "x": 0,
+                    "y": 86
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 13,
+                    "id": "U8U4RonVgtD",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "EMJHKidKuoc"
+                    },
+                    "width": 7,
+                    "x": 23,
+                    "y": 90
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 13,
+                    "id": "PcPEpYyy0Aj",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "dsQZNkGSTAc"
+                    },
+                    "width": 23,
+                    "x": 0,
+                    "y": 90
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 14,
+                    "id": "VlMY2ASTMq8",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "text": "*DEFINITIONS:*\nClosing balance = Opening balance + Received - Distributed - Redistributed - Discarded -->Automatically  calculated indicator to count the remaining items at the end of the period\nStock on hand = physical stock count at the end of the period\nUsable stock = Opening balance + received\nCoverage time = Usable stock / Distributed + Discarded + Redistributed = nb. of months \n\nStock discrepancy = Stock on hand - closing balance\n     If discrepancy = 0 and 9 --> Stock on hand = closing balance (green cell) - acceptable discrepancy -\n      If discrepancy < 0 --> closing balance > stock on hand (dark red cell)\n      If discrepancy > 9 --> closing balance < stock on hand (light red cell)\n",
+                    "translations": [],
+                    "type": "TEXT",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 56,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 34,
+                    "id": "nvXUfRqe14f",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "f51qX1C56dW"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 12,
+                    "x": 44,
+                    "y": 90
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 21,
+                    "id": "qcKDsbgk22f",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "ZAeLdaLBgjB"
+                    },
+                    "width": 30,
+                    "x": 0,
+                    "y": 103
+                }
+            ],
+            "id": "Ea95jPFEnHD",
+            "name": "TB06 - Stock",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Estoque TB"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Estoque TB"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB Stock"
+                }
+            ]
+        }
+    ],
     "dataElementGroups": [
         {
             "attributeValues": [],
@@ -3153,15 +3716,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "tZuKlwig9lD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "ShJ42zyXevh"
+                        "id": "cRNeiMflE2s"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3177,55 +3732,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "iJYk0mA3H4I"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "V7rRkP7jYzO"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "uXt7OH5811r"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "WOStFrYxPd9"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "PNhNeVxy9Bs"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "mMbufF9c251"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "oMvma7tGHrq"
+                        "id": "J3AIrRG01TD"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3241,7 +3748,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "QH1eMVEVhpn"
+                        "id": "V7rRkP7jYzO"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3249,7 +3756,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "Wl9HUMqAXhQ"
+                        "id": "ShJ42zyXevh"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3257,39 +3764,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "J3AIrRG01TD"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "wMv5SrxZ7f6"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "fTKSvybB6Zh"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "Z5hsBAh8pCC"
-                    },
-                    "dataSet": {
-                        "id": "ujLQPjUBfVR"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "y2yiFi6D7yY"
+                        "id": "mMbufF9c251"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -3305,7 +3780,95 @@
                 },
                 {
                     "dataElement": {
-                        "id": "cRNeiMflE2s"
+                        "id": "wMv5SrxZ7f6"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Z5hsBAh8pCC"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "WOStFrYxPd9"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "iJYk0mA3H4I"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "oMvma7tGHrq"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "fTKSvybB6Zh"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "y2yiFi6D7yY"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "QH1eMVEVhpn"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "uXt7OH5811r"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "PNhNeVxy9Bs"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "Wl9HUMqAXhQ"
+                    },
+                    "dataSet": {
+                        "id": "ujLQPjUBfVR"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "tZuKlwig9lD"
                     },
                     "dataSet": {
                         "id": "ujLQPjUBfVR"
@@ -9097,7 +9660,1390 @@
             ]
         }
     ],
-    "maps": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "Y2rQpAz7UMa",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#e41a1c,#377eb8,#4daf4a,#984ea3,#ff7f00",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "fdt3FPCzgDc"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "uXGeEAU7FFK",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": false,
+                    "layer": "thematic",
+                    "legendSet": {
+                        "id": "f1hWZIYCTzc"
+                    },
+                    "method": 1,
+                    "name": "TB - DR-TB drugs stock coverage time",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202101",
+                            "name": "202101"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "radiusHigh": 10,
+                    "radiusLow": 10,
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "cwWeintm5n4",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "cwWeintm5n4",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "cs",
+                            "property": "NAME",
+                            "value": "cwWeintm5n4"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Coverage time for DR-TB drugs by facility",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture des médicaments contre la TB pharmacorésistante par établissement"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "b1Q7LZBMulY",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#e41a1c,#377eb8,#4daf4a,#984ea3,#ff7f00",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "Ri9wLtxwnJu"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "FhpmzXq2cSR",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": false,
+                    "layer": "thematic",
+                    "legendSet": {
+                        "id": "f1hWZIYCTzc"
+                    },
+                    "method": 1,
+                    "name": "TB - DS-TB drugs stock coverage time",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202101",
+                            "name": "202101"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "radiusHigh": 10,
+                    "radiusLow": 10,
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "DB427QNdaCa",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "DB427QNdaCa",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Coverage time for DS-TB drugs by facility",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de la couverture des médicaments antituberculeux DS par établissement"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "RnpweIAT2Vp",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#e41a1c,#377eb8,#4daf4a,#984ea3,#ff7f00",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "Vb6NHYRWTyi"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "ruLVRYQT4BI",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": false,
+                    "layer": "thematic",
+                    "legendSet": {
+                        "id": "f1hWZIYCTzc"
+                    },
+                    "method": 1,
+                    "name": "TB - GeneXpert cartridges stock coverage time",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202101",
+                            "name": "202101"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "radiusHigh": 10,
+                    "radiusLow": 10,
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "nSqVXskXwbx",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "nSqVXskXwbx",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "cs",
+                            "property": "NAME",
+                            "value": "nSqVXskXwbx"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Coverage time for GeneXpert cartridges by facility",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture des cartouches GeneXpert par établissement"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "f51qX1C56dW",
+            "mapViews": [
+                {
+                    "aggregationType": "COUNT",
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 3,
+                    "colorScale": "#fff7bc,#fec44f,#d95f0e",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "e92Z61nHBJY"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "CtcMvUpHKxJ",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "TB - DR-TB drugs stock out days",
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202102",
+                            "name": "202102"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "fr",
+                            "property": "NAME",
+                            "value": "TB - jours de rupture de stock de médicaments TB-PR"
+                        },
+                        {
+                            "locale": "pt",
+                            "property": "NAME",
+                            "value": "TB - Falta de estoque de medicamentos para TB-DR"
+                        },
+                        {
+                            "locale": "pt_BR",
+                            "property": "NAME",
+                            "value": "TB - Falta de estoque de medicamentos para TB-DR"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "WGc4ABk8cvC",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "WGc4ABk8cvC",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Facilities with stockout days for DR-TB drugs",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Tuberculose - Établissements avec des jours de rupture de stock pour les médicaments contre la TB pharmacorésistante"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "LDSu7bMS2Kl",
+            "mapViews": [
+                {
+                    "aggregationType": "COUNT",
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 3,
+                    "colorScale": "#fff7bc,#fec44f,#d95f0e",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "zbgm5GueWu9"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "yNeWlUVSODA",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "TB - DS-TB drugs stock out days",
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202102",
+                            "name": "202102"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "pt_BR",
+                            "property": "NAME",
+                            "value": "TB - dias de falta de estoque de medicamentos para TB-DS"
+                        },
+                        {
+                            "locale": "fr",
+                            "property": "NAME",
+                            "value": "TB - médicaments TB-PS jours de rupture de stock"
+                        },
+                        {
+                            "locale": "pt",
+                            "property": "NAME",
+                            "value": "TB - dias de falta de estoque de medicamentos para TB-DS"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "wDpZWFNOXRv",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "wDpZWFNOXRv",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "cs",
+                            "property": "NAME",
+                            "value": "wDpZWFNOXRv"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Facilities with stockout days for DS-TB drugs",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock pour les médicaments antituberculeux DS"
+                }
+            ]
+        },
+        {
+            "attributeValues": [],
+            "basemap": "bingLight",
+            "id": "eYZd1BLeELf",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 3,
+                    "colorScale": "#fff7bc,#fec44f,#d95f0e",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "BzFJFOFMVCu"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "endDate": "2020-12-20T00:00:00.000",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "SVFNqQ28Oaa",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "TB - GeneXpert Cartridges stock out days",
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        4
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [
+                        {
+                            "id": "202101",
+                            "name": "202101"
+                        }
+                    ],
+                    "programIndicatorDimensions": [],
+                    "radiusHigh": 10,
+                    "radiusLow": 10,
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": false,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "startDate": "2019-12-20T00:00:00.000",
+                    "subscribed": false,
+                    "subscribers": [],
+                    "thematicMapType": "CHOROPLETH",
+                    "topLimit": 0,
+                    "translations": [
+                        {
+                            "locale": "cs",
+                            "property": "NAME",
+                            "value": "TBC - GeneXpert kartridže nejsou skladem dní"
+                        },
+                        {
+                            "locale": "fr",
+                            "property": "NAME",
+                            "value": "TB - Jours de rupture de stock des cartouches GeneXpert"
+                        }
+                    ],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                },
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "columnDimensions": [],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "M6culkS8NFU",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "labels": true,
+                    "layer": "boundary",
+                    "name": "M6culkS8NFU",
+                    "opacity": 1.0,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [
+                        3,
+                        2
+                    ],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": false
+                }
+            ],
+            "name": "TB - Facilities with stockout days for GeneXpert cartridges",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Établissements avec des jours de rupture de stock pour les cartouches GeneXpert"
+                }
+            ]
+        }
+    ],
     "optionGroups": [],
     "optionSets": [],
     "options": [],
@@ -9110,7 +11056,7 @@
         "description": "TB Stock (aggregate)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20240104T142900",
+        "lastUpdated": "20240104T160122",
         "locale": "en",
         "name": "TB_AGG_STK_AGG_DHIS2.39.4-en",
         "type": "AGG",
@@ -11284,5 +13230,1518 @@
             ]
         }
     ],
-    "visualizations": []
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "dlUf7CDF3l8"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "EMJHKidKuoc",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "set": {
+                    "id": "pxeFezcPnQl"
+                },
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - DR-TB drugs stock discrepancy",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stocks de médicaments contre la TB pharmacorésistante"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "AwZgWwQaHvR"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "BmxOvSZmatv"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "pS9zsya8eUi"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "sk4N1FMqDwQ"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "bK3hiVktvHR"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "EHDTSPxpLco"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "odbgarQuUvh"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "dsQZNkGSTAc",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - DR-TB drugs stock status, last 6 months",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - État des stocks de médicaments contre la tuberculose pharmacorésistante, 6 derniers mois"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "bD1Z2FmbHKK"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "hSpmpUl6eJk"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "jDitMFtRib4"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ZZiJYBFEJ3v"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "RfRy5y9ANl2"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "DKdvXuIfxwl"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ozucBtxJm2l"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "qjxIL321YEn",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - DS-TB drugs stock",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Stock de médicaments DS-TB"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "skv1s6LGh0N"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "VrMKZcU5a3W",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "set": {
+                    "id": "pxeFezcPnQl"
+                },
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - DS-TB drugs stock discrepancy",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de médicaments DS-TB"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "KQf9KBm7VW5"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "zYQMT6pnu9V",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "set": {
+                    "id": "pxeFezcPnQl"
+                },
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - GeneXpert Cartridges stock discrepancy",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de cartouches GeneXpert"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "U1c4P0YOBC5"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "gcMtkbbotUv"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "cbAQwCbhhoe"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "FnadQQyc1dP"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "K8jFJ0e67kU"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "mDpLYl0sbQd"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "OvZVFIRgrtG"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "nSDMgCmJIuY",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false,
+                "strategy": "FIXED",
+                "style": "FILL"
+            },
+            "name": "TB - GeneXpert Cartridges stock status",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": false,
+            "showDimensionLabels": true,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - État du stock des cartouches GeneXpert"
+                }
+            ],
+            "type": "PIVOT_TABLE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "eSTkclrbTy5"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "ZAeLdaLBgjB",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "TB - Proportion of facilities with stockout days for DR-TB drugs",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les médicaments contre la tuberculose pharmacorésistante"
+                }
+            ],
+            "type": "STACKED_AREA",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "WID08ddfy5T"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "rPbD7zgFdZT",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "TB - Proportion of facilities with stockout days for DS-TB drugs",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les médicaments antituberculeux DS"
+                }
+            ],
+            "type": "STACKED_AREA",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ZFd8LiJ1y3C"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "id": "VjMcZMgOVmC",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "TB - Proportion of facilities with stockout days for GeneXpert cartridges",
+            "noSpaceBetweenColumns": false,
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": true,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": false,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "topLimit": 0,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Proportion d'établissements avec des jours de rupture de stock pour les cartouches GeneXpert"
+                }
+            ],
+            "type": "STACKED_AREA",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        }
+    ]
 }
