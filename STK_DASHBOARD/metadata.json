@@ -524,7 +524,7 @@
                 }
             ],
             "id": "Ea95jPFEnHD",
-            "name": "TB8. Stock",
+            "name": "TB06 - Stock",
             "restrictFilters": false,
             "sharing": {
                 "external": false,
@@ -592,10 +592,10 @@
                     "id": "DKdvXuIfxwl"
                 },
                 {
-                    "id": "UiSEm1IJmhb"
+                    "id": "fdt3FPCzgDc"
                 },
                 {
-                    "id": "fdt3FPCzgDc"
+                    "id": "UiSEm1IJmhb"
                 },
                 {
                     "id": "sk4N1FMqDwQ"
@@ -628,10 +628,10 @@
                     "id": "pRHeUC3sjcO"
                 },
                 {
-                    "id": "VDfuDVALf0f"
+                    "id": "bCrpRBKKPhA"
                 },
                 {
-                    "id": "bCrpRBKKPhA"
+                    "id": "VDfuDVALf0f"
                 },
                 {
                     "id": "GbqUYVq0NLo"
@@ -640,19 +640,19 @@
                     "id": "ZZiJYBFEJ3v"
                 },
                 {
-                    "id": "cbAQwCbhhoe"
+                    "id": "bD1Z2FmbHKK"
                 },
                 {
-                    "id": "bD1Z2FmbHKK"
+                    "id": "cbAQwCbhhoe"
                 },
                 {
                     "id": "FnadQQyc1dP"
                 },
                 {
-                    "id": "jDitMFtRib4"
+                    "id": "BmxOvSZmatv"
                 },
                 {
-                    "id": "BmxOvSZmatv"
+                    "id": "jDitMFtRib4"
                 },
                 {
                     "id": "Vb6NHYRWTyi"
@@ -676,10 +676,10 @@
                     "id": "eSTkclrbTy5"
                 },
                 {
-                    "id": "KQf9KBm7VW5"
+                    "id": "EHDTSPxpLco"
                 },
                 {
-                    "id": "EHDTSPxpLco"
+                    "id": "KQf9KBm7VW5"
                 },
                 {
                     "id": "JaXPqKA823j"
@@ -788,14 +788,14 @@
                     "value": "البسط فقط (رقم)"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "NAME",
-                    "value": "Фақат рақамловчи (рақам)"
-                },
-                {
                     "locale": "ru",
                     "property": "NAME",
                     "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
                 },
                 {
                     "locale": "ar",
@@ -818,14 +818,14 @@
                     "value": "Kun teller (tall)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "البسط فقط (رقم)"
-                },
-                {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "Pouze čitatel (číslo)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
                 }
             ]
         },
@@ -847,14 +847,14 @@
                     "value": "نسبة"
                 },
                 {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "نسبة"
-                },
-                {
                     "locale": "fr",
                     "property": "NAME",
                     "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
                 },
                 {
                     "locale": "es",
@@ -887,14 +887,14 @@
                     "value": "Por 100"
                 },
                 {
-                    "locale": "ru",
-                    "property": "NAME",
-                    "value": "Процент"
-                },
-                {
                     "locale": "pt_BR",
                     "property": "NAME",
                     "value": "Percentagem"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
                 },
                 {
                     "locale": "ar",
@@ -931,17 +931,12 @@
                     "value": "Četnost (faktor=1)"
                 },
                 {
-                    "locale": "ar_SD",
-                    "property": "NAME",
-                    "value": "معدل (العامل = 1)"
-                },
-                {
                     "locale": "uz",
                     "property": "NAME",
                     "value": "Ставка (омил = 1)"
                 },
                 {
-                    "locale": "ar_EG",
+                    "locale": "ar_SD",
                     "property": "NAME",
                     "value": "معدل (العامل = 1)"
                 },
@@ -949,6 +944,11 @@
                     "locale": "pt",
                     "property": "NAME",
                     "value": "Taxa (fator = 1)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "معدل (العامل = 1)"
                 },
                 {
                     "locale": "uz_UZ",
@@ -4045,125 +4045,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_CARTRIDGE_CLOSING_BAL",
-            "denominator": -1,
-            "denominatorDescription": "1",
-            "description": "Number of GeneXpert Cartridges as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
-            "id": "mDpLYl0sbQd",
-            "indicatorType": {
-                "id": "kHy61PbChXr"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB - GeneXpert cartridges closing balance",
-            "numerator": -1,
-            "numeratorDescription": "GeneXpert cartridges closing bal",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges closing balance",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Bilan de clôture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Bil de fermeture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ru",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Bilan de clôture des cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Nombre de cartouches GeneXpert comme solde de clôture [bilan d'ouverture + Reçu - Émis - Redistribué - écartés] à la fin de la période de déclaration"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_CARTRIDGE_DISCARDED",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -4759,218 +4640,6 @@
         {
             "annualized": false,
             "attributeValues": [],
-            "code": "TB_XPERT_COVERAGE_TIME",
-            "decimals": 0,
-            "denominator": -1,
-            "denominatorDescription": "consumed stock",
-            "id": "Vb6NHYRWTyi",
-            "indicatorType": {
-                "id": "k4RGC3sMTzO"
-            },
-            "legendSets": [
-                {
-                    "id": "f1hWZIYCTzc"
-                }
-            ],
-            "name": "[CONFIG] TB - GeneXpert cartridges stock coverage time",
-            "numerator": -1,
-            "numeratorDescription": "usable stock",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges stock coverage time",
-            "translations": [
-                {
-                    "locale": "ar",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "cs",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "použitelné zásoby"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "stock consommé"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Durée de couverture du stock de cartouches GeneXpert"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "stock utilisable"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "spotřebované zásoby"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "المخزون القابل للاستخدام"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Durée de couverture des stocks de cartouches GeneXpert"
-                },
-                {
-                    "locale": "ar",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "المخزون المستهلك"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "TB_CARTRIDGE_DISCREPANCY",
-            "denominator": -1,
-            "denominatorDescription": "stock on hand",
-            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
-            "id": "KQf9KBm7VW5",
-            "indicatorType": {
-                "id": "hmSnCXmLYwt"
-            },
-            "legendSets": [],
-            "name": "[CONFIG] TB - GeneXpert cartridges stock discrepancy (%)",
-            "numerator": -1,
-            "numeratorDescription": "GeneXpert cartridges stock discrepancy",
-            "sharing": {
-                "external": false,
-                "owner": "vUeLeQMSwhN",
-                "public": "r-------",
-                "userGroups": {
-                    "Hoe8uDSoNfN": {
-                        "access": "r-------",
-                        "id": "Hoe8uDSoNfN"
-                    },
-                    "avefFGBIjq1": {
-                        "access": "rw------",
-                        "id": "avefFGBIjq1"
-                    },
-                    "bHLDx9I0XkE": {
-                        "access": "r-------",
-                        "id": "bHLDx9I0XkE"
-                    }
-                },
-                "users": {}
-            },
-            "shortName": "GeneXpert cartridges stock discrepancy (%)",
-            "translations": [
-                {
-                    "locale": "fr",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "DESCRIPTION",
-                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NUMERATOR_DESCRIPTION",
-                    "value": "Écart de stock de cartouches GeneXpert"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DESCRIPTION",
-                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
-                },
-                {
-                    "locale": "es_US",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "es",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "Écart de stock de cartouches GeneXpert (%)"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "TB - Écart de stock de cartouches GeneXpert (%)"
-                },
-                {
-                    "locale": "cs",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "nb",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                },
-                {
-                    "locale": "pt",
-                    "property": "DENOMINATOR_DESCRIPTION",
-                    "value": "1"
-                }
-            ]
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
             "code": "TB_CARTRIDGE_STOCK_ON_HAND",
             "denominator": -1,
             "denominatorDescription": "1",
@@ -5223,6 +4892,337 @@
                     "locale": "cs",
                     "property": "NAME",
                     "value": "TB - GeneXpert kartridže nejsou skladem dní"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_CARTRIDGE_CLOSING_BAL",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Number of GeneXpert Cartridges as closing balance [Opening balance + Received - Issued - Redistributed - Discarded] at the end of the reporting period",
+            "id": "mDpLYl0sbQd",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB - GeneXpert cartridges closing balance",
+            "numerator": -1,
+            "numeratorDescription": "GeneXpert cartridges closing bal",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges closing balance",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Bilan de clôture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Bil de fermeture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Bilan de clôture des cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre de cartouches GeneXpert comme solde de clôture [bilan d'ouverture + Reçu - Émis - Redistribué - écartés] à la fin de la période de déclaration"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_XPERT_COVERAGE_TIME",
+            "decimals": 0,
+            "denominator": -1,
+            "denominatorDescription": "consumed stock",
+            "id": "Vb6NHYRWTyi",
+            "indicatorType": {
+                "id": "k4RGC3sMTzO"
+            },
+            "legendSets": [
+                {
+                    "id": "f1hWZIYCTzc"
+                }
+            ],
+            "name": "[CONFIG] TB - GeneXpert cartridges stock coverage time",
+            "numerator": -1,
+            "numeratorDescription": "usable stock",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges stock coverage time",
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "použitelné zásoby"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "stock consommé"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Durée de couverture du stock de cartouches GeneXpert"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "stock utilisable"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "spotřebované zásoby"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "المخزون القابل للاستخدام"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Durée de couverture des stocks de cartouches GeneXpert"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "المخزون المستهلك"
+                }
+            ]
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "TB_CARTRIDGE_DISCREPANCY",
+            "denominator": -1,
+            "denominatorDescription": "stock on hand",
+            "description": "Percentage of the item's stock discrepancy [Stock on hand - Closing balance] / Stock on hand",
+            "id": "KQf9KBm7VW5",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] TB - GeneXpert cartridges stock discrepancy (%)",
+            "numerator": -1,
+            "numeratorDescription": "GeneXpert cartridges stock discrepancy",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "Hoe8uDSoNfN": {
+                        "access": "r-------",
+                        "id": "Hoe8uDSoNfN"
+                    },
+                    "avefFGBIjq1": {
+                        "access": "rw------",
+                        "id": "avefFGBIjq1"
+                    },
+                    "bHLDx9I0XkE": {
+                        "access": "r-------",
+                        "id": "bHLDx9I0XkE"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "GeneXpert cartridges stock discrepancy (%)",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Pourcentage d'écart de stock de l'article [Stock disponible - Bilan de clôture] / Stock disponible"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Écart de stock de cartouches GeneXpert"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Procento nesrovnalosti na skladě položky [Skladem – Konečný zůstatek] / Skladem"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Écart de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "TB - Écart de stock de cartouches GeneXpert (%)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
                 }
             ]
         },
@@ -6412,6 +6412,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -6470,6 +6471,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -6639,6 +6641,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -6697,6 +6700,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -6860,6 +6864,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -6918,6 +6923,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -6969,7 +6975,6 @@
         {
             "attributeValues": [],
             "basemap": "bingLight",
-            "description": "",
             "id": "f51qX1C56dW",
             "mapViews": [
                 {
@@ -7082,6 +7087,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -7156,6 +7162,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -7313,6 +7320,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -7387,6 +7395,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -7551,6 +7560,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "startDate": "2019-12-20T00:00:00.000",
                     "subscribed": false,
@@ -7620,6 +7630,7 @@
                         "userGroups": {},
                         "users": {}
                     },
+                    "skipRounding": false,
                     "sortOrder": 0,
                     "subscribed": false,
                     "subscribers": [],
@@ -7666,15 +7677,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "99a70d2",
-        "DHIS2Version": "2.39.2.1",
+        "DHIS2Build": "94310fb",
+        "DHIS2Version": "2.39.4",
         "code": "TB_AGG_STK",
         "description": "TB Stock (dashboard)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20230628T175639",
+        "lastUpdated": "20240104T160122",
         "locale": "en",
-        "name": "TB_AGG_STK_DSH_DHIS2.39.2.1-en",
+        "name": "TB_AGG_STK_DSH_DHIS2.39.4-en",
         "type": "DSH",
         "version": ""
     },
@@ -7684,7 +7695,7 @@
             "code": "TB_AGG_ACCESS",
             "id": "Hoe8uDSoNfN",
             "managedGroups": [],
-            "name": "TB access",
+            "name": "TB HMIS - Access",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7754,7 +7765,7 @@
             "code": "TB_AGG_ADMIN",
             "id": "avefFGBIjq1",
             "managedGroups": [],
-            "name": "TB admin",
+            "name": "TB HMIS - Admin",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7824,7 +7835,7 @@
             "code": "TB_AGG_DATA_CAPTURE",
             "id": "bHLDx9I0XkE",
             "managedGroups": [],
-            "name": "TB data capture",
+            "name": "TB HMIS - Data capture",
             "sharing": {
                 "external": false,
                 "owner": "vUeLeQMSwhN",
@@ -7994,6 +8005,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8021,6 +8033,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8045,6 +8058,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8103,6 +8117,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8149,6 +8164,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8212,6 +8228,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8233,6 +8250,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8291,6 +8309,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8337,6 +8356,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8400,6 +8420,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8421,6 +8442,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8479,6 +8501,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8525,6 +8548,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8552,6 +8576,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8576,6 +8601,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8634,6 +8660,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8680,6 +8707,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8698,7 +8726,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -8708,6 +8735,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8732,6 +8760,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8790,6 +8819,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -8836,6 +8866,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -8890,7 +8921,6 @@
                 }
             ],
             "dataElementGroupSetDimensions": [],
-            "description": "",
             "digitGroupSeparator": "SPACE",
             "displayDensity": "NORMAL",
             "filterDimensions": [
@@ -8900,6 +8930,7 @@
             "fixRowHeaders": false,
             "fontSize": "NORMAL",
             "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
             "hideEmptyRows": false,
             "hideLegend": false,
             "hideSubtitle": false,
@@ -8921,6 +8952,7 @@
             "percentStackedValues": false,
             "periods": [],
             "regression": false,
+            "regressionType": "NONE",
             "relativePeriods": {
                 "biMonthsThisYear": false,
                 "last10FinancialYears": false,
@@ -8979,6 +9011,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9025,6 +9058,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9130,6 +9164,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9176,6 +9211,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9281,6 +9317,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
@@ -9327,6 +9364,7 @@
         {
             "aggregationType": "DEFAULT",
             "attributeValues": [],
+            "axes": [],
             "categoryDimensions": [],
             "categoryOptionGroupSetDimensions": [],
             "colSubTotals": false,
@@ -9432,6 +9470,7 @@
             ],
             "rowSubTotals": false,
             "rowTotals": false,
+            "series": [],
             "seriesKey": {
                 "hidden": false
             },
