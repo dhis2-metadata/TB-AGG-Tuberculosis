@@ -77,11 +77,25 @@ Indicator type is another type of object that can create import conflict because
 
 ### Visualizations using Root Organisation Unit UID
 
-Visualizations, event reports, report tables and maps that are assigned to a specific organisation unit level or organisation unit group, have a reference to the root (level 1) organisation unit. Such objects, if present in the metadata file, contain a placeholder `<OU_ROOT_UID>`. Use the search function in the .json file editor to possibly identify this placeholder and replace it with the UID of the level 1 organisation unit in the target instance.
+Visualizations, report tables, maps, validation rules that reference a specific organisation unit level or organisation unit group, contain placeholders eg. `<OU_ROOT_UID>` or `<OU_LEVEL_FACILITY_UID>`. Use the search function in the .json file editor to identify such placeholders and replace `<OU_ROOT_UID>` with the UID of the level 1 organisation unit in the target instance and `<OU_LEVEL_FACILITY_UID>` with the UID of the facility organisation unit level .
 
 ## Importing metadata
 
 Use [Import/Export](#import_export) DHIS2 app to import metadata packages. It is advisable to use the "dry run" feature to identify issues before attempting to do an actual import of the metadata. If "dry run" reports any issues or conflicts, see the [import conflicts](#handling-import-conflicts) section below. If the "dry run"/"validate" import works without error, attempt to import the metadata. If the import succeeds without any errors, you can proceed to [configuring](#configuration) the module. In some cases, import conflicts or issues are not shown during the "dry run", but appear when the actual import is attempted. In this case, the import summary will list any errors that need to be resolved.
+
+### Updating TB HMIS to version 2.0.0 from previous versions
+
+An update of the TB HMIS package from previous versions is possible with following considerations:
+
+  1. All existing metadata and data have to be backed up prior to the update.
+  2. Existing TB HMIS indicators have to be accessible for reference (in a separate dev instance)
+  3. TB HMIS version 2 package uses reuses a number of metadata objects from the previous package version. While UIDs of the objects remain the same, the metadata objects may have changed: data elements have new names, validation rules have been adapted for the new data sets, indicator numerators and denominators are based on the metadata, visualizations use new indicators. When importing new package into an instance with a previous version of the TB HMIS package, the existing metadata objects will be overwritten.
+  4. TB HMIS version 2.0.0 package contains additional age and sex disaggregations. The data element `tr0lVojK425` **TB - New episodes of TB by age and sex** has been assigned a new Category Combo that contains these additional category option combinations. The data element was reused from the previous version where it had a name **TB - New and relapse TB cases by age and sex**. After importing the new package into an instance with the previous version of TB HMIS, please check the old data sets and use the category option override function and reassign the legacy category combo to this data element.
+  5. When planning to use the legacy data and combine it with the new data to preserve the consistency of notification and outcomes data overtime, it is important to combine legacy data elements and new data elements within the new indicators where possible. Please refer to this [mapping guide](resources/dashboards_1.5.0_vs_2.0.0.xlsx) when aligning old and new data.
+
+### Tracker-to-aggregate data transfer
+
+If you are implementing tracker to aggregate data transfer between TB tracker and TB HMIS packages, please consider that the configuration of such transfer has to be reconfigured based on new guidelines, data element definitions, data element codes, etc.
 
 ### Handling import conflicts
 
@@ -118,7 +132,7 @@ Once all metadata has been successfully imported, there are a few steps that nee
 First, you will have to use the *Sharing* functionality of DHIS2 to configure which users (user groups) should see the metadata and data associated with the program as well as who can register/enter data into the program. By default, sharing has been configured for the following:
 
 - Dashboards
-- Visualizations, maps, event reports and report tables
+- Visualizations, maps, report tables
 - Data sets
 - Category options
 
@@ -151,7 +165,7 @@ Refer to the [DHIS2 Documentation](https://docs.dhis2.org/) for more information
 
 The data sets must be assigned to organisation units within existing hierarchy in order to be accessible via capture app.
 
-### Indicator mapping
+### Indicator mapping (dashboard package)
 
 When implementing the _dashboard package_ only, the indicator numerators and denominators have to be configured using the metadata objects in the existing instance. Configuration information is available in the documentation and the description of numerators and denominators in the metadata file.
 
@@ -159,7 +173,7 @@ When implementing the _dashboard package_ only, the indicator numerators and den
 
 > **NOTE**
 >
-> This section only applies if you are importing into a DHIS2 database where metadata is already present. If you are working in a new DHIS2 instance, please skip this section and go to [Adapting the tracker program](#adapting-the-tracker-program).
+> This section only applies if you are importing into a DHIS2 database where other metadata is already present. If you are working in a new DHIS2 instance, please skip this section and go to [Adapting the tracker program](#adapting-the-tracker-program).
 > If you are using any third party applications that rely on the current metadata, please take into account that this update could "break" their functionality.
 
 Even when metadata has been successfully imported without any import conflicts, there can be duplicates in the metadata - data elements, tracked entity attributes or option sets that already exist. As was noted in the section above on resolving conflict, an important issue to keep in mind is that decisions on making changes to the metadata in DHIS2 also needs to take into account other documents and resources that are in different ways associated with both the existing metadata, and the metadata that has been imported through the configuration package. Resolving duplicates is thus not only a matter of "cleaning up the database", but also making sure that this is done without, for example, breaking potential integrating with other systems, the possibility to use training material, breaking SOPs etc. This will very much be context-dependent.
@@ -179,4 +193,4 @@ However, it is strongly recommended to take great caution if you decide to chang
 
 ## Removing metadata
 
-In order to keep your instance clean and avoid errors, it is recommended that you remove the unnecessary metadata from your instance. Removing unnecessary metadat requires advanced knowledge of DHIS2 and various dependenies.
+In order to keep your instance clean and avoid errors, it is recommended that you remove the unnecessary metadata from your instance. Removing unnecessary metadata requires advanced knowledge of DHIS2 and various dependencies.
