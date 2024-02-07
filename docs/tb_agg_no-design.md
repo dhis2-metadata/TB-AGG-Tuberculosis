@@ -1,4 +1,4 @@
-# TB Notifications and Outcomes System Design Document
+# TB Notifications and Outcomes System Design Document { #tb-agg-no-design }
 
 Version 2.0.0
 
