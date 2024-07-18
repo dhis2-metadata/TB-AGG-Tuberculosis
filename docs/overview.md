@@ -20,3 +20,6 @@
 
 - [Version 1.4.1](https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.39/TB_AGG_COMPLETE_1.4.1_DHIS2.39.xlsx)
 - [Version 1.5.0](https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_COMPLETE_1.5.0_DHIS2.40.xlsx)
+
+## References
+[WHO Consolidated guidance on tuberculosis data generation and use (2024)](https://www.who.int/publications/i/item/9789240075290)
