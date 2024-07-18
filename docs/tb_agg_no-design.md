@@ -5,7 +5,7 @@ Version 2.0.0
 ## Introduction
 
 This document describes the system design for **TB programmes to integrate routine aggregate reporting into the HMIS**. Depending on the local context, this data may be populated by paper-based reporting or by aggregating data from electronic individual-level systems such as DHIS2 Tracker or other tools.
-In particular, the TB aggregate version 2.0.0 aims at outlining the updates made in definitions and data entry forms as a result of the publishing of the Consolidated guidance on tuberculosis data generation and use (the link will be provided upon publication on the WHO website).
+In particular, the TB aggregate version 2.0.0 aims at outlining the updates made in definitions and data entry forms as a result of the publishing of the [2024 Consolidated guidance on tuberculosis data generation and use](https://www.who.int/publications/i/item/9789240075290).
 
 ## Overview
 
